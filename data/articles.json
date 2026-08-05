@@ -1,0 +1,135 @@
+[
+  {
+    "slug": "overseas-chinese-sixty-million",
+    "title": "六千万人的侨务读本：理解中国海外侨民",
+    "subtitle": "从“侨牌”到 diaspora policy，一组数字背后的政策逻辑与张力",
+    "category": "华侨华人",
+    "tags": ["华侨华人", "侨务", "移民"],
+    "country": "全球",
+    "date": "2026-08-05",
+    "readingTime": 7,
+    "featured": true,
+    "summary": "六千万海外侨胞加四千万归侨侨眷，合计上亿人口散布全球。理解这组数字，是理解一种跨国人口治理的复杂工程。",
+    "en": {
+      "title": "China's Sixty Million: A Reader on the Overseas Chinese",
+      "subtitle": "From \"qiao card\" to diaspora policy — the logic and tension behind a set of numbers",
+      "category": "Overseas Chinese",
+      "country": "Worldwide",
+      "summary": "Sixty million overseas Chinese plus forty million returned overseas Chinese and relatives add up to a UK-sized population scattered worldwide. Grasping the figure is to grasp a vast project of transnational population governance."
+    }
+  },
+  {
+    "slug": "qiaopi-diaspora-letters",
+    "title": "侨批：维系一个离散群体的汇款家书",
+    "subtitle": "一张薄薄的信纸，承载着百年海外华侨的家国与生计",
+    "category": "华侨华人",
+    "tags": ["华侨华人", "历史", "移民"],
+    "country": "华南",
+    "date": "2026-08-04",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "侨批把家书与汇款合二为一，从东南亚寄回闽粤乡村，是早期 diaspora 金融的样本，也是离散群体情感延续的纽带。",
+    "en": {
+      "title": "Qiaopi: The Remittance Letters That Sustained a Diaspora",
+      "subtitle": "A thin sheet of paper carrying a century of overseas Chinese livelihood and longing",
+      "category": "Overseas Chinese",
+      "country": "South China",
+      "summary": "Fusing letter and remittance, the qiaopi carried money and word from Southeast Asia back to Fujian and Guangdong — an early specimen of diaspora finance and the emotional sinew of a scattered people."
+    }
+  },
+  {
+    "slug": "vietnam-manufacturing-supply-chain",
+    "title": "越南制造：全球供应链重构下的新机遇",
+    "subtitle": "在中美博弈与产业转移的浪潮中，越南如何承接下一波制造红利",
+    "category": "经济产业",
+    "tags": ["经济产业", "国家观察", "供应链"],
+    "country": "越南",
+    "date": "2026-07-22",
+    "readingTime": 9,
+    "featured": true,
+    "summary": "2026 年，越南以 9800 万人口和年轻劳动力，成为全球制造业转移的首选目的地。本文考察其产业基础、外资结构与瓶颈。",
+    "en": {
+      "title": "Vietnam Manufacturing: New Opportunities Amid Global Supply-Chain Realignment",
+      "subtitle": "How Vietnam captures the next wave of manufacturing amid US–China rivalry and industrial relocation",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "In 2026, with 98 million people and a young workforce, Vietnam became the top destination for global manufacturing relocation. This piece surveys its industrial base, foreign-capital structure, and bottlenecks."
+    }
+  },
+  {
+    "slug": "indonesia-nickel-export-ban",
+    "title": "印尼镍矿出口禁令与全球电动车产业链",
+    "subtitle": "从原矿到电池：雅加达的产业升级野心与代价",
+    "category": "经济产业",
+    "tags": ["经济产业", "地缘政治", "新能源"],
+    "country": "印度尼西亚",
+    "date": "2026-07-15",
+    "readingTime": 11,
+    "featured": true,
+    "summary": "印尼握有全球最大镍储量，出口禁令重塑了电动车电池上游格局，但也引发了外资撤离与环保争议。",
+    "en": {
+      "title": "Indonesia's Nickel Export Ban and the Global EV Battery Chain",
+      "subtitle": "From raw ore to battery: Jakarta's industrial-upgrading ambition and its costs",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "Holding the world's largest nickel reserves, Indonesia's export ban reshaped the EV battery upstream — yet triggered foreign-capital hesitation and environmental disputes."
+    }
+  },
+  {
+    "slug": "mekong-drought-floods",
+    "title": "湄公河的旱涝：气候变化与地缘博弈",
+    "subtitle": "一条跨国河流承载的生态危机与水权之争",
+    "category": "气候变化",
+    "tags": ["气候变化", "地缘政治", "水资源"],
+    "country": "湄公河流域",
+    "date": "2026-07-08",
+    "readingTime": 12,
+    "featured": true,
+    "summary": "上游筑坝、下游干涸——湄公河的旱涝交替，是气候变暖与水电开发叠加的结果，也是六国博弈的缩影。",
+    "en": {
+      "title": "The Mekong's Droughts and Floods: Climate Change and Geopolitics",
+      "subtitle": "A transnational river's ecological crisis and the contest over water rights",
+      "category": "Climate Change",
+      "country": "Mekong Basin",
+      "summary": "Upstream dams, downstream dry spells — the Mekong's alternating droughts and floods are the compound result of warming and hydropower, and a mirror of six-nation contention."
+    }
+  },
+  {
+    "slug": "singapore-small-state-diplomacy",
+    "title": "新加坡：小国的大外交",
+    "subtitle": "在大国之间走钢丝的艺术与边界",
+    "category": "地缘政治",
+    "tags": ["地缘政治", "国家观察"],
+    "country": "新加坡",
+    "date": "2026-06-28",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "从李光耀到第四代领导层，新加坡用外交杠杆撬动远超其体量的国际影响力，其平衡术如何延续？",
+    "en": {
+      "title": "Singapore: A Small State's Big Diplomacy",
+      "subtitle": "The art and limits of walking the tightrope between great powers",
+      "category": "Geopolitics",
+      "country": "Singapore",
+      "summary": "From Lee Kuan Yew to the fourth-generation leadership, Singapore has leveraged diplomacy to punch far above its weight. How long can the balancing act last?"
+    }
+  },
+  {
+    "slug": "philippines-south-china-sea-pivot",
+    "title": "菲律宾南海政策转向观察",
+    "subtitle": "马尼拉在华盛顿与北京之间的钟摆",
+    "category": "地缘政治",
+    "tags": ["地缘政治", "国家观察", "南海"],
+    "country": "菲律宾",
+    "date": "2026-06-20",
+    "readingTime": 10,
+    "featured": false,
+    "summary": "从杜特尔特的亲华到小马科斯的回归美菲同盟，菲律宾南海政策的钟摆，折射出东盟在地缘竞争中的两难。",
+    "en": {
+      "title": "Watching the Philippines' South China Sea Pivot",
+      "subtitle": "Manila's pendulum between Washington and Beijing",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "From Duterte's tilt toward Beijing to Marcos Jr.'s return to the US alliance, Manila's South China Sea pendulum mirrors ASEAN's dilemma amid geopolitical competition."
+    }
+  }
+]

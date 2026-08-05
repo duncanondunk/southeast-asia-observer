@@ -1,0 +1,22 @@
+# WorkBuddy 工作区数据（含记忆，不提交）
+.workbuddy/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 依赖
+node_modules/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 构建输出（本站无构建，预留）
+dist/
+build/
+
+# 日志
+*.log
+.vercel

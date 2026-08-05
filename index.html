@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>东南亚观察 · Southeast Asia Watch</title>
+  <meta name="description" content="东南亚观察——由谢畅独立运营，聚焦地缘政治、经济产业与社会文化，记录一个正在重塑世界的区域。">
+  <meta name="author" content="谢畅 Xie Chang">
+  <meta property="og:title" content="东南亚观察 · Southeast Asia Watch">
+  <meta property="og:description" content="由谢畅独立运营的东南亚地缘政治、经济产业与社会文化观察。">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": "东南亚观察",
+    "alternateName": "Southeast Asia Watch",
+    "author": { "@type": "Person", "name": "谢畅 Xie Chang", "email": "xiechangcn@gmail.com" },
+    "description": "聚焦东南亚地缘政治、经济产业与社会文化的独立观察。",
+    "inLanguage": ["zh-CN", "en"]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container site-header__inner">
+      <a class="brand" href="index.html" aria-label="东南亚观察首页">
+        <span class="brand__mark">SEA</span>
+        <span>
+          <span class="brand__name" data-zh="东南亚观察" data-en="Southeast Asia Watch">东南亚观察</span>
+          <span class="brand__sub">Southeast Asia Watch</span>
+        </span>
+      </a>
+      <nav class="nav" id="nav">
+        <a href="index.html" class="is-active" data-zh="首页" data-en="Home">首页</a>
+        <a href="tags.html" data-zh="标签" data-en="Tags">标签</a>
+        <a href="tags.html?tag=华侨华人" data-zh="华侨华人" data-en="Overseas Chinese">华侨华人</a>
+        <a href="about.html" data-zh="关于" data-en="About">关于</a>
+      </nav>
+      <div class="lang-switch" id="langSwitch">
+        <button type="button" data-lang="zh" class="is-active" aria-label="中文">中</button>
+        <span aria-hidden="true">/</span>
+        <button type="button" data-lang="en" aria-label="English">EN</button>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="切换菜单" aria-expanded="false">☰</button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <div class="hero__head">
+        <div class="hero__eyebrow">Featured · <span data-zh="精选" data-en="Featured">精选</span></div>
+        <h1 class="hero__title" data-zh="观察一个<em>正在重塑世界</em>的区域" data-en="Watching a region that is <em>reshaping the world</em>">观察一个<em>正在重塑世界</em>的区域</h1>
+        <p class="hero__sub" data-zh="地缘博弈 · 经济产业 · 气候与社会 · 国别深读" data-en="Geopolitics · Economy · Climate & Society · Country Briefs">地缘博弈 · 经济产业 · 气候与社会 · 国别深读</p>
+      </div>
+      <div class="carousel" id="carousel">
+        <div class="carousel__viewport">
+          <div class="carousel__track" id="carouselTrack"></div>
+        </div>
+        <button class="carousel__nav carousel__nav--prev" id="carouselPrev" aria-label="上一张">‹</button>
+        <button class="carousel__nav carousel__nav--next" id="carouselNext" aria-label="下一张">›</button>
+        <div class="carousel__dots" id="carouselDots"></div>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <section class="section">
+      <div class="container">
+        <div class="section__head">
+          <h2 class="section__title" data-zh="最新文章" data-en="Latest Articles">最新文章</h2>
+          <a class="section__more" href="tags.html" data-zh="浏览全部 →" data-en="Browse all →">浏览全部 →</a>
+        </div>
+        <div class="cat-grid">
+          <div class="article-list" id="latestList"></div>
+          <aside class="ranking">
+            <h3 class="ranking__title"><span data-zh="最受欢迎" data-en="Most Read">最受欢迎</span> <span>Most Read</span></h3>
+            <div id="rankingList"></div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <div id="categorySections"></div>
+
+    <!-- 作者信息区 -->
+    <section class="author-block">
+      <div class="container">
+        <div class="author-grid">
+          <div class="author__avatar">谢</div>
+          <div class="author__body">
+            <h2 class="author__name">谢畅 <span class="author__en">Xie Chang</span></h2>
+            <div class="author__role" data-zh="暨南大学国际关系学院 硕士 · 深圳职业技术大学 助教" data-en="M.A., School of International Relations, Jinan University · Teaching Assistant, Shenzhen Polytechnic University">暨南大学国际关系学院 硕士 · 深圳职业技术大学 助教</div>
+            <p class="author__bio" data-zh="一个独立运营的区域观察项目，长期跟踪东南亚十一国的政治、经济、社会与生态议题。理解东南亚，是理解未来世界秩序的一把钥匙。" data-en="An independent observation project tracking the politics, economy, society, and ecology of eleven Southeast Asian nations. To understand Southeast Asia is to grasp a key to the future world order.">一个独立运营的区域观察项目，长期跟踪东南亚十一国的政治、经济、社会与生态议题。理解东南亚，是理解未来世界秩序的一把钥匙。</p>
+            <div class="author__cta">
+              <a href="about.html" class="btn btn--ghost" data-zh="了解更多" data-en="Learn more">了解更多</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 订阅区 -->
+    <section class="subscribe">
+      <div class="container">
+        <div class="subscribe__eyebrow">Newsletter</div>
+        <h2 class="subscribe__title" data-zh="每周一封，读懂东南亚" data-en="One email a week. Southeast Asia, decoded.">每周一封，读懂东南亚</h2>
+        <p class="subscribe__desc" data-zh="加入 1,635 位读者，每周精选地缘、经济与产业观察，直达你的收件箱。" data-en="Join 1,635 readers for a weekly digest on geopolitics, economy, and industry — straight to your inbox.">加入 1,635 位读者，每周精选地缘、经济与产业观察，直达你的收件箱。</p>
+        <form class="subscribe__form" id="subscribeForm" novalidate>
+          <input type="email" name="email" placeholder="your@email.com" aria-label="邮箱地址" required>
+          <button type="submit" class="btn btn--gold" data-zh="订阅" data-en="Subscribe">订阅</button>
+        </form>
+        <p id="subscribeMsg" style="margin-top:14px;font-size:.85rem;color:var(--gold);min-height:1em;"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer__brand">
+          <span class="brand__mark">SEA</span>
+          <span class="brand__name" style="color:#e8d9c3">东南亚观察</span>
+          <p class="footer__desc" data-zh="Southeast Asia Watch · 由谢畅独立运营，聚焦一个正在重塑世界的区域。" data-en="Southeast Asia Watch · Run independently by Xie Chang, watching a region that is reshaping the world.">Southeast Asia Watch · 由谢畅独立运营，聚焦一个正在重塑世界的区域。</p>
+        </div>
+        <div class="footer__col">
+          <h4 data-zh="栏目" data-en="Sections">栏目</h4>
+          <ul>
+            <li><a href="index.html" data-zh="最新" data-en="Latest">最新</a></li>
+            <li><a href="tags.html" data-zh="标签" data-en="Tags">标签</a></li>
+            <li><a href="about.html" data-zh="关于" data-en="About">关于</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4 data-zh="主题" data-en="Topics">主题</h4>
+          <ul>
+            <li><a href="tags.html?tag=地缘政治" data-zh="地缘政治" data-en="Geopolitics">地缘政治</a></li>
+            <li><a href="tags.html?tag=经济产业" data-zh="经济产业" data-en="Economy & Industry">经济产业</a></li>
+            <li><a href="tags.html?tag=气候变化" data-zh="气候变化" data-en="Climate Change">气候变化</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4 data-zh="联系" data-en="Contact">联系</h4>
+          <ul>
+            <li><a href="mailto:xiechangcn@gmail.com">xiechangcn@gmail.com</a></li>
+            <li><a href="about.html" data-zh="关于作者" data-en="About the author">关于作者</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 东南亚观察 · Southeast Asia Watch · 谢畅 Xie Chang</span>
+        <span data-zh="独立观察 · 非商业用途" data-en="Independent · Non-commercial">独立观察 · 非商业用途</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js" defer></script>
+  <script src="js/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>标签 · 东南亚观察</title>
+  <meta name="description" content="按主题与国别浏览东南亚观察的全部文章，由谢畅撰写。">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container site-header__inner">
+      <a class="brand" href="index.html" aria-label="东南亚观察首页">
+        <span class="brand__mark">SEA</span>
+        <span>
+          <span class="brand__name" data-zh="东南亚观察" data-en="Southeast Asia Watch">东南亚观察</span>
+          <span class="brand__sub">Southeast Asia Watch</span>
+        </span>
+      </a>
+      <nav class="nav" id="nav">
+        <a href="index.html" data-zh="首页" data-en="Home">首页</a>
+        <a href="tags.html" class="is-active" data-zh="标签" data-en="Tags">标签</a>
+        <a href="tags.html?tag=华侨华人" data-zh="华侨华人" data-en="Overseas Chinese">华侨华人</a>
+        <a href="about.html" data-zh="关于" data-en="About">关于</a>
+      </nav>
+      <div class="lang-switch" id="langSwitch">
+        <button type="button" data-lang="zh" class="is-active" aria-label="中文">中</button>
+        <span aria-hidden="true">/</span>
+        <button type="button" data-lang="en" aria-label="English">EN</button>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="切换菜单" aria-expanded="false">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="tags-hero">
+      <div class="container-narrow">
+        <h1 data-zh="标签与主题" data-en="Tags & Topics">标签与主题</h1>
+        <p data-zh="按议题或国别筛选全部文章" data-en="Filter all articles by theme or country">按议题或国别筛选全部文章</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="tag-cloud" id="tagCloud"></div>
+        <div class="filter-bar" id="filterBar"></div>
+        <div class="grid-list" id="gridList"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <span>© 2026 东南亚观察 · Southeast Asia Watch · 谢畅 Xie Chang</span>
+        <span data-zh="独立观察 · 非商业用途" data-en="Independent · Non-commercial">独立观察 · 非商业用途</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js" defer></script>
+  <script src="js/app.js" defer></script>
+</body>
+</html>

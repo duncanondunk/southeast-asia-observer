@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>文章 · 东南亚观察</title>
+  <meta name="description" content="东南亚观察文章详情，由谢畅撰写。">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container site-header__inner">
+      <a class="brand" href="index.html" aria-label="东南亚观察首页">
+        <span class="brand__mark">SEA</span>
+        <span>
+          <span class="brand__name" data-zh="东南亚观察" data-en="Southeast Asia Watch">东南亚观察</span>
+          <span class="brand__sub">Southeast Asia Watch</span>
+        </span>
+      </a>
+      <nav class="nav" id="nav">
+        <a href="index.html" data-zh="首页" data-en="Home">首页</a>
+        <a href="tags.html" data-zh="标签" data-en="Tags">标签</a>
+        <a href="tags.html?tag=华侨华人" data-zh="华侨华人" data-en="Overseas Chinese">华侨华人</a>
+        <a href="about.html" data-zh="关于" data-en="About">关于</a>
+      </nav>
+      <div class="lang-switch" id="langSwitch">
+        <button type="button" data-lang="zh" class="is-active" aria-label="中文">中</button>
+        <span aria-hidden="true">/</span>
+        <button type="button" data-lang="en" aria-label="English">EN</button>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="切换菜单" aria-expanded="false">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="article-hero">
+      <div class="container-narrow">
+        <div class="article-hero__cat" id="articleCat">分类</div>
+        <h1 class="article-hero__title" id="articleTitle">加载中…</h1>
+        <p class="article-hero__sub" id="articleSub"></p>
+        <div class="article-hero__meta" id="articleMeta"></div>
+      </div>
+    </section>
+
+    <article class="container-narrow" style="display:block;">
+      <div class="article-layout">
+        <aside class="toc" id="toc" aria-label="文章目录">
+          <div class="toc__title" data-zh="目录" data-en="Contents">目录</div>
+          <ul id="tocList"></ul>
+        </aside>
+        <div class="markdown" id="articleBody">
+          <div class="loading" data-zh="正在加载文章内容…" data-en="Loading article…">正在加载文章内容…</div>
+        </div>
+      </div>
+    </article>
+
+    <div class="container-narrow" style="display:block;">
+      <div class="article-foot">
+        <div class="article-tags" id="articleTags"></div>
+        <div class="article-share">
+          <span class="article-share__label" data-zh="分享：" data-en="Share:">分享：</span>
+          <a class="btn btn--ghost" id="shareX" href="#" target="_blank" rel="noopener" style="padding:8px 14px;">X</a>
+          <a class="btn btn--ghost" id="shareFb" href="#" target="_blank" rel="noopener" style="padding:8px 14px;">Facebook</a>
+          <a class="btn btn--ghost" id="shareMail" href="#" style="padding:8px 14px;" data-zh="邮件" data-en="Email">邮件</a>
+          <a class="btn btn--ghost" id="copyLink" href="#" style="padding:8px 14px;cursor:pointer;" data-zh="复制链接" data-en="Copy link">复制链接</a>
+        </div>
+        <div class="post-nav" id="postNav"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <span>© 2026 东南亚观察 · Southeast Asia Watch · 谢畅 Xie Chang</span>
+        <span data-zh="独立观察 · 非商业用途" data-en="Independent · Non-commercial">独立观察 · 非商业用途</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js" defer></script>
+  <script src="js/app.js" defer></script>
+</body>
+</html>

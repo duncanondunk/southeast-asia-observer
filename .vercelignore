@@ -1,0 +1,6 @@
+# Internal tooling / OS cruft — never ship to Vercel
+.workbuddy/
+.DS_Store
+node_modules/
+*.log
+.git/
