@@ -1,5 +1,24 @@
 [
   {
+    "slug": "zheng-he-mosque-surabaya",
+    "title": "郑和清真寺：一张\"中国面孔\"里的离散与归属",
+    "subtitle": "一座飞檐翘角的清真寺，如何成为华侨华人在印尼寻找归属的注脚",
+    "category": "华侨华人",
+    "tags": ["华侨华人", "历史", "文化交流"],
+    "country": "印尼",
+    "date": "2026-08-05",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "印尼泗水的郑和清真寺把中式飞檐、爪哇传统与伊斯兰元素熔于一炉。它不只是一座建筑，更是华侨华人在穆斯林多数国家协商归属的物质论辩。",
+    "en": {
+      "title": "The Mosque with a Chinese Face: Zheng He, Diaspora, and the Architecture of Belonging in Surabaya",
+      "subtitle": "How a fifteenth-century admiral's name became a vocabulary for Chinese-Indonesian coexistence",
+      "category": "Overseas Chinese",
+      "country": "Indonesia",
+      "summary": "Surabaya's Zheng He Mosque fuses Chinese eaves, Javanese tradition, and Islamic worship into a single structure. It is not merely a building but a material argument about how an overseas Chinese minority negotiates belonging in a Muslim-majority nation."
+    }
+  },
+  {
     "slug": "overseas-chinese-sixty-million",
     "title": "六千万人的侨务读本：理解中国海外侨民",
     "subtitle": "从“侨牌”到 diaspora policy，一组数字背后的政策逻辑与张力",
