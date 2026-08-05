@@ -462,6 +462,71 @@
     if (document.readyState !== 'loading') fn();
     else document.addEventListener('DOMContentLoaded', fn);
   }
+  /* ---------- 首页照片轮播（全宽，参考深职大布局） ---------- */
+  function initHeroBanner() {
+    var slides = $$('.hero-banner__slide');
+    var dots = $$('.hero-banner__dot');
+    var prevBtn = $('#bannerPrev');
+    var nextBtn = $('#bannerNext');
+    if (!slides.length) return;
+
+    var current = 0;
+    var timer = null;
+    var INTERVAL = 5000; // 5 秒自动切换
+
+    function goTo(index) {
+      slides[current].classList.remove('is-active');
+      dots[current].classList.remove('is-active');
+      current = (index + slides.length) % slides.length;
+      slides[current].classList.add('is-active');
+      dots[current].classList.add('is-active');
+    }
+
+    function next() { goTo(current + 1); }
+    function prev() { goTo(current - 1); }
+
+    function startAuto() {
+      stopAuto();
+      timer = setInterval(next, INTERVAL);
+    }
+    function stopAuto() {
+      if (timer) { clearInterval(timer); timer = null; }
+    }
+
+    // 箭头按钮
+    if (nextBtn) nextBtn.addEventListener('click', function () { next(); startAuto(); });
+    if (prevBtn) prevBtn.addEventListener('click', function () { prev(); startAuto(); });
+
+    // 指示点
+    dots.forEach(function (dot, i) {
+      dot.addEventListener('click', function () { goTo(i); startAuto(); });
+    });
+
+    // 触摸滑动支持（移动端）
+    var startX = 0;
+    var bannerEl = $('#heroBannerSlides');
+    if (bannerEl) {
+      bannerEl.addEventListener('touchstart', function (e) {
+        startX = e.touches[0].clientX; stopAuto();
+      }, { passive: true });
+      bannerEl.addEventListener('touchend', function (e) {
+        var diff = e.changedTouches[0].clientX - startX;
+        if (Math.abs(diff) > 50) { diff > 0 ? prev() : next(); }
+        startAuto();
+      }, { passive: true });
+    }
+
+    // 鼠标悬停暂停
+    var bannerSection = $('.hero-banner');
+    if (bannerSection) {
+      bannerSection.addEventListener('mouseenter', stopAuto);
+      bannerSection.addEventListener('mouseleave', startAuto);
+    }
+
+    // 启动自动播放
+    startAuto();
+  }
+
   function initPWA() {
     if (!('serviceWorker' in navigator)) return;
     // 仅在安全上下文（https 或 localhost）注册，避免 file:// 直接打开时报错
@@ -481,6 +546,7 @@
     initNavToggle();
     initSubscribe();
     initHome();
+    initHeroBanner();
     initArticle();
     initTags();
     initPWA();
