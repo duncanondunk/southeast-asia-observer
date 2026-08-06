@@ -1,10 +1,38 @@
 [
   {
+    "slug": "letter-to-grandma-indonesia",
+    "title": "从银幕到乡愁：《给阿嬷的情书》如何唤醒印尼老华侨的祖辈记忆",
+    "subtitle": "一部华语电影在印尼与泰国华人社团放映，映照离散群体的代际记忆与文化自愈",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "文化",
+      "印尼",
+      "电影"
+    ],
+    "country": "印尼",
+    "date": "2026-08-06",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "《给阿嬷的情书》在印尼首映、泰国潮州会馆专场放映，老华侨潸然泪下。文章从方言记忆、社团转译与文化自愈三个角度，解读东南亚华人 diaspora 如何借文化产品维系代际与祖籍地的情感连接。",
+    "en": {
+      "title": "From Screen to Nostalgia: How \"Letter to Grandma\" Awakened Ancestral Memory among Indonesian Chinese",
+      "subtitle": "A Chinese-language film screened by diaspora associations in Indonesia and Thailand, illuminating intergenerational memory and cultural self-healing",
+      "category": "Overseas Chinese",
+      "country": "Indonesia",
+      "summary": "When Letter to Grandma premiered in Indonesia and screened via the Teochew Clan Association in Thailand, elderly viewers wept. Through dialect memory, the association as cultural translator, and diaspora self-healing, the piece reads how Southeast Asian Chinese sustain emotional ties across generations and to the ancestral land."
+    }
+  },
+  {
     "slug": "zheng-he-mosque-surabaya",
     "title": "郑和清真寺：一张\"中国面孔\"里的离散与归属",
     "subtitle": "一座飞檐翘角的清真寺，如何成为华侨华人在印尼寻找归属的注脚",
     "category": "华侨华人",
-    "tags": ["华侨华人", "历史", "文化交流"],
+    "tags": [
+      "华侨华人",
+      "历史",
+      "文化交流"
+    ],
     "country": "印尼",
     "date": "2026-08-05",
     "readingTime": 8,
@@ -23,7 +51,11 @@
     "title": "六千万人的侨务读本：理解中国海外侨民",
     "subtitle": "从“侨牌”到 diaspora policy，一组数字背后的政策逻辑与张力",
     "category": "华侨华人",
-    "tags": ["华侨华人", "侨务", "移民"],
+    "tags": [
+      "华侨华人",
+      "侨务",
+      "移民"
+    ],
     "country": "全球",
     "date": "2026-08-05",
     "readingTime": 7,
@@ -42,7 +74,11 @@
     "title": "侨批：维系一个离散群体的汇款家书",
     "subtitle": "一张薄薄的信纸，承载着百年海外华侨的家国与生计",
     "category": "华侨华人",
-    "tags": ["华侨华人", "历史", "移民"],
+    "tags": [
+      "华侨华人",
+      "历史",
+      "移民"
+    ],
     "country": "华南",
     "date": "2026-08-04",
     "readingTime": 6,
@@ -61,7 +97,11 @@
     "title": "越南制造：全球供应链重构下的新机遇",
     "subtitle": "在中美博弈与产业转移的浪潮中，越南如何承接下一波制造红利",
     "category": "经济产业",
-    "tags": ["经济产业", "国家观察", "供应链"],
+    "tags": [
+      "经济产业",
+      "国家观察",
+      "供应链"
+    ],
     "country": "越南",
     "date": "2026-07-22",
     "readingTime": 9,
@@ -80,7 +120,11 @@
     "title": "印尼镍矿出口禁令与全球电动车产业链",
     "subtitle": "从原矿到电池：雅加达的产业升级野心与代价",
     "category": "经济产业",
-    "tags": ["经济产业", "地缘政治", "新能源"],
+    "tags": [
+      "经济产业",
+      "地缘政治",
+      "新能源"
+    ],
     "country": "印度尼西亚",
     "date": "2026-07-15",
     "readingTime": 11,
@@ -99,7 +143,11 @@
     "title": "湄公河的旱涝：气候变化与地缘博弈",
     "subtitle": "一条跨国河流承载的生态危机与水权之争",
     "category": "气候变化",
-    "tags": ["气候变化", "地缘政治", "水资源"],
+    "tags": [
+      "气候变化",
+      "地缘政治",
+      "水资源"
+    ],
     "country": "湄公河流域",
     "date": "2026-07-08",
     "readingTime": 12,
@@ -118,7 +166,10 @@
     "title": "新加坡：小国的大外交",
     "subtitle": "在大国之间走钢丝的艺术与边界",
     "category": "地缘政治",
-    "tags": ["地缘政治", "国家观察"],
+    "tags": [
+      "地缘政治",
+      "国家观察"
+    ],
     "country": "新加坡",
     "date": "2026-06-28",
     "readingTime": 8,
@@ -137,7 +188,11 @@
     "title": "菲律宾南海政策转向观察",
     "subtitle": "马尼拉在华盛顿与北京之间的钟摆",
     "category": "地缘政治",
-    "tags": ["地缘政治", "国家观察", "南海"],
+    "tags": [
+      "地缘政治",
+      "国家观察",
+      "南海"
+    ],
     "country": "菲律宾",
     "date": "2026-06-20",
     "readingTime": 10,
