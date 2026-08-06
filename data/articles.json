@@ -26,7 +26,11 @@
       "country": "Indonesia",
       "summary": "When Letter to Grandma premiered in Indonesia and screened via the Teochew Clan Association in Thailand, elderly viewers wept. Through dialect memory, the association as cultural translator, and diaspora self-healing, the piece reads how Southeast Asian Chinese sustain emotional ties across generations and to the ancestral land.",
       "imageAlt": "An elderly woman wearing a headscarf stands among a crowd in Indonesia."
-    }
+    },
+    "references": [
+      { "source": "China.org.cn", "title": "Beijing exhibition brings 'qiaopi' history to life with 'Dear You' film props", "url": "https://www.china.com.cn/txt/2026-07/27/content_118619963.shtml", "date": "2026-07-27" },
+      { "source": "Our China Story", "title": "From the movie 'Dear You' to overseas Chinese museums in the Greater Bay Area", "url": "https://www.ourchinastory.com/en/amp/16907", "date": "2026-05" }
+    ]
   },
   {
     "slug": "zheng-he-mosque-surabaya",
@@ -54,7 +58,11 @@
       "country": "Indonesia",
       "summary": "Surabaya's Zheng He Mosque fuses Chinese eaves, Javanese tradition, and Islamic worship into a single structure. It is not merely a building but a material argument about how an overseas Chinese minority negotiates belonging in a Muslim-majority nation.",
       "imageAlt": "Interior of the Zheng He Mosque in Surabaya, Indonesia, with a worshipper praying."
-    }
+    },
+    "references": [
+      { "source": "China News Service (中新网)", "title": "一座清真寺里的中国故事——探访印尼泗水郑和清真寺", "url": "https://www.toutiao.com/article/7670106976489538067", "date": "2026-08-04" },
+      { "source": "RRI (Republic of Indonesia Radio)", "title": "Cheng Hoo Mosque in Pandaan Reflects Cultural Acculturation", "url": "https://rri.co.id/en/art-and-culture/2247396/cheng-hoo-mosque-in-pandaan-reflects-cultural-acculturation", "date": "2026" }
+    ]
   },
   {
     "slug": "overseas-chinese-sixty-million",
@@ -82,7 +90,11 @@
       "country": "Worldwide",
       "summary": "Sixty million overseas Chinese plus forty million returned overseas Chinese and relatives add up to a UK-sized population scattered worldwide. Grasping the figure is to grasp a vast project of transnational population governance.",
       "imageAlt": "A Chinatown gate lit by red lanterns and neon lights at night."
-    }
+    },
+    "references": [
+      { "source": "China News Service (via qq.com)", "title": "西日本华侨华人社团联合会走访印尼中华总商会", "url": "https://new.qq.com/rain/a/20260717A08TOZ00?refer=cp_1009", "date": "2026-07-17" },
+      { "source": "The Investor (via China News Service)", "title": "22nd ASEAN Chinese Business Summit Opens in Kunming", "url": "https://vnn.valyrian.tech/posts/2026/06/17/22nd-asean-chinese-business-summit-kunming", "date": "2026-06-17" }
+    ]
   },
   {
     "slug": "qiaopi-diaspora-letters",
@@ -110,7 +122,11 @@
       "country": "South China",
       "summary": "Fusing letter and remittance, the qiaopi carried money and word from Southeast Asia back to Fujian and Guangdong — an early specimen of diaspora finance and the emotional sinew of a scattered people.",
       "imageAlt": "A street vendor in a conical hat pushes a bicycle loaded with fruit in Vietnam."
-    }
+    },
+    "references": [
+      { "source": "China.org.cn", "title": "Beijing exhibition brings 'qiaopi' history to life with 'Dear You' film props", "url": "https://www.china.com.cn/txt/2026-07/27/content_118619963.shtml", "date": "2026-07-27" },
+      { "source": "China Daily", "title": "Historic overseas Chinese remittance letters showcased in Shanghai", "url": "https://ex.chinadaily.com.cn/exchange/partners/70/rss/channel/www/columns/y38633/stories/WS6a28fc23a310d6866eb4d76c.html", "date": "2026-06" }
+    ]
   },
   {
     "slug": "vietnam-manufacturing-supply-chain",
@@ -138,7 +154,12 @@
       "country": "Vietnam",
       "summary": "In 2026, with 98 million people and a young workforce, Vietnam became the top destination for global manufacturing relocation. This piece surveys its industrial base, foreign-capital structure, and bottlenecks.",
       "imageAlt": "Women workers at sewing machines inside a Vietnamese textile factory."
-    }
+    },
+    "references": [
+      { "source": "Ministry of Industry and Trade (Vietnam)", "title": "U.S. trade representative issues final determination in Section 301 investigation covering 60 economies", "url": "https://moit.gov.vn/en/news/u.s.-trade-representative-issues-final-determination-in-section-301-investigation-covering-60-economies.html", "date": "2026-07-24" },
+      { "source": "The Investor", "title": "Vietnam's FDI disbursement hits five-year high in H1", "url": "https://theinvestor.vn/vietnams-fdi-disbursement-hits-five-year-high-in-h1-d19456.html", "date": "2026-07" },
+      { "source": "VnEconomy", "title": "US imposes 12.5% additional tariff on many export items from Vietnam", "url": "https://en.vneconomy.vn/us-imposes-125-additional-tariff-on-many-export-items-from-vietnam.htm", "date": "2026-07-23" }
+    ]
   },
   {
     "slug": "indonesia-nickel-export-ban",
@@ -166,7 +187,11 @@
       "country": "Indonesia",
       "summary": "Holding the world's largest nickel reserves, Indonesia's export ban reshaped the EV battery upstream — yet triggered foreign-capital hesitation and environmental disputes.",
       "imageAlt": "A large yellow mining truck at an open-pit mine in Indonesia."
-    }
+    },
+    "references": [
+      { "source": "China News Service (via qq.com)", "title": "从3.79亿到2.5亿，印尼政策调整牵动全球产业链神经", "url": "https://new.qq.com/rain/a/20260727A06NQK00?refer=cp_1009", "date": "2026-07-27" },
+      { "source": "Dept. of Industry & IT of Heilongjiang", "title": "全球矿产资源本土化进程加速", "url": "https://gxt.hlj.gov.cn/gxt/c106972/202607/c00_31956770.shtml", "date": "2026-07" }
+    ]
   },
   {
     "slug": "mekong-drought-floods",
@@ -194,7 +219,11 @@
       "country": "Mekong Basin",
       "summary": "Upstream dams, downstream dry spells — the Mekong's alternating droughts and floods are the compound result of warming and hydropower, and a mirror of six-nation contention.",
       "imageAlt": "The Mekong River at dusk with a small boat on the water and mountains in the distance."
-    }
+    },
+    "references": [
+      { "source": "Xinhua", "title": "Laos issues heavy rain warning as flood risks mount", "url": "https://english.news.cn/20260804/b5c7ab4664ce44ee8a30494e18ca5678/c.html", "date": "2026-08-04" },
+      { "source": "Thanh Nien", "title": "The Mekong Delta is 'starving' for floods", "url": "https://thanhnien.vn/mien-tay-doi-lu-185260802160842761.htm", "date": "2026-08" }
+    ]
   },
   {
     "slug": "singapore-small-state-diplomacy",
@@ -221,7 +250,11 @@
       "country": "Singapore",
       "summary": "From Lee Kuan Yew to the fourth-generation leadership, Singapore has leveraged diplomacy to punch far above its weight. How long can the balancing act last?",
       "imageAlt": "Singapore Marina Bay at night, with the ArtScience Museum in the foreground and the financial district skyline behind."
-    }
+    },
+    "references": [
+      { "source": "Ministry of Foreign Affairs (Singapore)", "title": "Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Media Wrap-Up Interview at the 59th ASEAN Foreign Ministers' Meeting, Manila", "url": "https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/transcript-of-minister-for-foreign-affairs-dr-vivian-balakrishnan-s-media-wrap-up-interview-at-the-59th-asean-foreign-ministers--meeting-and-related-meetings--manila--the-philippines--23-july-2026", "date": "2026-07-23" },
+      { "source": "The Straits Times (via 163.com)", "title": "US, China not forcing Asean to choose sides: Vivian", "url": "https://www.163.com/game/article/DK3UFFO400318PFH_mobile.html", "date": "2026-07-24" }
+    ]
   },
   {
     "slug": "philippines-south-china-sea-pivot",
@@ -249,6 +282,10 @@
       "country": "Philippines",
       "summary": "From Duterte's tilt toward Beijing to Marcos Jr.'s return to the US alliance, Manila's South China Sea pendulum mirrors ASEAN's dilemma amid geopolitical competition.",
       "imageAlt": "Manila Bay yacht harbor and the Manila city skyline."
-    }
+    },
+    "references": [
+      { "source": "Asia Pacific Insights", "title": "Philippines still seeks diplomatic route over South China Sea conflict", "url": "https://www.asiapacificinsights.com/p/philippines-still-seeks-diplomatic", "date": "2026-08-05" },
+      { "source": "China Daily (Hong Kong)", "title": "Manila's reef provocations condemned", "url": "https://www.chinadailyhk.com/article/636995", "date": "2026-07" }
+    ]
   }
 ]

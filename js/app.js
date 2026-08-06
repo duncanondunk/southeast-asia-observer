@@ -342,6 +342,7 @@
           $$('h2, h3', body).forEach(function (h, i) { h.id = 'sec-' + i; });
           buildToc(body);
           buildPostNav(list, idx);
+          renderReferences(a);
         });
       })
       .catch(function (err) {
@@ -372,6 +373,27 @@
     if (next) html += '<a class="post-nav--next" href="article.html?slug=' + encodeURIComponent(next.slug) + '"><div class="post-nav__dir">' + (LANG === 'en' ? 'Next →' : '下一篇 →') + '</div><div class="post-nav__title">' + escapeHtml(af(next, 'title')) + '</div></a>';
     else html += '<span></span>';
     box.innerHTML = html;
+  }
+
+  function renderReferences(a) {
+    var box = $('#articleRefs');
+    if (!box) return;
+    var refs = a.references;
+    if (!refs || !refs.length) { box.style.display = 'none'; return; }
+    var heading = LANG === 'en' ? 'References' : '参考来源';
+    var note = LANG === 'en'
+      ? 'Authoritative media reports consulted (within the past week where available).'
+      : '本文参考的权威媒体报道（尽可能采用近一周来源）。';
+    var items = refs.map(function (r) {
+      return '<li class="article-refs__item">' +
+        '<a href="' + escapeHtml(r.url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(r.title) + '</a>' +
+        '<span class="article-refs__meta">' + escapeHtml(r.source || '') + (r.date ? ' · ' + escapeHtml(r.date) : '') + '</span>' +
+        '</li>';
+    }).join('');
+    box.innerHTML =
+      '<h2 class="article-refs__title">' + heading + '</h2>' +
+      '<p class="article-refs__note">' + note + '</p>' +
+      '<ul class="article-refs__list">' + items + '</ul>';
   }
 
   function shareLinks(a) {
@@ -636,7 +658,7 @@
     // 仅在安全上下文（https 或 localhost）注册，避免 file:// 直接打开时报错
     if (location.protocol !== 'https:' && location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') return;
     window.addEventListener('load', function () {
-      navigator.serviceWorker.register('./sw.js?v=20260806b').then(function (reg) {
+      navigator.serviceWorker.register('./sw.js?v=20260806c').then(function (reg) {
         console.log('[PWA] Service worker registered:', reg.scope);
       }).catch(function (err) {
         console.warn('[PWA] Service worker registration failed:', err);
