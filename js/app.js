@@ -655,22 +655,18 @@
 
   function initPWA() {
     if (!('serviceWorker' in navigator)) return;
-    // 仅在安全上下文（https 或 localhost）注册，避免 file:// 直接打开时报错
+    // 仅在安全上下文（https 或 localhost）注销，避免 file:// 直接打开时报错
     if (location.protocol !== 'https:' && location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') return;
-    // SW 接管新版本后自动重载一次，避免用户一直停留在旧缓存页面
-    var reloaded = false;
-    navigator.serviceWorker.addEventListener('controllerchange', function () {
-      if (reloaded) return;
-      reloaded = true;
-      location.reload();
+    // 清理旧 Service Worker 与全部缓存：Vercel 在大陆不稳定，旧 SW 的缓存策略
+    // 导致部分用户长期滞留旧页面。新策略是放弃 SW 缓存，所有请求直接走网络。
+    navigator.serviceWorker.getRegistrations().then(function (regs) {
+      regs.forEach(function (r) { r.unregister(); });
     });
-    window.addEventListener('load', function () {
-      navigator.serviceWorker.register('./sw.js?v=20260806e').then(function (reg) {
-        console.log('[PWA] Service worker registered:', reg.scope);
-      }).catch(function (err) {
-        console.warn('[PWA] Service worker registration failed:', err);
+    if (window.caches) {
+      caches.keys().then(function (keys) {
+        keys.forEach(function (k) { caches.delete(k); });
       });
-    });
+    }
   }
 
   ready(function () {

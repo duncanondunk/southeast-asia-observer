@@ -2,6 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <!-- 清理旧 Service Worker 缓存：Vercel 在大陆不稳定，旧缓存会导致用户滞留旧页面 -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function(regs) {
+        regs.forEach(function(r) { r.unregister(); });
+      });
+    }
+    if (window.caches) {
+      caches.keys().then(function(keys) {
+        keys.forEach(function(k) { caches.delete(k); });
+      });
+    }
+  </script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>实时热点 · 东南亚观察</title>
   <meta name="description" content="东南亚观察 · 实时热点：通过 NewsNow 聚合微博、知乎、国际媒体等平台的实时热榜，一站掌握当下议题。">
@@ -9,7 +22,7 @@
   <meta property="og:title" content="实时热点 · Southeast Asia Watch">
   <meta property="og:description" content="实时聚合多平台热榜，一站掌握当下议题。">
   <meta property="og:type" content="website">
-  <link rel="stylesheet" href="css/style.css?v=20260806e">
+  <link rel="stylesheet" href="css/style.css?v=20260806f">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -97,6 +110,6 @@
     </div>
   </footer>
 
-  <script src="js/app.js?v=20260806e" defer></script>
+  <script src="js/app.js?v=20260806f" defer></script>
 </body>
 </html>

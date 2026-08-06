@@ -1,108 +1,27 @@
 /**
- * Service Worker for Southeast Asia Watch
- * 策略：
- *  - 安装时预缓存核心资源（HTML/CSS/JS/图标/manifest）
- *  - 导航请求：网络优先，失败回退缓存首页
- *  - 文章数据（.json/.md）：网络优先 + 缓存兜底
- *  - 同源静态资源：stale-while-revalidate
- *  - 跨域资源（Google Fonts / jsDelivr CDN）：cache-first
- * 更新部署时只需改 CACHE 版本号即可触发刷新。
+ * Service Worker cleanup — 临时禁用缓存，清理旧版本
+ * 原因：Vercel 主站在大陆访问不稳定，旧 SW 的缓存优先/网络优先策略
+ * 导致部分用户浏览器长期滞留旧页面，出现导航、样式与最新代码不一致。
+ * 本 SW 安装后立即删除全部缓存并注销自身，所有请求直接走网络。
  */
-const CACHE = 'sea-watch-v6';
-const CORE = [
-  './',
-  './index.html',
-  './article.html',
-  './tags.html',
-  './about.html',
-  './hot.html',
-  './css/style.css?v=20260806e',
-  './js/app.js?v=20260806e',
-  './manifest.json',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './icons/icon-maskable-512.png',
-  './icons/apple-touch-icon.png',
-  './icons/favicon-32.png'
-];
-
-self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE)
-      .then((cache) => cache.addAll(CORE).catch(() => {}))
-  );
+self.addEventListener('install', function () {
   self.skipWaiting();
 });
 
-self.addEventListener('activate', (event) => {
+self.addEventListener('activate', function (event) {
   event.waitUntil(
-    caches.keys()
-      .then((keys) => Promise.all(
-        keys.filter((k) => k !== CACHE).map((k) => caches.delete(k))
-      ))
-      .then(() => self.clients.claim())
+    caches.keys().then(function (keys) {
+      return Promise.all(keys.map(function (k) { return caches.delete(k); }));
+    }).then(function () {
+      return self.clients.claim();
+    }).then(function () {
+      return self.clients.matchAll({ type: 'window' }).then(function (clients) {
+        clients.forEach(function (c) { c.navigate(c.url); });
+      });
+    })
   );
 });
 
-self.addEventListener('fetch', (event) => {
-  const req = event.request;
-  if (req.method !== 'GET') return;
-
-  const url = new URL(req.url);
-
-  // 跨域资源（CDN / 字体）：cache-first，离线也能用
-  if (url.origin !== self.location.origin) {
-    if (req.mode === 'navigate') return; // 跨域导航不拦截
-    event.respondWith(
-      caches.match(req).then((cached) => {
-        if (cached) return cached;
-        return fetch(req).then((res) => {
-          if (res.ok) {
-            const copy = res.clone();
-            caches.open(CACHE).then((c) => c.put(req, copy));
-          }
-          return res;
-        }).catch(() => cached);
-      })
-    );
-    return;
-  }
-
-  // 页面导航：网络优先，失败回退已缓存页面
-  if (req.mode === 'navigate') {
-    event.respondWith(
-      fetch(req).then((res) => {
-        const copy = res.clone();
-        caches.open(CACHE).then((c) => c.put(req, copy));
-        return res;
-      }).catch(() => caches.match(req).then((c) => c || caches.match('./index.html')))
-    );
-    return;
-  }
-
-  // 文章数据：网络优先 + 缓存兜底（保证内容可更新又能离线读）
-  if (url.pathname.endsWith('.json') || url.pathname.endsWith('.md')) {
-    event.respondWith(
-      fetch(req).then((res) => {
-        const copy = res.clone();
-        caches.open(CACHE).then((c) => c.put(req, copy));
-        return res;
-      }).catch(() => caches.match(req))
-    );
-    return;
-  }
-
-  // 其他同源静态资源：stale-while-revalidate
-  event.respondWith(
-    caches.match(req).then((cached) => {
-      const network = fetch(req).then((res) => {
-        if (res.ok) {
-          const copy = res.clone();
-          caches.open(CACHE).then((c) => c.put(req, copy));
-        }
-        return res;
-      }).catch(() => cached);
-      return cached || network;
-    })
-  );
+self.addEventListener('fetch', function () {
+  // 不拦截任何请求：彻底放弃 SW 缓存，避免再困住用户
 });
