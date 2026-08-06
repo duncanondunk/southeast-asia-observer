@@ -27,8 +27,18 @@
       "imageAlt": "A rider on a Manila street — everyday labor in Southeast Asia's urban economies."
     },
     "references": [
-      { "source": "Lianhe Zaobao", "title": "亲手训练AI后被取代 菲律宾员工叹“像自掘坟墓”", "url": "https://www.zaobao.com.sg/news/sea/story20260805-9475262", "date": "2026-08-05" },
-      { "source": "Lianhe Zaobao", "title": "中东战事推高能源风险 东南亚加速发展太阳能", "url": "https://www.zaobao.com.sg/news/sea/story20260805-9476738", "date": "2026-08-05" }
+      {
+        "source": "Lianhe Zaobao",
+        "title": "亲手训练AI后被取代 菲律宾员工叹“像自掘坟墓”",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260805-9475262",
+        "date": "2026-08-05"
+      },
+      {
+        "source": "Lianhe Zaobao",
+        "title": "中东战事推高能源风险 东南亚加速发展太阳能",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260805-9476738",
+        "date": "2026-08-05"
+      }
     ]
   },
   {
@@ -60,8 +70,18 @@
       "imageAlt": "An elderly woman wearing a headscarf stands among a crowd in Indonesia."
     },
     "references": [
-      { "source": "China.org.cn", "title": "Beijing exhibition brings 'qiaopi' history to life with 'Dear You' film props", "url": "https://www.china.com.cn/txt/2026-07/27/content_118619963.shtml", "date": "2026-07-27" },
-      { "source": "Our China Story", "title": "From the movie 'Dear You' to overseas Chinese museums in the Greater Bay Area", "url": "https://www.ourchinastory.com/en/amp/16907", "date": "2026-05" }
+      {
+        "source": "China.org.cn",
+        "title": "Beijing exhibition brings 'qiaopi' history to life with 'Dear You' film props",
+        "url": "https://www.china.com.cn/txt/2026-07/27/content_118619963.shtml",
+        "date": "2026-07-27"
+      },
+      {
+        "source": "Our China Story",
+        "title": "From the movie 'Dear You' to overseas Chinese museums in the Greater Bay Area",
+        "url": "https://www.ourchinastory.com/en/amp/16907",
+        "date": "2026-05"
+      }
     ]
   },
   {
@@ -92,8 +112,18 @@
       "imageAlt": "Interior of the Zheng He Mosque in Surabaya, Indonesia, with a worshipper praying."
     },
     "references": [
-      { "source": "China News Service (中新网)", "title": "一座清真寺里的中国故事——探访印尼泗水郑和清真寺", "url": "https://www.toutiao.com/article/7670106976489538067", "date": "2026-08-04" },
-      { "source": "RRI (Republic of Indonesia Radio)", "title": "Cheng Hoo Mosque in Pandaan Reflects Cultural Acculturation", "url": "https://rri.co.id/en/art-and-culture/2247396/cheng-hoo-mosque-in-pandaan-reflects-cultural-acculturation", "date": "2026" }
+      {
+        "source": "China News Service (中新网)",
+        "title": "一座清真寺里的中国故事——探访印尼泗水郑和清真寺",
+        "url": "https://www.toutiao.com/article/7670106976489538067",
+        "date": "2026-08-04"
+      },
+      {
+        "source": "RRI (Republic of Indonesia Radio)",
+        "title": "Cheng Hoo Mosque in Pandaan Reflects Cultural Acculturation",
+        "url": "https://rri.co.id/en/art-and-culture/2247396/cheng-hoo-mosque-in-pandaan-reflects-cultural-acculturation",
+        "date": "2026"
+      }
     ]
   },
   {
@@ -124,8 +154,18 @@
       "imageAlt": "A Chinatown gate lit by red lanterns and neon lights at night."
     },
     "references": [
-      { "source": "China News Service (via qq.com)", "title": "西日本华侨华人社团联合会走访印尼中华总商会", "url": "https://new.qq.com/rain/a/20260717A08TOZ00?refer=cp_1009", "date": "2026-07-17" },
-      { "source": "The Investor (via China News Service)", "title": "22nd ASEAN Chinese Business Summit Opens in Kunming", "url": "https://vnn.valyrian.tech/posts/2026/06/17/22nd-asean-chinese-business-summit-kunming", "date": "2026-06-17" }
+      {
+        "source": "China News Service (via qq.com)",
+        "title": "西日本华侨华人社团联合会走访印尼中华总商会",
+        "url": "https://new.qq.com/rain/a/20260717A08TOZ00?refer=cp_1009",
+        "date": "2026-07-17"
+      },
+      {
+        "source": "The Investor (via China News Service)",
+        "title": "22nd ASEAN Chinese Business Summit Opens in Kunming",
+        "url": "https://vnn.valyrian.tech/posts/2026/06/17/22nd-asean-chinese-business-summit-kunming",
+        "date": "2026-06-17"
+      }
     ]
   },
   {
@@ -156,8 +196,18 @@
       "imageAlt": "A street vendor in a conical hat pushes a bicycle loaded with fruit in Vietnam."
     },
     "references": [
-      { "source": "China.org.cn", "title": "Beijing exhibition brings 'qiaopi' history to life with 'Dear You' film props", "url": "https://www.china.com.cn/txt/2026-07/27/content_118619963.shtml", "date": "2026-07-27" },
-      { "source": "China Daily", "title": "Historic overseas Chinese remittance letters showcased in Shanghai", "url": "https://ex.chinadaily.com.cn/exchange/partners/70/rss/channel/www/columns/y38633/stories/WS6a28fc23a310d6866eb4d76c.html", "date": "2026-06" }
+      {
+        "source": "China.org.cn",
+        "title": "Beijing exhibition brings 'qiaopi' history to life with 'Dear You' film props",
+        "url": "https://www.china.com.cn/txt/2026-07/27/content_118619963.shtml",
+        "date": "2026-07-27"
+      },
+      {
+        "source": "China Daily",
+        "title": "Historic overseas Chinese remittance letters showcased in Shanghai",
+        "url": "https://ex.chinadaily.com.cn/exchange/partners/70/rss/channel/www/columns/y38633/stories/WS6a28fc23a310d6866eb4d76c.html",
+        "date": "2026-06"
+      }
     ]
   },
   {
@@ -188,9 +238,24 @@
       "imageAlt": "Women workers at sewing machines inside a Vietnamese textile factory."
     },
     "references": [
-      { "source": "Ministry of Industry and Trade (Vietnam)", "title": "U.S. trade representative issues final determination in Section 301 investigation covering 60 economies", "url": "https://moit.gov.vn/en/news/u.s.-trade-representative-issues-final-determination-in-section-301-investigation-covering-60-economies.html", "date": "2026-07-24" },
-      { "source": "The Investor", "title": "Vietnam's FDI disbursement hits five-year high in H1", "url": "https://theinvestor.vn/vietnams-fdi-disbursement-hits-five-year-high-in-h1-d19456.html", "date": "2026-07" },
-      { "source": "VnEconomy", "title": "US imposes 12.5% additional tariff on many export items from Vietnam", "url": "https://en.vneconomy.vn/us-imposes-125-additional-tariff-on-many-export-items-from-vietnam.htm", "date": "2026-07-23" }
+      {
+        "source": "Ministry of Industry and Trade (Vietnam)",
+        "title": "U.S. trade representative issues final determination in Section 301 investigation covering 60 economies",
+        "url": "https://moit.gov.vn/en/news/u.s.-trade-representative-issues-final-determination-in-section-301-investigation-covering-60-economies.html",
+        "date": "2026-07-24"
+      },
+      {
+        "source": "The Investor",
+        "title": "Vietnam's FDI disbursement hits five-year high in H1",
+        "url": "https://theinvestor.vn/vietnams-fdi-disbursement-hits-five-year-high-in-h1-d19456.html",
+        "date": "2026-07"
+      },
+      {
+        "source": "VnEconomy",
+        "title": "US imposes 12.5% additional tariff on many export items from Vietnam",
+        "url": "https://en.vneconomy.vn/us-imposes-125-additional-tariff-on-many-export-items-from-vietnam.htm",
+        "date": "2026-07-23"
+      }
     ]
   },
   {
@@ -221,8 +286,18 @@
       "imageAlt": "A large yellow mining truck at an open-pit mine in Indonesia."
     },
     "references": [
-      { "source": "China News Service (via qq.com)", "title": "从3.79亿到2.5亿，印尼政策调整牵动全球产业链神经", "url": "https://new.qq.com/rain/a/20260727A06NQK00?refer=cp_1009", "date": "2026-07-27" },
-      { "source": "Dept. of Industry & IT of Heilongjiang", "title": "全球矿产资源本土化进程加速", "url": "https://gxt.hlj.gov.cn/gxt/c106972/202607/c00_31956770.shtml", "date": "2026-07" }
+      {
+        "source": "China News Service (via qq.com)",
+        "title": "从3.79亿到2.5亿，印尼政策调整牵动全球产业链神经",
+        "url": "https://new.qq.com/rain/a/20260727A06NQK00?refer=cp_1009",
+        "date": "2026-07-27"
+      },
+      {
+        "source": "Dept. of Industry & IT of Heilongjiang",
+        "title": "全球矿产资源本土化进程加速",
+        "url": "https://gxt.hlj.gov.cn/gxt/c106972/202607/c00_31956770.shtml",
+        "date": "2026-07"
+      }
     ]
   },
   {
@@ -253,8 +328,18 @@
       "imageAlt": "The Mekong River at dusk with a small boat on the water and mountains in the distance."
     },
     "references": [
-      { "source": "Xinhua", "title": "Laos issues heavy rain warning as flood risks mount", "url": "https://english.news.cn/20260804/b5c7ab4664ce44ee8a30494e18ca5678/c.html", "date": "2026-08-04" },
-      { "source": "Thanh Nien", "title": "The Mekong Delta is 'starving' for floods", "url": "https://thanhnien.vn/mien-tay-doi-lu-185260802160842761.htm", "date": "2026-08" }
+      {
+        "source": "Xinhua",
+        "title": "Laos issues heavy rain warning as flood risks mount",
+        "url": "https://english.news.cn/20260804/b5c7ab4664ce44ee8a30494e18ca5678/c.html",
+        "date": "2026-08-04"
+      },
+      {
+        "source": "Thanh Nien",
+        "title": "The Mekong Delta is 'starving' for floods",
+        "url": "https://thanhnien.vn/mien-tay-doi-lu-185260802160842761.htm",
+        "date": "2026-08"
+      }
     ]
   },
   {
@@ -284,8 +369,18 @@
       "imageAlt": "Singapore Marina Bay at night, with the ArtScience Museum in the foreground and the financial district skyline behind."
     },
     "references": [
-      { "source": "Ministry of Foreign Affairs (Singapore)", "title": "Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Media Wrap-Up Interview at the 59th ASEAN Foreign Ministers' Meeting, Manila", "url": "https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/transcript-of-minister-for-foreign-affairs-dr-vivian-balakrishnan-s-media-wrap-up-interview-at-the-59th-asean-foreign-ministers--meeting-and-related-meetings--manila--the-philippines--23-july-2026", "date": "2026-07-23" },
-      { "source": "The Straits Times (via 163.com)", "title": "US, China not forcing Asean to choose sides: Vivian", "url": "https://www.163.com/game/article/DK3UFFO400318PFH_mobile.html", "date": "2026-07-24" }
+      {
+        "source": "Ministry of Foreign Affairs (Singapore)",
+        "title": "Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Media Wrap-Up Interview at the 59th ASEAN Foreign Ministers' Meeting, Manila",
+        "url": "https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/transcript-of-minister-for-foreign-affairs-dr-vivian-balakrishnan-s-media-wrap-up-interview-at-the-59th-asean-foreign-ministers--meeting-and-related-meetings--manila--the-philippines--23-july-2026",
+        "date": "2026-07-23"
+      },
+      {
+        "source": "The Straits Times (via 163.com)",
+        "title": "US, China not forcing Asean to choose sides: Vivian",
+        "url": "https://www.163.com/game/article/DK3UFFO400318PFH_mobile.html",
+        "date": "2026-07-24"
+      }
     ]
   },
   {
@@ -316,8 +411,18 @@
       "imageAlt": "Manila Bay yacht harbor and the Manila city skyline."
     },
     "references": [
-      { "source": "Asia Pacific Insights", "title": "Philippines still seeks diplomatic route over South China Sea conflict", "url": "https://www.asiapacificinsights.com/p/philippines-still-seeks-diplomatic", "date": "2026-08-05" },
-      { "source": "China Daily (Hong Kong)", "title": "Manila's reef provocations condemned", "url": "https://www.chinadailyhk.com/article/636995", "date": "2026-07" }
+      {
+        "source": "Asia Pacific Insights",
+        "title": "Philippines still seeks diplomatic route over South China Sea conflict",
+        "url": "https://www.asiapacificinsights.com/p/philippines-still-seeks-diplomatic",
+        "date": "2026-08-05"
+      },
+      {
+        "source": "China Daily (Hong Kong)",
+        "title": "Manila's reef provocations condemned",
+        "url": "https://www.chinadailyhk.com/article/636995",
+        "date": "2026-07"
+      }
     ]
   }
 ]
