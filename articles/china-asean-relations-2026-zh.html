@@ -39,7 +39,7 @@
   table{width:100%;border-collapse:collapse;margin:22px 0;font-size:14.5px}
   th,td{border:1px solid var(--line);padding:9px 10px;text-align:center}
   th{background:var(--green);color:#fff;font-weight:600}
-  td:nth-of-type(1),th:nth-of-type(1){text-align:left}
+  .macro-cat{text-align:left}
   .tier-F{color:var(--green);font-weight:600}
   .tier-C{color:var(--terracotta);font-weight:600}
   .pull{float:right;width:240px;margin:8px 0 14px 24px;padding:14px 16px;border-top:3px solid var(--gold);
@@ -81,12 +81,12 @@
   <p>方法改编自清华大学阎学通教授团队的《中外关系定量衡量》。核心思路是把双边关系看作一个连续变量，通过公开可查的外交行为来观测，映射到 −9 到 +9 的量表上，分成三大类六个等级：</p>
 
   <table>
-    <tr><th>大类</th><th>等级</th><th>分值范围</th><th>特征</th></tr>
-    <tr><td rowspan="2">敌对</td><td>对抗</td><td>−9 至 −6</td><td>公开对抗、强制施压</td></tr>
+    <tr><th class="macro-cat">大类</th><th>等级</th><th>分值范围</th><th>特征</th></tr>
+    <tr><td rowspan="2" class="macro-cat">敌对</td><td>对抗</td><td>−9 至 −6</td><td>公开对抗、强制施压</td></tr>
     <tr><td>紧张</td><td>−6 至 −3</td><td>频繁摩擦、相互指责</td></tr>
-    <tr><td rowspan="2">非敌非友</td><td>不和</td><td>−3 至 0</td><td>净负面、低于对抗线</td></tr>
+    <tr><td rowspan="2" class="macro-cat">非敌非友</td><td>不和</td><td>−3 至 0</td><td>净负面、低于对抗线</td></tr>
     <tr><td>普通</td><td>0 至 +3</td><td>中性、交易型</td></tr>
-    <tr><td rowspan="2">友善</td><td>良好</td><td>+3 至 +6</td><td>合作拓展中</td></tr>
+    <tr><td rowspan="2" class="macro-cat">友善</td><td>良好</td><td>+3 至 +6</td><td>合作拓展中</td></tr>
     <tr><td>友好</td><td>+6 至 +9</td><td>紧密、制度化</td></tr>
   </table>
 

@@ -134,29 +134,48 @@
 
     <div id="categorySections"></div>
 
-    <!-- 数据专题：中国—东盟关系月度指数（中英双语） -->
-    <section class="section section--alt">
+        <!-- 数据专题：中国—东盟关系月度指数（语言自适应） -->
+    <section class="section section--alt" id="dataFeature">
       <div class="container">
         <div class="section__head">
           <h2 class="section__title" data-zh="数据专题" data-en="Data Features">数据专题</h2>
-          <a class="section__more" href="articles/china-asean-relations-2026-zh.html" data-zh="阅读中文版 →" data-en="Read in Chinese →">阅读中文版 →</a>
         </div>
         <div class="grid-list">
-          <article class="grid-card">
+          <article class="grid-card" data-lang-card="zh">
             <div class="grid-card__cat" data-zh="量化指数" data-en="Quantitative Index">量化指数</div>
-            <h3 class="grid-card__title"><a href="articles/china-asean-relations-2026-zh.html" data-zh="为关系打分：中国—东盟双边关系月度指数（2026年1—8月）" data-en="Scoring the Bond: A Monthly Index of China–ASEAN Relations (Chinese)">为关系打分：中国—东盟双边关系月度指数（2026年1—8月）</a></h3>
+            <h3 class="grid-card__title"><a href="articles/china-asean-relations-2026-zh.html">为关系打分：中国—东盟双边关系月度指数（2026年1—8月）</a></h3>
             <p class="grid-card__excerpt" data-zh="十国同处友善区间，一国滑入对抗——一份量化视角下的区域裂痕读数。" data-en="Ten partners in the amicable band, one in open confrontation — a quantitative reading of the region's widening split. (Chinese)">十国同处友善区间，一国滑入对抗——一份量化视角下的区域裂痕读数。</p>
             <div class="grid-card__meta"><span data-zh="中文 · 2026年8月6日" data-en="Chinese · Aug 6, 2026">中文 · 2026年8月6日</span><span>11 min</span></div>
           </article>
-          <article class="grid-card">
+          <article class="grid-card" data-lang-card="en" style="display:none">
             <div class="grid-card__cat" data-zh="Quantitative Index" data-en="Quantitative Index">Quantitative Index</div>
-            <h3 class="grid-card__title"><a href="articles/china-asean-relations-2026-en.html" data-zh="Scoring the Bond：中国—东盟月度指数（英文版）" data-en="Scoring the Bond: A Monthly Index of China–ASEAN Relations (Jan–Aug 2026)">Scoring the Bond: A Monthly Index of China–ASEAN Relations (Jan–Aug 2026)</a></h3>
+            <h3 class="grid-card__title"><a href="articles/china-asean-relations-2026-en.html">Scoring the Bond: A Monthly Index of China–ASEAN Relations (Jan–Aug 2026)</a></h3>
             <p class="grid-card__excerpt" data-zh="Ten partners in the amicable band, one in open confrontation — a quantitative reading of the region's widening split.（英文版）" data-en="Ten partners in the amicable band, one in open confrontation — a quantitative reading of the region's widening split.">Ten partners in the amicable band, one in open confrontation — a quantitative reading of the region's widening split.</p>
-            <div class="grid-card__meta"><span data-zh="English · 2026年8月6日" data-en="English · Aug 6, 2026">English · 2026年8月6日</span><span>11 min</span></div>
+            <div class="grid-card__meta"><span data-zh="English · 2026年8月6日" data-en="English · Aug 6, 2026">English · Aug 6, 2026</span><span>11 min</span></div>
           </article>
         </div>
       </div>
     </section>
+    <script>
+      (function(){
+        try {
+          var lang = localStorage.getItem('sea-lang') || 'en';
+          var zhCard = document.querySelector('[data-lang-card="zh"]');
+          var enCard = document.querySelector('[data-lang-card="en"]');
+          if (zhCard && enCard) {
+            zhCard.style.display = (lang === 'zh') ? '' : 'none';
+            enCard.style.display = (lang === 'en') ? '' : 'none';
+          }
+          window.addEventListener('storage', function(e){
+            if (e.key === 'sea-lang' && zhCard && enCard) {
+              var l = e.newValue || 'en';
+              zhCard.style.display = (l === 'zh') ? '' : 'none';
+              enCard.style.display = (l === 'en') ? '' : 'none';
+            }
+          });
+        } catch(e){}
+      })();
+    </script>
 
     <!-- 作者信息区 -->
     <section class="author-block">
