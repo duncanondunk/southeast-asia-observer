@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>标签 · 东南亚观察</title>
   <meta name="description" content="按主题与国别浏览东南亚观察的全部文章，由谢畅撰写。">
-  <link rel="stylesheet" href="css/style.css?v=20260806c">
+  <link rel="stylesheet" href="css/style.css?v=20260806d">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -32,6 +32,7 @@
         <a href="tags.html?tag=华侨华人" data-zh="华侨华人" data-en="Overseas Chinese">华侨华人</a>
         <a href="tags.html?tag=南海" data-zh="南海" data-en="South China Sea">南海</a>
         <a href="tags.html" data-zh="田野观察" data-en="Field Notes">田野观察</a>
+        <a href="hot.html" class="nav__live" data-zh="实时热点" data-en="Trending">实时热点</a>
       </nav>
       <div class="lang-switch" id="langSwitch">
         <button type="button" data-lang="zh" class="is-active" aria-label="中文">中</button>
@@ -50,6 +51,24 @@
       <div class="container-narrow">
         <h1 data-zh="标签与主题" data-en="Tags & Topics">标签与主题</h1>
         <p data-zh="按议题或国别筛选全部文章" data-en="Filter all articles by theme or country">按议题或国别筛选全部文章</p>
+      </div>
+    </section>
+
+    <section class="section newsnow-section">
+      <div class="container">
+        <div class="section__head">
+          <h2 class="section__title" data-zh="实时热点" data-en="Trending Now">实时热点</h2>
+          <a class="section__more" href="hot.html" data-zh="完整实时热点页 →" data-en="Full page →">完整实时热点页 →</a>
+        </div>
+        <div class="newsnow-embed">
+          <div class="newsnow-toolbar">
+            <span class="newsnow-toolbar__src" data-zh="数据来源：NewsNow（ourongxing/newsnow）" data-en="Source: NewsNow (ourongxing/newsnow)">数据来源：NewsNow（ourongxing/newsnow）</span>
+            <a href="https://newsnow.busiyi.world/" target="_blank" rel="noopener" data-zh="在新窗口打开 ↗" data-en="Open ↗">在新窗口打开 ↗</a>
+          </div>
+          <div class="newsnow-frame-wrap" style="height:64vh;min-height:420px;">
+            <iframe src="https://newsnow.busiyi.world/" title="NewsNow 实时热点" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allow="autoplay; clipboard-write"></iframe>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -85,6 +104,6 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js" defer></script>
-  <script src="js/app.js?v=20260806c" defer></script>
+  <script src="js/app.js?v=20260806d" defer></script>
 </body>
 </html>

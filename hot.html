@@ -3,8 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>文章 · 东南亚观察</title>
-  <meta name="description" content="东南亚观察文章详情，由谢畅撰写。">
+  <title>实时热点 · 东南亚观察</title>
+  <meta name="description" content="东南亚观察 · 实时热点：通过 NewsNow 聚合微博、知乎、国际媒体等平台的实时热榜，一站掌握当下议题。">
+  <meta name="author" content="谢畅 Xie Chang">
+  <meta property="og:title" content="实时热点 · Southeast Asia Watch">
+  <meta property="og:description" content="实时聚合多平台热榜，一站掌握当下议题。">
+  <meta property="og:type" content="website">
   <link rel="stylesheet" href="css/style.css?v=20260806d">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
@@ -32,7 +36,7 @@
         <a href="tags.html?tag=华侨华人" data-zh="华侨华人" data-en="Overseas Chinese">华侨华人</a>
         <a href="tags.html?tag=南海" data-zh="南海" data-en="South China Sea">南海</a>
         <a href="tags.html" data-zh="田野观察" data-en="Field Notes">田野观察</a>
-        <a href="hot.html" class="nav__live" data-zh="实时热点" data-en="Trending">实时热点</a>
+        <a href="hot.html" class="nav__live is-active" data-zh="实时热点" data-en="Trending">实时热点</a>
       </nav>
       <div class="lang-switch" id="langSwitch">
         <button type="button" data-lang="zh" class="is-active" aria-label="中文">中</button>
@@ -47,42 +51,29 @@
   </header>
 
   <main>
-    <section class="article-hero">
+    <section class="tags-hero">
       <div class="container-narrow">
-        <div class="article-hero__cat" id="articleCat">分类</div>
-        <h1 class="article-hero__title" id="articleTitle">加载中…</h1>
-        <p class="article-hero__sub" id="articleSub"></p>
-        <div class="article-hero__meta" id="articleMeta"></div>
+        <h1 data-zh="实时热点" data-en="Trending Now">实时热点</h1>
+        <p data-zh="通过 NewsNow 实时聚合微博、知乎、国际媒体等平台热榜，一站掌握当下最热议题。" data-en="Real-time hot lists from Weibo, Zhihu, international media and more — aggregated live via NewsNow.">通过 NewsNow 实时聚合微博、知乎、国际媒体等平台热榜，一站掌握当下最热议题。</p>
       </div>
-      <div class="article-hero__image" id="articleHeroImage"></div>
     </section>
 
-    <article class="container-narrow" style="display:block;">
-      <div class="article-layout">
-        <aside class="toc" id="toc" aria-label="文章目录">
-          <div class="toc__title" data-zh="目录" data-en="Contents">目录</div>
-          <ul id="tocList"></ul>
-        </aside>
-        <div class="markdown" id="articleBody">
-          <div class="loading" data-zh="正在加载文章内容…" data-en="Loading article…">正在加载文章内容…</div>
+    <section class="section newsnow-section">
+      <div class="container">
+        <div class="newsnow-embed">
+          <div class="newsnow-toolbar">
+            <span class="newsnow-toolbar__src" data-zh="数据来源：NewsNow（ourongxing/newsnow，开源实时新闻聚合）" data-en="Source: NewsNow (ourongxing/newsnow, open-source real-time news aggregator)">数据来源：NewsNow（ourongxing/newsnow，开源实时新闻聚合）</span>
+            <a href="https://newsnow.busiyi.world/" target="_blank" rel="noopener" data-zh="在新窗口打开 ↗" data-en="Open in new tab ↗">在新窗口打开 ↗</a>
+          </div>
+          <div class="newsnow-frame-wrap">
+            <iframe src="https://newsnow.busiyi.world/" title="NewsNow 实时热点" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allow="autoplay; clipboard-write"></iframe>
+          </div>
+          <div class="newsnow-note">
+            <span data-zh="内容由 " data-en="Content aggregated by ">内容由 </span><a href="https://github.com/ourongxing/newsnow" target="_blank" rel="noopener">NewsNow</a><span data-zh=" 实时抓取，版权归各原媒体所有；本站仅作聚合展示，不对内容负责。" data-en=" in real time. Copyright belongs to the original publishers; this site only aggregates and is not responsible for the content."> 实时抓取，版权归各原媒体所有；本站仅作聚合展示，不对内容负责。</span>
+          </div>
         </div>
       </div>
-    </article>
-
-    <div class="container-narrow" style="display:block;">
-      <div class="article-foot">
-        <div class="article-tags" id="articleTags"></div>
-        <div class="article-share">
-          <span class="article-share__label" data-zh="分享：" data-en="Share:">分享：</span>
-          <a class="btn btn--ghost" id="shareX" href="#" target="_blank" rel="noopener" style="padding:8px 14px;">X</a>
-          <a class="btn btn--ghost" id="shareFb" href="#" target="_blank" rel="noopener" style="padding:8px 14px;">Facebook</a>
-          <a class="btn btn--ghost" id="shareMail" href="#" style="padding:8px 14px;" data-zh="邮件" data-en="Email">邮件</a>
-          <a class="btn btn--ghost" id="copyLink" href="#" style="padding:8px 14px;cursor:pointer;" data-zh="复制链接" data-en="Copy link">复制链接</a>
-        </div>
-        <div class="post-nav" id="postNav"></div>
-        <section class="article-refs" id="articleRefs" aria-label="参考来源"></section>
-      </div>
-    </div>
+    </section>
   </main>
 
   <footer class="site-footer">
@@ -100,14 +91,12 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <span>© 2026 东南亚观察 · Southeast Asia Watch · 谢畅 Xie Chang</span>
+        <span>© 2026 东南亚观察 · Southeast Asia Watch · <span data-zh="谢畅" data-en="Xie Chang">谢畅</span></span>
         <span data-zh="独立观察 · 非商业用途" data-en="Independent · Non-commercial">独立观察 · 非商业用途</span>
       </div>
     </div>
   </footer>
 
-  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" defer></script>
-  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js" defer></script>
   <script src="js/app.js?v=20260806d" defer></script>
 </body>
 </html>

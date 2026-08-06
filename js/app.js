@@ -658,7 +658,7 @@
     // 仅在安全上下文（https 或 localhost）注册，避免 file:// 直接打开时报错
     if (location.protocol !== 'https:' && location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') return;
     window.addEventListener('load', function () {
-      navigator.serviceWorker.register('./sw.js?v=20260806c').then(function (reg) {
+      navigator.serviceWorker.register('./sw.js?v=20260806d').then(function (reg) {
         console.log('[PWA] Service worker registered:', reg.scope);
       }).catch(function (err) {
         console.warn('[PWA] Service worker registration failed:', err);

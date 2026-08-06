@@ -87,6 +87,22 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
   content: ""; position: absolute; left: 0; right: 0; bottom: -4px;
   height: 2px; background: var(--accent);
 }
+/* 实时热点导航项：脉冲 live 指示点（用 ::before 避开 is-active 下划线 ::after） */
+.nav__live { display: inline-flex; align-items: center; }
+.nav__live::before {
+  content: ""; width: 7px; height: 7px; margin-right: 6px; border-radius: 50%;
+  background: var(--accent); flex: none;
+  box-shadow: 0 0 0 0 rgba(168, 64, 31, 0.5);
+  animation: navPulse 1.8s ease-out infinite;
+}
+@keyframes navPulse {
+  0%   { box-shadow: 0 0 0 0 rgba(168, 64, 31, 0.5); }
+  70%  { box-shadow: 0 0 0 7px rgba(168, 64, 31, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(168, 64, 31, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .nav__live::before { animation: none; }
+}
 .nav-toggle { display: none; background: none; border: 0; cursor: pointer; font-size: 1.3rem; color: var(--text); }
 
 /* ---------- 语言切换 ---------- */
@@ -594,6 +610,38 @@ body.search-open { overflow: hidden; }
 .loading { text-align: center; padding: 60px 0; color: var(--text-mute); }
 .empty { text-align: center; padding: 60px 0; color: var(--text-mute); }
 .empty__emoji { font-size: 2.5rem; margin-bottom: 12px; }
+
+/* ---------- 实时热点 / NewsNow 嵌入 ---------- */
+.newsnow-section { padding-top: 28px; }
+.newsnow-embed {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+.newsnow-toolbar {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-alt);
+  font-size: .82rem; color: var(--text-mute);
+}
+.newsnow-toolbar__src { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.newsnow-toolbar a { color: var(--accent); font-weight: 600; text-decoration: none; white-space: nowrap; }
+.newsnow-toolbar a:hover { text-decoration: underline; }
+.newsnow-frame-wrap {
+  position: relative; width: 100%;
+  height: 78vh; min-height: 520px;
+  background: var(--bg-alt);
+}
+.newsnow-frame-wrap iframe { width: 100%; height: 100%; border: 0; display: block; }
+.newsnow-note {
+  padding: 12px 16px; border-top: 1px solid var(--border);
+  background: var(--bg-alt);
+  font-size: .8rem; color: var(--text-mute); text-align: center;
+}
+.newsnow-note a { color: var(--accent); }
 
 /* ---------- 响应式 ---------- */
 @media (max-width: 900px) {
