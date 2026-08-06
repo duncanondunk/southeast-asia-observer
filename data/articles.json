@@ -1,5 +1,37 @@
 [
   {
+    "slug": "sea-ai-and-energy-shock",
+    "title": "训完AI反被取代，又遇能源震荡：东南亚的“不对称”跃迁",
+    "subtitle": "菲律宾员工亲手训练了取代自己的模型；中东战事推高能源风险，东南亚加速转向太阳能",
+    "category": "经济产业",
+    "tags": [
+      "经济产业",
+      "科技",
+      "能源"
+    ],
+    "country": "东南亚",
+    "date": "2026-08-06",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "菲律宾员工参与训练AI系统后被裁，自叹“像自掘坟墓”；中东战事推高能源风险，东南亚加速转向太阳能。两则新闻共同指向该地区在全球经济中“向上供给、向下承受”的不对称位置。",
+    "image": "images/articles/sea-ai-and-energy-shock.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-06",
+    "imageAlt": "马尼拉街头的骑手，东南亚城市经济中的日常劳动。",
+    "en": {
+      "title": "Training the Replacements: AI Labor and the Energy Shock in Southeast Asia's Lopsided Leap",
+      "subtitle": "Filipino workers who trained the models that replaced them, and economies racing to solar as Gulf energy wavers",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "Filipino workers helped train an AI system and were then laid off; Gulf conflict raises energy risk and Southeast Asia races to solar. Together the two items point to the region's asymmetric position — supplying labor upward, absorbing shocks downward.",
+      "imageAlt": "A rider on a Manila street — everyday labor in Southeast Asia's urban economies."
+    },
+    "references": [
+      { "source": "Lianhe Zaobao", "title": "亲手训练AI后被取代 菲律宾员工叹“像自掘坟墓”", "url": "https://www.zaobao.com.sg/news/sea/story20260805-9475262", "date": "2026-08-05" },
+      { "source": "Lianhe Zaobao", "title": "中东战事推高能源风险 东南亚加速发展太阳能", "url": "https://www.zaobao.com.sg/news/sea/story20260805-9476738", "date": "2026-08-05" }
+    ]
+  },
+  {
     "slug": "letter-to-grandma-indonesia",
     "title": "从银幕到乡愁：《给阿嬷的情书》如何唤醒印尼老华侨的祖辈记忆",
     "subtitle": "一部华语电影在印尼与泰国华人社团放映，映照离散群体的代际记忆与文化自愈",
