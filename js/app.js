@@ -443,6 +443,7 @@
    * ============================================================ */
   function initTags() {
     if (!$('#tagCloud')) return;
+    var currentTag = getQuery('tag');
     loadArticles()
       .then(function (list) {
         var counts = {};
@@ -452,7 +453,8 @@
           return '<a class="tag" href="tags.html?tag=' + encodeURIComponent(t) + '">' + escapeHtml(tagI18n(t)) + '<span class="tag-count">' + counts[t] + '</span></a>';
         }).join('');
         renderFilterBar(tags, list);
-        applyFilter(getQuery('tag'), list);
+        applyFilter(currentTag, list);
+        updateTagsHero(currentTag);
       })
       .catch(function (err) {
         console.error('tags load failed:', err);
@@ -471,10 +473,24 @@
         $$('.tag', bar).forEach(function (b) { b.classList.remove('is-active'); });
         btn.classList.add('is-active');
         applyFilter(btn.dataset.tag, list, tags);
+        updateTagsHero(btn.dataset.tag);
         var newUrl = btn.dataset.tag ? 'tags.html?tag=' + encodeURIComponent(btn.dataset.tag) : 'tags.html';
         history.replaceState(null, '', newUrl);
       });
     });
+  }
+
+  function updateTagsHero(tag) {
+    var title = $('#tagsHeroTitle');
+    var subtitle = $('#tagsHeroSubtitle');
+    if (!title || !tag) return;
+    var label = tagI18n(tag);
+    title.textContent = label;
+    if (subtitle) {
+      subtitle.textContent = LANG === 'en'
+        ? 'Articles tagged with "' + escapeHtml(label) + '"'
+        : '「' + escapeHtml(label) + '」相关文章';
+    }
   }
 
   function applyFilter(tag, list) {
