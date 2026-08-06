@@ -452,7 +452,6 @@
         $('#tagCloud').innerHTML = tags.map(function (t) {
           return '<a class="tag" href="tags.html?tag=' + encodeURIComponent(t) + '">' + escapeHtml(tagI18n(t)) + '<span class="tag-count">' + counts[t] + '</span></a>';
         }).join('');
-        renderFilterBar(tags, list);
         applyFilter(currentTag, list);
         updateTagsHero(currentTag);
       })
@@ -460,24 +459,6 @@
         console.error('tags load failed:', err);
         $('#gridList').innerHTML = '<div class="empty">' + (LANG === 'en' ? 'Load failed' : '加载失败') + '</div>';
       });
-  }
-
-  function renderFilterBar(tags, list) {
-    var bar = $('#filterBar');
-    bar.innerHTML = '<button class="tag is-active" data-tag="">' + (LANG === 'en' ? 'All' : '全部') + '</button>' +
-      tags.map(function (t) {
-        return '<button class="tag" data-tag="' + escapeHtml(t) + '" data-show="' + escapeHtml(tagI18n(t)) + '">' + escapeHtml(tagI18n(t)) + '</button>';
-      }).join('');
-    $$('.tag', bar).forEach(function (btn) {
-      btn.addEventListener('click', function () {
-        $$('.tag', bar).forEach(function (b) { b.classList.remove('is-active'); });
-        btn.classList.add('is-active');
-        applyFilter(btn.dataset.tag, list, tags);
-        updateTagsHero(btn.dataset.tag);
-        var newUrl = btn.dataset.tag ? 'tags.html?tag=' + encodeURIComponent(btn.dataset.tag) : 'tags.html';
-        history.replaceState(null, '', newUrl);
-      });
-    });
   }
 
   function updateTagsHero(tag) {
@@ -510,8 +491,6 @@
         '<div class="grid-card__meta"><span>' + formatDateShort(a.date) + '</span><span>' + readingLabel(a.readingTime || 5) + '</span></div>' +
       '</article>';
     }).join('');
-    var bar = $('#filterBar');
-    $$('.tag', bar).forEach(function (b) { b.classList.toggle('is-active', b.dataset.tag === (tag || '')); });
     $$('#tagCloud .tag').forEach(function (a) {
       var m = /tag=([^&]*)/.exec(a.getAttribute('href') || '');
       a.classList.toggle('tag--accent', m && decodeURIComponent(m[1]) === tag);
