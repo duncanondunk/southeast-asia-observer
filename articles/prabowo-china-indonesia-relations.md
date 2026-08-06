@@ -2,7 +2,7 @@
 
 > 从 5.9 到 6.2 的分值轨迹背后，是经济引力、机制升级与南海暗流的合力。
 
-2024 年 10 月 20 日，普拉博沃·苏比延多在雅加达宣誓就任印度尼西亚第八任总统。一份覆盖 1950 年至 2025 年 8 月的中印尼关系分值表显示，他就任前的 9 月，双边关系分值为 5.9，恰处"良好"等级（3 至 6）的上沿；而到 2025 年 8 月，这一数字已攀升至 6.2，正式跨入"友好"等级（6 至 9）——这是 1950 年两国建交以来的历史最高位。0.3 的增幅看似微小，却对应着一道从未被跨过的质变门槛：中印尼关系在普拉博沃治下进入了一个全新区间。
+2024 年 10 月 20 日，普拉博沃·苏比延多在雅加达宣誓就任印度尼西亚第八任总统。清华大学国际关系研究院发布的《中国与大国关系分值表（1950—2025年8月）》显示，他就任前的 9 月，双边关系分值为 5.9，恰处"良好"等级（3 至 6）的上沿；而到 2025 年 8 月，这一数字已攀升至 6.2，正式跨入"友好"等级（6 至 9）——这是 1950 年两国建交以来的历史最高位。0.3 的增幅看似微小，却对应着一道从未被跨过的质变门槛：中印尼关系在普拉博沃治下进入了一个全新区间。
 
 ## 一、分值轨迹：一道被跨过的门槛
 
@@ -78,7 +78,7 @@
 
 > Behind the trajectory from 5.9 to 6.2 lies the combined force of economic gravity, institutional upgrading, and the undercurrents of the South China Sea.
 
-On 20 October 2024, Prabowo Subianto was sworn in as the eighth President of Indonesia in Jakarta. A score table of China-Indonesia relations spanning 1950 to August 2025 shows that in September, the month before he took office, the bilateral score stood at 5.9 — at the very upper edge of the "good" band (3 to 6). By August 2025, that figure had climbed to 6.2, formally entering the "friendly" band (6 to 9) — the highest reading since diplomatic ties were established in 1950. An increase of 0.3 may seem slight, yet it corresponds to a threshold never before crossed: under Prabowo, China-Indonesia relations have entered entirely new territory.
+On 20 October 2024, Prabowo Subianto was sworn in as the eighth President of Indonesia in Jakarta. Tsinghua University's Institute of International Relations score table, *China's Relations with Major Powers (1950–August 2025)*, shows that in September, the month before he took office, the bilateral score stood at 5.9 — at the very upper edge of the "good" band (3 to 6). By August 2025, that figure had climbed to 6.2, formally entering the "friendly" band (6 to 9) — the highest reading since diplomatic ties were established in 1950. An increase of 0.3 may seem slight, yet it corresponds to a threshold never before crossed: under Prabowo, China-Indonesia relations have entered entirely new territory.
 
 ## I. The Score Trajectory: A Threshold Crossed
 

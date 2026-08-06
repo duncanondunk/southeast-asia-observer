@@ -13,7 +13,7 @@
     "date": "2026-08-06",
     "readingTime": 12,
     "featured": true,
-    "summary": "基于1950至2025年8月中印尼关系分值表，普拉博沃上台以来双边关系分值从5.9升至6.2，跨入“友好”等级并创历史新高。文章从分值轨迹、首访与联演和2+2与高层互访四块基石、经济互补机遇、纳土纳与措辞风波等暗流四个维度，剖析这一高位运行的现象、机遇与挑战。",
+    "summary": "基于清华大学国际关系研究院《中国与大国关系分值表（1950—2025年8月）》，普拉博沃上台以来双边关系分值从5.9升至6.2，跨入“友好”等级并创历史新高。文章从分值轨迹、首访与联演和2+2与高层互访四块基石、经济互补机遇、纳土纳与措辞风波等暗流四个维度，剖析这一高位运行的现象、机遇与挑战。",
     "image": "images/articles/prabowo-china-indonesia-relations.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-06",
@@ -23,19 +23,70 @@
       "subtitle": "Behind the trajectory from 5.9 to 6.2 — economic gravity, institutional upgrading, and South China Sea undercurrents",
       "category": "Geopolitics",
       "country": "Indonesia",
-      "summary": "Based on a China-Indonesia score table spanning 1950 to August 2025, bilateral relations rose from 5.9 to 6.2 under Prabowo, crossing into the \"friendly\" band at a historic high. The piece examines this high plateau across four dimensions: the score trajectory, four cornerstones (first visit, joint drill, 2+2, high-level exchanges), economic complementarity, and undercurrents from Natuna to wording storms.",
+      "summary": "Based on Tsinghua University's Institute of International Relations score table, China's Relations with Major Powers (1950–August 2025), bilateral relations rose from 5.9 to 6.2 under Prabowo, crossing into the \"friendly\" band at a historic high. The piece examines this high plateau across four dimensions: the score trajectory, four cornerstones (first visit, joint drill, 2+2, high-level exchanges), economic complementarity, and undercurrents from Natuna to wording storms.",
       "imageAlt": "Pedestrians walking through a city park among high-rise buildings in Jakarta, Indonesia."
     },
     "references": [
-      { "source": "China Daily", "title": "Prabowo's China trip to boost regional stability", "url": "https://www.chinadaily.com.cn/a/202411/13/WS673403caa310f1265a1cd0d8.html", "date": "2024-11-13" },
-      { "source": "People's Daily Overseas Edition", "title": "中印尼共绘“全球南方”合作新图景", "url": "https://m.people.cn/n4/2025/0426/c23-21618810.html", "date": "2025-04-26" },
-      { "source": "Xinhua", "title": "印尼投资部部长：对中印尼投资合作未来充满信心", "url": "https://www.xinhuanet.com/20260719/5953466e463b485d8289f1a09ab79d7f/c.html", "date": "2026-07-19" },
-      { "source": "China News Service", "title": "王毅会见印尼经济统筹部长艾尔朗加", "url": "https://www.chinanews.com/gn/2026/07-18/10662064.shtml", "date": "2026-07-18" },
-      { "source": "The Jakarta Post", "title": "Indonesia, China agree to bolster ties ahead of ASEAN summit", "url": "https://www.thejakartapost.com/world/2025/05/25/indonesia-china-agree-to-bolster-ties-ahead-of-asean-summit", "date": "2025-05-25" },
-      { "source": "Cabinet Secretariat of Indonesia", "title": "Indonesia, China Serve as Cornerstones for Asia's Stability, President Prabowo Says", "url": "https://setkab.go.id/en/indonesia-china-serve-as-cornerstones-for-asias-stability-president-prabowo-says/", "date": "2025-05-25" },
-      { "source": "Reuters", "title": "Indonesia says Chinese vessel twice driven away after disrupting energy survey", "url": "https://forexbuster.com/indonesia-says-chinese-vessel-twice-driven-away-after-disrupting-energy-survey/", "date": "2024-10-24" },
-      { "source": "CSIS", "title": "Six Months of Prabowo: Indonesia's Diplomatic Charm Offensive", "url": "https://www.csis.org/index%2ephp/blogs/new-perspectives-asia/six-months-prabowo-indonesias-diplomatic-charm-offensive", "date": "2025" },
-      { "source": "Guangming Daily", "title": "中印尼合作：在赤道线上奏响现代化交响曲", "url": "https://news.gmw.cn/2026-05/11/content_38756772.htm", "date": "2026-05-11" }
+      {
+        "source": "清华大学国际关系研究院",
+        "title": "中国与大国关系分值表（1950—2025年8月）",
+        "url": "https://www.tuiir.tsinghua.edu.cn/info/1145/6264.htm",
+        "date": "2025-12-04"
+      },
+      {
+        "source": "China Daily",
+        "title": "Prabowo's China trip to boost regional stability",
+        "url": "https://www.chinadaily.com.cn/a/202411/13/WS673403caa310f1265a1cd0d8.html",
+        "date": "2024-11-13"
+      },
+      {
+        "source": "People's Daily Overseas Edition",
+        "title": "中印尼共绘“全球南方”合作新图景",
+        "url": "https://m.people.cn/n4/2025/0426/c23-21618810.html",
+        "date": "2025-04-26"
+      },
+      {
+        "source": "Xinhua",
+        "title": "印尼投资部部长：对中印尼投资合作未来充满信心",
+        "url": "https://www.xinhuanet.com/20260719/5953466e463b485d8289f1a09ab79d7f/c.html",
+        "date": "2026-07-19"
+      },
+      {
+        "source": "China News Service",
+        "title": "王毅会见印尼经济统筹部长艾尔朗加",
+        "url": "https://www.chinanews.com/gn/2026/07-18/10662064.shtml",
+        "date": "2026-07-18"
+      },
+      {
+        "source": "The Jakarta Post",
+        "title": "Indonesia, China agree to bolster ties ahead of ASEAN summit",
+        "url": "https://www.thejakartapost.com/world/2025/05/25/indonesia-china-agree-to-bolster-ties-ahead-of-asean-summit",
+        "date": "2025-05-25"
+      },
+      {
+        "source": "Cabinet Secretariat of Indonesia",
+        "title": "Indonesia, China Serve as Cornerstones for Asia's Stability, President Prabowo Says",
+        "url": "https://setkab.go.id/en/indonesia-china-serve-as-cornerstones-for-asias-stability-president-prabowo-says/",
+        "date": "2025-05-25"
+      },
+      {
+        "source": "Reuters",
+        "title": "Indonesia says Chinese vessel twice driven away after disrupting energy survey",
+        "url": "https://forexbuster.com/indonesia-says-chinese-vessel-twice-driven-away-after-disrupting-energy-survey/",
+        "date": "2024-10-24"
+      },
+      {
+        "source": "CSIS",
+        "title": "Six Months of Prabowo: Indonesia's Diplomatic Charm Offensive",
+        "url": "https://www.csis.org/index%2ephp/blogs/new-perspectives-asia/six-months-prabowo-indonesias-diplomatic-charm-offensive",
+        "date": "2025"
+      },
+      {
+        "source": "Guangming Daily",
+        "title": "中印尼合作：在赤道线上奏响现代化交响曲",
+        "url": "https://news.gmw.cn/2026-05/11/content_38756772.htm",
+        "date": "2026-05-11"
+      }
     ]
   },
   {
