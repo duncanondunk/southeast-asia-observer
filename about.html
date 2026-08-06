@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>关于 · 东南亚观察</title>
   <meta name="description" content="东南亚观察由谢畅独立运营，长期跟踪东南亚的政治、经济、社会与生态议题。">
-  <link rel="stylesheet" href="css/style.css?v=20260806a">
+  <link rel="stylesheet" href="css/style.css?v=20260806b">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -27,15 +27,20 @@
       </a>
       <nav class="nav" id="nav">
         <a href="index.html" data-zh="首页" data-en="Home">首页</a>
-        <a href="tags.html" data-zh="标签" data-en="Tags">标签</a>
+        <a href="tags.html" data-zh="最新" data-en="Latest">最新</a>
+        <a href="tags.html?tag=国家观察" data-zh="东南亚" data-en="Southeast Asia">东南亚</a>
         <a href="tags.html?tag=华侨华人" data-zh="华侨华人" data-en="Overseas Chinese">华侨华人</a>
-        <a href="about.html" class="is-active" data-zh="关于" data-en="About">关于</a>
+        <a href="tags.html?tag=南海" data-zh="南海" data-en="South China Sea">南海</a>
+        <a href="tags.html" data-zh="田野观察" data-en="Field Notes">田野观察</a>
       </nav>
       <div class="lang-switch" id="langSwitch">
         <button type="button" data-lang="zh" class="is-active" aria-label="中文">中</button>
         <span aria-hidden="true">/</span>
         <button type="button" data-lang="en" aria-label="English">EN</button>
       </div>
+      <button class="search-toggle" id="searchToggle" type="button" aria-label="搜索 / Search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+      </button>
       <button class="nav-toggle" id="navToggle" aria-label="切换菜单" aria-expanded="false">☰</button>
     </div>
   </header>
@@ -125,6 +130,18 @@
 
   <footer class="site-footer">
     <div class="container">
+      <div class="footer-friends">
+        <h4 data-zh="友情链接" data-en="Friend Links">友情链接</h4>
+        <div class="footer-friends__list">
+          <a href="https://sis-aocs.jnu.edu.cn" target="_blank" rel="noopener" data-zh="暨南大学国际关系学院" data-en="JNU School of IR">暨南大学国际关系学院</a>
+          <a href="https://nanyang.xmu.edu.cn" target="_blank" rel="noopener" data-zh="厦门大学东南亚研究中心" data-en="XMU SEA Studies Centre">厦门大学东南亚研究中心</a>
+          <a href="https://sir.sysu.edu.cn/zh-hans" target="_blank" rel="noopener" data-zh="中山大学国际关系学院" data-en="SYSU School of IR">中山大学国际关系学院</a>
+          <a href="https://www.sis.pku.edu.cn" target="_blank" rel="noopener" data-zh="北京大学国际关系学院" data-en="PKU School of IR">北京大学国际关系学院</a>
+          <a href="https://www.bharian.com.my" target="_blank" rel="noopener" data-zh="马来西亚每日新闻" data-en="Berita Harian">马来西亚每日新闻</a>
+          <a href="https://www.zaobao.com" target="_blank" rel="noopener" data-zh="新加坡联合早报" data-en="Lianhe Zaobao">新加坡联合早报</a>
+          <a href="https://www.straitstimes.com" target="_blank" rel="noopener" data-zh="新加坡海峡时报" data-en="The Straits Times">新加坡海峡时报</a>
+        </div>
+      </div>
       <div class="footer-bottom">
         <span>© 2026 东南亚观察 · Southeast Asia Watch · <span data-zh="谢畅" data-en="Xie Chang">谢畅</span></span>
         <span data-zh="独立观察 · 非商业用途" data-en="Independent · Non-commercial">独立观察 · 非商业用途</span>
@@ -132,6 +149,6 @@
     </div>
   </footer>
 
-  <script src="js/app.js?v=20260806a" defer></script>
+  <script src="js/app.js?v=20260806b" defer></script>
 </body>
 </html>

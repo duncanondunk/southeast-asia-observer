@@ -15,12 +15,17 @@
     "readingTime": 7,
     "featured": false,
     "summary": "《给阿嬷的情书》在印尼首映、泰国潮州会馆专场放映，老华侨潸然泪下。文章从方言记忆、社团转译与文化自愈三个角度，解读东南亚华人 diaspora 如何借文化产品维系代际与祖籍地的情感连接。",
+    "image": "images/articles/letter-to-grandma-indonesia.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "印尼街头，一位戴着头巾的老妇人站在人群中。",
     "en": {
       "title": "From Screen to Nostalgia: How \"Letter to Grandma\" Awakened Ancestral Memory among Indonesian Chinese",
       "subtitle": "A Chinese-language film screened by diaspora associations in Indonesia and Thailand, illuminating intergenerational memory and cultural self-healing",
       "category": "Overseas Chinese",
       "country": "Indonesia",
-      "summary": "When Letter to Grandma premiered in Indonesia and screened via the Teochew Clan Association in Thailand, elderly viewers wept. Through dialect memory, the association as cultural translator, and diaspora self-healing, the piece reads how Southeast Asian Chinese sustain emotional ties across generations and to the ancestral land."
+      "summary": "When Letter to Grandma premiered in Indonesia and screened via the Teochew Clan Association in Thailand, elderly viewers wept. Through dialect memory, the association as cultural translator, and diaspora self-healing, the piece reads how Southeast Asian Chinese sustain emotional ties across generations and to the ancestral land.",
+      "imageAlt": "An elderly woman wearing a headscarf stands among a crowd in Indonesia."
     }
   },
   {
@@ -38,12 +43,17 @@
     "readingTime": 8,
     "featured": false,
     "summary": "印尼泗水的郑和清真寺把中式飞檐、爪哇传统与伊斯兰元素熔于一炉。它不只是一座建筑，更是华侨华人在穆斯林多数国家协商归属的物质论辩。",
+    "image": "images/articles/zheng-he-mosque-surabaya.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "印尼泗水郑和清真寺内部，一位信众正在礼拜。",
     "en": {
       "title": "The Mosque with a Chinese Face: Zheng He, Diaspora, and the Architecture of Belonging in Surabaya",
       "subtitle": "How a fifteenth-century admiral's name became a vocabulary for Chinese-Indonesian coexistence",
       "category": "Overseas Chinese",
       "country": "Indonesia",
-      "summary": "Surabaya's Zheng He Mosque fuses Chinese eaves, Javanese tradition, and Islamic worship into a single structure. It is not merely a building but a material argument about how an overseas Chinese minority negotiates belonging in a Muslim-majority nation."
+      "summary": "Surabaya's Zheng He Mosque fuses Chinese eaves, Javanese tradition, and Islamic worship into a single structure. It is not merely a building but a material argument about how an overseas Chinese minority negotiates belonging in a Muslim-majority nation.",
+      "imageAlt": "Interior of the Zheng He Mosque in Surabaya, Indonesia, with a worshipper praying."
     }
   },
   {
@@ -61,12 +71,17 @@
     "readingTime": 7,
     "featured": true,
     "summary": "六千万海外侨胞加四千万归侨侨眷，合计上亿人口散布全球。理解这组数字，是理解一种跨国人口治理的复杂工程。",
+    "image": "images/articles/overseas-chinese-sixty-million.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "夜晚亮起红灯笼与霓虹的唐人街牌楼。",
     "en": {
       "title": "China's Sixty Million: A Reader on the Overseas Chinese",
       "subtitle": "From \"qiao card\" to diaspora policy — the logic and tension behind a set of numbers",
       "category": "Overseas Chinese",
       "country": "Worldwide",
-      "summary": "Sixty million overseas Chinese plus forty million returned overseas Chinese and relatives add up to a UK-sized population scattered worldwide. Grasping the figure is to grasp a vast project of transnational population governance."
+      "summary": "Sixty million overseas Chinese plus forty million returned overseas Chinese and relatives add up to a UK-sized population scattered worldwide. Grasping the figure is to grasp a vast project of transnational population governance.",
+      "imageAlt": "A Chinatown gate lit by red lanterns and neon lights at night."
     }
   },
   {
@@ -84,12 +99,17 @@
     "readingTime": 6,
     "featured": false,
     "summary": "侨批把家书与汇款合二为一，从东南亚寄回闽粤乡村，是早期 diaspora 金融的样本，也是离散群体情感延续的纽带。",
+    "image": "images/articles/qiaopi-diaspora-letters.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "越南街头，一位戴斗笠的摊贩推着满载水果的自行车。",
     "en": {
       "title": "Qiaopi: The Remittance Letters That Sustained a Diaspora",
       "subtitle": "A thin sheet of paper carrying a century of overseas Chinese livelihood and longing",
       "category": "Overseas Chinese",
       "country": "South China",
-      "summary": "Fusing letter and remittance, the qiaopi carried money and word from Southeast Asia back to Fujian and Guangdong — an early specimen of diaspora finance and the emotional sinew of a scattered people."
+      "summary": "Fusing letter and remittance, the qiaopi carried money and word from Southeast Asia back to Fujian and Guangdong — an early specimen of diaspora finance and the emotional sinew of a scattered people.",
+      "imageAlt": "A street vendor in a conical hat pushes a bicycle loaded with fruit in Vietnam."
     }
   },
   {
@@ -107,12 +127,17 @@
     "readingTime": 9,
     "featured": true,
     "summary": "2026 年，越南以 9800 万人口和年轻劳动力，成为全球制造业转移的首选目的地。本文考察其产业基础、外资结构与瓶颈。",
+    "image": "images/articles/vietnam-manufacturing-supply-chain.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "越南一家纺织厂内，女工们在缝纫机前工作。",
     "en": {
       "title": "Vietnam Manufacturing: New Opportunities Amid Global Supply-Chain Realignment",
       "subtitle": "How Vietnam captures the next wave of manufacturing amid US–China rivalry and industrial relocation",
       "category": "Economy & Industry",
       "country": "Vietnam",
-      "summary": "In 2026, with 98 million people and a young workforce, Vietnam became the top destination for global manufacturing relocation. This piece surveys its industrial base, foreign-capital structure, and bottlenecks."
+      "summary": "In 2026, with 98 million people and a young workforce, Vietnam became the top destination for global manufacturing relocation. This piece surveys its industrial base, foreign-capital structure, and bottlenecks.",
+      "imageAlt": "Women workers at sewing machines inside a Vietnamese textile factory."
     }
   },
   {
@@ -130,12 +155,17 @@
     "readingTime": 11,
     "featured": true,
     "summary": "印尼握有全球最大镍储量，出口禁令重塑了电动车电池上游格局，但也引发了外资撤离与环保争议。",
+    "image": "images/articles/indonesia-nickel-export-ban.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "印尼露天矿场内的一辆黄色巨型矿用卡车。",
     "en": {
       "title": "Indonesia's Nickel Export Ban and the Global EV Battery Chain",
       "subtitle": "From raw ore to battery: Jakarta's industrial-upgrading ambition and its costs",
       "category": "Economy & Industry",
       "country": "Indonesia",
-      "summary": "Holding the world's largest nickel reserves, Indonesia's export ban reshaped the EV battery upstream — yet triggered foreign-capital hesitation and environmental disputes."
+      "summary": "Holding the world's largest nickel reserves, Indonesia's export ban reshaped the EV battery upstream — yet triggered foreign-capital hesitation and environmental disputes.",
+      "imageAlt": "A large yellow mining truck at an open-pit mine in Indonesia."
     }
   },
   {
@@ -153,12 +183,17 @@
     "readingTime": 12,
     "featured": true,
     "summary": "上游筑坝、下游干涸——湄公河的旱涝交替，是气候变暖与水电开发叠加的结果，也是六国博弈的缩影。",
+    "image": "images/articles/mekong-drought-floods.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "黄昏时分的湄公河，河面上有一艘小船，远处是连绵山峦。",
     "en": {
       "title": "The Mekong's Droughts and Floods: Climate Change and Geopolitics",
       "subtitle": "A transnational river's ecological crisis and the contest over water rights",
       "category": "Climate Change",
       "country": "Mekong Basin",
-      "summary": "Upstream dams, downstream dry spells — the Mekong's alternating droughts and floods are the compound result of warming and hydropower, and a mirror of six-nation contention."
+      "summary": "Upstream dams, downstream dry spells — the Mekong's alternating droughts and floods are the compound result of warming and hydropower, and a mirror of six-nation contention.",
+      "imageAlt": "The Mekong River at dusk with a small boat on the water and mountains in the distance."
     }
   },
   {
@@ -175,12 +210,17 @@
     "readingTime": 8,
     "featured": false,
     "summary": "从李光耀到第四代领导层，新加坡用外交杠杆撬动远超其体量的国际影响力，其平衡术如何延续？",
+    "image": "images/articles/singapore-small-state-diplomacy.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "新加坡滨海湾夜景，前景为艺术科学博物馆，背景是金融区天际线。",
     "en": {
       "title": "Singapore: A Small State's Big Diplomacy",
       "subtitle": "The art and limits of walking the tightrope between great powers",
       "category": "Geopolitics",
       "country": "Singapore",
-      "summary": "From Lee Kuan Yew to the fourth-generation leadership, Singapore has leveraged diplomacy to punch far above its weight. How long can the balancing act last?"
+      "summary": "From Lee Kuan Yew to the fourth-generation leadership, Singapore has leveraged diplomacy to punch far above its weight. How long can the balancing act last?",
+      "imageAlt": "Singapore Marina Bay at night, with the ArtScience Museum in the foreground and the financial district skyline behind."
     }
   },
   {
@@ -198,12 +238,17 @@
     "readingTime": 10,
     "featured": false,
     "summary": "从杜特尔特的亲华到小马科斯的回归美菲同盟，菲律宾南海政策的钟摆，折射出东盟在地缘竞争中的两难。",
+    "image": "images/articles/philippines-south-china-sea-pivot.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-05",
+    "imageAlt": "马尼拉湾游艇码头与马尼拉城市天际线。",
     "en": {
       "title": "Watching the Philippines' South China Sea Pivot",
       "subtitle": "Manila's pendulum between Washington and Beijing",
       "category": "Geopolitics",
       "country": "Philippines",
-      "summary": "From Duterte's tilt toward Beijing to Marcos Jr.'s return to the US alliance, Manila's South China Sea pendulum mirrors ASEAN's dilemma amid geopolitical competition."
+      "summary": "From Duterte's tilt toward Beijing to Marcos Jr.'s return to the US alliance, Manila's South China Sea pendulum mirrors ASEAN's dilemma amid geopolitical competition.",
+      "imageAlt": "Manila Bay yacht harbor and the Manila city skyline."
     }
   }
 ]

@@ -182,8 +182,9 @@
     }
     var slideClasses = ['slide--a', 'slide--b', 'slide--c'];
     track.innerHTML = featured.map(function (a, i) {
+      var bg = a.image ? ('style="background-image:url(' + escapeHtml(a.image) + ');"') : '';
       return '' +
-        '<div class="slide ' + slideClasses[i % 3] + '">' +
+        '<div class="slide ' + slideClasses[i % 3] + '" ' + bg + '>' +
           '<div class="slide__overlay"></div>' +
           '<div class="slide__content">' +
             '<span class="slide__cat">' + escapeHtml(af(a, 'category')) + '</span>' +
@@ -232,11 +233,13 @@
   }
 
   function articleCardHtml(a, coverSeed) {
-    var coverClass = 'article-card__cover--' + (((coverSeed || 1) - 1) % 5 + 1);
+    var coverClass = a.image ? '' : ('article-card__cover--' + (((coverSeed || 1) - 1) % 5 + 1));
+    var coverImg = a.image ? ('<img class="cover__img" src="' + escapeHtml(a.image) + '" alt="" loading="lazy">') : '';
     var share = shareLinks(a);
     return '' +
       '<article class="article-card">' +
         '<a class="article-card__cover ' + coverClass + '" href="article.html?slug=' + encodeURIComponent(a.slug) + '" aria-label="' + escapeHtml(af(a, 'title')) + '">' +
+          coverImg +
           '<span class="cover__tag">' + escapeHtml(af(a, 'country') || af(a, 'category')) + '</span>' +
         '</a>' +
         '<div class="article-card__body">' +
@@ -320,6 +323,11 @@
           '<span>' + readingLabel(a.readingTime || 5) + '</span><span class="sep">|</span>' +
           '<span>' + escapeHtml(af(a, 'country') || '') + '</span>';
 
+        var heroImg = $('#articleHeroImage');
+        if (heroImg && a.image) {
+          heroImg.innerHTML = '<img src="' + escapeHtml(a.image) + '" alt="' + escapeHtml(af(a, 'imageAlt') || '') + '">';
+        }
+
         var tagsHtml = (a.tags || []).map(function (t) {
           return '<a class="tag" href="tags.html?tag=' + encodeURIComponent(t) + '">' + escapeHtml(tagI18n(t)) + '</a>';
         }).join('');
@@ -330,6 +338,7 @@
         return loadMarkdown(a).then(function (md) {
           var body = $('#articleBody');
           body.innerHTML = renderMarkdown(splitMd(md));
+          if (a.image) insertArticleFigure(body, a);
           $$('h2, h3', body).forEach(function (h, i) { h.id = 'sec-' + i; });
           buildToc(body);
           buildPostNav(list, idx);
@@ -389,6 +398,22 @@
         });
       }
     });
+  }
+
+  function insertArticleFigure(body, a) {
+    var firstP = body.querySelector('p');
+    if (!firstP) return;
+    var fig = document.createElement('figure');
+    fig.className = 'article-figure';
+    var credit = escapeHtml(a.imageCredit || 'Pexels');
+    var accessed = formatDate(a.imageAccessed || a.date);
+    var cap = LANG === 'en'
+      ? ('Image source: ' + credit + '. Accessed ' + accessed + '.')
+      : ('图片来源：' + credit + '，访问时间：' + accessed + '。');
+    fig.innerHTML =
+      '<img src="' + escapeHtml(a.image) + '" alt="' + escapeHtml(af(a, 'imageAlt') || '') + '">' +
+      '<figcaption>' + cap + '</figcaption>';
+    firstP.parentNode.insertBefore(fig, firstP.nextSibling);
   }
 
   /* ============================================================
@@ -527,12 +552,91 @@
     startAuto();
   }
 
+  function initSearch() {
+    var btn = $('#searchToggle');
+    if (!btn) return;
+
+    var modal = document.createElement('div');
+    modal.className = 'search-modal';
+    modal.id = 'searchModal';
+    modal.setAttribute('role', 'dialog');
+    modal.setAttribute('aria-modal', 'true');
+    modal.setAttribute('aria-label', LANG === 'en' ? 'Search' : '搜索');
+    modal.setAttribute('hidden', 'true');
+    modal.innerHTML =
+      '<div class="search-panel">' +
+        '<div class="search-head">' +
+          '<input type="search" class="search-input" id="searchInput" placeholder="' + (LANG === 'en' ? 'Search articles...' : '搜索文章…') + '" autocomplete="off">' +
+          '<button type="button" class="search-close" id="searchClose" aria-label="' + (LANG === 'en' ? 'Close' : '关闭') + '">✕</button>' +
+        '</div>' +
+        '<div class="search-results" id="searchResults"></div>' +
+      '</div>';
+    document.body.appendChild(modal);
+
+    function open() {
+      modal.hidden = false;
+      document.body.classList.add('search-open');
+      setTimeout(function () { var input = $('#searchInput'); if (input) input.focus(); }, 10);
+      renderResults('');
+    }
+    function close() {
+      modal.hidden = true;
+      document.body.classList.remove('search-open');
+      btn.focus();
+    }
+    btn.addEventListener('click', open);
+    $('#searchClose').addEventListener('click', close);
+    modal.addEventListener('click', function (e) { if (e.target === modal) close(); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && !modal.hidden) { e.preventDefault(); close(); }
+      if (e.key === '/' && modal.hidden && document.activeElement && !/input|textarea/i.test(document.activeElement.tagName)) { e.preventDefault(); open(); }
+    });
+
+    var input = $('#searchInput'), debounce;
+    input.addEventListener('input', function () {
+      clearTimeout(debounce);
+      var q = input.value.trim();
+      debounce = setTimeout(function () { renderResults(q); }, 150);
+    });
+
+    function renderResults(q) {
+      var box = $('#searchResults');
+      if (!q) {
+        box.innerHTML = '<p class="search-hint">' + (LANG === 'en' ? 'Type to search titles, summaries, tags, and categories.' : '输入关键词搜索标题、摘要、标签与分类。') + '</p>';
+        return;
+      }
+      box.innerHTML = '<p class="search-hint">' + (LANG === 'en' ? 'Searching…' : '搜索中…') + '</p>';
+      loadArticles().then(function (list) {
+        var ql = q.toLowerCase();
+        var filtered = list.filter(function (a) {
+          var en = a.en || {};
+          var hay = [
+            a.title, a.subtitle, a.summary, a.category, a.country, (a.tags || []).join(' '),
+            en.title, en.subtitle, en.summary, en.category, en.country
+          ].join(' ').toLowerCase();
+          return hay.indexOf(ql) !== -1;
+        });
+        if (!filtered.length) {
+          box.innerHTML = '<p class="search-empty">' + (LANG === 'en' ? 'No articles found.' : '未找到相关文章。') + '</p>';
+          return;
+        }
+        box.innerHTML = filtered.map(function (a) {
+          return '<a class="search-result" href="article.html?slug=' + encodeURIComponent(a.slug) + '">' +
+            '<div class="search-result__cat">' + escapeHtml(af(a, 'category')) + ' · ' + escapeHtml(af(a, 'country') || '') + '</div>' +
+            '<div class="search-result__title">' + escapeHtml(af(a, 'title')) + '</div>' +
+            '<div class="search-result__excerpt">' + escapeHtml(af(a, 'summary') || af(a, 'subtitle') || '') + '</div>' +
+          '</a>';
+        }).join('');
+      });
+    }
+  }
+
   function initPWA() {
     if (!('serviceWorker' in navigator)) return;
     // 仅在安全上下文（https 或 localhost）注册，避免 file:// 直接打开时报错
     if (location.protocol !== 'https:' && location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') return;
     window.addEventListener('load', function () {
-      navigator.serviceWorker.register('./sw.js?v=20260806a').then(function (reg) {
+      navigator.serviceWorker.register('./sw.js?v=20260806b').then(function (reg) {
         console.log('[PWA] Service worker registered:', reg.scope);
       }).catch(function (err) {
         console.warn('[PWA] Service worker registration failed:', err);
@@ -549,6 +653,7 @@
     initHeroBanner();
     initArticle();
     initTags();
+    initSearch();
     initPWA();
   });
 })();
