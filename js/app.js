@@ -657,8 +657,15 @@
     if (!('serviceWorker' in navigator)) return;
     // 仅在安全上下文（https 或 localhost）注册，避免 file:// 直接打开时报错
     if (location.protocol !== 'https:' && location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') return;
+    // SW 接管新版本后自动重载一次，避免用户一直停留在旧缓存页面
+    var reloaded = false;
+    navigator.serviceWorker.addEventListener('controllerchange', function () {
+      if (reloaded) return;
+      reloaded = true;
+      location.reload();
+    });
     window.addEventListener('load', function () {
-      navigator.serviceWorker.register('./sw.js?v=20260806d').then(function (reg) {
+      navigator.serviceWorker.register('./sw.js?v=20260806e').then(function (reg) {
         console.log('[PWA] Service worker registered:', reg.scope);
       }).catch(function (err) {
         console.warn('[PWA] Service worker registration failed:', err);

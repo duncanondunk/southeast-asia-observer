@@ -8,7 +8,7 @@
  *  - 跨域资源（Google Fonts / jsDelivr CDN）：cache-first
  * 更新部署时只需改 CACHE 版本号即可触发刷新。
  */
-const CACHE = 'sea-watch-v5';
+const CACHE = 'sea-watch-v6';
 const CORE = [
   './',
   './index.html',
@@ -16,8 +16,8 @@ const CORE = [
   './tags.html',
   './about.html',
   './hot.html',
-  './css/style.css?v=20260806d',
-  './js/app.js?v=20260806d',
+  './css/style.css?v=20260806e',
+  './js/app.js?v=20260806e',
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
