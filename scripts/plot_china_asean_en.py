@@ -82,13 +82,13 @@ def bands(ax, lo=-9, hi=9, label=True, x0=0.55, x1=None):
             continue
         aa, bb = max(a, lo), min(b, hi)
         ax.add_patch(Rectangle((x0, aa), x1 - x0, bb - aa, facecolor=col,
-                               alpha=.55, edgecolor="none", zorder=0))
+                               alpha=.70, edgecolor="none", zorder=0))
         if label and (bb - aa) > 1.2:
             ax.text(x1 - .06, (aa + bb) / 2, nm, ha="right", va="center",
                     fontproperties=F(11), color="#5a5a5a", alpha=.95, zorder=1)
     for a, b, nm, col in TIERS:
         if lo < a < hi:
-            ax.axhline(a, color="#ffffff", lw=1.1, zorder=1)
+            ax.axhline(a, color="#e0e0e0", lw=1.2, zorder=1)
 
 
 def spread(pairs, gap):
