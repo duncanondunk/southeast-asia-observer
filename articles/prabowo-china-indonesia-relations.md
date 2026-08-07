@@ -18,7 +18,7 @@
 |---------|------|------|------|
 | 1950.04 建交 | 0→1.5 | 普通 | 万隆精神孕育 |
 | 1965.06 高点 | 4.7 | 良好 | 苏加诺时代蜜月 |
-| 1967.06 谷底 | -3.6 | 紧张 | "九三〇事件"后冻结 |
+| 1967.06 骤跌 | -3.6 | 紧张 | "九三〇事件"后冻结 |
 | 1990.08 复交 | -1.8→-0.8 | 不和 | 关系正常化 |
 | 2013 全面战略伙伴 | 5.0 | 良好 | 关系升格 |
 | 2024.09 就职前 | 5.9 | 良好 | 普拉博沃上任前夕 |
@@ -94,7 +94,7 @@ Thaw began in 1985; at the 1990 restoration of ties the score jumped from -1.8 t
 |------|-------|------|-------|
 | 1950.04 Establishment | 0→1.5 | Ordinary | Bandung spirit |
 | 1965.06 Peak | 4.7 | Good | Sukarno honeymoon |
-| 1967.06 Trough | -3.6 | Tense | Frozen after "30 Sept." |
+| 1967.06 Plunge | -3.6 | Tense | Frozen after "30 Sept." |
 | 1990.08 Restoration | -1.8→-0.8 | Discord | Normalization |
 | 2013 Strategic partnership | 5.0 | Good | Upgrade |
 | 2024.09 Pre-inauguration | 5.9 | Good | Eve of Prabowo's term |
