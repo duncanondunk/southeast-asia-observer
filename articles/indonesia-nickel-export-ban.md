@@ -6,7 +6,7 @@
 
 ## 禁令的逻辑：不做原材料供应商
 
-印尼握有全球最大的镍储量——超过 2100 万吨，占世界已探明储量的近四分之一。长久以来，雅加达扮演的是"挖矿—出口"的原材料供应商角色，利润微薄、就业粗糙。
+印尼握有全球最大的镍储量——超过 2100 万吨，占世界已探明储量的近四分之一。长久以来，雅加达扮演的是"挖矿—出口"的原材料供应商角色，利润微薄，且带来的多是低端岗位。
 
 > 佐科政府的判断很简单：与其出口原矿让别人赚深加工的钱，不如把价值链留在国内。
 
@@ -50,11 +50,11 @@ In January 2020, Indonesia formally imposed a ban on raw nickel ore exports. Few
 
 ## The Logic of the Ban: No Longer a Raw-Material Supplier
 
-Indonesia holds the world's largest nickel reserves — over 21 million tonnes, nearly a quarter of proven global reserves. For a long time, Jakarta played the "mine-and-export" role of a raw-material supplier, with thin margins and rough employment.
+Indonesia holds the world's largest nickel reserves — over 21 million tonnes, nearly a quarter of proven global reserves. For a long time, Jakarta played the "mine-and-export" role of a raw-material supplier, on thin margins and in low-skilled jobs.
 
 > The Jokowi government's reasoning was simple: rather than export raw ore and let others capture the deep-processing margins, keep the value chain at home.
 
-The core demand of the ban was to **force foreign capital to build plants on Indonesian soil**, moving smelting, precursors, cathode materials, and even cell assembly to the mine's doorstep. It worked.
+The ban's central purpose was to **force foreign investors to build on Indonesian soil**, moving smelting, precursors, cathode materials, and even cell assembly to the mine's doorstep. It worked.
 
 ## Who Builds: A Chinese-Led Landscape
 
@@ -63,12 +63,12 @@ After the ban took effect, Chinese firms — Tsingshan, CATL, Huayou Cobalt — 
 | Stage | Key Players | Scale |
 |------|----------|----------|
 | Nickel smelting | Tsingshan, Delong | ~2m t/year class |
-| Precursors | CNGR, Huayou | Tens of thousands of tonnes |
+| Precursors | CNGR, Huayou | Hundreds of thousands of tonnes |
 | Cathode / cells | CATL, LG Energy Solution | Nascent |
 
 ## The Cost: Environment and Society in Tension
 
-The flip side of the boom is controversy. Sulawesi's nickel parks have been repeatedly accused by environmental groups of destroying mangroves and marine ecology; a string of smelter labor incidents in 2023 pushed working conditions into the international spotlight.
+The flip side of the boom is controversy. Sulawesi's nickel parks have been repeatedly accused by environmental groups of destroying mangroves and coastal ecosystems; a string of smelter labor incidents in 2023 pushed working conditions into the international spotlight.
 
 **The energy intensity of the RKEF process** — producing a tonne of ferronickel consumes roughly 40 MWh of electricity — makes Indonesia's low-carbon narrative awkward. Jakarta's promised "green nickel" remains, in practice, mostly a slogan.
 

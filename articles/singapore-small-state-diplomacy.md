@@ -10,8 +10,8 @@
 
 这一认知催生了新加坡外交的三条原则：
 
-1. **多边对冲**——同时与中美保持深度经济与安全关系，避免把鸡蛋放在一个篮子。
-2. **规则优先**——在国际事务中强调基于规则秩序，因为规则是小国最大的保护伞。
+1. **多边对冲**——同时与中美保持深度经济与安全关系，不把筹码全押在一边。
+2. **规则优先**——在国际事务中强调基于规则的国际秩序，因为规则是小国最大的保护伞。
 3. **价值输出**——通过新加坡国立大学、香格里拉对话等平台，输出超出体量的"软实力"。
 
 ## 经济外交：深度全球化的样本
@@ -44,7 +44,7 @@
 
 > The art and limits of walking the tightrope between great powers.
 
-Singapore covers 734 square kilometers — less than a twentieth of Beijing — with a population of about six million; it is a city-state in the truest sense. Yet on the world's diplomatic stage, its influence far exceeds its size. This "small state's big diplomacy" is both the legacy of Lee Kuan Yew and the logical necessity of a city-state's survival.
+Singapore covers 734 square kilometers — less than a twentieth of Beijing — with a population of about six million; it is a city-state in the truest sense. Yet on the world's diplomatic stage, its influence far exceeds its size. This "small state's big diplomacy" is both the legacy of Lee Kuan Yew and a necessity dictated by the arithmetic of city-state survival.
 
 ## The Logic Beneath the Tightrope
 
@@ -60,11 +60,11 @@ That premise yields three principles of Singaporean diplomacy:
 
 Singapore is among the world's most open economies, with total trade exceeding three times its GDP. It holds free-trade agreements with every major economy and is a core driver of mega-regional pacts like RCEP and the CPTPP.
 
-> For Singapore, every FTA is an insurance policy: no matter how sour great-power relations get, as long as trade channels remain, the city-state has a way to survive.
+> For Singapore, every FTA is an insurance policy: no matter how sour great-power relations get, as long as trade channels remain, the city-state can still stay afloat.
 
 ## The Balancing Act on Security
 
-On security, Singapore is a close defense partner of the United States — F-15SG fighters and the deployment of littoral combat ships rely on the US system. At the same time, Singapore takes part in China-led bilateral exercises and keeps lines of communication open across both straits.
+On security, Singapore is a close defense partner of the United States — F-15SG fighters and the deployment of littoral combat ships rely on the US system. At the same time, Singapore takes part in China-led bilateral exercises and keeps channels open with both sides of the Taiwan Strait.
 
 The Shangri-La Dialogue, held annually, has become the Asia-Pacific's most important defense forum — itself a textbook case of Singapore trading platforms for influence.
 

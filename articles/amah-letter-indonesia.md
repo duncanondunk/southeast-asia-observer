@@ -16,17 +16,17 @@
 
 要理解一个印尼华人家庭为什么要等着一部电影"轮到自己"，得回想：印尼的华人并不是简单地"漂离"了传统。从上世纪60年代中期到90年代末约三十年间，苏哈托时代的政权禁止公开使用华文、关闭华校、将华人文化生活公开表达定为犯罪。一整代人长大，读不懂祖父母写下的汉字，也跟不上父母记得的方言广播。
 
-这正是陈美专的生平为何如此有说服力。她属于在关闭之前"接收"到完整华文教育的那一代——从幼儿园到高中的华校——因此至今把语言当成肌肉记忆带着。沉默落在她之后的人头上：正如报道温和地写道，那些孩子"渐渐听不懂祖辈的乡音"。记忆不是被抛弃，而是被政策打断。
+这正是陈美专的生平为何如此有说服力。她属于在关闭之前"接受"到完整华文教育的那一代——从幼儿园到高中的华校——因此至今把语言当成肌肉记忆带着。沉默落在她之后的人头上：正如报道温和地写道，那些孩子"渐渐听不懂祖辈的乡音"。记忆不是被抛弃，而是被政策打断。
 
 研究离散的学者早就区分了"遗忘"与"沉默"。遗忘是有机的，是无人温习之物的缓慢风化；沉默是结构性的——因为发声的代价太高，记忆被压制。印尼的华人社群，在一代人时间里活的是第二种状态。外人看来像同化，对许多家庭而言，却是一种自我保护式的退却。
 
 ## 电影作为"记忆技术"
 
-这部纪录片在此做了一件安静但政治的事。它不组织抗议，它组织一场"重聚"——一位祖母与一种语言、年轻观众与一段从未被正式教过的历史之间的重聚。在这个意义上，这部电影发挥着我们不妨称为"记忆技术"的功能：当那些曾经承担这一工作的机构（学校、会馆、报纸）被拆除后，它是一件把社群重新接回自身过去的物质 artifact。
+这部纪录片在此做了一件安静但政治的事。它不组织抗议，它组织一场"重聚"——一位祖母与一种语言、年轻观众与一段从未被正式教过的历史之间的重聚。在这个意义上，这部电影发挥着我们不妨称为"记忆技术"的功能：当那些曾经承担这一工作的机构（学校、会馆、报纸）被拆除后，它是一件把社群重新接回自身过去的物质载体。
 
 片名里的"给阿嬷的情书"有双重共鸣。一层，它呼应"侨批"传统——那套维系海外华人与故乡村落逾百年的跨国家书与侨汇，2013年被联合国教科文组织列入《世界记忆名录》。陈美专父亲的密语家书，正是这一传统的直系后裔。另一层，"情书"是电影本身：一封朝时间上游寄出的信，写给背着记忆的祖母们，也写给了弄丢了钥匙的孙辈。
 
-影片先抵马来西亚、新加坡，后到印尼，并非发行上的偶然，而是后殖民轨迹的分歧。在新加坡，华文与文化被织进国家认同；在马来西亚，一套强韧的母语学校体系在压力下保住了华文教育；印尼摧毁了这套基础设施，直到改革浪潮过去四分之一个世纪，才重新开始打开文化档案。错峰上映，正是这个地区记忆恢复之"错峰"的缩影。
+影片先抵马来西亚、新加坡，后到印尼，并非发行上的偶然，而是后殖民轨迹的分歧。在新加坡，华文与文化被织进国家认同；在马来西亚，一套强韧的母语学校体系在压力下保住了华文教育；印尼摧毁了这套基础设施，直到改革浪潮过去四分之一个世纪，才重新开始打开文化档案。上映时间的先后，正是这个地区记忆复苏节奏的缩影。
 
 ## 一场放映的局限
 
@@ -36,7 +36,7 @@
 
 ## 一个克制的读法
 
-对于一个观察东南亚而非鼓吹的博客，教训朴素却持久：印尼的华人离散不是固定量——既非最终"同化"，也非最终"保存"，而是一场持续协商中的记忆，时而受压、时而恢复；而眼下这轮恢复，领头的不是国家，而是文化：一部电影、一种方言、一封信。
+对于一个观察东南亚而非鼓吹的博客，教训朴素却持久：印尼华人的离散状态，从来不是一个定数——既非最终"同化"，也非最终"保存"，而是一场持续协商中的记忆，时而受压、时而恢复；而眼下这轮恢复，领头的不是国家，而是文化：一部电影、一种方言、一封信。
 
 那位在字幕走完后仍坐在座位上的八十二岁老人，不是逝去过去的遗物。她是证据——证明过去从未真正失去，只是等待，在一种语言里，等某个人按下播放。
 
@@ -74,7 +74,7 @@ That the film reached Malaysia and Singapore first, and only later Indonesia, is
 
 ## The limits of a single screening
 
-It would be sentimental to overstate what one documentary can do. A premiere in Jakarta does not reopen the Chinese schools, does not restore the dialects that dissolved under prohibition, does not undo the suspicion that attached to Chinese identity for so long. Tan's ability to recite Teochew along with the screen is the exception that proves the rule: she had the luck of a pre-ban education and a family that kept speaking at home.
+It would be sentimental to overstate what one documentary can do. A premiere in Jakarta does not reopen the Chinese schools, does not restore the dialects that dissolved under prohibition, does not undo the suspicion that attached to Chinese identity for so long. Tan can mouth the Teochew along with the screen only because she is an exception:: she had the luck of a pre-ban education and a family that kept speaking at home.
 
 Yet the scene also suggests a pathway. Memory, once silenced, does not return through policy alone. It returns through repetition — a song hummed, a letter read aloud, a film watched with a parent. The son who accompanied his mother, and who remembered her longing for the film, is part of that chain. So is the classroom in Jieyang that Tan's father donated and that his children later visited: a physical tie between diaspora and *Tangshan* that outlasted the silence.
 

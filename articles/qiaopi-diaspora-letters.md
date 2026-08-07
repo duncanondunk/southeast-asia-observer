@@ -8,7 +8,7 @@
 
 侨批的特殊性，在于它把"家书"与"汇款"合二为一。在那个没有电子转账的年代，海外华侨靠水客、批信局、侨批馆等民间网络，把辛苦积攒的银钱连同只言片语，辗转送回故乡。
 
-> 一封侨批，既是经济行为，也是情感行为——它让汇款这件事，承载了远比数字更多的人的内容。
+> 一封侨批，既是经济行为，也是情感行为——它让汇款这件事，装下了远超数字本身的重量。
 
 ## 跨越山海的家国情书
 
@@ -18,11 +18,11 @@
 
 ## 离散的金融基础设施
 
-侨批不只是温情，它是一整套民间金融基础设施。批信局、银信局构建起跨国的汇兑网络，其信用机制、清算规则，堪称早期 diaspora 金融的样本。它的衰落，伴随的是现代银行体系与电子汇兑的兴起——但它的逻辑，至今仍在全球侨汇中回响。
+侨批不只是温情，它是一整套民间金融基础设施。批信局、银信局构建起跨国的汇兑网络，其信用机制、清算规则，堪称早期侨民金融的样本。它的衰落，伴随的是现代银行体系与电子汇兑的兴起——但它的逻辑，至今仍在全球侨汇中回响。
 
 ## 结语
 
-侨批提醒我们：一个 diaspora 的维系，既靠血缘与文化，也靠一套能把钱与信送到家的基础设施。今天的西联汇款、移动钱包，不过是侨批逻辑的当代回响。
+侨批提醒我们：一个离散群体的维系，既靠血缘与文化，也靠一套能把钱与信送到家的基础设施。今天的西联汇款、移动钱包，不过是侨批逻辑的当代回响。
 
 ---
 
@@ -40,11 +40,11 @@
 
 What makes *qiaopi* distinctive is that it merges the family letter with the remittance. In an age before electronic transfer, overseas Chinese relied on a folk network of couriers (*shuike*), letter agencies (*pixinju*), and remittance houses (*qiaopiguan*) to carry hard-saved silver, with a few lines of script, all the way home.
 
-> A *qiaopi* was an economic act and an emotional act at once — letting the sending of money carry far more than a number ever could.
+> A *qiaopi* was an economic act and an emotional act at once — so that a remittance carried far more than its face value.
 
 ## Love Letters Across the Sea
 
-What is moving about the *qiaopi* is its intimacy. They record no grand narrative, but the texture of daily life: a mother asking when her son will return, a wife urging her husband to dress warmly, a clan noting the repair of an ancestral hall. It is precisely this trivial, concrete care that kept a diaspora continuous across distance and culture.
+What is moving about the *qiaopi* is its intimacy. They record no grand narrative, but the texture of daily life: a mother asking when her son will return, a wife urging her husband to dress warmly, a clan noting the repair of an ancestral hall. It is exactly this small, concrete care that held a scattered people together across distance and culture.
 
 In 2013, the *Qiaopi Archives* were inscribed into UNESCO's Memory of the World Register, recognized as a shared heritage of humanity.
 

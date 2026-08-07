@@ -2,7 +2,7 @@
 
 > 一部电影，让相隔数代的语言与情感，在影院里重新接通。
 
-近日，华语电影《给阿嬷的情书》在印尼首映，不少年迈的华侨华人观众在映后潸然泪下，一句"终于等到这部电影"道尽了离散群体对母语与祖辈记忆的漫长等待。无独有偶，泰国潮州会馆也为此片举办了专场放映。两场放映，指向同一个命题：在东南亚的华人 diaspora 中，文化产品如何成为连接代际与祖籍地的情感媒介。
+近日，华语电影《给阿嬷的情书》在印尼首映，不少年迈的华侨华人观众在映后潸然泪下，一句"终于等到这部电影"道尽了离散群体对母语与祖辈记忆的漫长等待。无独有偶，泰国潮州会馆也为此片举办了专场放映。两场放映，指向同一个命题：在东南亚的华人离散群体中，文化产品如何成为连接代际与祖籍地的情感媒介。
 
 ## 方言、记忆与身份的接缝
 
@@ -14,7 +14,7 @@
 
 ## 离散群体的文化自愈
 
-《给阿嬷的情书》引发的共鸣提醒我们：diaspora 的维系不只靠血缘和政策，也靠持续的文化再生产。当主流叙事常常把华侨华人简化为"经济角色"，这类带着温度的文化产品，反而成了群体自我确认、代际对话的珍贵载体。
+《给阿嬷的情书》引发的共鸣提醒我们：离散群体的维系不只靠血缘和政策，也靠持续的文化再生产。当主流叙事常常把华侨华人简化为"经济角色"，这类带着温度的文化产品，反而成了群体自我确认、代际对话的珍贵载体。
 
 ---
 *话题参考：中国侨网（chinaqw.com）一周热点《《给阿嬷的情书》印尼首映 印尼老华侨深情告白：终于等到这部电影！》*
@@ -25,15 +25,15 @@
 
 > A single film reconnected, inside a cinema, languages and feelings separated by generations.
 
-When the Chinese-language film *Letter to Grandma* (*Gei Ama de Qing Shu*) premiered in Indonesia recently, elderly ethnic Chinese viewers were moved to tears. One line — "we have finally waited for this film" — captured the long, quiet hunger of a diaspora for its mother tongue and the memory of ancestors. Notably, the Teochew Clan Association in Thailand also organized a dedicated screening. Two screenings, one question: in the Southeast Asian Chinese diaspora, how do cultural products become the emotional media that link generations and the ancestral homeland?
+When the Chinese-language film *Letter to Grandma* (*Gei Ama de Qing Shu*) premiered in Indonesia recently, elderly ethnic Chinese viewers were moved to tears. One line — "we'd waited so long, and finally got to see this film" — captured the long, quiet hunger of a diaspora for its mother tongue and the memory of ancestors. Notably, the Teochew Clan Association in Thailand also organized a dedicated screening. Two screenings, one question: in the Southeast Asian Chinese diaspora, how do cultural products become the emotional media that link generations and the ancestral homeland?
 
 ## Dialect, Memory, and the Seams of Identity
 
-The identity of overseas Chinese has long rested on "soft" carriers: dialect, festival, and clan association. As younger generations gradually lose their dialects and the ancestral village becomes a strange coordinate on a map, the nostalgia of the elderly loses its everyday outlet. Film, with its native tongue and family narrative, fills precisely this seam — not by preaching, but by empathy, letting the audience see their own grandmothers in someone else's story.
+The identity of overseas Chinese has long rested on soft anchors — dialect, festivals, the clan association. As younger generations gradually lose their dialects and the ancestral village becomes a strange coordinate on a map, the nostalgia of the elderly loses its everyday outlet. Film, with its native tongue and family narrative, closes precisely this gap — not by preaching, but by empathy, letting the audience see their own grandmothers in someone else's story.
 
 ## The Clan Association as Cultural "Translator"
 
-What is striking is that neither screening was a spontaneous theatrical release; both were organized by communal bodies — Chinese organizations in Indonesia, the Teochew Clan Association in Thailand. In Southeast Asia's multi-ethnic societies, Chinese associations have long served as cultural "translators": rendering the symbols of the ancestral land into a form local Chinese communities can hear and accept. That a film can be "invited" into the community is this translational mechanism at work.
+What is striking is that neither screening came out of the commercial distribution circuit; both were organized by communal bodies — Chinese organizations in Indonesia, the Teochew Clan Association in Thailand. In Southeast Asia's multi-ethnic societies, Chinese associations have long served as cultural "translators": rendering the symbols of the ancestral land into a form local Chinese communities can hear and accept. That a film can be "invited" into the community is this translational mechanism at work.
 
 ## The Cultural Self-Healing of a Diaspora
 

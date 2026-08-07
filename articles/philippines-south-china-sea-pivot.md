@@ -2,7 +2,7 @@
 
 > 马尼拉在华盛顿与北京之间的钟摆。
 
-菲律宾的南海政策，像一根钟摆——杜特尔特时期向北京倾斜，小马科斯执政后又回摆向华盛顿。这种钟摆式摆动，既折射出马尼拉在大国间的战略两难，也映射出整个东盟在地缘竞争中的处境。
+菲律宾的南海政策，像一只钟摆——杜特尔特时期向北京倾斜，小马科斯执政后又回摆向华盛顿。这种来回摆荡，既折射出马尼拉在大国间的战略两难，也映射出整个东盟在地缘竞争中的处境。
 
 ## 钟摆的两次摆动
 
@@ -55,15 +55,15 @@ The Philippines' South China Sea policy is a pendulum — swinging toward Beijin
 
 ## Two Swings of the Pendulum
 
-### First Swing: Duterte's "China Tilt, America Drift"
+### First Swing: Duterte's "Toward Beijing, Away from Washington"
 
-Taking office in 2016, Rodrigo Duterte chose a path sharply different from his predecessor Benigno Aquino III. He downplayed the 2016 South China Sea arbitration outcome, shelved sovereignty disputes with Beijing, and traded for China's promised large-scale infrastructure investment.
+Taking office in 2016, Rodrigo Duterte chose a path sharply different from his predecessor Benigno Aquino III. He downplayed the 2016 South China Sea arbitration outcome, shelved sovereignty disputes with Beijing, trading both for China's promise of large-scale infrastructure investment.
 
 > For a time this was hailed as a successful "reverse play" by a small state between great powers. The investment that materialized, however, fell far short of the promises.
 
 ### Second Swing: Marcos Jr.'s "Return to the US Alliance"
 
-Ferdinand Marcos Jr., in office from 2022, swiftly reversed course. Under EDCA (Enhanced Defense Cooperation Agreement), the number of Philippine bases accessible to US forces rose to nine, joint US–Philippine patrols became routine, and Manila's posture on Second Thomas Shoal and Scarborough Shoal hardened markedly.
+Ferdinand Marcos Jr., who took office in 2022, swiftly reversed course. Under EDCA (Enhanced Defense Cooperation Agreement), the number of Philippine bases accessible to US forces rose to nine, joint US–Philippine patrols became routine, and Manila's posture on Second Thomas Shoal and Scarborough Shoal hardened markedly.
 
 | Dimension | Duterte era | Marcos Jr. era |
 |------|--------------|--------------|
@@ -86,7 +86,7 @@ The relative strength of these three shifts with the domestic and international 
 
 The Philippine pendulum is a metaphor for ASEAN's predicament as a whole. ASEAN states broadly face the same dilemma: they cannot fully exit the US security system, are deeply bound to China economically, and must uphold a nationalist baseline on sovereignty.
 
-ASEAN-style "hedging and ambiguity" works smoothly when US–China relations are tolerable; once they slip into confrontation, the ambiguous space compresses and the pressure to "choose sides" spikes.
+ASEAN-style "hedging and ambiguity" works smoothly while US–China relations stay manageable; once they slip into confrontation, the ambiguous space compresses and the pressure to "choose sides" spikes.
 
 ## Conclusion
 
