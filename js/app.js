@@ -664,6 +664,52 @@
     }
   }
 
+  function initLightbox() {
+    // 避免重复创建
+    if (document.querySelector('.lightbox')) return;
+    var overlay = document.createElement('div');
+    overlay.className = 'lightbox';
+    overlay.setAttribute('role', 'dialog');
+    overlay.setAttribute('aria-modal', 'true');
+    overlay.innerHTML =
+      '<button class="lightbox__close" aria-label="关闭">&times;</button>' +
+      '<img class="lightbox__img" alt="">' +
+      '<div class="lightbox__caption"></div>';
+    document.body.appendChild(overlay);
+    var lbImg = overlay.querySelector('.lightbox__img');
+    var lbCap = overlay.querySelector('.lightbox__caption');
+
+    function open(src, alt) {
+      lbImg.src = src;
+      lbImg.alt = alt || '';
+      lbCap.textContent = alt || '';
+      overlay.classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+    }
+    function close() {
+      overlay.classList.remove('is-open');
+      document.body.style.overflow = '';
+      setTimeout(function () { lbImg.removeAttribute('src'); }, 240);
+    }
+
+    // 事件委托：点击文章内的图片即放大
+    document.addEventListener('click', function (e) {
+      var img = e.target.closest && e.target.closest('img');
+      if (!img) return;
+      var allowed = img.closest('.article-body, .article-fig, .article-hero__image');
+      if (!allowed) return;
+      e.preventDefault();
+      var full = img.getAttribute('data-full') || img.currentSrc || img.src;
+      open(full, img.alt);
+    });
+    overlay.addEventListener('click', function (e) {
+      if (e.target === overlay || e.target.classList.contains('lightbox__close')) close();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && overlay.classList.contains('is-open')) close();
+    });
+  }
+
   ready(function () {
     applyLang();
     initLangSwitch();
@@ -672,6 +718,7 @@
     initHome();
     initHeroBanner();
     initArticle();
+    initLightbox();
     initTags();
     initSearch();
     initPWA();
