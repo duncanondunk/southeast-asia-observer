@@ -59,7 +59,10 @@
   python3 scripts/plot_china_asean.py data/china_asean_scores_rolling.json
   python3 scripts/plot_china_asean_en.py data/china_asean_scores_rolling.json
   ```
-- **输出**：`images/charts/china-asean-relations-rolling.jpg`（中文三面板主图）+ `-simple.jpg`（简版）；英文对应 `-en.jpg` / `-en-simple.jpg`。
+- **输出（按末月冻结，避免改写往期图表）**：脚本以 `meta.months[-1]` 为后缀生成固定文件名，例如数据集末月为 `2026-08` 时输出：
+  - 中文：`images/charts/china-asean-relations-2026-08.jpg`（三面板主图）+ `-2026-08-simple.jpg`（简版）
+  - 英文：`images/charts/china-asean-relations-2026-08-en.jpg` + `-2026-08-en-simple.jpg`
+  - **每月追加新数据后重跑，得到该月专属快照；旧月文件保留不动，保证每篇已发文章图表自洽。**
   - ⓵ 全景（11 国同轴，六档色带背景，菲律宾黑色虚线独处负分区）
   - ⓶ 友善区放大（标关键事件：元首互访、命运共同体联合声明、2+2 机制等）
   - ⓷ 菲律宾单独面板（标注美菲军演、法理挑衅、中方反制等节点）
@@ -177,7 +180,7 @@ References
 | 滚动数据集 | `data/china_asean_scores_rolling.json` |
 | 中文绘图脚本 | `scripts/plot_china_asean.py` |
 | 英文绘图脚本 | `scripts/plot_china_asean_en.py` |
-| 图表输出 | `images/charts/china-asean-relations-rolling*.jpg` |
+| 图表输出 | `images/charts/china-asean-relations-{末月}.jpg`（及 `-simple` / `-en` / `-en-simple` 变体；每月冻结） |
 | 配图目录 | `images/articles/` |
 | 文章输出 | `articles/china-asean-relations-YYYY-MM-{zh,en}.html` |
 | 首页数据专题区 | `index.html` → `id="dataFeature"` |

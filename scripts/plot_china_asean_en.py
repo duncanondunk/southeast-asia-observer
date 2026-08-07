@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""China-ASEAN 11-country bilateral relations monthly index line chart (Jan-Aug 2026) - ENGLISH"""
+"""China-ASEAN 11-country bilateral relations monthly index line chart - ENGLISH (dynamic month count)"""
 import json, os
 import matplotlib
 matplotlib.use("Agg")
@@ -43,8 +43,17 @@ _JSON = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "data", "china_
 with open(_JSON, encoding="utf-8") as f:
     D = json.load(f)
 
-MONTHS = list(range(1, 9))
-XLAB = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug*"]
+_xm = D["meta"]["months"]
+N = len(_xm)
+_years = set(m[:4] for m in _xm)
+if len(_years) == 1:
+    XLAB = [m[5:].lstrip("0") for m in _xm]               # 2026-01 -> Jan
+else:
+    XLAB = [m[2:] for m in _xm]                           # cross-year -> 26-09
+MONTHS = list(range(1, N + 1))
+X0, X1 = 0.55, N + 0.62
+LBLX = N + 0.16
+_last = _xm[-1]
 
 COLORS = {
     "Cambodia": "#C0392B", "Laos": "#E67E22", "Vietnam": "#B7950B", "Myanmar": "#1E8449",
@@ -66,7 +75,8 @@ C = {c["name_en"]: c["scores"] for c in D["countries"]}
 ORDER = sorted(C.keys(), key=lambda k: -C[k][-1])
 
 
-def bands(ax, lo=-9, hi=9, label=True, x0=0.55, x1=8.62):
+def bands(ax, lo=-9, hi=9, label=True, x0=0.55, x1=None):
+    x1 = X1 if x1 is None else x1
     for a, b, nm, col in TIERS:
         if b <= lo or a >= hi:
             continue
@@ -101,9 +111,9 @@ def draw(ax, names, ylo, yhi, lw=2.2, ms=6, labels=True, gap=None):
     if labels:
         adj = spread([(C[n][-1], n) for n in names], gap or (yhi - ylo) * .052)
         for n in names:
-            ax.text(8.16, adj[n], f"{n} {C[n][-1]:+.1f}", color=COLORS[n],
+            ax.text(LBLX, adj[n], f"{n} {C[n][-1]:+.1f}", color=COLORS[n],
                     fontproperties=F(11.5, "bold"), va="center", zorder=6)
-    ax.set_xlim(.55, 8.62)
+    ax.set_xlim(X0, X1)
     ax.set_ylim(ylo, yhi)
     ax.set_xticks(MONTHS)
     ax.set_xticklabels(XLAB, fontproperties=F(12))
@@ -122,8 +132,9 @@ gs = gridspec.GridSpec(2, 2, height_ratios=[1.32, 1], width_ratios=[1.18, 1],
                        hspace=.30, wspace=.20,
                        left=.055, right=.845, top=.885, bottom=.075)
 
+_cov = _xm[0] + " to " + _last
 fig.text(.055, .955, "China-ASEAN Bilateral Relations Quantitative Index", fontproperties=F(26, "bold"), color="#1a1a1a")
-fig.text(.055, .925, "Jan-Aug 2026  |  Monthly line chart  |  Scale -9 to +9  |  August data as of Aug 6",
+fig.text(.055, .925, f"{_cov}  |  Monthly line chart  |  Scale -9 to +9",
          fontproperties=F(14), color="#666666")
 
 # panel 1 overview
@@ -158,12 +169,12 @@ ax2.annotate("PM Anutin visits China\nCommunity with Shared Future statement", x
 
 # panel 3 philippines
 ax3 = fig.add_subplot(gs[1, 1])
-bands(ax3, -7.2, -3.0, label=True, x1=8.62)
+bands(ax3, -7.2, -3.0, label=True)
 ax3.plot(MONTHS, C["Philippines"], color="#000000", marker="o", lw=3.0, ms=8,
          markerfacecolor="white", markeredgewidth=2.1, zorder=5)
 for x, y in zip(MONTHS, C["Philippines"]):
     ax3.text(x, y + .17, f"{y:+.1f}", ha="center", fontproperties=F(9.6, "bold"), color="#000")
-ax3.set_xlim(.55, 8.62); ax3.set_ylim(-7.2, -3.0)
+ax3.set_xlim(X0, X1); ax3.set_ylim(-7.2, -3.0)
 ax3.set_xticks(MONTHS); ax3.set_xticklabels(XLAB, fontproperties=F(12))
 ax3.set_yticks([-7, -6, -5, -4])
 for t in ax3.get_yticklabels():
@@ -204,10 +215,10 @@ fig.text(.055, .028,
          fontproperties=F(9.6), color="#8a8a8a")
 fig.text(.055, .006,
          "Sources: China's Ministry of Foreign Affairs, China's Mission to ASEAN, Xinhua / People's Daily / gov.cn, China Media Group, and official releases and major media of each country. "
-         "* August data as of Aug 6, 2026. Scores are an academic research assessment based on public information, not official data.",
+         "Scores are an academic research assessment based on public information, not official data.",
          fontproperties=F(9.6), color="#8a8a8a")
 
-p1 = os.path.join(OUT, "china-asean-relations-2026-en.jpg")
+p1 = os.path.join(OUT, f"china-asean-relations-{_last}-en.jpg")
 fig.savefig(p1, format="jpg", dpi=200, facecolor="white", pil_kwargs={"quality": 94})
 print("saved", p1)
 plt.close(fig)
@@ -219,14 +230,14 @@ draw(ax, ORDER, -9, 9, lw=2.4, ms=6.2, gap=.60)
 ax.axhline(0, color="#9e9e9e", lw=1.3, ls=":", zorder=2)
 ax.set_yticks(range(-9, 10, 3))
 ax.set_ylabel("Relationship Score", fontproperties=F(13))
-fig2.text(.062, .945, "China-ASEAN Bilateral Relations Quantitative Index (Jan-Aug 2026)",
+fig2.text(.062, .945, f"China-ASEAN Bilateral Relations Quantitative Index ({_cov})",
           fontproperties=F(24, "bold"), color="#1a1a1a")
-fig2.text(.062, .905, "Six-tier scale: Friendly 6-9 . Good 3-6 . Ordinary 0-3 . Discord -3-0 . Tension -6-3 . Confrontation -9-6   |   August data as of Aug 6",
-          fontproperties=F(12.5), color="#666")
+fig2.text(.062, .905, "Six-Tier Scale: Friendly 6~9 · Good 3~6 · Ordinary 0~3 · Discord -3~0 · Tension -6~-3 · Confrontation -9~-6",
+          fontproperties=F(13), color="#666")
 fig2.text(.062, .035,
-          "Method: adapted from Prof. Yan Xuetong's (Tsinghua) Quantitative Measurement of China's Foreign Relations; monthly scores weighted by the nature, level and domain of public diplomatic events. "
-          "Sources: MFA, Mission to ASEAN, Xinhua, People's Daily, gov.cn, China Media Group and national media. Scores are research assessment, not official data.",
+          "Method: adapted from Prof. Yan Xuetong's team's Quantitative Measurement of China's Foreign Relations; weighted monthly scoring by nature / level / domain of public diplomatic events. "
+          "Sources: MFA China, Mission to ASEAN, Xinhua, People's Daily, gov.cn, CMG, and each country's official releases. Scores are a research assessment, not official data.",
           fontproperties=F(10), color="#8a8a8a")
-p2 = os.path.join(OUT, "china-asean-relations-2026-en-simple.jpg")
+p2 = os.path.join(OUT, f"china-asean-relations-{_last}-en-simple.jpg")
 fig2.savefig(p2, format="jpg", dpi=200, facecolor="white", pil_kwargs={"quality": 94})
 print("saved", p2)

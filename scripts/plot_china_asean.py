@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""中国—东盟11国双边关系月度量化评分折线图（2026年1-8月）"""
+"""中国—东盟11国双边关系月度量化评分折线图（动态适配任意月份数）"""
 import json, os
 import matplotlib
 matplotlib.use("Agg")
@@ -44,8 +44,18 @@ _JSON = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "data", "china_
 with open(_JSON, encoding="utf-8") as f:
     D = json.load(f)
 
-MONTHS = list(range(1, 9))
-XLAB = ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月*"]
+_xm = D["meta"]["months"]
+N = len(_xm)
+_years = set(m[:4] for m in _xm)
+if len(_years) == 1:
+    XLAB = [m[5:].lstrip("0") + "月" for m in _xm]          # 2026-01 -> 1月
+else:
+    XLAB = [m[2:] for m in _xm]                              # 跨年 -> 26-09
+MONTHS = list(range(1, N + 1))
+X0, X1 = 0.55, N + 0.62                                      # 动态右边界
+LBLX = N + 0.16                                             # 右侧标签 x
+_prev = _xm[-2] if N >= 2 else None
+_last = _xm[-1]
 
 COLORS = {
     "柬埔寨": "#C0392B", "老挝": "#E67E22", "越南": "#B7950B", "缅甸": "#1E8449",
@@ -67,7 +77,8 @@ C = {c["name"]: c["scores"] for c in D["countries"]}
 ORDER = sorted(C.keys(), key=lambda k: -C[k][-1])
 
 
-def bands(ax, lo=-9, hi=9, label=True, x0=0.55, x1=8.62):
+def bands(ax, lo=-9, hi=9, label=True, x0=0.55, x1=None):
+    x1 = X1 if x1 is None else x1
     for a, b, nm, col in TIERS:
         if b <= lo or a >= hi:
             continue
@@ -83,7 +94,6 @@ def bands(ax, lo=-9, hi=9, label=True, x0=0.55, x1=8.62):
 
 
 def spread(pairs, gap):
-    """右侧标签防重叠：pairs=[(y, name)]，返回 {name: y_adj}"""
     ps = sorted(pairs, key=lambda t: t[0])
     ys = [p[0] for p in ps]
     for i in range(1, len(ys)):
@@ -103,9 +113,9 @@ def draw(ax, names, ylo, yhi, lw=2.2, ms=6, labels=True, gap=None):
     if labels:
         adj = spread([(C[n][-1], n) for n in names], gap or (yhi - ylo) * .052)
         for n in names:
-            ax.text(8.16, adj[n], f"{n} {C[n][-1]:+.1f}", color=COLORS[n],
+            ax.text(LBLX, adj[n], f"{n} {C[n][-1]:+.1f}", color=COLORS[n],
                     fontproperties=F(11.5, "bold"), va="center", zorder=6)
-    ax.set_xlim(.55, 8.62)
+    ax.set_xlim(X0, X1)
     ax.set_ylim(ylo, yhi)
     ax.set_xticks(MONTHS)
     ax.set_xticklabels(XLAB, fontproperties=F(12))
@@ -124,8 +134,9 @@ gs = gridspec.GridSpec(2, 2, height_ratios=[1.32, 1], width_ratios=[1.18, 1],
                        hspace=.30, wspace=.20,
                        left=.055, right=.845, top=.885, bottom=.075)
 
+_cov = _xm[0] + " 至 " + _last
 fig.text(.055, .955, "中国—东盟11国双边关系量化评分", fontproperties=F(27, "bold"), color="#1a1a1a")
-fig.text(.055, .925, "2026年1月—8月  月度折线图   （量表 -9 ~ +9，8月数据截至8月6日）",
+fig.text(.055, .925, f"{_cov}  月度折线图   （量表 -9 ~ +9）",
          fontproperties=F(14), color="#666666")
 
 # --- 面板1：全景 ---
@@ -160,12 +171,12 @@ ax2.annotate("阿努廷总理访华\n命运共同体联合声明", xy=(7, 7.3), 
 
 # --- 面板3：菲律宾 ---
 ax3 = fig.add_subplot(gs[1, 1])
-bands(ax3, -7.2, -3.0, label=True, x1=8.62)
+bands(ax3, -7.2, -3.0, label=True)
 ax3.plot(MONTHS, C["菲律宾"], color="#000000", marker="o", lw=3.0, ms=8,
          markerfacecolor="white", markeredgewidth=2.1, zorder=5)
 for x, y in zip(MONTHS, C["菲律宾"]):
     ax3.text(x, y + .17, f"{y:+.1f}", ha="center", fontproperties=F(9.6, "bold"), color="#000")
-ax3.set_xlim(.55, 8.62); ax3.set_ylim(-7.2, -3.0)
+ax3.set_xlim(X0, X1); ax3.set_ylim(-7.2, -3.0)
 ax3.set_xticks(MONTHS); ax3.set_xticklabels(XLAB, fontproperties=F(12))
 ax3.set_yticks([-7, -6, -5, -4])
 for t in ax3.get_yticklabels():
@@ -190,7 +201,6 @@ lx, ly = .862, .70
 fig.text(lx, ly + .175, "六等级量表", fontproperties=F(13, "bold"), color="#222")
 rows = [("友好", "6 ~ 9", "#C4E3CE"), ("良好", "3 ~ 6", "#DCEFE3"), ("普通", "0 ~ 3", "#EDF1F3"),
         ("不和", "-3 ~ 0", "#FBE6C8"), ("紧张", "-6 ~ -3", "#F7CFCB"), ("对抗", "-9 ~ -6", "#EFA9A9")]
-cats = ["友善", "", "非敌非友", "", "敌对", ""]
 for i, (nm, rg, col) in enumerate(rows):
     yy = ly + .138 - i * .0275
     fig.patches.append(Rectangle((lx, yy - .008), .022, .019, transform=fig.transFigure,
@@ -204,10 +214,10 @@ fig.text(.055, .028,
          "并施加向基线回归的衰减。元首级互访 ±0.5~0.9，部长级机制性会议 ±0.2~0.5，重大协议签署 ±0.3~0.6，军事对峙／法理挑衅 -0.5~-1.2。",
          fontproperties=F(9.6), color="#8a8a8a")
 fig.text(.055, .006,
-         "资料来源：中国外交部、中国常驻东盟使团、新华社／人民日报／中国政府网、中央广播电视总台，及各国官方通稿与主流媒体。* 8月数据截至2026年8月6日。分值为基于公开信息的学术性研究判断，非官方数据。",
+         "资料来源：中国外交部、中国常驻东盟使团、新华社／人民日报／中国政府网、中央广播电视总台，及各国官方通稿与主流媒体。分值为基于公开信息的学术性研究判断，非官方数据。",
          fontproperties=F(9.6), color="#8a8a8a")
 
-p1 = os.path.join(OUT, "china-asean-relations-2026.jpg")
+p1 = os.path.join(OUT, f"china-asean-relations-{_last}.jpg")
 fig.savefig(p1, format="jpg", dpi=200, facecolor="white", pil_kwargs={"quality": 94})
 print("saved", p1)
 plt.close(fig)
@@ -219,14 +229,14 @@ draw(ax, ORDER, -9, 9, lw=2.4, ms=6.2, gap=.60)
 ax.axhline(0, color="#9e9e9e", lw=1.3, ls=":", zorder=2)
 ax.set_yticks(range(-9, 10, 3))
 ax.set_ylabel("关系分值", fontproperties=F(13))
-fig2.text(.062, .945, "中国—东盟11国双边关系量化评分（2026年1—8月）",
+fig2.text(.062, .945, f"中国—东盟11国双边关系量化评分（{_cov}）",
           fontproperties=F(24, "bold"), color="#1a1a1a")
-fig2.text(.062, .905, "六等级量表：友好6~9 · 良好3~6 · 普通0~3 · 不和-3~0 · 紧张-6~-3 · 对抗-9~-6　|　8月数据截至8月6日",
+fig2.text(.062, .905, "六等级量表：友好6~9 · 良好3~6 · 普通0~3 · 不和-3~0 · 紧张-6~-3 · 对抗-9~-6",
           fontproperties=F(13), color="#666")
 fig2.text(.062, .035,
           "方法：参照阎学通团队《中外关系定量衡量》体系，按公开外交事件性质／层级／领域加权月度赋分。"
           "来源：中国外交部、常驻东盟使团、新华社、人民日报、中国政府网、总台及各国官方通稿。分值为研究判断，非官方数据。",
           fontproperties=F(10), color="#8a8a8a")
-p2 = os.path.join(OUT, "china-asean-relations-2026-simple.jpg")
+p2 = os.path.join(OUT, f"china-asean-relations-{_last}-simple.jpg")
 fig2.savefig(p2, format="jpg", dpi=200, facecolor="white", pil_kwargs={"quality": 94})
 print("saved", p2)
