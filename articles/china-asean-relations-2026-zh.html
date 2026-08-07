@@ -53,6 +53,14 @@
   .commentary{border-top:3px double var(--gold);margin-top:50px;padding-top:26px}
   .commentary h2{color:var(--ink);border-left-color:var(--terracotta)}
   @media(max-width:620px){.pull{float:none;width:auto;margin:14px 0}.wrap{padding:0 16px}}
+  /* lightbox */
+  .lb-mask{position:fixed;inset:0;background:rgba(250,247,242,.96);z-index:1000;display:flex;align-items:center;justify-content:center;opacity:0;visibility:hidden;transition:opacity .25s,visibility .25s;cursor:zoom-out;padding:20px}
+  .lb-mask.show{opacity:1;visibility:visible}
+  .lb-img{max-width:96vw;max-height:92vh;object-fit:contain;box-shadow:0 12px 60px rgba(0,0,0,.18);border-radius:6px;transform:scale(.96);transition:transform .25s}
+  .lb-mask.show .lb-img{transform:scale(1)}
+  .lb-close{position:fixed;top:16px;right:22px;font-size:36px;line-height:1;color:var(--terracotta);cursor:pointer;z-index:1001;background:rgba(255,255,255,.8);width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+  .lb-caption{position:fixed;bottom:18px;left:0;right:0;text-align:center;font-size:13.5px;color:var(--muted);padding:0 20px}
+  figure img{cursor:zoom-in}
 </style>
 </head>
 <body>
@@ -183,5 +191,41 @@
   </p>
 
 </div>
+<div id="lbMask" class="lb-mask" aria-hidden="true">
+  <span id="lbClose" class="lb-close" aria-label="关闭">&times;</span>
+  <img id="lbImg" class="lb-img" src="" alt="">
+  <div id="lbCaption" class="lb-caption"></div>
+</div>
+<script>
+(function(){
+  var mask=document.getElementById('lbMask');
+  var img=document.getElementById('lbImg');
+  var cap=document.getElementById('lbCaption');
+  var close=document.getElementById('lbClose');
+  function open(src, caption){
+    img.src=src;
+    cap.textContent=caption||'';
+    mask.classList.add('show');
+    mask.setAttribute('aria-hidden','false');
+    document.body.style.overflow='hidden';
+  }
+  function closeFn(){
+    mask.classList.remove('show');
+    mask.setAttribute('aria-hidden','true');
+    document.body.style.overflow='';
+    setTimeout(function(){ img.src=''; cap.textContent=''; }, 250);
+  }
+  document.querySelectorAll('figure img').forEach(function(el){
+    el.addEventListener('click', function(){
+      var fig=el.closest('figure');
+      var caption=fig ? (fig.querySelector('figcaption')||{}).textContent || '' : '';
+      open(el.src, caption);
+    });
+  });
+  mask.addEventListener('click', closeFn);
+  close.addEventListener('click', closeFn);
+  document.addEventListener('keydown', function(e){ if(e.key==='Escape') closeFn(); });
+})();
+</script>
 </body>
 </html>
