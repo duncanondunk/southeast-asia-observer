@@ -38,8 +38,10 @@ def F(size, weight="normal"):
     fp.set_size(size); fp.set_weight(weight)
     return fp
 
-# ---------- 数据 ----------
-with open(os.path.join(BASE, "data", "china_asean_scores_2026.json"), encoding="utf-8") as f:
+# ---------- 数据（支持 argv[1] 指定滚动数据集路径）----------
+import sys
+_JSON = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "data", "china_asean_scores_2026.json")
+with open(_JSON, encoding="utf-8") as f:
     D = json.load(f)
 
 MONTHS = list(range(1, 9))
