@@ -37,6 +37,23 @@ def F(size, weight="normal"):
     fp.set_size(size); fp.set_weight(weight)
     return fp
 
+# ---------- full-figure diagonal-stripe watermark + tiled text ----------
+def watermark(fig):
+    """Diagonal stripe watermark with SEA-东南亚观察 text, used on both CN and EN charts."""
+    txt = "SEA-东南亚观察"
+    fig.patches.append(Rectangle(
+        (0, 0), 1, 1, transform=fig.transFigure,
+        facecolor="none", edgecolor=(0.82, 0.82, 0.82, 0.28),
+        linewidth=0, hatch="////", zorder=100))
+    cols, rows = 3, 4
+    for i in range(rows):
+        for j in range(cols):
+            x = (j + 0.5) / cols
+            y = (i + 0.5) / rows
+            fig.text(x, y, txt, rotation=30, ha="center", va="center",
+                     fontproperties=F(28, "bold"),
+                     color=(0.55, 0.55, 0.55, 0.18), zorder=101)
+
 # ---------- data (supports argv[1] for rolling dataset path) ----------
 import sys
 _JSON = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "data", "china_asean_scores_2026.json")
@@ -218,6 +235,7 @@ fig.text(.055, .006,
          "Scores are an academic research assessment based on public information, not official data.",
          fontproperties=F(9.6), color="#8a8a8a")
 
+watermark(fig)
 p1 = os.path.join(OUT, f"china-asean-relations-{_last}-en.jpg")
 fig.savefig(p1, format="jpg", dpi=200, facecolor="white", pil_kwargs={"quality": 94})
 print("saved", p1)
@@ -238,6 +256,8 @@ fig2.text(.062, .035,
           "Method: adapted from Prof. Yan Xuetong's team's Quantitative Measurement of China's Foreign Relations; weighted monthly scoring by nature / level / domain of public diplomatic events. "
           "Sources: MFA China, Mission to ASEAN, Xinhua, People's Daily, gov.cn, CMG, and each country's official releases. Scores are a research assessment, not official data.",
           fontproperties=F(10), color="#8a8a8a")
+
+watermark(fig2)
 p2 = os.path.join(OUT, f"china-asean-relations-{_last}-en-simple.jpg")
 fig2.savefig(p2, format="jpg", dpi=200, facecolor="white", pil_kwargs={"quality": 94})
 print("saved", p2)
