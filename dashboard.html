@@ -1,0 +1,1097 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>东南亚观察 · 内容管理工作台</title>
+<style>
+:root{
+  --accent:#a8401f; --gold:#c98a2b; --jade:#1d5b4e; --cream:#faf7f2;
+  --ink:#2b2622; --muted:#6b6258; --line:#e7e0d6; --card:#fff; --danger:#b3261e;
+  --ok:#1d7a4d; --warn:#c98a2b;
+  --r:14px; --sh:0 1px 3px rgba(40,30,20,.08),0 6px 24px rgba(40,30,20,.06);
+  --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{font-family:var(--font);background:var(--cream);color:var(--ink);font-size:16px;line-height:1.55;-webkit-text-size-adjust:100%}
+a{color:var(--accent);text-decoration:none}
+button{font-family:inherit;cursor:pointer}
+.wrap{max-width:1120px;margin:0 auto;padding:0 16px;padding-bottom:calc(40px + env(safe-area-inset-bottom))}
+
+/* header */
+.topbar{position:sticky;top:0;z-index:30;background:rgba(250,247,242,.92);backdrop-filter:saturate(140%) blur(8px);border-bottom:1px solid var(--line)}
+.topbar__in{max-width:1120px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:12px}
+.brand{display:flex;align-items:center;gap:9px;font-weight:700;font-size:1.02rem;color:var(--ink)}
+.brand .logo{width:30px;height:30px;border-radius:8px;background:linear-gradient(135deg,var(--accent),var(--gold));display:grid;place-items:center;color:#fff}
+.brand small{display:block;font-weight:500;font-size:.66rem;color:var(--muted);letter-spacing:.04em}
+.topact{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:#fff;color:var(--ink);padding:9px 13px;border-radius:10px;font-size:.85rem;min-height:44px;transition:.15s}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.btn--primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn--primary:hover{background:#8f3517;color:#fff}
+.btn--ghost{background:transparent}
+.btn--sm{min-height:36px;padding:6px 10px;font-size:.78rem}
+.btn--danger{border-color:#e6c4c0;color:var(--danger)}
+.btn--danger:hover{background:#fbe9e7;color:var(--danger)}
+
+/* tabs */
+.tabs{display:flex;gap:4px;max-width:1120px;margin:14px auto 0;padding:0 16px;overflow-x:auto;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:0 0 auto;border:none;background:transparent;color:var(--muted);padding:10px 14px;font-size:.92rem;border-bottom:2px solid transparent;min-height:44px;display:flex;align-items:center;gap:7px}
+.tab.is-active{color:var(--accent);border-bottom-color:var(--accent);font-weight:600}
+.tab svg{width:17px;height:17px}
+
+/* views */
+.view{display:none;margin-top:18px}
+.view.is-active{display:block}
+
+/* today box */
+.today{background:linear-gradient(180deg,#fff,#fdfaf5);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px;box-shadow:var(--sh)}
+.today h2{margin:0 0 4px;font-size:1.05rem;display:flex;align-items:center;gap:8px}
+.today .sub{color:var(--muted);font-size:.82rem;margin:0 0 12px}
+.today__list{display:flex;flex-direction:column;gap:9px}
+.titem{display:flex;align-items:center;gap:12px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 12px}
+.titem .dot{width:9px;height:9px;border-radius:50%;flex:0 0 auto}
+.titem .dot--over{background:var(--danger);box-shadow:0 0 0 4px rgba(179,38,30,.12)}
+.titem .dot--due{background:var(--warn);box-shadow:0 0 0 4px rgba(201,138,43,.14)}
+.titem .dot--todo{background:var(--jade)}
+.titem .meta{flex:1;min-width:0}
+.titem .meta b{display:block;font-size:.9rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.titem .meta span{font-size:.74rem;color:var(--muted)}
+.titem.over{border-color:#e6c4c0}
+.tagchip{display:inline-block;font-size:.68rem;padding:2px 7px;border-radius:20px;background:#f3ece2;color:var(--muted);margin-left:6px}
+.empty{color:var(--muted);font-size:.86rem;padding:14px;border:1px dashed var(--line);border-radius:11px;text-align:center}
+
+/* cards / grid */
+.grid{display:grid;gap:14px}
+.cards-3{grid-template-columns:repeat(3,1fr)}
+.cards-2{grid-template-columns:repeat(2,1fr)}
+@media(max-width:760px){.cards-3,.cards-2{grid-template-columns:1fr}}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:15px 16px;box-shadow:var(--sh)}
+.stat .k{font-size:.76rem;color:var(--muted)}
+.stat .v{font-size:1.7rem;font-weight:700;line-height:1.1;margin-top:4px}
+.stat .v small{font-size:.8rem;font-weight:500;color:var(--muted)}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:var(--sh);margin-top:14px}
+.panel h3{margin:0 0 12px;font-size:1rem;display:flex;align-items:center;gap:8px}
+.panel h3 .badge{margin-left:auto;font-size:.68rem;font-weight:500;color:var(--muted);background:#f3ece2;padding:3px 8px;border-radius:20px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.row--between{justify-content:space-between}
+.muted{color:var(--muted)}
+.small{font-size:.8rem}
+
+/* charts */
+.chart{display:block;margin:0 auto;max-width:100%}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;margin-top:10px;font-size:.78rem}
+.legend i{width:10px;height:10px;border-radius:3px;display:inline-block;margin-right:5px;vertical-align:middle}
+.bar{display:flex;align-items:center;gap:10px;margin:8px 0;font-size:.82rem}
+.bar .lab{width:78px;flex:0 0 auto;color:var(--muted);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar .track{flex:1;background:#f1ece4;border-radius:8px;height:18px;overflow:hidden}
+.bar .fill{height:100%;background:linear-gradient(90deg,var(--jade),var(--gold));border-radius:8px}
+.bar .num{width:34px;flex:0 0 auto;text-align:right;color:var(--ink)}
+
+/* article list */
+.list{display:flex;flex-direction:column;gap:10px}
+.acard{display:flex;align-items:center;gap:12px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 13px}
+.acard .thumb{width:64px;height:46px;border-radius:8px;object-fit:cover;flex:0 0 auto;background:#eee;display:block}
+.acard .thumb--empty,.acard .thumb--err{background-color:#f1ece4;position:relative;color:transparent!important;font-size:0}
+.acard .thumb--empty::after,.acard .thumb--err::after{content:"";position:absolute;inset:0;margin:auto;width:22px;height:18px;background:#c9bfb0;-webkit-mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23000' d='M21 5h-3.2l-1.2-2H7.4L6.2 5H3a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm-9 11a4 4 0 1 1 0-8 4 4 0 0 1 0 8z'/></svg>") center/contain no-repeat;mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23000' d='M21 5h-3.2l-1.2-2H7.4L6.2 5H3a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm-9 11a4 4 0 1 1 0-8 4 4 0 0 1 0 8z'/></svg>") center/contain no-repeat}
+.acard .thumb--err::after{background:#d39a92}
+.acard .thumb--err{background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23d39a92' d='M21 5h-3.2l-1.2-2H7.4L6.2 5H3a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm-9 11a4 4 0 1 1 0-8 4 4 0 0 1 0 8z'/></svg>");background-size:contain;background-position:center;background-repeat:no-repeat}
+.mtile img.thumb--err{background-color:#f3e3e1;color:transparent!important;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23d7a9a3' d='M21 5h-3.2l-1.2-2H7.4L6.2 5H3a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm-9 11a4 4 0 1 1 0-8 4 4 0 0 1 0 8z'/></svg>");background-size:contain;background-position:center;background-repeat:no-repeat}
+.imgprev-wrap{display:flex;align-items:center;gap:10px;margin:4px 0 2px}
+.imgprev-cap{font-size:.74rem;color:var(--muted);flex:0 0 auto}
+.imgprev{display:none;width:96px;height:64px;border-radius:8px;object-fit:cover;background:#eee;border:1px solid var(--line)}
+.imgprev--err{filter:grayscale(1);opacity:.5}
+.acard .info{flex:1;min-width:0}
+.acard .info b{font-size:.92rem;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.acard .info span{font-size:.74rem;color:var(--muted)}
+.acard .acts{display:flex;gap:6px;flex:0 0 auto}
+.pill{font-size:.66rem;padding:2px 8px;border-radius:20px;margin-left:6px;vertical-align:middle}
+.pill--draft{background:#fbe9e7;color:var(--danger)}
+.pill--pub{background:#e6f4ec;color:var(--ok)}
+.pill--feat{background:#fbf0db;color:var(--gold)}
+
+/* forms */
+.field{margin-bottom:13px}
+.field>label{display:block;font-size:.78rem;color:var(--muted);margin-bottom:5px}
+.input,.textarea,select.input{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:16px;font-family:inherit;background:#fff;color:var(--ink)}
+.textarea{resize:vertical;min-height:170px;line-height:1.5}
+.input:focus,.textarea:focus{outline:none;border-color:var(--accent)}
+.dual{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:760px){.dual{grid-template-columns:1fr}}
+.dual .col h4{margin:0 0 6px;font-size:.82rem;color:var(--accent);display:flex;align-items:center;gap:6px}
+.preview{border:1px dashed var(--line);border-radius:10px;padding:12px;min-height:170px;background:#fdfaf5;overflow:auto;font-size:.9rem}
+.preview h1,.preview h2,.preview h3{margin:.6em 0 .3em}
+.preview blockquote{margin:.6em 0;padding:.4em .9em;border-left:3px solid var(--gold);color:var(--muted);background:#fbf6ec}
+.preview code{background:#f1ece4;padding:1px 5px;border-radius:4px;font-size:.86em}
+.preview a{color:var(--accent)}
+.hint{font-size:.74rem;color:var(--muted);margin-top:4px}
+.refrow{display:grid;grid-template-columns:1.2fr 2fr 1fr;gap:6px;margin-bottom:7px}
+@media(max-width:760px){.refrow{grid-template-columns:1fr}}
+
+/* media */
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px}
+.mtile{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.mtile img{width:100%;height:104px;object-fit:cover;display:block;background:#eee}
+.mtile .cap{padding:8px 9px;font-size:.74rem}
+.mtile .cap b{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mtile .cap span{color:var(--muted)}
+.mtile .acts{display:flex;border-top:1px solid var(--line)}
+.mtile .acts button{flex:1;border:none;background:#fff;padding:8px;font-size:.76rem;color:var(--muted)}
+.mtile .acts button:hover{color:var(--accent);background:#fbf6ec}
+
+/* settings */
+.setrow{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.setrow:last-child{border-bottom:none}
+.setrow .lab b{font-size:.9rem}
+.setrow .lab span{display:block;font-size:.74rem;color:var(--muted);max-width:62ch}
+.toggle{width:46px;height:26px;border-radius:20px;background:#d9d2c6;position:relative;flex:0 0 auto;transition:.2s;border:none}
+.toggle.on{background:var(--jade)}
+.toggle::after{content:"";position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:#fff;transition:.2s}
+.toggle.on::after{left:23px}
+.progress{height:8px;background:#f1ece4;border-radius:8px;overflow:hidden;margin-top:10px;display:none}
+.progress.show{display:block}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),var(--gold));transition:width .25s}
+
+/* modal */
+.mask{position:fixed;inset:0;background:rgba(30,22,14,.5);z-index:60;display:none;align-items:flex-end;justify-content:center}
+.mask.show{display:flex}
+.modal{background:#fff;border-radius:18px 18px 0 0;width:100%;max-width:760px;max-height:92vh;overflow:auto;padding:18px 18px calc(20px + env(safe-area-inset-bottom));box-shadow:0 -10px 40px rgba(0,0,0,.2)}
+@media(min-width:680px){.mask{align-items:center}.modal{border-radius:18px}}
+.modal h3{margin:0 0 14px;font-size:1.08rem;display:flex;align-items:center;gap:8px}
+.modal .x{margin-left:auto;border:none;background:transparent;font-size:1.4rem;color:var(--muted);line-height:1;padding:4px 8px}
+.notice{position:fixed;left:50%;bottom:22px;transform:translateX(-50%) translateY(20px);background:var(--ink);color:#fff;padding:11px 18px;border-radius:11px;font-size:.85rem;opacity:0;transition:.25s;z-index:80;box-shadow:var(--sh);max-width:90vw}
+.notice.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.section-title{display:flex;align-items:center;gap:8px;margin:22px 0 4px;font-size:1.1rem}
+.section-title svg{width:20px;height:20px;color:var(--accent)}
+.warnbox{background:#fbf0db;border:1px solid #ecd9b0;color:#7a5a16;border-radius:11px;padding:11px 13px;font-size:.82rem;margin-top:12px}
+kbd{background:#f1ece4;border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:.78em}
+/* 发布确认清单 */
+.pfile{display:flex;align-items:center;gap:10px;padding:8px 10px;border:1px solid var(--line);border-radius:10px;font-size:.84rem}
+.pfile .fi{width:8px;height:8px;border-radius:2px;flex:0 0 auto}
+.pfile .pname{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.78rem;color:var(--ink)}
+.pfile .ptag{font-size:.66rem;padding:2px 7px;border-radius:20px;flex:0 0 auto;white-space:nowrap}
+.ptag--new{background:#e6f4ec;color:var(--ok)}
+.ptag--upd{background:#fbf0db;color:var(--gold)}
+.ptag--draft{background:#fbe9e7;color:var(--danger)}
+.ptag--pub{background:#eef1f6;color:#566b8a}
+#publishFileList{max-height:42vh;overflow:auto;padding-right:2px}
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar__in">
+    <div class="brand">
+      <span class="logo">
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M9 20v-6h6v6"/></svg>
+      </span>
+      <span>内容管理工作台<small>东南亚观察 · 单人运营</small></span>
+    </div>
+    <div class="topact">
+      <button class="btn btn--sm" id="btnExport" title="导出全部数据 JSON 备份">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M8 11l4 4 4-4"/><path d="M4 19h16"/></svg>导出
+      </button>
+      <button class="btn btn--sm" id="btnImport" title="从 JSON 备份恢复">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21V9"/><path d="M8 13l4-4 4 4"/><path d="M4 5h16"/></svg>导入
+      </button>
+      <button class="btn btn--primary btn--sm" id="btnPublish" title="推送到 GitHub 并触发部署">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5"/><path d="M5 12l7-7 7 7"/></svg>发布
+      </button>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab is-active" data-view="dashboard">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3h8v8H3z"/><path d="M13 3h8v5h-8z"/><path d="M13 11h8v10h-8z"/><path d="M3 13h8v8H3z"/></svg>看板
+  </button>
+  <button class="tab" data-view="articles">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>文章
+  </button>
+  <button class="tab" data-view="media">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="2"/><path d="M21 16l-5-5L5 20"/></svg>图片
+  </button>
+  <button class="tab" data-view="settings">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19 12a7 7 0 0 0-.1-1.3l2-1.5-2-3.4-2.3 1a7 7 0 0 0-2.2-1.3L14 3h-4l-.4 2.5A7 7 0 0 0 7.4 6.8l-2.3-1-2 3.4 2 1.5A7 7 0 0 0 5 12c0 .4 0 .9.1 1.3l-2 1.5 2 3.4 2.3-1a7 7 0 0 0 2.2 1.3L10 21h4l.4-2.5a7 7 0 0 0 2.2-1.3l2.3 1 2-3.4-2-1.5c.1-.4.1-.9.1-1.3z"/></svg>设置
+  </button>
+</nav>
+
+<div class="wrap">
+
+  <!-- 今天要处理 -->
+  <section class="today" id="todayBox" style="margin-top:16px">
+    <h2>
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l9 4v6c0 5-3.5 8-9 10-5.5-2-9-5-9-10V6z"/></svg>
+      今天要处理
+    </h2>
+    <p class="sub">逾期草稿、待发布与近截止内容会在此置顶，直到你处理为止。</p>
+    <div class="today__list" id="todayList"></div>
+  </section>
+
+  <!-- 看板 -->
+  <section class="view is-active" id="view-dashboard">
+    <div class="grid cards-3" id="statCards"></div>
+
+    <div class="grid cards-2" style="margin-top:14px">
+      <div class="panel">
+        <h3>内容分类分布 <span class="badge">按 category</span></h3>
+        <div id="catChart"></div>
+      </div>
+      <div class="panel">
+        <h3>国别 / 地区覆盖 <span class="badge">按 country</span></h3>
+        <div id="countryChart"></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3>
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l5-5 4 4 8-8"/><path d="M21 8v5h-5"/></svg>
+        真实访客统计 <span class="badge">GoatCounter</span>
+      </h3>
+      <div id="gcPanel">
+        <div class="empty">尚未配置 GoatCounter。进入「设置」填入站点域名与 API Key 后，即可在此查看真实 PV / UV、热门页面与来源。</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 文章 -->
+  <section class="view" id="view-articles">
+    <div class="row row--between">
+      <h2 class="section-title" style="margin:6px 0">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>文章管理
+      </h2>
+      <button class="btn btn--primary btn--sm" id="btnNewArticle">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>新建文章
+      </button>
+    </div>
+    <div class="list" id="articleList" style="margin-top:12px"></div>
+  </section>
+
+  <!-- 图片 -->
+  <section class="view" id="view-media">
+    <div class="row row--between">
+      <h2 class="section-title" style="margin:6px 0">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="2"/><path d="M21 16l-5-5L5 20"/></svg>图片库
+      </h2>
+      <label class="btn btn--primary btn--sm">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>上传图片
+        <input type="file" id="mediaInput" accept="image/*" multiple hidden>
+      </label>
+    </div>
+    <p class="hint" style="margin:8px 2px">上传图片自动压缩到宽度 800px；关联文章后会随「发布」一并推送到站点 <kbd>images/articles/</kbd>。最多保留 9 张。</p>
+    <div class="mgrid" id="mediaGrid" style="margin-top:10px"></div>
+  </section>
+
+  <!-- 设置 -->
+  <section class="view" id="view-settings">
+    <div class="panel">
+      <h3>
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l-6-6 6-6"/><path d="M3 12h12"/><path d="M15 6l6 6-6 6"/><path d="M21 12H9"/></svg>
+        GitHub 同步（拉取 / 一键发布）
+      </h3>
+      <div class="field"><label>仓库 (owner/repo)</label><input class="input" id="setRepo" placeholder="duncanondunk/southeast-asia-observer"></div>
+      <div class="field"><label>分支</label><input class="input" id="setBranch" value="main"></div>
+      <div class="field"><label>Personal Access Token（仅存你浏览器本地，不会上传到任何服务器）</label><input class="input" id="setToken" type="password" placeholder="ghp_... 或 github_pat_..."></div>
+      <div class="row" style="margin-top:4px">
+        <button class="btn" id="btnPull">
+          <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21V7"/><path d="M8 13l4 4 4-4"/><path d="M4 5h16"/></svg>从 GitHub 拉取现有站点
+        </button>
+        <button class="btn btn--primary" id="btnPush">
+          <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5"/><path d="M8 11l4-4 4 4"/><path d="M4 19h16"/></svg>推送到 GitHub（发布）
+        </button>
+      </div>
+      <div class="progress" id="pushProgress"><i></i></div>
+      <p class="hint" id="syncHint">提示：首次使用先「拉取」加载你真实的 9 篇文章；编辑后「推送」即覆盖式发布并触发 Vercel 部署。</p>
+    </div>
+
+    <div class="panel">
+      <h3>
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>
+        封面图显示设置
+      </h3>
+      <div class="field"><label>站点根地址（用于解析相对封面图路径）</label><input class="input" id="setSite" placeholder="https://9504b8d136b54114b6755f4c12541449.gz1.agentos-app.net"></div>
+      <p class="hint">封面图以相对路径（如 images/articles/xxx.jpg）存储，在管理台独立域名下无法直接显示。填入站点线上根地址后，封面会自动拼成绝对链接正常显示。留空则使用默认地址（当前为国内可访问的主站 CloudStudio 域名，避免 Vercel 海外域名在大陆被墙导致封面裂图）。</p>
+    </div>
+
+    <div class="panel">
+      <h3>
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l5-5 4 4 8-8"/><path d="M21 8v5h-5"/></svg>
+        真实访客统计（GoatCounter）
+      </h3>
+      <div class="field"><label>站点域名（不含 .goatcounter.com）</label><input class="input" id="setGcDomain" placeholder="sea-observer"></div>
+      <div class="field"><label>API Key（设置 → Site → API）</label><input class="input" id="setGcKey" type="password" placeholder="gc-api-..."></div>
+      <div class="field"><label>统计代码域名（用于注入到网站，通常与上面相同）</label><input class="input" id="setGcCode" placeholder="sea-observer"></div>
+      <div class="setrow">
+        <div class="lab"><b>发布时自动注入统计代码</b><span>推送文章时，会把 GoatCounter 计数脚本写入 5 个页面（仅注入一次，不会重复）。</span></div>
+        <button class="toggle" id="tgInject" aria-label="toggle"></button>
+      </div>
+      <div class="row" style="margin-top:6px">
+        <button class="btn" id="btnGcTest">测试并拉取近一周数据</button>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3>
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M8 6V4h8v2M6 6l1 14h10l1-14"/></svg>
+        本地数据与备份
+      </h3>
+      <div class="row">
+        <button class="btn" id="btnExport2">导出 JSON 备份</button>
+        <button class="btn" id="btnImport2">导入恢复</button>
+        <input type="file" id="importFile" accept="application/json" hidden>
+        <button class="btn btn--danger" id="btnClear">清空示例 / 全部数据</button>
+      </div>
+      <p class="hint">数据保存在你浏览器的 localStorage（键名 <kbd>wb_sea_dashboard_v1</kbd>）。换设备/换浏览器不会同步，请定期导出备份。</p>
+      <div class="field" style="margin-top:14px">
+        <label>从 GitHub 仓库 ZIP 导入（绕开网络直连）</label>
+        <p class="hint">在 GitHub 网页点「Code → Download ZIP」下载，再在此上传，自动解析 data/articles.json 与 articles/*.md 并合并进工作台。适合代理不稳、直连 api.github.com 失败时兜底使用。</p>
+      </div>
+      <div class="row">
+        <button class="btn" id="btnZip">
+          <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M8 11l4 4 4-4"/><path d="M4 19h16"/></svg>选择 ZIP 文件导入
+        </button>
+        <input type="file" id="zipFile" accept=".zip,application/zip" hidden>
+        <span class="small muted" id="zipStatus"></span>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<!-- 文章编辑抽屉 -->
+<div class="mask" id="editorMask">
+  <div class="modal">
+    <h3>
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L20 8l-4-4L4 16z"/></svg>
+      <span id="editorTitle">编辑文章</span>
+      <button class="x" id="editorClose">&times;</button>
+    </h3>
+    <div class="field"><label>Slug（URL 标识，英文短横，唯一）</label><input class="input" id="fSlug" placeholder="my-article-slug"></div>
+    <div class="dual">
+      <div class="col">
+        <h4>中文</h4>
+        <div class="field"><label>标题</label><input class="input" id="fTitleZh"></div>
+        <div class="field"><label>副标题</label><input class="input" id="fSubZh"></div>
+        <div class="field"><label>摘要</label><textarea class="textarea" id="fSumZh" style="min-height:90px"></textarea></div>
+        <div class="field"><label>正文（Markdown）</label><textarea class="textarea" id="fBodyZh"></textarea></div>
+      </div>
+      <div class="col">
+        <h4>English</h4>
+        <div class="field"><label>Title</label><input class="input" id="fTitleEn"></div>
+        <div class="field"><label>Subtitle</label><input class="input" id="fSubEn"></div>
+        <div class="field"><label>Summary</label><textarea class="textarea" id="fSumEn" style="min-height:90px"></textarea></div>
+        <div class="field"><label>Body (Markdown)</label><textarea class="textarea" id="fBodyEn"></textarea></div>
+        <div class="field"><label>实时预览</label><div class="preview" id="prevEn"></div></div>
+      </div>
+    </div>
+    <div class="dual" style="margin-top:4px">
+      <div class="col">
+        <h4>元数据</h4>
+        <div class="field"><label>分类（中文）</label><input class="input" id="fCatZh" placeholder="地缘政治"></div>
+        <div class="field"><label>分类（English）</label><input class="input" id="fCatEn" placeholder="Geopolitics"></div>
+        <div class="field"><label>国别 / 地区（中）</label><input class="input" id="fCountryZh" placeholder="菲律宾"></div>
+        <div class="field"><label>国别 / 地区（En）</label><input class="input" id="fCountryEn" placeholder="Philippines"></div>
+        <div class="field"><label>标签（逗号分隔）</label><input class="input" id="fTags" placeholder="地缘政治, 南海"></div>
+        <div class="field"><label>日期 (YYYY-MM-DD)</label><input class="input" id="fDate" type="date"></div>
+        <div class="row">
+          <label class="row" style="gap:6px;font-size:.82rem"><input type="checkbox" id="fDraft"> 草稿（待发布）</label>
+          <label class="row" style="gap:6px;font-size:.82rem"><input type="checkbox" id="fFeat"> 首页精选</label>
+        </div>
+      </div>
+      <div class="col">
+        <h4>封面与来源</h4>
+        <div class="field"><label>图片路径</label><input class="input" id="fImgPath" placeholder="images/articles/xxx.jpg"></div>
+        <div class="imgprev-wrap"><span class="imgprev-cap">封面预览</span><img id="fImgPreview" class="imgprev" alt="" onerror="this.classList.add('imgprev--err')" onload="this.classList.remove('imgprev--err')"></div>
+        <div class="field"><label>图片来源（如 Pexels）</label><input class="input" id="fImgCredit"></div>
+        <div class="field"><label>访问日期</label><input class="input" id="fImgAcc" placeholder="2026-08-06"></div>
+        <div class="field"><label>Alt 中文</label><input class="input" id="fImgAltZh"></div>
+        <div class="field"><label>Alt English</label><input class="input" id="fImgAltEn"></div>
+        <h4 style="margin-top:10px">参考来源（1–3 条）</h4>
+        <div id="refEditor"></div>
+        <button class="btn btn--sm" id="btnAddRef">+ 添加来源</button>
+      </div>
+    </div>
+    <div class="row row--between" style="margin-top:16px;border-top:1px solid var(--line);padding-top:14px">
+      <button class="btn btn--danger btn--sm" id="btnDeleteArticle">删除此文章</button>
+      <div class="row">
+        <button class="btn" id="btnCancelEdit">取消</button>
+        <button class="btn btn--primary" id="btnSaveArticle">保存文章</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 确认弹窗 -->
+<div class="mask" id="confirmMask">
+  <div class="modal" style="max-width:420px">
+    <h3 id="confirmTitle">确认操作</h3>
+    <p class="small" id="confirmText" style="margin:0 0 16px"></p>
+    <div class="row" style="justify-content:flex-end;gap:8px">
+      <button class="btn" id="confirmCancel">取消</button>
+      <button class="btn btn--danger" id="confirmOk">确认</button>
+    </div>
+  </div>
+</div>
+
+<!-- 发布确认清单 -->
+<div class="mask" id="publishMask">
+  <div class="modal" style="max-width:560px">
+    <h3>
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3 8-8"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+      发布确认清单
+    </h3>
+    <p class="small muted" id="publishSummary" style="margin:0 0 10px"></p>
+    <div class="warnbox" id="publishDraftWarn" style="display:none"></div>
+    <div class="panel" style="margin-top:12px;padding:13px 14px">
+      <h3 style="font-size:.95rem;margin-bottom:10px">将推送的文件 <span class="badge" id="publishFileCount"></span></h3>
+      <div class="list" id="publishFileList"></div>
+    </div>
+    <div class="row" style="justify-content:flex-end;gap:8px;margin-top:14px">
+      <button class="btn" id="publishCancel">再想想</button>
+      <button class="btn btn--primary" id="publishConfirm">确认发布</button>
+    </div>
+  </div>
+</div>
+
+<div class="notice" id="notice"></div>
+
+<script>
+(function(){
+  "use strict";
+  var LS_KEY = "wb_sea_dashboard_v1";
+  var $ = function(s,r){return (r||document).querySelector(s);};
+  var $$ = function(s,r){return Array.prototype.slice.call((r||document).querySelectorAll(s));};
+
+  /* ---------- 工具 ---------- */
+  function escapeHtml(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+  function debounce(fn,ms){var t;return function(){var a=arguments,c=this;clearTimeout(t);t=setTimeout(function(){fn.apply(c,a);},ms);};}
+  function notice(msg){var n=$("#notice");n.textContent=msg;n.classList.add("show");clearTimeout(n._t);n._t=setTimeout(function(){n.classList.remove("show");},2600);}
+  function todayStr(){var d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
+  function daysBetween(a,b){var d1=new Date(a),d2=new Date(b);return Math.round((d2-d1)/86400000);}
+  function b64encode(str){return btoa(unescape(encodeURIComponent(str)));}
+  function b64decode(b64){try{return decodeURIComponent(escape(atob(b64)));}catch(e){return "";}}
+  /* 站点根地址默认值：部署版工作台通过该地址解析相对图路径。
+     用国内可访问的主站 CloudStudio 地址，确保封面图在大陆能加载（Vercel 海外域名在大陆被墙） */
+  var DEFAULT_SITE="https://9504b8d136b54114b6755f4c12541449.gz1.agentos-app.net";
+  /* 把相对图路径（images/articles/x.jpg）解析成站点绝对 URL；
+     data: 与 http(s): 已绝对的直接返回；siteBase 为空时回退到 DEFAULT_SITE */
+  function absUrl(path){
+    if(!path) return "";
+    if(/^(https?:|\/\/|data:)/i.test(path)) return path;
+    var base=(state.settings&&state.settings.siteBase?state.settings.siteBase:DEFAULT_SITE)||"";
+    base=base.replace(/\/+$/,"");
+    if(!base) return path;
+    return base+"/"+String(path).replace(/^\/+/,"");
+  }
+
+  /* 极简 markdown 渲染（预览用，已转义） */
+  function renderMd(md){
+    if(!md) return "";
+    var esc = escapeHtml(md);
+    var lines = esc.split(/\n/);
+    var html = [], i=0, inQuote=false, inList=false;
+    function closeList(){if(inList){html.push("</ul>");inList=false;}}
+    function closeQuote(){if(inQuote){html.push("</blockquote>");inQuote=false;}}
+    for(i=0;i<lines.length;i++){
+      var line = lines[i];
+      if(/^\s*===EN===\s*$/.test(line)){closeList();closeQuote();continue;}
+      var h = line.match(/^(#{1,3})\s+(.*)$/);
+      if(h){closeList();closeQuote();var lvl=h[1].length;html.push("<h"+lvl+">"+inline(h[2])+"</h"+lvl+">");continue;}
+      if(/^---\s*$/.test(line)){closeList();closeQuote();html.push("<hr>");continue;}
+      if(/^>\s?/.test(line)){if(!inQuote){html.push("<blockquote>");inQuote=true;}html.push("<p>"+inline(line.replace(/^>\s?/,""))+"</p>");continue;}
+      else closeQuote();
+      var li = line.match(/^[-*]\s+(.*)$/);
+      if(li){if(!inList){html.push("<ul>");inList=true;}html.push("<li>"+inline(li[1])+"</li>");continue;}
+      else closeList();
+      if(line.trim()===""){continue;}
+      html.push("<p>"+inline(line)+"</p>");
+    }
+    closeList();closeQuote();
+    return html.join("");
+  }
+  function inline(s){
+    return s
+      .replace(/`([^`]+)`/g,function(_,c){return "<code>"+c+"</code>";})
+      .replace(/\*\*([^*]+)\*\*/g,"<strong>$1</strong>")
+      .replace(/\*([^*]+)\*/g,"<em>$1</em>")
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g,function(_,t,u){return '<a href="'+u+'" target="_blank" rel="noopener">'+t+'</a>';});
+  }
+
+  /* ---------- 状态 ---------- */
+  var state = { articles:[], media:[], settings:{}, meta:{} };
+  function load(){
+    try{var raw=localStorage.getItem(LS_KEY);if(raw){var s=JSON.parse(raw);state.articles=s.articles||[];state.media=s.media||[];state.settings=s.settings||{};state.meta=s.meta||{};}}catch(e){}
+    if(!state.articles.length){ seedDemo(); }
+  }
+  function save(){ try{localStorage.setItem(LS_KEY,JSON.stringify(state));}catch(e){notice("保存失败：本地存储可能已满");} }
+
+  function seedDemo(){
+    state.articles = [
+      { slug:"demo-ai-energy", title:"示例：训完AI反被取代", subtitle:"东南亚的不对称跃迁", category:"经济产业", tags:["经济产业","科技"], country:"东南亚",
+        date:todayStr(), readingTime:8, featured:false, draft:true,
+        summary:"（示例）菲律宾员工训练了取代自己的模型。",
+        en:{title:"Sample: Training the Replacements",subtitle:"Lopsided leap",category:"Economy & Industry",country:"Southeast Asia",summary:"(sample)",imageAlt:"sample"},
+        image:"images/articles/demo-ai-energy.jpg", imageCredit:"Pexels", imageAccessed:todayStr(), imageAlt:"示例图",
+        _zhBody:"近日，菲律宾员工参与训练 AI 系统后被裁，自叹“像自掘坟墓”。与此同时，中东战事推高能源风险，东南亚加速转向太阳能。两则新闻共同指向该地区在全球经济中“向上供给、向下承受”的不对称位置。",
+        _enBody:"Recently, Filipino workers who helped train an AI system were laid off. Meanwhile, Gulf conflict raises energy risk and Southeast Asia races to solar.",
+        references:[{source:"Zaobao",title:"sample",url:"https://www.zaobao.com.sg",date:todayStr()}] },
+      { slug:"demo-zhenghe", title:"示例：郑和清真寺", subtitle:"离散与归属", category:"华侨华人", tags:["华侨华人","历史"], country:"印尼",
+        date:todayStr(), readingTime:8, featured:false, draft:false,
+        summary:"（示例）泗水的郑和清真寺。",
+        en:{title:"Sample: Zheng He Mosque",subtitle:"Belonging",category:"Overseas Chinese",country:"Indonesia",summary:"(sample)",imageAlt:"sample"},
+        image:"images/articles/demo-zhenghe.jpg", imageCredit:"Pexels", imageAccessed:todayStr(), imageAlt:"示例图",
+        _zhBody:"印尼泗水的郑和清真寺把中式飞檐、爪哇传统与伊斯兰元素熔于一炉，是华侨华人在穆斯林多数国家协商归属的物质论辩。",
+        _enBody:"Surabaya's Zheng He Mosque fuses Chinese eaves, Javanese tradition, and Islamic worship into a single structure.",
+        references:[] },
+      { slug:"demo-overdue", title:"示例：待发布的湄公河观察", subtitle:"（这条已逾期）", category:"气候变化", tags:["气候变化"], country:"湄公河流域",
+        date:(function(){var d=new Date();d.setDate(d.getDate()-5);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");})(),
+        readingTime:10, featured:false, draft:true,
+        summary:"（示例）逾期草稿，应在今天处理。",
+        en:{title:"Sample: Mekong (overdue)",subtitle:"",category:"Climate Change",country:"Mekong Basin",summary:"(sample)",imageAlt:"sample"},
+        image:"images/articles/demo-mekong.jpg", imageCredit:"Pexels", imageAccessed:todayStr(), imageAlt:"示例图",
+        _zhBody:"上游筑坝、下游干涸——湄公河的旱涝交替，是气候变暖与水电开发叠加的结果，也是六国博弈的缩影。",
+        _enBody:"Upstream dams, downstream dry spells — the Mekong's alternating droughts and floods mirror six-nation contention.",
+        references:[] }
+    ];
+    save();
+  }
+
+  function findArticle(slug){return state.articles.filter(function(a){return a.slug===slug;})[0];}
+
+  /* ---------- 今天要处理 ---------- */
+  function renderToday(){
+    var list=$("#todayList");list.innerHTML="";
+    var items=[];
+    state.articles.forEach(function(a){
+      var due=a.date, isDraft=a.draft;
+      if(isDraft){
+        var diff=daysBetween(todayStr(),due);
+        if(diff<0) items.push({a:a,type:"over",label:"逾期草稿 · 已拖 "+Math.abs(diff)+" 天"});
+        else if(diff===0) items.push({a:a,type:"due",label:"今天截止 · 待发布"});
+        else items.push({a:a,type:"todo",label:"计划 "+due+" 发布"});
+      }
+    });
+    if(!items.length){list.innerHTML='<div class="empty">暂无待处理项。所有草稿都已发布 ✦</div>';return;}
+    items.forEach(function(it){
+      var dot = it.type==="over"?"dot--over":(it.type==="due"?"dot--due":"dot--todo");
+      var el=document.createElement("div");el.className="titem"+(it.type==="over"?" over":"");
+      el.innerHTML='<span class="dot '+dot+'"></span><div class="meta"><b>'+escapeHtml(it.a.title)+'</b><span>'+it.label+'</span></div>'+
+        '<button class="btn btn--sm btn--primary" data-go="'+escapeHtml(it.a.slug)+'">去处理</button>';
+      list.appendChild(el);
+    });
+    $$("#todayList [data-go]").forEach(function(b){b.onclick=function(){openEditor(b.getAttribute("data-go"));};});
+  }
+
+  /* ---------- 看板 ---------- */
+  function renderDashboard(){
+    var arts=state.articles;
+    var total=arts.length;
+    var drafts=arts.filter(function(a){return a.draft;}).length;
+    var words=arts.reduce(function(s,a){return s+((a.summary||"").length)+((a.en&&a.en.summary||"").length)+((a._zhLen)||0);},0);
+    var feat=arts.filter(function(a){return a.featured;}).length;
+    var cards=[
+      {k:"文章总数",v:total,sub:"篇"},
+      {k:"草稿 / 待发布",v:drafts,sub:"篇",c:"var(--warn)"},
+      {k:"首页精选",v:feat,sub:"篇",c:"var(--gold)"},
+      {k:"最近更新",v:(arts.length?recentDate():""),sub:"",c:"var(--jade)"},
+      {k:"覆盖国别",v:countries().length,sub:"个",c:"var(--accent)"},
+      {k:"参考来源",v:arts.reduce(function(s,a){return s+(a.references?a.references.length:0);},0),sub:"条"}
+    ];
+    $("#statCards").innerHTML=cards.map(function(c){
+      return '<div class="stat"><div class="k">'+c.k+'</div><div class="v" style="'+(c.c?'color:'+c.c:'')+'">'+c.v+(c.sub?' <small>'+c.sub+'</small>':'')+'</div></div>';
+    }).join("");
+
+    renderPie($("#catChart"), groupCount(arts,"category"), palette());
+    renderBars($("#countryChart"), groupCount(arts,"country"));
+
+    // GoatCounter
+    var s=state.settings;
+    if(s.gcDomain && s.gcKey){ loadGC(); }
+    else { $("#gcPanel").innerHTML='<div class="empty">尚未配置 GoatCounter。进入「设置」填入站点域名与 API Key 后，即可在此查看真实 PV / UV、热门页面与来源。</div>'; }
+  }
+  function recentDate(){var d=state.articles.map(function(a){return a.date;}).sort().reverse()[0];return d||"—";}
+  function countries(){var m={};state.articles.forEach(function(a){var c=a.country||"未知";m[c]=(m[c]||0)+1;});return Object.keys(m);}
+  function groupCount(arr,key){var m={};arr.forEach(function(a){var k=(a[key]||"未分类");m[k]=(m[k]||0)+1;});return Object.keys(m).map(function(k){return {label:k,value:m[k]};}).sort(function(x,y){return y.value-x.value;});}
+  function palette(){return ["#a8401f","#c98a2b","#1d5b4e","#7a8c54","#9c6b4f","#566b8a","#b07b9c","#c2a25a"];}
+
+  function renderPie(box,data,colors){
+    if(!data.length){box.innerHTML='<div class="empty">暂无数据</div>';return;}
+    var total=data.reduce(function(s,d){return s+d.value;},0);
+    var R=54,C=64,circ=2*Math.PI*R,off=0;
+    var segs="",leg="";
+    data.forEach(function(d,i){
+      var frac=d.value/total, len=frac*circ;
+      var col=colors[i%colors.length];
+      segs+='<circle cx="'+C+'" cy="'+C+'" r="'+R+'" fill="none" stroke="'+col+'" stroke-width="22" '+
+        'stroke-dasharray="'+len+' '+(circ-len)+'" stroke-dashoffset="'+(-off)+'" transform="rotate(-90 '+C+' '+C+')"></circle>';
+      off+=len;
+      leg+='<span><i style="background:'+col+'"></i>'+escapeHtml(d.label)+' '+d.value+'</span>';
+    });
+    box.innerHTML='<svg class="chart" width="160" height="160" viewBox="0 0 128 128">'+segs+
+      '<text x="64" y="60" text-anchor="middle" font-size="20" font-weight="700" fill="var(--ink)">'+total+'</text>'+
+      '<text x="64" y="76" text-anchor="middle" font-size="10" fill="var(--muted)">篇</text></svg>'+
+      '<div class="legend">'+leg+'</div>';
+  }
+  function renderBars(box,data){
+    if(!data.length){box.innerHTML='<div class="empty">暂无数据</div>';return;}
+    var max=Math.max.apply(null,data.map(function(d){return d.value;}));
+    box.innerHTML=data.map(function(d){
+      return '<div class="bar"><span class="lab">'+escapeHtml(d.label)+'</span><span class="track"><span class="fill" style="width:'+(d.value/max*100)+'%"></span></span><span class="num">'+d.value+'</span></div>';
+    }).join("");
+  }
+
+  /* ---------- GoatCounter ---------- */
+  function gcHeaders(){var h={"Authorization":"Bearer "+state.settings.gcKey,"Accept":"application/json"};return h;}
+  function loadGC(){
+    var dom=state.settings.gcDomain;
+    $("#gcPanel").innerHTML='<div class="empty">正在拉取近一周访客数据…</div>';
+    Promise.all([
+      fetch("https://"+dom+".goatcounter.com/api/v0/stats/hits?period=week").then(function(r){return r.ok?r.json():null;}),
+      fetch("https://"+dom+".goatcounter.com/api/v0/stats/pages?period=week&limit=6").then(function(r){return r.ok?r.json():null;}),
+      fetch("https://"+dom+".goatcounter.com/api/v0/stats/referrers?period=week&limit=6").then(function(r){return r.ok?r.json():null;})
+    ]).then(function(res){
+      var hits=res[0],pages=res[1],refs=res[2];
+      var total = hits && (hits.count || (hits.stats&&hits.stats.reduce(function(s,x){return s+(x.count||0);},0)) || 0);
+      var html='<div class="grid cards-3" style="margin-bottom:12px">'+
+        '<div class="stat"><div class="k">近一周浏览</div><div class="v">'+fmt(total)+'</div></div>'+
+        '<div class="stat"><div class="k">日均</div><div class="v">'+fmt(Math.round(total/7))+'</div></div>'+
+        '<div class="stat"><div class="k">热门页面数</div><div class="v">'+fmt((pages&&pages.stats?pages.stats.length:0))+'</div></div>'+
+        '</div>';
+      html+='<div class="grid cards-2">';
+      html+='<div><h4 class="small" style="margin:4px 0">热门页面</h4>'+(pages&&pages.stats?pages.stats.slice(0,6).map(function(p){return bar(p.name||p.path||"?",p.count||0);}).join(""):'<div class="empty">无</div>')+'</div>';
+      html+='<div><h4 class="small" style="margin:4px 0">来源</h4>'+(refs&&refs.stats?refs.stats.slice(0,6).map(function(r){return bar(r.name||r.ref||"?",r.count||0);}).join(""):'<div class="empty">无</div>')+'</div>';
+      html+='</div>';
+      $("#gcPanel").innerHTML=html;
+    }).catch(function(e){
+      $("#gcPanel").innerHTML='<div class="warnbox">拉取失败：'+escapeHtml(String(e&&e.message||e))+'。请检查域名 / API Key，或确认该站点已有访客数据。</div>';
+    });
+  }
+  function bar(lab,val){return '<div class="bar"><span class="lab" title="'+escapeHtml(lab)+'">'+escapeHtml(lab.length>12?lab.slice(0,11)+"…":lab)+'</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="num">'+fmt(val)+'</span></div>';}
+  function fmt(n){return (n==null?"0":n).toLocaleString("en-US");}
+
+  /* ---------- 文章列表 ---------- */
+  function renderArticles(){
+    var box=$("#articleList");
+    if(!state.articles.length){box.innerHTML='<div class="empty">还没有文章。点「新建文章」或从 GitHub 拉取现有站点。</div>';return;}
+    box.innerHTML=state.articles.slice().sort(function(a,b){return (b.date||"").localeCompare(a.date||"");}).map(function(a){
+      var pill = a.draft?'<span class="pill pill--draft">草稿</span>':(a.featured?'<span class="pill pill--feat">精选</span>':'<span class="pill pill--pub">已发布</span>');
+      return '<div class="acard" data-slug="'+escapeHtml(a.slug)+'">'+
+        (a.image?'<img class="thumb" src="'+escapeHtml(absUrl(a.image))+'" onerror="this.classList.add(\'thumb--err\');this.removeAttribute(\'src\')">':'<div class="thumb thumb--empty"></div>')+
+        '<div class="info"><b>'+escapeHtml(a.title)+pill+'</b><span>'+escapeHtml(a.category||"")+' · '+escapeHtml(a.country||"")+' · '+escapeHtml(a.date||"")+' · '+(a.references?a.references.length:0)+' 条来源</span></div>'+
+        '<div class="acts"><button class="btn btn--sm" data-edit="'+escapeHtml(a.slug)+'">编辑</button></div></div>';
+    }).join("");
+    $$("#articleList [data-edit]").forEach(function(b){b.onclick=function(e){e.stopPropagation();openEditor(b.getAttribute("data-edit"));};});
+    $$("#articleList .acard").forEach(function(c){c.onclick=function(){openEditor(c.getAttribute("data-slug"));};});
+  }
+
+  /* ---------- 文章编辑 ---------- */
+  var editingSlug=null, refBuffer=[];
+  function openEditor(slug){
+    var a = slug?findArticle(slug):null;
+    editingSlug = slug;
+    $("#editorTitle").textContent = slug?"编辑文章":"新建文章";
+    if(a){
+      $("#fSlug").value=a.slug; $("#fSlug").disabled=true;
+      $("#fTitleZh").value=a.title||""; $("#fSubZh").value=a.subtitle||""; $("#fSumZh").value=a.summary||"";
+      $("#fTitleEn").value=(a.en&&a.en.title)||""; $("#fSubEn").value=(a.en&&a.en.subtitle)||""; $("#fSumEn").value=(a.en&&a.en.summary)||"";
+      // 拆分正文
+      var zh=a._zhBody||"", en=a._enBody||"";
+      if(zh===""&&en===""&&a._full){var parts=splitMd(a._full);zh=parts.zh;en=parts.en;}
+      $("#fBodyZh").value=zh; $("#fBodyEn").value=en;
+      $("#fCatZh").value=a.category||""; $("#fCatEn").value=(a.en&&a.en.category)||"";
+      $("#fCountryZh").value=a.country||""; $("#fCountryEn").value=(a.en&&a.en.country)||"";
+      $("#fTags").value=(a.tags||[]).join(", ");
+      $("#fDate").value=a.date||todayStr();
+      $("#fDraft").checked=!!a.draft; $("#fFeat").checked=!!a.featured;
+      $("#fImgPath").value=a.image||""; $("#fImgCredit").value=a.imageCredit||""; $("#fImgAcc").value=a.imageAccessed||"";
+      $("#fImgAltZh").value=a.imageAlt||""; $("#fImgAltEn").value=(a.en&&a.en.imageAlt)||"";
+      refBuffer = (a.references||[]).map(function(r){return {source:r.source||"",title:r.title||"",url:r.url||"",date:r.date||""};});
+      $("#btnDeleteArticle").style.display="";
+    } else {
+      $("#fSlug").value=""; $("#fSlug").disabled=false;
+      $("#fTitleZh").value=""; $("#fSubZh").value=""; $("#fSumZh").value="";
+      $("#fTitleEn").value=""; $("#fSubEn").value=""; $("#fSumEn").value="";
+      $("#fBodyZh").value=""; $("#fBodyEn").value="";
+      $("#fCatZh").value=""; $("#fCatEn").value=""; $("#fCountryZh").value=""; $("#fCountryEn").value="";
+      $("#fTags").value=""; $("#fDate").value=todayStr();
+      $("#fDraft").checked=false; $("#fFeat").checked=false;
+      $("#fImgPath").value="images/articles/new.jpg"; $("#fImgCredit").value=""; $("#fImgAcc").value=todayStr();
+      $("#fImgAltZh").value=""; $("#fImgAltEn").value="";
+      refBuffer=[];
+      $("#btnDeleteArticle").style.display="none";
+    }
+    renderRefs(); updatePreview(); updateImgPreview();
+    $("#editorMask").classList.add("show");
+  }
+  function splitMd(full){
+    if(!full) return {zh:"",en:""};
+    var lines=full.split(/\n/), zh=[],en=[],mode="zh";
+    for(var i=0;i<lines.length;i++){if(/^\s*===EN===\s*$/.test(lines[i])){mode="en";continue;}if(mode==="zh")zh.push(lines[i]);else en.push(lines[i]);}
+    return {zh:zh.join("\n").replace(/^\s*#\s+[^\n]*\n+/,"").trim(), en:en.join("\n").replace(/^\s*#\s+[^\n]*\n+/,"").trim()};
+  }
+  function buildMd(a){
+    var zh="# "+(a.title||"")+"\n\n"+(a._zhBody||"");
+    var en="# "+((a.en&&a.en.title)||"")+"\n\n"+(a._enBody||"");
+    return zh+"\n\n===EN===\n\n"+en;
+  }
+  function updatePreview(){ $("#prevEn").innerHTML = renderMd("# "+($("#fTitleEn").value||"")+"\n\n"+($("#fBodyEn").value||"")); }
+  $("#fBodyEn").addEventListener("input",debounce(updatePreview,200));
+  function updateImgPreview(){
+    var prev=$("#fImgPreview"), p=$("#fImgPath").value.trim();
+    if(!p){prev.style.display="none";return;}
+    prev.style.display="";prev.src=absUrl(p);
+  }
+  $("#fImgPath").addEventListener("input",debounce(updateImgPreview,200));
+
+  function renderRefs(){
+    var box=$("#refEditor");
+    if(!refBuffer.length){box.innerHTML='<p class="hint">暂无来源，点下方添加（建议 1–3 条）。</p>';return;}
+    box.innerHTML=refBuffer.map(function(r,i){
+      return '<div class="refrow"><input class="input" data-ri="'+i+'" data-rf="source" value="'+escapeHtml(r.source)+'" placeholder="来源"><input class="input" data-ri="'+i+'" data-rf="title" value="'+escapeHtml(r.title)+'" placeholder="标题"><input class="input" data-ri="'+i+'" data-rf="url" value="'+escapeHtml(r.url)+'" placeholder="URL"></div>'+
+      '<div class="refrow" style="margin-top:-3px"><input class="input" data-ri="'+i+'" data-rf="date" value="'+escapeHtml(r.date)+'" placeholder="日期" style="grid-column:1/3"><button class="btn btn--sm btn--danger" data-delref="'+i+'">删除</button></div>';
+    }).join("");
+    $$("#refEditor [data-ri]").forEach(function(inp){inp.oninput=function(){refBuffer[+inp.getAttribute("data-ri")][inp.getAttribute("data-rf")]=inp.value;};});
+    $$("#refEditor [data-delref]").forEach(function(b){b.onclick=function(){refBuffer.splice(+b.getAttribute("data-delref"),1);renderRefs();};});
+  }
+  $("#btnAddRef").onclick=function(){if(refBuffer.length>=3){notice("最多 3 条来源");return;}refBuffer.push({source:"",title:"",url:"",date:""});renderRefs();};
+
+  $("#btnSaveArticle").onclick=function(){
+    var slug=$("#fSlug").value.trim();
+    if(!slug){notice("请填写 Slug");return;}
+    if(!/^[a-z0-9-]+$/.test(slug)){notice("Slug 只能含小写字母、数字和短横");return;}
+    var isNew=!findArticle(slug);
+    if(isNew && state.articles.length>=30){/* 允许继续，但提示 */}
+    var a=findArticle(slug)||{};
+    a.slug=slug;
+    a.title=$("#fTitleZh").value.trim(); a.subtitle=$("#fSubZh").value.trim(); a.summary=$("#fSumZh").value.trim();
+    a.en=a.en||{}; a.en.title=$("#fTitleEn").value.trim(); a.en.subtitle=$("#fSubEn").value.trim(); a.en.summary=$("#fSumEn").value.trim();
+    a._zhBody=$("#fBodyZh").value; a._enBody=$("#fBodyEn").value; a._full=buildMd(a);
+    a.category=$("#fCatZh").value.trim(); a.en.category=$("#fCatEn").value.trim();
+    a.country=$("#fCountryZh").value.trim(); a.en.country=$("#fCountryEn").value.trim();
+    a.tags=$("#fTags").value.split(",").map(function(t){return t.trim();}).filter(Boolean);
+    a.date=$("#fDate").value||todayStr();
+    a.draft=$("#fDraft").checked; a.featured=$("#fFeat").checked;
+    a.image=$("#fImgPath").value.trim(); a.imageCredit=$("#fImgCredit").value.trim(); a.imageAccessed=$("#fImgAcc").value.trim();
+    a.imageAlt=$("#fImgAltZh").value.trim(); a.en.imageAlt=$("#fImgAltEn").value.trim();
+    a.references=refBuffer.filter(function(r){return r.title||r.url;}).map(function(r){return {source:r.source,title:r.title,url:r.url,date:r.date};});
+    if(isNew) state.articles.push(a); else { var idx=state.articles.findIndex(function(x){return x.slug===slug;}); state.articles[idx]=a; }
+    save();
+    $("#editorMask").classList.remove("show");
+    renderAll();
+    notice(isNew?"已新建文章":"已保存");
+    if(state.articles.length>=30) notice("数据已积累 "+state.articles.length+" 条，建议导出备份");
+  };
+  $("#btnDeleteArticle").onclick=function(){
+    if(!editingSlug)return;
+    confirmBox("删除文章","确定删除《"+findArticle(editingSlug).title+"》？此操作不可撤销。",function(){
+      state.articles=state.articles.filter(function(a){return a.slug!==editingSlug;});save();$("#editorMask").classList.remove("show");renderAll();notice("已删除");
+    });
+  };
+  $("#editorClose").onclick=closeEditor; $("#btnCancelEdit").onclick=closeEditor;
+  function closeEditor(){$("#editorMask").classList.remove("show");}
+  $("#btnNewArticle").onclick=function(){openEditor(null);};
+
+  /* ---------- 图片库 ---------- */
+  function renderMedia(){
+    var box=$("#mediaGrid");
+    if(!state.media.length){box.innerHTML='<div class="empty">还没有上传图片。点击右上角「上传图片」添加（自动压缩到 800px 宽）。</div>';return;}
+    box.innerHTML=state.media.map(function(m,i){
+      return '<div class="mtile"><img src="'+escapeHtml(m.data||absUrl(m.path))+'" onerror="this.classList.add(\'thumb--err\');this.removeAttribute(\'src\')"><div class="cap"><b>'+escapeHtml(m.slug||"未关联")+'</b><span>'+(m.credit||"")+'</span></div>'+
+        '<div class="acts"><button data-link="'+i+'">关联文章</button><button data-del="'+i+'">删除</button></div></div>';
+    }).join("");
+    $$("#mediaGrid [data-del]").forEach(function(b){b.onclick=function(){state.media.splice(+b.getAttribute("data-del"),1);save();renderMedia();};});
+    $$("#mediaGrid [data-link]").forEach(function(b){b.onclick=function(){linkMedia(+b.getAttribute("data-link"));};});
+  }
+  function linkMedia(i){
+    var m=state.media[i];
+    var opts=state.articles.map(function(a){return a.slug;}).join("\n");
+    var slug=prompt("输入要关联的文章 Slug（回车留空表示仅本地保存）：\n可选：\n"+opts, m.slug||"");
+    if(slug===null)return;
+    slug=slug.trim();
+    m.slug=slug;
+    if(slug && findArticle(slug)){
+      var a=findArticle(slug);
+      var fname="images/articles/"+slug+".jpg";
+      a.image=fname; a.imageCredit=m.credit||a.imageCredit; a.imageAccessed=m.accessed||todayStr();
+      m.path=fname;
+      notice("已关联到《"+a.title+"》");
+    }
+    save();renderMedia();renderArticles();
+  }
+  function compressImage(file,maxW,cb){
+    var fr=new FileReader();
+    fr.onload=function(){
+      var img=new Image();
+      img.onload=function(){
+        var w=img.width,h=img.height,scale=Math.min(1,maxW/w);
+        var cw=Math.round(w*scale),ch=Math.round(h*scale);
+        var cv=document.createElement("canvas");cv.width=cw;cv.height=ch;
+        cv.getContext("2d").drawImage(img,0,0,cw,ch);
+        cb(cv.toDataURL("image/jpeg",0.82));
+      };
+      img.src=fr.result;
+    };
+    fr.readAsDataURL(file);
+  }
+  $("#mediaInput").onchange=function(e){
+    var files=Array.prototype.slice.call(e.target.files||[]);
+    if(state.media.length+files.length>9){notice("最多保留 9 张图片");files=files.slice(0,9-state.media.length);}
+    files.forEach(function(f){
+      if(!/^image\//.test(f.type))return;
+      compressImage(f,800,function(dataUrl){
+        var slug=(f.name||"img").replace(/\.[^.]+$/,"").replace(/[^a-z0-9-]/gi,"-").toLowerCase();
+        state.media.push({slug:slug,data:dataUrl,path:"images/articles/"+slug+".jpg",credit:"",accessed:todayStr()});
+        save();renderMedia();
+      });
+    });
+    e.target.value="";
+  };
+
+  /* ---------- GitHub 同步 ---------- */
+  function ghHeaders(){return {"Authorization":"Bearer "+state.settings.token,"Accept":"application/vnd.github+json","Content-Type":"application/json","X-GitHub-Api-Version":"2022-11-28"};}
+  function ghGet(path){
+    return fetch("https://api.github.com/repos/"+state.settings.repo+"/contents/"+path+"?ref="+state.settings.branch,{headers:ghHeaders()}).then(function(r){if(!r.ok)throw new Error("GET "+path+" → "+r.status);return r.json();});
+  }
+  function ghPut(path,content,msg,sha){
+    var body={message:msg,content:content,branch:state.settings.branch};
+    if(sha)body.sha=sha;
+    return fetch("https://api.github.com/repos/"+state.settings.repo+"/contents/"+path,{method:"PUT",headers:ghHeaders(),body:JSON.stringify(body)}).then(function(r){if(!r.ok)throw new Error("PUT "+path+" → "+r.status);return r.json();});
+  }
+  function readSettings(){
+    state.settings.repo=$("#setRepo").value.trim();
+    state.settings.branch=$("#setBranch").value.trim()||"main";
+    state.settings.token=$("#setToken").value.trim();
+    state.settings.gcDomain=$("#setGcDomain").value.trim();
+    state.settings.gcKey=$("#setGcKey").value.trim();
+    state.settings.gcCode=$("#setGcCode").value.trim();
+    state.settings.injectGC=$("#tgInject").classList.contains("on");
+    state.settings.siteBase=$("#setSite").value.trim();
+    save();
+  }
+  function applySettingsToForm(){
+    $("#setRepo").value=state.settings.repo||"";
+    $("#setBranch").value=state.settings.branch||"main";
+    $("#setToken").value=state.settings.token||"";
+    $("#setGcDomain").value=state.settings.gcDomain||"";
+    $("#setGcKey").value=state.settings.gcKey||"";
+    $("#setGcCode").value=state.settings.gcCode||"";
+    $("#setSite").value=state.settings.siteBase||"";
+    $("#tgInject").classList.toggle("on",!!state.settings.injectGC);
+  }
+
+  $("#btnPull").onclick=function(){
+    readSettings();
+    if(!state.settings.repo||!state.settings.token){notice("请先填写仓库与 Token");return;}
+    notice("正在从 GitHub 拉取现有站点…");
+    ghGet("data/articles.json").then(function(json){
+      var list=JSON.parse(b64decode(json.content));
+      return Promise.all(list.map(function(meta){
+        return ghGet("articles/"+meta.slug+".md").then(function(mdJson){
+          var full=b64decode(mdJson.content);
+          var parts=splitMd(full);
+          return Object.assign({},meta,{_full:full,_zhBody:parts.zh,_enBody:parts.en});
+        }).catch(function(){return Object.assign({},meta,{_full:"",_zhBody:"",_enBody:""});});
+      }));
+    }).then(function(arts){
+      state.articles=arts;save();renderAll();
+      notice("已拉取 "+arts.length+" 篇文章");
+    }).catch(function(e){notice("拉取失败："+e.message);});
+  };
+
+  $("#btnPush").onclick=function(){
+    readSettings();
+    if(!state.settings.repo||!state.settings.token){notice("请先填写仓库与 Token");return;}
+    publish();
+  };
+  function publish(){ openPublishChecklist(); }
+  function buildPublishPlan(){
+    var files=[{path:"data/articles.json",kind:"meta"}];
+    state.articles.forEach(function(a){ files.push({path:"articles/"+a.slug+".md",kind:a.draft?"draft":"pub"}); });
+    state.media.forEach(function(m){ if(m.data&&m.path) files.push({path:m.path,kind:"img"}); });
+    if(state.settings.injectGC && state.settings.gcCode){
+      ["index.html","tags.html","article.html","about.html","hot.html"].forEach(function(p){ files.push({path:p,kind:"gc"}); });
+    }
+    return files;
+  }
+  function openPublishChecklist(){
+    readSettings();
+    if(!state.settings.repo||!state.settings.token){notice("请先填写仓库与 Token");return;}
+    var files=buildPublishPlan();
+    var drafts=state.articles.filter(function(a){return a.draft;});
+    var imgs=files.filter(function(f){return f.kind==="img";}).length;
+    var gc=files.filter(function(f){return f.kind==="gc";}).length;
+    $("#publishSummary").textContent="本次将推送 "+files.length+" 个文件："+state.articles.length+" 篇文章（"+drafts.length+" 篇草稿将立即公开）、"+imgs+" 张图片"+(gc?("、"+gc+" 个页面注入统计"):"")+"。";
+    var warn=$("#publishDraftWarn");
+    if(drafts.length){
+      warn.style.display="";
+      warn.innerHTML="⚠️ 本次包含 "+drafts.length+" 篇<strong>草稿</strong>（下方列表中标红项）。发布后它们会立即在公开站点上架——站点没有独立的草稿状态，发布即上线。如不想现在公开，请点「再想想」返回，取消对应文章的「草稿」勾选即可。";
+    } else { warn.style.display="none"; }
+    var tagMap={
+      meta:["配置","ptag--upd","var(--jade)"],
+      draft:["草稿 · 将公开","ptag--draft","var(--danger)"],
+      pub:["已发布","ptag--pub","var(--jade)"],
+      img:["图片","ptag--upd","var(--gold)"],
+      gc:["注入统计","ptag--upd","var(--jade)"]
+    };
+    $("#publishFileList").innerHTML=files.map(function(f){
+      var t=tagMap[f.kind];
+      return '<div class="pfile"><span class="fi" style="background:'+t[2]+'"></span><span class="pname">'+escapeHtml(f.path)+'</span><span class="ptag '+t[1]+'">'+t[0]+'</span></div>';
+    }).join("");
+    $("#publishFileCount").textContent=files.length+" 个";
+    $("#publishMask").classList.add("show");
+  }
+  $("#publishConfirm").onclick=function(){ $("#publishMask").classList.remove("show"); doPublish(); };
+  $("#publishCancel").onclick=function(){ $("#publishMask").classList.remove("show"); };
+  $("#btnPublish").onclick=openPublishChecklist;
+  function doPublish(){
+    var files=[];
+    // 组装 articles.json（去掉内部字段 _zhBody/_enBody/_full/_zhLen）
+    var clean=state.articles.map(function(a){
+      var c=JSON.parse(JSON.stringify(a));
+      delete c._zhBody;delete c._enBody;delete c._full;delete c._zhLen;delete c.draft;delete c._dirty;
+      return c;
+    });
+    files.push({path:"data/articles.json",content:b64encode(JSON.stringify(clean,null,2))});
+    state.articles.forEach(function(a){
+      files.push({path:"articles/"+a.slug+".md",content:b64encode(buildMd(a))});
+    });
+    // 图片：上传 dirty 的
+    state.media.forEach(function(m){ if(m.data && m.path){ files.push({path:m.path,content:m.data.split(",")[1]}); } });
+
+    // 注入 GC snippet
+    var gcSnippet="";
+    if(state.settings.injectGC && state.settings.gcCode){
+      gcSnippet='<script data-goatcounter="https://'+state.settings.gcCode+'.goatcounter.com/count" async src="//gc.zgo.at/count.js"><\/script>\n';
+    }
+    var pages=["index.html","tags.html","article.html","about.html","hot.html"];
+
+    var prog=$("#pushProgress");prog.classList.add("show");var barEl=prog.querySelector("i");
+    var total=files.length+(state.settings.injectGC?pages.length:0);
+    var done=0;
+    function step(){
+      if(!files.length && !(state.settings.injectGC&&pages.length)){
+        barEl.style.width="100%";setTimeout(function(){prog.classList.remove("show");},600);
+        notice("发布完成，已触发 Vercel 部署 ✦");renderAll();return;
+      }
+      var job=null;
+      if(files.length){job=files.shift();return ghGet(job.path).then(function(j){return ghPut(job.path,job.content,"update "+job.path,j.sha);}).catch(function(){return ghPut(job.path,job.content,"add "+job.path);});}
+      if(state.settings.injectGC&&pages.length){var p=pages.shift();return ghGet(p).then(function(j){var txt=b64decode(j.content);if(txt.indexOf("data-goatcounter")===-1){txt=txt.replace("</head>","\n"+gcSnippet+"</head>");}return ghPut(p,b64encode(txt),"inject GC into "+p,j.sha);});}
+      return Promise.resolve();
+    }
+    function loop(){ step().then(function(){done++;barEl.style.width=Math.round(done/total*100)+"%";if(done<total)loop();}).catch(function(e){prog.classList.remove("show");notice("发布中断："+e.message);});}
+    loop();
+  }
+
+  /* ---------- GoatCounter 测试 ---------- */
+  $("#btnGcTest").onclick=function(){
+    readSettings();
+    if(!state.settings.gcDomain||!state.settings.gcKey){notice("请填写 GC 域名与 Key");return;}
+    loadGC();notice("已尝试拉取近一周访客数据");
+  };
+
+  /* ---------- 备份 / 清空 ---------- */
+  function exportBackup(){readSettings();var blob=new Blob([JSON.stringify(state,null,2)],{type:"application/json"});var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="sea-dashboard-backup-"+todayStr()+".json";a.click();notice("已导出备份");}
+  function importBackup(file){
+    var rd=new FileReader();rd.onload=function(){try{var s=JSON.parse(rd.result);state.articles=s.articles||[];state.media=s.media||[];state.settings=s.settings||{};save();applySettingsToForm();renderAll();notice("已从备份恢复");}catch(e){notice("备份文件无效");}};rd.readAsText(file);}
+  $("#btnExport").onclick=exportBackup; $("#btnExport2").onclick=exportBackup;
+  $("#btnImport").onclick=function(){$("#importFile").click();};
+  $("#btnImport2").onclick=function(){$("#importFile").click();};
+  $("#importFile").onchange=function(e){if(e.target.files[0])importBackup(e.target.files[0]);e.target.value="";};
+  $("#btnClear").onclick=function(){confirmBox("清空数据","将删除全部文章与图片（含示例），仅保留设置。此操作不可撤销。",function(){state.articles=[];state.media=[];save();renderAll();notice("已清空");});};
+
+  /* ---------- 从 GitHub ZIP 导入（纯内联，绕开 api.github.com 直连） ---------- */
+  function inflateRaw(bytes){
+    return new Promise(function(resolve,reject){
+      try{
+        var ds=new DecompressionStream('deflate-raw');
+        var w=ds.writable.getWriter();
+        w.write(bytes);w.close();
+        new Response(ds.readable).arrayBuffer().then(function(b){resolve(new Uint8Array(b));}).catch(reject);
+      }catch(e){reject(e);}
+    });
+  }
+  function parseZip(buf){
+    var dv=new DataView(buf), u8=new Uint8Array(buf), dec=new TextDecoder('utf-8');
+    var eocd=-1;
+    for(var i=u8.length-22;i>=0 && i>u8.length-65558;i--){
+      if(dv.getUint32(i,true)===0x06054b50){eocd=i;break;}
+    }
+    if(eocd<0) throw new Error("不是有效的 ZIP");
+    var cdOffset=dv.getUint32(eocd+16,true), cdSize=dv.getUint32(eocd+12,true);
+    var files={}, pos=cdOffset;
+    while(pos+4<=cdOffset+cdSize && dv.getUint32(pos,true)===0x02014b50){
+      var method=dv.getUint16(pos+10,true), compSize=dv.getUint32(pos+20,true);
+      var nameLen=dv.getUint16(pos+28,true), extraLen=dv.getUint16(pos+30,true), commLen=dv.getUint16(pos+32,true);
+      var lho=dv.getUint32(pos+42,true);
+      var name=dec.decode(u8.subarray(pos+46,pos+46+nameLen));
+      var rel=name.indexOf('/')>=0?name.slice(name.indexOf('/')+1):name;
+      var lNameLen=dv.getUint16(lho+26,true), lExtraLen=dv.getUint16(lho+28,true);
+      var dataStart=lho+30+lNameLen+lExtraLen;
+      files[rel]={method:method,comp:new Uint8Array(buf,dataStart,compSize)};
+      pos+=46+nameLen+extraLen+commLen;
+    }
+    return files;
+  }
+  function readZipEntry(files,name){
+    var f=files[name];
+    if(!f) return Promise.resolve(null);
+    if(f.method===0) return Promise.resolve(f.comp);
+    return inflateRaw(f.comp);
+  }
+  function importFromZip(files){
+    var want=Object.keys(files).filter(function(n){return n==="data/articles.json"||/^articles\/[^\/]+\.md$/.test(n);});
+    return Promise.all(want.map(function(n){
+      return readZipEntry(files,n).then(function(u){return {name:n,text:new TextDecoder('utf-8').decode(u)};});
+    })).then(function(entries){
+      var meta=null, mdMap={};
+      entries.forEach(function(e){
+        if(e.name==="data/articles.json"){try{meta=JSON.parse(e.text);}catch(_){meta=null;}}
+        else { var m=e.name.match(/^articles\/([^\/]+)\.md$/); if(m) mdMap[m[1]]=e.text; }
+      });
+      if(!meta||!meta.length) throw new Error("ZIP 中未找到 data/articles.json 或为空");
+      var arts=meta.map(function(it){var p=splitMd(mdMap[it.slug]||"");return Object.assign({},it,{_zhBody:p.zh,_enBody:p.en});});
+      var exist={};
+      state.articles.forEach(function(a){exist[a.slug]=a;});
+      arts.forEach(function(a){exist[a.slug]=a;});
+      state.articles=Object.keys(exist).map(function(k){return exist[k];});
+      save();renderAll();
+      return arts.length;
+    });
+  }
+  $("#btnZip").onclick=function(){
+    if(typeof DecompressionStream==="undefined"){notice("当前浏览器不支持 ZIP 解压，请用较新版 Chrome/Safari/Edge");return;}
+    $("#zipFile").click();
+  };
+  $("#zipFile").onchange=function(e){
+    var file=e.target.files[0];e.target.value="";
+    if(!file) return;
+    var st=$("#zipStatus");st.textContent="正在解析 ZIP…";
+    file.arrayBuffer().then(function(buf){
+      var files;
+      try{files=parseZip(buf);}catch(err){st.textContent="";notice("ZIP 解析失败："+err.message);return;}
+      importFromZip(files).then(function(n){st.textContent="";notice("已从 ZIP 导入 "+n+" 篇文章");})
+        .catch(function(err){st.textContent="";notice("导入失败："+err.message);});
+    });
+  };
+
+  /* ---------- 确认弹窗 ---------- */
+  function confirmBox(title,text,cb){
+    $("#confirmTitle").textContent=title;$("#confirmText").textContent=text;
+    var mask=$("#confirmMask");mask.classList.add("show");
+    $("#confirmOk").onclick=function(){mask.classList.remove("show");cb();};
+    $("#confirmCancel").onclick=function(){mask.classList.remove("show");};
+  }
+
+  /* ---------- tabs ---------- */
+  $$("#tabs .tab").forEach(function(t){t.onclick=function(){var v=t.getAttribute("data-view");$$("#tabs .tab").forEach(function(x){x.classList.remove("is-active");});t.classList.add("is-active");$$(".view").forEach(function(x){x.classList.remove("is-active");});$("#view-"+v).classList.add("is-active");if(v==="dashboard")renderDashboard();if(v==="media")renderMedia();};});
+  $("#tgInject").onclick=function(){readSettings();state.settings.injectGC=!state.settings.injectGC;$("#tgInject").classList.toggle("on",state.settings.injectGC);save();};
+
+  /* ---------- 初始化 ---------- */
+  function renderAll(){renderToday();renderDashboard();renderArticles();renderMedia();applySettingsToForm();}
+  load();renderAll();
+})();
+</script>
+</body>
+</html>

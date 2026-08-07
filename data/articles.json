@@ -1,5 +1,50 @@
 [
   {
+    "slug": "atoms-in-bits-out-batam-manila",
+    "title": "原子进来，比特出去：峇淡岛的工厂与马尼拉的工位",
+    "subtitle": "关税战把实体制造推进东南亚，生成式AI却在抽走这里的白领岗位——同一场外部冲击，两个相反方向",
+    "category": "经济产业",
+    "tags": [
+      "经济产业",
+      "供应链",
+      "印度尼西亚",
+      "菲律宾",
+      "人工智能",
+      "制造业"
+    ],
+    "country": "印度尼西亚 / 菲律宾",
+    "date": "2026-08-07",
+    "readingTime": 11,
+    "featured": false,
+    "summary": "同一周，印尼峇淡岛因美国关税战崛起为代工转移基地（去年增速6.8%，高于全国5.1%），菲律宾外包业员工却在训练AI后被裁。本文认为两者并非无关：关税把实体生产推进东南亚，AI把认知型工作抽离东南亚，委托方却是同一批欧美企业。三重不对称尤其关键——工厂搬迁可逆而AI替代不可逆；数据中心资本密集而外包业以190万岗位养活中产；GDP算术可以好看，造就中产的引擎却可能同时熄火。",
+    "image": "images/articles/atoms-in-bits-out-batam-manila.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-07",
+    "imageAlt": "厂房内的产业工人，东南亚代工制造业的日常场景。",
+    "en": {
+      "title": "Atoms In, Bits Out: Batam's Factories, Manila's Desks, and Southeast Asia's Two-Front Reordering",
+      "subtitle": "The tariff war is pushing physical production into the region while generative AI pulls cognitive work out of it — one external shock, two opposite directions",
+      "category": "Economy & Industry",
+      "country": "Indonesia / Philippines",
+      "summary": "In a single news cycle, Indonesia's Batam emerged as a tariff-driven relocation hub for contract manufacturing while Philippine outsourcing workers were dismissed after training the AI that replaced them. This piece argues the two are one ledger: the same Western cost decisions push atoms into the region and pull bits out of it. Three asymmetries matter — relocation is reversible while automation is not; data centres are capital-intensive while BPO sustained 1.9 million jobs; and the specific engine that built a Filipino middle class has no equivalent in what is arriving.",
+      "imageAlt": "Industrial workers on a factory floor — a familiar scene in Southeast Asia's contract-manufacturing economy."
+    },
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "受益于美国关税战 印尼峇淡岛崛起成代工转移基地",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260806-9481281",
+        "date": "2026-08-06"
+      },
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "亲手训练AI后被取代 菲律宾员工叹“像自掘坟墓”",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260805-9475262",
+        "date": "2026-08-05"
+      }
+    ]
+  },
+  {
     "slug": "amah-letter-indonesia",
     "title": "当银幕响起潮州话：一部电影与印尼华人的“记忆解冻”",
     "subtitle": "从《给阿嬷的情书》雅加达首映，看一段被制度性沉默压抑、又借文化重新接上的离散记忆",
