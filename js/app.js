@@ -75,12 +75,13 @@
     return html;
   }
   // 中英分隔：md 内用独占一行的 ===EN=== 分隔，前为中文后为英文
+  // 页面 hero 已展示文章标题，正文内去掉第一个 h1，避免重复
   function splitMd(md) {
     var idx = md.search(/\n===EN===\s*\n/);
-    if (idx < 0) return md; // 无英文部分，返回全文
-    var zh = md.slice(0, idx);
-    var en = md.slice(idx).replace(/^\s*===EN===\s*\n/, '');
-    return LANG === 'en' ? en : zh;
+    var raw;
+    if (idx < 0) raw = md;
+    else raw = LANG === 'en' ? md.slice(idx).replace(/^\s*===EN===\s*\n/, '') : md.slice(0, idx);
+    return raw.replace(/^\s*#\s+[^\n]+\n*/, '');
   }
 
   /* ---------- 数据加载（带缓存） ---------- */
