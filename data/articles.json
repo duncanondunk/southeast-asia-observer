@@ -1,5 +1,42 @@
 [
   {
+    "slug": "amah-letter-indonesia",
+    "title": "当银幕响起潮州话：一部电影与印尼华人的“记忆解冻”",
+    "subtitle": "从《给阿嬷的情书》雅加达首映，看一段被制度性沉默压抑、又借文化重新接上的离散记忆",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "印尼",
+      "文化记忆",
+      "离散"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-08-07",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "2026年8月5日，纪录片《给阿嬷的情书》在雅加达首映。82岁的陈美专在片中“木生”下南洋的故事里，认出了父亲从广东揭阳漂洋过海、在加里曼丹成家的往事。本文借此分析印尼华人记忆如何被近三十年的华文禁令结构性压抑，又如何借电影、家书与侨乡纽带重新接上——“根”往往要靠一代代人主动去重新听见。",
+    "image": "images/articles/amah-letter-indonesia.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-07",
+    "imageAlt": "雅加达街市人群，东南亚华人日常生活的横截面。",
+    "en": {
+      "title": "When the Screen Spoke Teochew: A Film and the Slow Thaw of Indonesia's Chinese Memory",
+      "subtitle": "From the Jakarta premiere of 'A Letter to Amah' to a diaspora memory suppressed by structural silence and reconnected through culture",
+      "category": "Overseas Chinese",
+      "country": "Indonesia",
+      "summary": "On 5 August 2026, the documentary 'A Letter to Amah' premiered in Jakarta. An eighty-two-year-old woman recognized her own father's southward migration in the film's protagonist. This piece reads the moment as a window into how Indonesia's ethnic Chinese memory was structurally silenced for three decades by the ban on Chinese languages and schools, and how it is now being reconnected through film, family letters, and qiaoxiang ties.",
+      "imageAlt": "A crowd in a Jakarta market street — a cross-section of everyday life in Southeast Asia's Chinese communities."
+    },
+    "references": [
+      {
+        "source": "中国侨网 / 中国新闻网",
+        "title": "《给阿嬷的情书》唤起印尼华人尘封记忆：“电影里的木生，让我想起了父亲”",
+        "url": "https://www.chinaqw.com/qwxs/2026/08-06/409859.shtml",
+        "date": "2026-08-06"
+      }
+    ]
+  },
+  {
     "slug": "prabowo-china-indonesia-relations",
     "title": "跨越“友好”门槛：普拉博沃执政以来中印尼关系的高位运行与隐忧",
     "subtitle": "从 5.9 到 6.2 的分值轨迹背后，是经济引力、机制升级与南海暗流的合力",
