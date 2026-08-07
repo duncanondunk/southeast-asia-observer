@@ -728,10 +728,40 @@ body.search-open { overflow: hidden; }
   transition: background .15s ease;
 }
 .lightbox__close:hover { background: rgba(255, 255, 255, 0.3); }
-/* 可点击放大的图片增加提示手势 */
-.article-body img,
-.article-fig img,
-.article-hero__image img { cursor: zoom-in; }
+/* 内容容器：图片直接居中，表格则可滚动/缩放 */
+.lightbox__content {
+  max-width: 94vw;
+  max-height: 88vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lightbox__content[data-kind="table"] {
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lightbox__content[data-kind="table"] table {
+  background: #fff;
+  color: #222;
+  width: auto;
+  min-width: 60vw;
+  font-size: 1rem;
+  border-collapse: collapse;
+}
+.lightbox__content[data-kind="table"] th,
+.lightbox__content[data-kind="table"] td {
+  border: 1px solid #ddd;
+  padding: 10px 14px;
+  text-align: left;
+}
+.lightbox__content[data-kind="table"] th { background: #f3ede3; font-weight: 600; }
+/* 可点击放大的图片/表格增加提示手势 */
+.markdown img,
+.article-figure img,
+.article-hero__image img,
+.markdown table { cursor: zoom-in; }
 @media (prefers-reduced-motion: reduce) {
   .lightbox { transition: none; }
 }

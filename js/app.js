@@ -673,34 +673,67 @@
     overlay.setAttribute('aria-modal', 'true');
     overlay.innerHTML =
       '<button class="lightbox__close" aria-label="关闭">&times;</button>' +
-      '<img class="lightbox__img" alt="">' +
+      '<div class="lightbox__content"></div>' +
       '<div class="lightbox__caption"></div>';
     document.body.appendChild(overlay);
-    var lbImg = overlay.querySelector('.lightbox__img');
+    var lbContent = overlay.querySelector('.lightbox__content');
     var lbCap = overlay.querySelector('.lightbox__caption');
 
-    function open(src, alt) {
-      lbImg.src = src;
-      lbImg.alt = alt || '';
-      lbCap.textContent = alt || '';
+    function open() {
       overlay.classList.add('is-open');
       document.body.style.overflow = 'hidden';
     }
     function close() {
       overlay.classList.remove('is-open');
       document.body.style.overflow = '';
-      setTimeout(function () { lbImg.removeAttribute('src'); }, 240);
+      // 关闭后清空内容，避免下次打开闪现旧图/旧表
+      setTimeout(function () {
+        lbContent.innerHTML = '';
+        lbCap.textContent = '';
+        lbContent.removeAttribute('data-kind');
+      }, 240);
     }
 
-    // 事件委托：点击文章内的图片即放大
+    // 放大图片：头图(.article-hero__image) / 题图(.article-figure) / 正文图(.markdown)
+    function openImage(src, alt) {
+      lbContent.setAttribute('data-kind', 'img');
+      lbContent.innerHTML = '<img class="lightbox__img" alt="">';
+      var im = lbContent.querySelector('img');
+      im.src = src;
+      im.alt = alt || '';
+      lbCap.textContent = alt || '';
+      lbCap.style.display = alt ? '' : 'none';
+      open();
+    }
+
+    // 放大表格：正文中的表点开即全屏查看（可滚动、双指缩放）
+    function openTable(tableEl) {
+      var clone = tableEl.cloneNode(true);
+      clone.removeAttribute('id');
+      lbContent.setAttribute('data-kind', 'table');
+      lbContent.innerHTML = '';
+      lbContent.appendChild(clone);
+      lbCap.style.display = 'none';
+      open();
+    }
+
+    // 事件委托：图片或表格都可点击放大
     document.addEventListener('click', function (e) {
+      // 表格（含表内单元格点击）
+      var tbl = e.target.closest && e.target.closest('.markdown table');
+      if (tbl) {
+        e.preventDefault();
+        openTable(tbl);
+        return;
+      }
+      // 图片
       var img = e.target.closest && e.target.closest('img');
       if (!img) return;
-      var allowed = img.closest('.article-body, .article-fig, .article-hero__image');
+      var allowed = img.closest('.markdown, .article-figure, .article-hero__image');
       if (!allowed) return;
       e.preventDefault();
       var full = img.getAttribute('data-full') || img.currentSrc || img.src;
-      open(full, img.alt);
+      openImage(full, img.alt);
     });
     overlay.addEventListener('click', function (e) {
       if (e.target === overlay || e.target.classList.contains('lightbox__close')) close();
