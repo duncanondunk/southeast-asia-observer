@@ -4,7 +4,7 @@
 印尼（Indonesia）总统普拉博沃力推的"免费营养餐计划（Free Nutritious Meals (MBG)）"，旨在每天为低收入家庭学童与孕妇提供一餐热食，是其最具代表性的社福标杆。但如今，这项计划不仅陷于资金不足的窘境，更因每周浪费数以亿计的餐食、造成巨额经济损失，而引发公众质疑。
 
 ## 数字：每周上亿份被倒掉
-智库经济与法律研究中心（CELIOS）的评估显示，该计划每周备餐与分发中，有6200万至1亿2000万份遭浪费；其中仅熟米饭每周就至少7700吨、配菜3400吨，相当于国家每周蒙受约1.27万亿印尼盾（约9100万新元）的损失。当一个以"喂饱孩子"为名的计划，反过来制造出如此规模的废弃，其叙事便难免遭到反噬。
+智库经济与法律研究中心（CELIOS）的评估显示，该计划每周备餐与分发中，有6200万至1亿2000万份遭浪费；其中仅熟米饭每周就至少7700吨、配菜3400吨，相当于国家每周蒙受约1.27万亿印尼盾（约9100万新元，约合4.8亿元人民币）的损失。当一个以"喂饱孩子"为名的计划，反过来制造出如此规模的废弃，其叙事便难免遭到反噬。
 
 ## 病灶：物流与治理，而非"孩子不吃"
 问题的根源不在需求端，而在供给端与治理。浪费暴露的是配餐链条的脱节——从采购、烹饪到配送，环节越多，损耗越大；覆盖全国的"指定厨房"在产能、冷链与精准投放上，未必跟得上计划的雄心。换言之，这是一道执行题，而非胃口题。
@@ -25,7 +25,7 @@
 President Prabowo Subianto's free nutritious meals program (Makan Bergizi Gratis, or MBG) — meant to deliver one hot, nutritious meal a day to schoolchildren from low-income families and to pregnant women — is his most emblematic social-policy flagship. Yet the program now faces not only a funding shortfall but mounting public scrutiny over reports that it wastes hundreds of millions of meals a week and imposes enormous economic losses.
 
 ## The numbers: over a hundred million meals binned weekly
-An assessment by the Center of Economic and Law Studies (CELIOS) found that between 62 million and 120 million prepared and distributed meals are wasted each week. That includes at least 7,700 tonnes of cooked rice and 3,400 tonnes of side dishes — a weekly national loss estimated at 1.27 trillion rupiah (about S$91 million). When a program premised on "feeding the children" generates waste on this scale, its founding narrative is bound to curdle.
+An assessment by the Center of Economic and Law Studies (CELIOS) found that between 62 million and 120 million prepared and distributed meals are wasted each week. That includes at least 7,700 tonnes of cooked rice and 3,400 tonnes of side dishes — a weekly national loss estimated at 1.27 trillion rupiah (about S$91 million, ~US$71 million). When a program premised on "feeding the children" generates waste on this scale, its founding narrative is bound to curdle.
 
 ## The real ailment: logistics and governance, not "kids not eating"
 The root problem lies not on the demand side but in supply chains and administration. The waste exposes a frayed meal-delivery chain — the more steps from procurement and cooking to distribution, the larger the leakage; the nation-spanning network of "appointed kitchens" may simply lack the capacity, cold-chain, and targeting precision to match the program's ambition. In short, this is an execution problem, not an appetite problem.

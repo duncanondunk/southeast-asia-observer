@@ -36,7 +36,7 @@
 
 **机制升级。** 2025 年 4 月下旬，中印尼在北京举行首次"2+2"对话——外长与防长共同出席的部长级机制。印尼由此成为全球第一个与中国启动"2+2"对话的国家，议题覆盖执法、海上安全、基础设施与关键矿产。几乎同期，中国海警（China Coast Guard）与印尼海事安全机构（Bakamla）签署海上合作谅解备忘录。美国战略与国际研究中心（CSIS）评论称，印尼外长苏吉约诺刚从华盛顿关税谈判归来便赴北京出席"2+2"，"两国如此紧密地衔接，恰好说明了印尼的优先方向"。
 
-**高层互访。** 2025 年 5 月 25 日，中国国务院总理李强访印尼，恰逢两国建交 75 周年。普拉博沃在工商招待会上将中印尼关系定位为"亚洲稳定的基石"，并披露双边贸易"已超过每年 1300 亿美元"。两国签署涵盖经济、金融、旅游、卫生、投资、媒体等领域的多项协议。印尼国家通讯社安塔拉（Antara）报道，普拉博沃重申印尼愿与中国"共同建设一个对所有各方都安全的和平地区"。
+**高层互访。** 2025 年 5 月 25 日，中国国务院总理李强访印尼，恰逢两国建交 75 周年。普拉博沃在工商招待会上将中印尼关系定位为"亚洲稳定的基石"，并披露双边贸易"已超过每年 1300 亿美元（约8772亿元人民币）"。两国签署涵盖经济、金融、旅游、卫生、投资、媒体等领域的多项协议。印尼国家通讯社安塔拉（Antara）报道，普拉博沃重申印尼愿与中国"共同建设一个对所有各方都安全的和平地区"。
 
 四块基石叠加，使分值从 5.9 稳步抬升至 6.2，且每一个关键节点都与一次高层互动高度同步——这在 75 年的分值序列里极为罕见。
 
@@ -44,7 +44,7 @@
 
 支撑高位的，不只是外交姿态，更是难以替代的经济相互依赖。
 
-中国已连续十余年是印尼最大贸易伙伴。据中国海关数据，2024 年中印尼双边贸易额近 1500 亿美元，同比增长 8.5%；印尼投资与下游化部统计显示，2024 年中国对印尼直接投资达 81 亿美元，连续 9 年位列印尼前三大投资来源地。2023 年印尼更是以约 73 亿美元成为"一带一路（Belt and Road Initiative）"投资最大接受国。这种经济体量，决定了无论雅加达如何表述其"自由积极"外交，北京都不可能被边缘化。
+中国已连续十余年是印尼最大贸易伙伴。据中国海关数据，2024 年中印尼双边贸易额近 1500 亿美元（约1.01万亿元人民币），同比增长 8.5%；印尼投资与下游化部统计显示，2024 年中国对印尼直接投资达 81 亿美元（约547亿元人民币），连续 9 年位列印尼前三大投资来源地。2023 年印尼更是以约 73 亿美元（约493亿元人民币）成为"一带一路（Belt and Road Initiative）"投资最大接受国。这种经济体量，决定了无论雅加达如何表述其"自由积极"外交，北京都不可能被边缘化。
 
 更深层的机遇在于产业链耦合。雅万高铁（Jakarta-Bandung High-Speed Railway）自 2023 年 10 月开通至 2025 年 2 月中旬，已累计运送旅客超 800 万人次，把雅加达—万隆的通行时间从 3 小时压缩至 40 分钟，成为"全球南方基础设施升级"的样板。在新能源上游，青山、宁德时代等中资企业深度嵌入苏拉威西与马鲁古的镍冶炼体系，使印尼跃升为全球新能源电池材料核心节点。普拉博沃急需外资为其粮食安全、可再生能源、新首都努山塔拉（Nusantara）建设等优先项目筹资，印尼佩利塔·哈拉潘大学国际关系学者耶马杜直言："要实现这一切，与北京的合作不可或缺。"
 
@@ -52,7 +52,7 @@
 
 两国主流媒体的调性也呈现出难得的一致。中国驻印尼大使王鲁彤称"中印尼关系建立在深厚的友好基础之上"；印尼内阁秘书处援引普拉博沃讲话，称中国是"印尼产业发展与技术的重要伙伴"。即便在更独立的印尼媒体那里，基调也是务实的——《雅加达邮报（The Jakarta Post）》承认"过去十年中国已成为印尼最大贸易伙伴、主要投资者和关键技术来源"。
 
-这种互利共赢的势头，在 2025 年下半年至 2026 年间并未减弱，反而在更高层次上深化。截至 2026 年 4 月，雅万高铁累计发送旅客突破 1500 万人次，较 2025 年初的 800 万近乎翻番；据印尼方面测算，该项目 2019 至 2023 年间为雅加达与西爪哇地区贡献了 86.5 万亿印尼盾 GDP，每年节省近 2 亿美元燃料成本，成为"一带一路"惠及民生的硬指标。同年 7 月，印尼投资与下游化部长罗山向新华社明确表示"对中国与印尼投资合作的未来充满信心"，并披露 2026 年上半年中国对印尼投资约 39 亿美元，继续保持印尼最大外资来源地之一；他重申普拉博沃访华期间关于"加强双方贸易、投资与经济发展互利合作"的承诺。
+这种互利共赢的势头，在 2025 年下半年至 2026 年间并未减弱，反而在更高层次上深化。截至 2026 年 4 月，雅万高铁累计发送旅客突破 1500 万人次，较 2025 年初的 800 万近乎翻番；据印尼方面测算，该项目 2019 至 2023 年间为雅加达与西爪哇地区贡献了 86.5 万亿印尼盾（约326亿元人民币） GDP，每年节省近 2 亿美元（约13.5亿元人民币）燃料成本，成为"一带一路"惠及民生的硬指标。同年 7 月，印尼投资与下游化部长罗山向新华社明确表示"对中国与印尼投资合作的未来充满信心"，并披露 2026 年上半年中国对印尼投资约 39 亿美元（约263亿元人民币），继续保持印尼最大外资来源地之一；他重申普拉博沃访华期间关于"加强双方贸易、投资与经济发展互利合作"的承诺。
 
 更值得体味的是两国在全球治理新议题上的协同。2026 年 7 月 18 日，王毅在上海会见来华出席世界人工智能大会的印尼经济统筹部长艾尔朗加，印尼成为"世界人工智能合作组织"创始成员国。王毅强调，中印尼作为全球南方和新兴经济体代表，要"作全球南方团结互助、联合自强的典范"，并直言"中印尼合作不针对第三方，也不应受第三方干扰"；艾尔朗加则回应，中国多年保持印尼最大贸易伙伴和重要投资来源地，普拉博沃总统"欢迎并邀请中资企业进一步赴印尼投资"。从镍冶炼到人工智能，从雅万高铁到"两国双园"，中印尼合作的边界正向数字经济、绿色能源、人才培养与前沿科技延伸。
 
@@ -70,7 +70,7 @@
 
 **美国变量的反衬。** 普拉博沃并非只看北京。他就任后第二站即赴华盛顿，既会见拜登也与当选总统特朗普通话。但 CSIS 观察，自特朗普 2025 年 1 月上台后，美国对东南亚政策被高关税与 USAID 关闭占据，对印尼的关系维护"落入夹缝"——特朗普政府对印尼商品加征 32% 关税，谈判进展有限，且双方长期没有互派大使。印尼虽派外长苏吉约诺赴华盛顿磋商，却收效甚微；USAID 的关闭更让雅加达失去一条长期的发展合作纽带。美国角色的相对收缩，客观上把雅加达进一步推向北京。但这未必是印尼所愿：一个被华盛顿"冷落"的印尼，反而更需要在对华关系里保持筹码，避免单边倾斜。
 
-**预算与本土化的双重约束。** 印尼 2025 年预算重构导致国防开支削减 16%，可能影响普拉博沃雄心勃勃的"努山塔拉三叉戟盾（Nusantara Trident Shield）"25 年约 1250 亿美元现代化计划。而在民间，中资镍冶炼园区长期面临环保与劳工条件的国际质疑，"绿色镍"叙事更多停留在口号。这些都构成高位运行的隐性成本。
+**预算与本土化的双重约束。** 印尼 2025 年预算重构导致国防开支削减 16%，可能影响普拉博沃雄心勃勃的"努山塔拉三叉戟盾（Nusantara Trident Shield）"25 年约 1250 亿美元（约8434亿元人民币）现代化计划。而在民间，中资镍冶炼园区长期面临环保与劳工条件的国际质疑，"绿色镍"叙事更多停留在口号。这些都构成高位运行的隐性成本。
 
 ===EN===
 
@@ -128,7 +128,7 @@ Multilateral coordination is deepening too. In January 2025 Indonesia formally j
 
 The tone of mainstream media on both sides has shown rare convergence. Chinese Ambassador to Indonesia Wang Lutong called the relationship "built on a profound foundation of friendship"; Indonesia's Cabinet Secretariat quoted Prabowo calling China "a very important partner in the development of our industry and technology." Even the more independent Indonesian press strikes a pragmatic note — The Jakarta Post acknowledged that "over the past decade, China has become Indonesia's largest trading partner, a major investor in infrastructure and industry, and a crucial source of technology and finance."
 
-This momentum of mutual benefit did not weaken in the latter half of 2025 and into 2026; it deepened at a higher level. By April 2026, the Jakarta-Bandung High-Speed Railway had carried more than 15 million passengers — nearly double the eight million of early 2025; by Indonesia's own reckoning, the project contributed 86.5 trillion rupiah to the GDP of Jakarta and West Java between 2019 and 2023, saving nearly US$200 million in fuel costs each year — a hard indicator of how the Belt and Road delivers for people's livelihoods. In July, Indonesia's Minister of Investment and Downstreaming Rosan told Xinhua he was "full of confidence in the future of China-Indonesia investment cooperation," disclosing that Chinese investment in Indonesia reached about US$3.9 billion in the first half of 2026, keeping China among Indonesia's largest sources of foreign capital; he reaffirmed the commitment Prabowo made during his visit to China to "strengthen mutually beneficial cooperation in trade, investment, and economic development."
+This momentum of mutual benefit did not weaken in the latter half of 2025 and into 2026; it deepened at a higher level. By April 2026, the Jakarta-Bandung High-Speed Railway had carried more than 15 million passengers — nearly double the eight million of early 2025; by Indonesia's own reckoning, the project contributed 86.5 trillion rupiah (~US$4.8 billion) to the GDP of Jakarta and West Java between 2019 and 2023, saving nearly US$200 million in fuel costs each year — a hard indicator of how the Belt and Road delivers for people's livelihoods. In July, Indonesia's Minister of Investment and Downstreaming Rosan told Xinhua he was "full of confidence in the future of China-Indonesia investment cooperation," disclosing that Chinese investment in Indonesia reached about US$3.9 billion in the first half of 2026, keeping China among Indonesia's largest sources of foreign capital; he reaffirmed the commitment Prabowo made during his visit to China to "strengthen mutually beneficial cooperation in trade, investment, and economic development."
 
 What is more striking is the two countries' coordination on new frontiers of global governance. On 18 July 2026, Wang Yi met in Shanghai with Indonesia's Coordinating Minister for Economic Affairs Airlangga, who had come for the World Artificial Intelligence Conference, as Indonesia became a founding member of the World Artificial Intelligence Cooperation Organization. Wang stressed that as representatives of the Global South and emerging economies, China and Indonesia should "be a model of solidarity, mutual assistance, and joint self-reliance for the Global South," and stated plainly that "China-Indonesia cooperation is not directed at any third party, nor should it be disrupted by any third party"; Airlangga responded that China has for years been Indonesia's largest trading partner and a major investment source, and that President Prabowo "welcomes and invites Chinese enterprises to invest further in Indonesia." From nickel smelting to artificial intelligence, from the Jakarta-Bandung railway to the "Two Countries, Twin Parks," the boundary of China-Indonesia cooperation is extending into the digital economy, green energy, talent training, and frontier technology.
 
