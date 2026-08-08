@@ -38,6 +38,12 @@
 
 ---
 
+## 延伸阅读
+
+**业务流程外包（BPO）**：企业将客服、数据录入等环节外包给专业服务商。菲律宾凭英语与低成本成为“呼叫中心之都”，雇佣约190万人，是本文“亲手训练AI反被取代”的主角行业。
+
+**生成式人工智能（Generative AI）**：能自动生成文本、图像等内容的人工智能。它既可作为真实替代技术削减外包岗位，也常被企业当作“转型”叙事包装普通裁员——文中提醒需区分二者。
+
 *话题参考：联合早报（zaobao.com）东南亚新闻《亲手训练AI后被取代 菲律宾员工叹"像自掘坟墓"》与《中东战事推高能源风险 东南亚加速发展太阳能》*
 
 ===EN===
@@ -81,5 +87,11 @@ None of this justifies fatalism. The region's demographic weight, its manufactur
 The Filipino worker who trained the model that replaced him, and the finance minister watching Gulf energy prices, are participants in the same plot. Southeast Asia's integration into the global economy is deep and growing — but it remains asymmetric, and the asymmetries are precisely where the risks, and the region's room to maneuver, now live.
 
 ---
+
+## Further Reading
+
+**Business-process outsourcing (BPO)** — Firms contracting functions like customer service and data entry to specialist providers. The Philippines, with English fluency and low cost, became the "call-centre capital of the world," employing roughly 1.9 million people — the industry at the centre of the "trained the AI that replaced me" story.
+
+**Generative AI** — Artificial intelligence that produces text, images and other content. It can genuinely substitute for outsourced roles, yet is also frequently used as a "transformation" narrative to reframe ordinary layoffs — a distinction the text urges readers to keep in mind.
 
 *Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "亲手训练AI后被取代 菲律宾员工叹'像自掘坟墓'" and "中东战事推高能源风险 东南亚加速发展太阳能".*

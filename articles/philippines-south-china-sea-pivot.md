@@ -45,7 +45,13 @@
 
 但有一点是确定的：**对一个发展中国家而言，在主权与利益、安全与经济之间反复权衡，不是软弱，而是生存的常态。** 只是这种常态，代价高昂。
 
-===EN===
+## 延伸阅读
+
+**杜特尔特（Rodrigo Duterte）**：菲律宾第16任总统（2016—2022），上任后淡化南海仲裁成果、靠拢北京以换取基建投资；其“亲华疏美”路线在本文被视为钟摆的一次摆动。
+
+**EDCA（加强防务合作协议）**：美菲2014年签署，允许美军在菲指定基地轮换部署、预置装备；原定5处，小马科斯2023年扩至9处，成为其“回归美菲同盟”的抓手。
+
+**2016年南海仲裁案（South China Sea arbitration）**：菲律宾依《联合国海洋法公约》附件七提起、海牙仲裁庭作出的裁决。杜特尔特淡化、小马科斯重申其立场，是两国对华基调分野的标志之一。===EN===
 
 # Watching the Philippines' South China Sea Pivot
 
@@ -93,3 +99,11 @@ ASEAN-style "hedging and ambiguity" works smoothly while US–China relations st
 The Philippine pendulum will keep swinging. The next swing's direction depends on the intensity of great-power competition, domestic political turnover, and the evolution of the South China Sea situation.
 
 But one thing is certain: **for a developing country, weighing sovereignty against interest, security against economy, again and again, is not weakness — it is the norm of survival.** And that norm comes at a high cost.
+
+## Further Reading
+
+**Rodrigo Duterte** — The 16th president of the Philippines (2016–2022). He downplayed the arbitration outcome and tilted toward Beijing in exchange for infrastructure pledges; his "toward Beijing, away from Washington" course is read here as one swing of the pendulum.
+
+**EDCA (Enhanced Defense Cooperation Agreement)** — Signed by the U.S. and the Philippines in 2014, it lets American forces rotate through and pre-position equipment at designated Philippine bases. Originally five sites, it was expanded to nine under Marcos Jr. in 2023, anchoring his "return to the U.S. alliance."
+
+**The 2016 South China Sea arbitration** — A tribunal ruling under UNCLOS Annex VII, brought by the Philippines and issued at The Hague. Duterte downplayed it while Marcos Jr. reaffirmed it — a marker of the two presidents' differing posture toward China.

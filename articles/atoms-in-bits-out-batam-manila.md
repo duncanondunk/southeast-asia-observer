@@ -48,7 +48,11 @@
 
 所以，一个克制但清醒的结论是：东南亚此刻通常被叙述成红利——"中国+1"的股息，作为大国摩擦最大受益者的地区。峇淡岛支持这种读法，马尼拉让它复杂起来。这个地区正在接收原子、流失比特，而这场交换既不平衡，也不在它的掌控之中。认清这一点不是悲观，而是提出一个比"本季度我们吸引了多少投资"更好问题的前提。
 
-===EN===
+## 延伸阅读
+
+**峇淡岛（Batam）**：隶属印尼廖内群岛、距新加坡约40分钟船程的岛屿，设有保税区，长期承接跨国制造与航运。关税战下成为代工转移的新落点，去年增速高于全国。
+
+**业务流程外包（BPO）**：企业将客服、数据处理等后端环节外包。菲律宾凭英语与低成本成为“世界呼叫中心之都”，本文马尼拉一侧的岗位正被AI与自动化抽离。===EN===
 
 # Atoms In, Bits Out: Batam's Factories, Manila's Desks, and Southeast Asia's Two-Front Reordering
 
@@ -101,5 +105,11 @@ The policy question, stated plainly, is not "how do we attract relocating indust
 On present evidence the answer is no, for reasons that are geographic before they are economic. The factories are landing in the Riau Islands; the redundancies are occurring in Metro Manila and Cebu. The skills do not map; the labour markets do not clear across national borders; ASEAN has no mechanism that would make them do so. Two member states are experiencing a gain and a loss that look complementary on a regional spreadsheet and are entirely disconnected in practice.
 
 The modest conclusion is this. Southeast Asia's current moment is usually narrated as a windfall — the "China plus one" dividend, the region as the great beneficiary of great-power friction. Batam supports that reading. Manila complicates it. The region is receiving atoms and shedding bits, and the exchange is neither balanced nor within its control. Recognising that is not pessimism. It is the precondition for asking a better question than "how much investment did we attract this quarter."
+
+## Further Reading
+
+**Batam** — An Indonesian island in the Riau Archipelago, about 40 minutes by ferry from Singapore, with a free-trade zone that has long hosted multinational manufacturing and shipping. Under the tariff war it became a new landing point for relocated contract factories, growing faster than the national average.
+
+**Business-process outsourcing (BPO)** — Firms contracting back-office functions such as customer service and data processing to specialist providers. The Philippines, with English fluency and low cost, became the "call-centre capital of the world"; the Manila-side jobs in this story are being drained by AI and automation.
 
 *Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "受益于美国关税战 印尼峇淡岛崛起成代工转移基地" and "亲手训练AI后被取代 菲律宾员工叹'像自掘坟墓'"。*

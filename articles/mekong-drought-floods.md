@@ -42,7 +42,13 @@
 
 它提醒我们：**水权的博弈，从来不只是国家间的较量，更是数千万依赖这条河生存的普通人的命运。** 而他们，至今在这场博弈中几乎没有发言权。
 
-===EN===
+## 延伸阅读
+
+**湄公河（Mekong River）**：东南亚第一长河，中国境内段称澜沧江（Lancang River），出境后流经缅甸、老挝、泰国、柬埔寨、越南，注入南海。它拥有世界规模最大的内陆渔业之一，下游逾6000万人赖其为生。
+
+**湄公河委员会（MRC）**：1995年4月泰、老、柬、越四国在泰国清莱签署《湄公河流域可持续发展合作协定》后成立，秘书处自2004年起设于老挝万象（Vientiane），负责协调水资源开发与水文数据共享。中国与缅甸自1996年起为“对话伙伴”而非成员国，这是文中“数据玻璃墙”的制度背景。2016年成立的澜沧江—湄公河合作机制（Lancang-Mekong Cooperation）则六国全参与。
+
+**湄公河三角洲（Mekong Delta）**：越南南部冲积平原，占全国约12%土地与近两成人口，贡献全国约一半稻米产量和95%的大米出口，也是本文所述盐水入侵与地面沉降的重灾区。===EN===
 
 # The Mekong's Droughts and Floods: Climate Change and Geopolitics
 
@@ -87,3 +93,11 @@ This is a slow ecological collapse with no single culprit — and everyone is im
 The Mekong's droughts and floods are the compound result of warming layered on human engineering, and a mirror of six nations' interests on a transnational river.
 
 It reminds us: **the contest over water rights is never just a contest between states — it is the fate of tens of millions who depend on this river to live.** And they, so far, have almost no voice in that contest.
+
+## Further Reading
+
+**The Mekong River** — Southeast Asia's longest river, rising on the Tibetan Plateau and reaching the South China Sea. Known as the Lancang inside China, it then crosses Myanmar, Laos, Thailand, Cambodia and Vietnam. It supports one of the world's largest inland fisheries and more than 60 million people in its lower basin.
+
+**The Mekong River Commission (MRC)** — Founded in April 1995, when Thailand, Laos, Cambodia and Vietnam signed the Agreement on the Sustainable Development of the Mekong River Basin at Chiang Rai. Its secretariat has been based in Vientiane since 2004, and it coordinates water-resource planning and hydrological data sharing. China and Myanmar have been "dialogue partners" rather than members since 1996 — the institutional background to the "glass wall" described above. The Lancang-Mekong Cooperation mechanism, established in 2016, includes all six states.
+
+**The Mekong Delta** — Vietnam's southern alluvial plain, holding about 12% of the country's land and close to a fifth of its people. It produces roughly half of Vietnam's rice and 95% of its rice exports, and is the area worst affected by the saltwater intrusion and subsidence discussed here.

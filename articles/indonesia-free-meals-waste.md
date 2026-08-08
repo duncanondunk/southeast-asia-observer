@@ -15,6 +15,14 @@
 ## 雄心与落差的隐喻
 免费餐计划是衡量普拉博沃"亲民强人"路线的标尺。它揭示了一个常见的发展悖论：政治意愿可以一夜立起一座标杆，而把标杆稳稳落到每一张餐桌上，却要仰仗经年累月的行政能力沉淀。当"免费"遇上"浪费"，损耗的不仅是粮食，还有政策的信用。若印尼不能在配送精度与厨房治理上补课，这座厨余山，迟早会压过那句"为孩子"的初心。
 
+## 延伸阅读
+
+**普拉博沃·苏比延多**：1951年生于雅加达，长期服役于陆军特种部队，1983年与总统苏哈托之女结婚，1998年8月被解除军职。2008年创立大印尼运动党，2014、2019两度竞选总统不敌佐科，2019至2024年任国防部长。2024年与佐科长子吉布兰搭档胜选，同年10月就任印尼第八任总统。
+
+**免费营养餐计划（MBG）**：普拉博沃的核心竞选承诺，2025年1月启动，由2024年新设的国家营养局统筹，通过各地营养供给服务单位向学童、孕产妇与幼儿供餐。2026年起全国铺开，目标覆盖约5500万人。
+
+**经济与法律研究中心（CELIOS）**：雅加达独立研究机构，常就财政与产业政策发布评估，本文浪费测算即出自该机构。
+
 *Topic reference: 联合早报（Lianhe Zaobao） Lianhe Zaobao — "印尼免费餐计划被批浪费和制造巨量厨余"。*
 
 ===EN===
@@ -35,5 +43,13 @@ In early August the Environment Ministry announced a circular-economy model with
 
 ## The metaphor of ambition versus execution
 The free-meals plan is a yardstick for Prabowo's "pro-poor strongman" agenda. What it reveals is a familiar development paradox: political will can raise a flagship overnight, yet landing it steadily on every plate depends on years of accumulated administrative capacity. When "free" collides with "waste," what is lost is not only food but the program's credibility. Unless Indonesia remedies delivery precision and kitchen governance, this mountain of leftovers may, sooner than later, outweigh the original pledge "for the children."
+
+## Further Reading
+
+**Prabowo Subianto** — Born in Jakarta on 17 October 1951, he graduated from the Indonesian Military Academy in 1974 and spent much of his career in the army's special forces (Kopassus). In 1983 he married a daughter of then-president Suharto, and in August 1998 he was discharged from military service. He founded the Gerindra party in 2008, lost presidential bids to Joko Widodo in 2014 and 2019, then served as Jokowi's defence minister from 2019 to 2024. In 2024 he won the presidency alongside Jokowi's eldest son, Gibran Rakabuming Raka, and was sworn in as Indonesia's eighth president on 20 October.
+
+**Makan Bergizi Gratis (MBG)** — Prabowo's central campaign pledge, launched on 6 January 2025 and administered by the National Nutrition Agency (Badan Gizi Nasional), created in 2024. Meals reach schoolchildren, pregnant and nursing women and toddlers through local nutrition service units known as SPPG. A nationwide expansion began in January 2026, targeting some 55 million recipients.
+
+**Center of Economic and Law Studies (CELIOS)** — An independent research institute in Jakarta, led by executive director Bhima Yudhistira, which publishes assessments of fiscal, energy and industrial policy. Its research produced the waste estimates cited above.
 
 *Topic reference: Lianhe Zaobao — "印尼免费餐计划被批浪费和制造巨量厨余"。*

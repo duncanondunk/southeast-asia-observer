@@ -26,6 +26,12 @@
 
 ---
 
+## 延伸阅读
+
+**侨批（Qiaopi）**：闽粤方言中“信”与“汇款”的合体，指19世纪至20世纪中叶由东南亚寄回福建、广东侨乡的跨国书信与汇款。它既是一家一户的生计纽带，也是早期侨民金融的基础设施。
+
+**《世界记忆名录》（Memory of the World）**：联合国教科文组织1992年设立的名录，保存具有世界意义的文献遗产。2013年“侨批档案”入选，确认其为人类共同文化遗产。
+
 *话题参考：中国侨网（chinaqw.com）一周热点《因电影出圈的侨批有多动人？专家解读跨越山海的家国情书》*
 
 ===EN===
@@ -63,5 +69,11 @@ The *qiaopi* speaks to a truth easily forgotten in the age of instant transfer: 
 A century later, the *qiaopi* reminds us that what binds a scattered people is not only memory, but the mundane, stubborn mechanics of staying connected — a courier, a receipt, a promise that the money, and the love folded inside it, will arrive.
 
 ---
+
+## Further Reading
+
+**Qiaopi (侨批)** — In the Hokkien and Teochew dialects the term fuses "letter" and "remittance": transoceanic family letters that also carried money, sent from Southeast Asia to Fujian and Guangdong from the 19th to mid-20th century. It was both a household lifeline and an early specimen of diaspora finance.
+
+**UNESCO's Memory of the World Register** — A list established by UNESCO in 1992 to safeguard documentary heritage of universal value. The Qiaopi Archives were inscribed in 2013, recognized as a shared heritage of humanity.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "How moving is the qiaopi, made famous by film? Experts decode the love letters that crossed mountains and seas."*

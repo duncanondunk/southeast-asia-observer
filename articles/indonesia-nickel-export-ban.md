@@ -40,7 +40,13 @@
 
 但实验的下半场，是环保合规、是技术自主、是与外资的长期博弈。雅加达的野心能否兑现，未来五年见分晓。
 
-===EN===
+## 延伸阅读
+
+**镍（Nickel）**：银白色金属，是不锈钢与电动车电池正极的关键原料。印尼、澳大利亚、巴西等国储量居前，其中印尼近年探明储量约占全球四分之一。
+
+**印尼镍矿出口禁令（Nickel export ban）**：佐科政府2020年1月起禁止镍原矿出口，意在把冶炼、电池材料乃至电芯产能留在国内。该政策吸引了大量中资入园，也引发环保与外资犹豫的争议。
+
+**电动车电池（EV battery）**：以镍、钴、锂为正极核心材料。印尼借禁令向上游要价，希望从“卖矿”转向“卖电池材料”，能否延伸到价值链高端仍待观察。===EN===
 
 # Indonesia's Nickel Export Ban and the Global EV Battery Chain
 
@@ -83,3 +89,11 @@ Not everyone is convinced. In 2025, several Japanese and Korean battery makers s
 Indonesia's nickel ban is a bold experiment in resource-state industrial upgrading. It proves a plain truth — **raw materials are not destiny; only by extending the value chain downstream does a country gain pricing power.**
 
 But the second half of the experiment is environmental compliance, technological autonomy, and a long contest with foreign capital. Whether Jakarta's ambition pays off will be decided in the next five years.
+
+## Further Reading
+
+**Nickel** — A silvery metal essential to stainless steel and to the cathodes of electric-vehicle batteries. Reserves are led by Indonesia, Australia and Brazil; Indonesia's share of proven global reserves is roughly a quarter.
+
+**Indonesia's nickel export ban** — From January 2020 the Jokowi government banned exports of raw nickel ore, aiming to keep smelting, battery-material and even cell production at home. The policy drew large Chinese investment but also drew criticism over the environment and foreign-investor hesitation.
+
+**The EV battery** — Built around nickel, cobalt and lithium cathodes. Indonesia's ban is a bid to move up from "selling ore" to "selling battery materials," but whether it reaches the high end of the value chain remains to be seen.

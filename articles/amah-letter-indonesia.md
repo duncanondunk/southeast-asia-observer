@@ -40,7 +40,13 @@
 
 那位在字幕走完后仍坐在座位上的八十二岁老人，不是逝去过去的遗物。她是证据——证明过去从未真正失去，只是等待，在一种语言里，等某个人按下播放。
 
-===EN===
+## 延伸阅读
+
+**潮州话（Teochew）**：汉语闽南语分支潮汕片，源于广东潮汕地区。东南亚潮汕裔华人多以此方言维系乡音与宗族记忆，片中祖母能与银幕“对上暗号”，靠的正是这门语言。
+
+**印尼华文禁令（Chinese-language ban）**：苏哈托“新秩序”自1966年起禁止公开使用华文、关闭华校，限制延续约三十年；1998年改革后逐步松动。文中“强加的沉默”即指这段历史。
+
+**唐山（Tangshan）**：东南亚华裔方言对“中国/祖籍地”的俗称，字面可溯唐代。对离散群体它并非具体城市，而是“家”与故国的代称。===EN===
 
 # When the Screen Spoke Teochew: A Film and the Slow Thaw of Indonesia's Chinese Memory
 
@@ -83,5 +89,13 @@ Yet the scene also suggests a pathway. Memory, once silenced, does not return th
 For a blog that observes Southeast Asia rather than advocates, the lesson is modest but durable. The Chinese diaspora in Indonesia is not a fixed quantity — not "assimilated" nor "preserved" in any final sense. It is a memory under continuous negotiation, alternately suppressed and recovered, and the recovery now underway is being led not by the state but by culture: by a film, a dialect, a letter.
 
 The eighty-two-year-old who stayed in her seat after the credits is not a relic of a lost past. She is evidence that the past was never fully lost — only waiting, in a language, for someone to press play.
+
+## Further Reading
+
+**Teochew (潮州话)** — A variety of Southern Min Chinese from the Chaoshan region of Guangdong. Many ethnic Chinese of Teochew origin in Southeast Asia keep their dialect as a tie to home and kin; in the film, the grandmother recognizes the screen's "code" precisely because of this language.
+
+**Indonesia's Chinese-language ban** — Under Suharto's New Order, public use of Chinese languages was banned and Chinese schools were closed from 1966, a restriction lasting about three decades. After the 1998 reformasi it was gradually relaxed. The "imposed silence" in the text refers to this period.
+
+**Tangshan (唐山)** — A vernacular term among Overseas Chinese for "China" or the ancestral homeland, traceable to the Tang dynasty. For the diaspora it is not a city but a name for home and the old country.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "《给阿嬷的情书》唤起印尼华人尘封记忆".*

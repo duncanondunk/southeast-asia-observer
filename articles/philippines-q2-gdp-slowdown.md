@@ -15,6 +15,14 @@
 ## 政治与展望
 数据公布正值小马可斯执政中期，或进一步拖累其支持率。总统府坦言"不如预期"，但将疲软归因为中东冲突等临时因素。菲律宾群岛银行首席经济师内里（Neri）持审慎乐观：被取消或推迟的"幽灵项目"所带来的拖累，预计从本季度起逐步消退；若中东局势趋稳，即便央行继续加息抑制通胀，三季度也有望见到一定程度的温和复苏。换言之，这是一场由治理失序与外部冲击叠加而成的"技术性减速"，而非结构性崩塌——但若反腐久拖不决、中东持续紧绷，暂时的阵痛恐将拖成慢性的病灶。
 
+## 延伸阅读
+
+**小马科斯**：1957年生于北伊罗戈省，父母为前总统老马科斯夫妇。1986年革命后全家赴夏威夷，1991年返菲，历任省长与国会议员。2022年与杜特尔特之女萨拉搭档参选，得票约59%，6月就任总统，任期至2028年6月；两大家族联盟后破裂。
+
+**防洪工程贪腐案与"幽灵工程"**：2025年7月小马可斯下令审计防洪项目，参议院随后启动调查，公共工程与公路部官员承认存在"只拨款、未施工"的项目；9月另设独立基建委员会续查，部分案件已进入司法程序。审查期间大量拨款与工程冻结复核，即本文建筑业萎缩的背景。
+
+**海外菲劳与侨汇**：菲律宾央行数据显示，2025年现金侨汇356亿美元（约合2403亿元人民币），约合国内生产总值7.3%。
+
 *Topic reference: 联合早报（Lianhe Zaobao） Lianhe Zaobao — "贪腐丑闻、建筑业萎缩与中东变局三重打击 菲二季度经济增长失速"。*
 
 ===EN===
@@ -35,5 +43,13 @@ These three shocks are not isolated. The graft probe froze the "state-led invest
 
 ## Politics and outlook
 The weak print lands in the middle of Marcos's term and may further dent his approval ratings. Malacañang conceded the data was "below expectations" but attributed the softness to temporary factors such as the Middle East conflict. Economists are cautiously optimistic: BDO's chief economist Neri expects the drag from cancelled or delayed "ghost projects" to fade from this quarter, and a mild recovery in Q3 if the Middle East stabilizes. In other words, this is a "technical deceleration" born of governance disorder and external shock — not a structural collapse. But if the graft cleanup drags and the Middle East stays tense, a temporary ache could harden into a chronic condition.
+
+## Further Reading
+
+**Ferdinand "Bongbong" Marcos Jr.** — Born on 13 September 1957 in Ilocos Norte, son of the late president Ferdinand Marcos Sr. and Imelda Marcos. The family went to Hawaii after the 1986 People Power revolution; he returned in 1991 and served as vice governor and governor of Ilocos Norte, then as congressman and senator. Running with Sara Duterte, daughter of Rodrigo Duterte, he took more than 31 million votes — about 59% — in May 2022 and was sworn in as the 17th president on 30 June, for a term running to June 2028. The alliance between the two families has since broken down.
+
+**The flood-control graft case and "ghost projects"** — In his July 2025 State of the Nation Address, Marcos ordered an audit of flood-control works from the previous three years; a Senate Blue Ribbon Committee inquiry followed in August, and officials of the Department of Public Works and Highways (DPWH) acknowledged "ghost projects" that were funded but never built. In September the president created an Independent Commission for Infrastructure (ICI) to continue the inquiry, and some contractors and officials have since entered judicial proceedings. The review froze large volumes of appropriations and ongoing works — the immediate backdrop to the construction contraction described above.
+
+**Overseas Filipino Workers and remittances** — Cash remittances reached US$35.63 billion in 2025, equal to about 7.3% of GDP, according to the central bank. They underwrite household consumption and leave the economy unusually sensitive to Middle East instability and oil prices.
 
 *Topic reference: Lianhe Zaobao — "贪腐丑闻、建筑业萎缩与中东变局三重打击 菲二季度经济增长失速"。*

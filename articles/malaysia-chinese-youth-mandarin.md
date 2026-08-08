@@ -22,6 +22,12 @@
 
 剥开地缘政争的表层，剩下的其实是一个关于语言与归属的普遍命题。一门传承之语得以延续，从来不靠政府保护，而靠每一代人自己判断"它值得说"——有时，更靠他们认定"它很酷"。萧国庆的镜头，与其说是宣传工具，不如说是一场个人的赓续：他拍下自己想理解的中国，也在此过程中，以自己的方式让一门语言继续活着。
 
+## 延伸阅读
+
+**马来西亚华裔（Malaysian Chinese）**：马来西亚三大族裔之一，占人口约两成。历史上曾受压同化政策，却保留了东南亚最完整的华文教育体系。
+
+**华文独立中学（Independent Chinese High School，“独中”）**：马来西亚华社自力兴办、以华语为主要教学媒介的中学。1960年代部分华校拒绝改制、放弃津贴而存续至今，由“董总”（华校董事联合会总会）协调，全马约60所。
+
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "马来西亚华裔青年的中文情结：说好中文是很酷的事"。*
 
 ===EN===
@@ -49,5 +55,11 @@ States have noticed. Beijing openly courts the diaspora as a "bridge" (以侨为
 ## Back to the essence: language and belonging
 
 Strip away the geopolitics and what remains is a universal story about language and belonging. A heritage tongue survives not because governments protect it, but because each generation decides it is worth speaking — and, sometimes, that it is cool. Xiao's camera is less a propaganda instrument than a personal act of continuity: he films the China he wants to understand, and in doing so keeps a language alive on his own terms.
+
+## Further Reading
+
+**Malaysian Chinese** — One of Malaysia's three main ethnic groups, about a fifth of the population. Subject historically to assimilation pressure, they nonetheless preserved Southeast Asia's most complete Chinese-medium education system.
+
+**Independent Chinese High Schools (独中)** — Secondary schools run by the ethnic-Chinese community and using Chinese as the main medium of instruction. When some Chinese schools refused state conversion in the 1960s and gave up subsidies, they survived as "independent" schools, today around sixty, coordinated by Dong Zong (the United Chinese School Committees' Association).
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "马来西亚华裔青年的中文情结：说好中文是很酷的事"。*

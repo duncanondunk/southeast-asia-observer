@@ -36,6 +36,12 @@
 
 ---
 
+## 延伸阅读
+
+**海外侨胞（Overseas Chinese）**：广义指定居海外的中华儿女，文中以“六千多万海外侨胞+四千万归侨侨眷”概之，分布全球。法律上有“华侨”（持中国籍）、"华人"（已入外籍）、"归侨"、"侨眷"等细分。
+
+**侨务（Diaspora affairs / qiaowu）**：主权国家对海外侨民及其眷属的综合性工作，涵盖权益保护、文化联系与人才引进等。文中“打好侨牌”即这一政策逻辑的民间表述。
+
 *话题参考：中国侨网（chinaqw.com）一周热点《6000 多万海外侨胞、4000 多万归侨侨眷，新时代如何打好"侨牌"？》*
 
 ===EN===
@@ -77,5 +83,11 @@ Understanding the sixty million is not a matter of grasping a statistical catego
 The number is large. The margin for error, given the politics that surround it, is not.
 
 ---
+
+## Further Reading
+
+**Overseas Chinese** — A broad term for ethnic Chinese residing abroad. The text cites "over sixty million overseas Chinese plus forty million returned overseas Chinese and relatives," scattered worldwide. In law the categories split into huaqiao (Chinese nationals abroad), huaren (foreign citizens of Chinese descent), guiqiao (returned overseas Chinese) and qiaojuan (their relatives).
+
+**Diaspora affairs (qiaowu)** — A state's comprehensive work concerning overseas nationals and their families, spanning rights protection, cultural ties and talent recruitment. The phrase "playing the qiao card" is the popular face of this policy logic.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "Over 60 million overseas Chinese and over 40 million returned overseas Chinese and relatives: how to play the 'qiao card' well in the new era."*

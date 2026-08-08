@@ -39,7 +39,11 @@
 
 至于地缘红利——能吃多久，从来不由越南说了算。
 
-===EN===
+## 延伸阅读
+
+**革新开放（Đổi Mới）**：越南1986年启动的经济改革，从计划经济转向市场导向，开启融入全球制造体系的进程；本文所述电子、纺织崛起即其四十年成果。
+
+**“中国+1”（China Plus One）**：跨国企业为分散对华单一依赖，在越南、印度等地布局第二产能的策略。中美博弈放大了越南的地缘价值，但也将它推入“走钢丝”的外交处境。===EN===
 
 # Vietnam Manufacturing: New Opportunities Amid Global Supply-Chain Realignment
 
@@ -81,3 +85,9 @@ But dividends are always a double-edged sword. As Vietnam tilts closer to the Un
 Vietnam's story is one of a developing country carving out space between giants. Its opportunities are real, but so are its bottlenecks. Whether the next wave of manufacturing dividends pays off depends on whether Vietnam, within a ten-year window, can genuinely upgrade from "OEM" to "autonomy."
 
 As for the geopolitical dividend — how long it lasts was never Vietnam's call to make.
+
+## Further Reading
+
+**Đổi Mới (Renovation)** — Vietnam's economic reforms launched in 1986, shifting from a planned to a market-oriented economy and opening the country to global manufacturing. The electronics and textile rise described here is the four-decade fruit of that turn.
+
+**"China Plus One"** — A strategy in which multinationals spread production beyond China — to Vietnam, India and elsewhere — to diversify supply chains. U.S.–China rivalry has amplified Vietnam's geopolitical value but also pushed it onto a diplomatic tightrope.

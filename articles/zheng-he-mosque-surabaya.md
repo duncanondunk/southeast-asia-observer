@@ -44,6 +44,12 @@
 
 ---
 
+## 延伸阅读
+
+**郑和（Zheng He）**：本名马和，明代穆斯林宦官，1405—1433年七下西洋，屡抵印尼群岛。因其“和平贸易、未留殖民地”的记述，成为印尼华人可用的“非威胁性”中国符号。
+
+**郑和清真寺（Cheng Hoo Mosque）**：印尼以郑和命名、融合中华飞檐、爪哇传统与伊斯兰元素的清真寺；泗水首座2002年落成，哈夷郑和基金会至今在全印尼建有十九座，是华人文化与在地信仰交融的物质见证。
+
 *话题参考：中国侨网（chinaqw.com）一周热点《一座清真寺里的中国故事——探访印尼泗水郑和清真寺》*
 
 ===EN===
@@ -93,5 +99,11 @@ It is also a reminder that diasporas do not survive on memory alone. They surviv
 Under the upturned eaves in Surabaya, faith, memory, and identity are still being negotiated. The Zheng He Mosque is not a monument to a finished past. It is an ongoing argument, made in tile and timber, about how a minority can be both Chinese and Indonesian, both Muslim and itself — and about how a fifteenth-century admiral can still do diplomatic work that no embassy quite can.
 
 ---
+
+## Further Reading
+
+**Zheng He** — Born Ma He, a Muslim eunuch of the Ming dynasty who commanded seven voyages across the Indian Ocean between 1405 and 1433, calling repeatedly at the Indonesian archipelago. Remembered for peaceful trade and no colonies, he became a "non-threatening" Chinese symbol for Indonesian Chinese.
+
+**The Cheng Hoo Mosque** — Indonesian mosques named for Zheng He, blending Chinese eaves, Javanese tradition and Islamic worship. The first, in Surabaya, was completed in 2002; the Haji Zheng He Foundation has since built nineteen across the country — material evidence of Chinese culture meeting local faith.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "一座清真寺里的中国故事——探访印尼泗水郑和清真寺" (A Chinese Story in a Mosque: Visiting the Zheng He Mosque in Surabaya, Indonesia).*

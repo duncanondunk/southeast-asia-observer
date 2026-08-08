@@ -17,6 +17,12 @@
 《给阿嬷的情书》引发的共鸣提醒我们：离散群体的维系不只靠血缘和政策，也靠持续的文化再生产。当主流叙事常常把华侨华人简化为"经济角色"，这类带着温度的文化产品，反而成了群体自我确认、代际对话的珍贵载体。
 
 ---
+## 延伸阅读
+
+**《给阿嬷的情书》（Letter to Grandma）**：一部以华人离散与方言记忆为题的华语电影，近期在印尼首映、泰国潮州会馆专场放映，引发老华侨对母语与祖辈记忆的共鸣。
+
+**潮州会馆（Teochew Clan Association）**：东南亚华社按方言与祖籍地结成的宗乡社团，由潮汕裔侨民自发组织，承担文化、互助与“转译”祖籍地符号的功能。文中两场放映即由其主动组织。
+
 *话题参考：中国侨网（chinaqw.com）一周热点《《给阿嬷的情书》印尼首映 印尼老华侨深情告白：终于等到这部电影！》*
 
 ===EN===
@@ -40,4 +46,10 @@ What is striking is that neither screening came out of the commercial distributi
 The resonance triggered by *Letter to Grandma* reminds us that a diaspora endures not only through kinship and policy, but through continuous cultural reproduction. Where mainstream narratives often reduce overseas Chinese to an "economic role," such warm cultural products become precious vehicles for a group's self-recognition and intergenerational dialogue. In an age of assimilation pressure and shrinking native-language spaces, the cinema may be among the last rooms where a diaspora can sit together and remember out loud.
 
 ---
+## Further Reading
+
+**Letter to Grandma (《给阿嬷的情书》)** — A Chinese-language film on diaspora and dialect memory that recently premiered in Indonesia and was screened by the Teochew Clan Association in Thailand, moving elderly ethnic Chinese to reconnect with their mother tongue and ancestral past.
+
+**Teochew Clan Association** — A dialect-and-ancestry association of ethnic Chinese in Southeast Asia, organized by Teochew-descended migrants. It provides mutual aid and acts as a "translator" of homeland symbols into forms local communities accept. Both screenings in the text were organized by such associations.
+
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "Letter to Grandma premieres in Indonesia; elderly Chinese-Indonesian viewers: 'We finally waited for this film!'"*

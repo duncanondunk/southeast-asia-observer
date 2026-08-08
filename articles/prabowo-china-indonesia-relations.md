@@ -72,7 +72,11 @@
 
 **预算与本土化的双重约束。** 印尼 2025 年预算重构导致国防开支削减 16%，可能影响普拉博沃雄心勃勃的"努山塔拉三叉戟盾（Nusantara Trident Shield）"25 年约 1250 亿美元（约8434亿元人民币）现代化计划。而在民间，中资镍冶炼园区长期面临环保与劳工条件的国际质疑，"绿色镍"叙事更多停留在口号。这些都构成高位运行的隐性成本。
 
-===EN===
+## 延伸阅读
+
+**纳土纳（Natuna）**：印尼北部海域，处于印尼专属经济区与南海九段线重叠区，是本文所述中印尼唯一结构性矛盾所在。雅加达采取“海上强硬驱离+签署合作备忘录”的双轨应对。
+
+**2+2 对话机制（2+2 Dialogue）**：外长与防长共同出席的部长级磋商。2025年4月中印尼在北京举行首次“2+2”，印尼由此成为全球第一个与中国启动该机制的国家，议题涵盖海上安全与关键矿产。===EN===
 
 # Crossing the "Friendly" Threshold: China-Indonesia Relations Under Prabowo at a Historic High — and Its Hidden Currents
 
@@ -147,3 +151,9 @@ Yet the 6.2 reading is not without tension. Precisely when the relationship is w
 **The American counterpoint.** Prabowo does not look only to Beijing. His second stop after inauguration was Washington, where he met Joe Biden and spoke with president-elect Donald Trump. But CSIS observed that since Trump took office in January 2025, U.S. Southeast Asia policy has been consumed by tariffs and the closure of USAID, with relationship maintenance toward Indonesia "falling by the wayside" — the Trump administration imposed a 32% tariff on Indonesian goods, negotiations stalled, and neither side posted a permanent ambassador. The relative American retreat has, objectively, pushed Jakarta closer to Beijing. But that may not be what Indonesia wants: an Indonesia "slighted" by Washington has even more reason to keep its leverage in the China relationship, avoiding a one-way tilt.
 
 **Budget and localization constraints.** Indonesia's 2025 budget refocusing cut defense spending by 16%, potentially affecting Prabowo's ambitious "Nusantara Trident Shield" modernization program of roughly US$125 billion over 25 years. On the civilian side, Chinese-invested nickel smelting parks have long faced international criticism over environmental and labor conditions, with the "green nickel" narrative remaining largely slogan-level. These are the hidden costs of operating at a high plateau.
+
+## Further Reading
+
+**Natuna** — Waters off northern Indonesia where its exclusive economic zone overlaps China's nine-dash line — the single structural friction point in China–Indonesia ties described here. Jakarta's response is "dual-track": assertive expulsion at sea alongside a coast-guard cooperation memorandum.
+
+**The 2+2 Dialogue** — A ministerial format bringing together foreign and defence ministers. China and Indonesia held their first "2+2" in Beijing in April 2025, making Indonesia the first country in the world to launch such a mechanism with China; agendas span maritime security and critical minerals.
