@@ -21,19 +21,19 @@
 
 # Prabowo's Free-Meals Ambition Meets a Mountain of Leftovers
 
-**From flagship to flashpoint**
+## From flagship to flashpoint
 President Prabowo Subianto's free nutritious meals program (Makan Bergizi Gratis, or MBG) — meant to deliver one hot, nutritious meal a day to schoolchildren from low-income families and to pregnant women — is his most emblematic social-policy flagship. Yet the program now faces not only a funding shortfall but mounting public scrutiny over reports that it wastes hundreds of millions of meals a week and imposes enormous economic losses.
 
-**The numbers: over a hundred million meals binned weekly**
+## The numbers: over a hundred million meals binned weekly
 An assessment by the Center of Economic and Law Studies (CELIOS) found that between 62 million and 120 million prepared and distributed meals are wasted each week. That includes at least 7,700 tonnes of cooked rice and 3,400 tonnes of side dishes — a weekly national loss estimated at 1.27 trillion rupiah (about S$91 million). When a program premised on "feeding the children" generates waste on this scale, its founding narrative is bound to curdle.
 
-**The real ailment: logistics and governance, not "kids not eating"**
+## The real ailment: logistics and governance, not "kids not eating"
 The root problem lies not on the demand side but in supply chains and administration. The waste exposes a frayed meal-delivery chain — the more steps from procurement and cooking to distribution, the larger the leakage; the nation-spanning network of "appointed kitchens" may simply lack the capacity, cold-chain, and targeting precision to match the program's ambition. In short, this is an execution problem, not an appetite problem.
 
-**Circular economy: a patch or a misdiagnosis?**
+## Circular economy: a patch or a misdiagnosis?
 In early August the Environment Ministry announced a circular-economy model within the program, partnering appointed kitchens to convert food scraps and wastewater into livestock feed and agricultural inputs. Deputy minister Diaz said some kitchens have already begun; National Nutrition Agency head Sudaryono (on August 5) encouraged recycling used cooking oil into biodiesel and pledged tighter compliance monitoring. But CELIOS researcher Isnawati argues circular economy cannot cure the underlying governance failure, and Greenpeace Indonesia warns that organic waste piling in landfills releases flammable methane and health risks. A patch may stem the leak; it does not seal the source.
 
-**The metaphor of ambition versus execution**
+## The metaphor of ambition versus execution
 The free-meals plan is a yardstick for Prabowo's "pro-poor strongman" agenda. What it reveals is a familiar development paradox: political will can raise a flagship overnight, yet landing it steadily on every plate depends on years of accumulated administrative capacity. When "free" collides with "waste," what is lost is not only food but the program's credibility. Unless Indonesia remedies delivery precision and kitchen governance, this mountain of leftovers may, sooner than later, outweigh the original pledge "for the children."
 
 *Topic reference: Lianhe Zaobao — "印尼免费餐计划被批浪费和制造巨量厨余"。*

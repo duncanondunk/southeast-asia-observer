@@ -21,19 +21,19 @@
 
 # The "Ghost Projects" Backlash: Philippines GDP Stalls in Q2 Under a Triple Whammy
 
-**The numbers: the slowest since 2009, bar the pandemic**
+## The numbers: the slowest since 2009, bar the pandemic
 On August 7, the Philippine Statistics Authority reported second-quarter GDP growth of just 2.3% year-on-year — the weakest reading since the fourth quarter of 2009, excluding the pandemic years. It missed both the prior quarter's 2.8% and the consensus forecasts (Bloomberg 2.9%, Reuters median 2.8%). For the first half, growth came in at only 2.6%. To even reach the lower bound of the government's full-year target of 3.5%–4.5%, the second half must expand by at least 4.4% — what planning secretary Arsenio Balisacan called "a formidable challenge."
 
-**The first blow: an anti-graft probe that froze infrastructure**
+## The first blow: an anti-graft probe that froze infrastructure
 The slowdown began in the third quarter of last year, when President Ferdinand Marcos Jr. ordered a probe into a flood-control corruption scandal involving billions of pesos. Heightened scrutiny delayed a large volume of public infrastructure appropriations and construction, denting investor confidence. The direct result: construction contracted 14.8% in the second quarter (against just 4.3% in the first), and total investment fell 9.2%, its fourth consecutive quarterly decline. The irony is hard to miss — an anti-corruption drive meant to purge "ghost projects" became, in the short run, a drag on the very growth it was meant to protect.
 
-**The second blow: the Middle East shock to prices and consumption**
+## The second blow: the Middle East shock to prices and consumption
 Household consumption, which accounts for more than two-thirds of economic activity, slowed from 3.0% to 2.8%. The main culprit was the Middle East tension that lifted global energy and living costs, eroding purchasing power. Average inflation in the first seven months ran at 5.0%, above the 3.0% target; the central bank has already hiked 50 basis points this year and is now expected to pause further tightening as growth stalls. One side effect of expensive energy: Filipino firms and households are accelerating rooftop solar adoption to hedge against power prices.
 
-**The third blow: the soft underbelly of the growth model**
+## The third blow: the soft underbelly of the growth model
 These three shocks are not isolated. The graft probe froze the "state-led investment" engine; the Middle East shock hit the "consumption and remittances" base — and a sizeable share of the Philippines' over-one-million overseas workers are in the Middle East, where oil prices and regional instability bear directly on both remittances and fuel costs. An economy leaning on consumption, remittances, and infrastructure at once found all three constrained in a single quarter. The stall was, in that sense, overdetermined.
 
-**Politics and outlook**
+## Politics and outlook
 The weak print lands in the middle of Marcos's term and may further dent his approval ratings. Malacañang conceded the data was "below expectations" but attributed the softness to temporary factors such as the Middle East conflict. Economists are cautiously optimistic: BDO's chief economist Neri expects the drag from cancelled or delayed "ghost projects" to fade from this quarter, and a mild recovery in Q3 if the Middle East stabilizes. In other words, this is a "technical deceleration" born of governance disorder and external shock — not a structural collapse. But if the graft cleanup drags and the Middle East stays tense, a temporary ache could harden into a chronic condition.
 
 *Topic reference: Lianhe Zaobao — "贪腐丑闻、建筑业萎缩与中东变局三重打击 菲二季度经济增长失速"。*

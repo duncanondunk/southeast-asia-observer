@@ -30,23 +30,23 @@
 
 In a short video posted from Beijing, a young Malaysian named Xiao Guoqing — a broadcasting student at the Communication University of China — sums up what he is most proud of in a single line: "Speaking good Chinese is a cool thing." It is a small sentence, but it captures a quiet shift underway inside Southeast Asia's ethnic Chinese communities.
 
-**The old frame: a language caught between bond and liability**
+## The old frame: a language caught between bond and liability
 
 For most of the twentieth century, being ethnically Chinese in Southeast Asia meant navigating a language that was at once a tie to the community and a liability to be managed with care. Indonesia banned Chinese-language education for three decades. Thailand's assimilation policies pressed the community toward a Thai-first identity. Even in Malaysia, where a vigorous vernacular-school system survived, Mandarin was for many young people less an asset to deploy than an obligation inherited from their grandparents.
 
-**The turn: from obligation to cultural capital**
+## The turn: from obligation to cultural capital
 
 What is new is not that young ethnic Chinese speak Chinese, but how they value it. Xiao's pride is representative of a generational turn: fluent Mandarin is being redefined as cultural capital — a pass into the world's second-largest economy, a capacity to move through China, a tool for self-expression and content creation, and a way to belong to a civilization wider than a minority community. The operative word is "cool" — and cool is the precise opposite of burden.
 
-**Three forces converging**
+## Three forces converging
 
 Three currents meet here. First, the sheer weight of China's economy has turned Chinese from sentiment into skill. Second, the "Study in China" and "China Travel" booms have converted an ancestral abstraction into a lived destination; in the past year alone, hundreds of thousands of overseas youth joined root-seeking and study camps on the mainland. Third, social media has let diaspora creators bypass traditional gatekeepers and address a transnational Chinese-speaking audience directly — Xiao, camera in hand, is one of them.
 
-**Soft power, and suspicion, amplified**
+## Soft power, and suspicion, amplified
 
 States have noticed. Beijing openly courts the diaspora as a "bridge" (以侨为桥); Southeast Asian governments, wary of appearing as clients, tread carefully. Elsewhere, from Manila to Washington, an older suspicion keeps resurfacing — the framing of loyal ethnic Chinese as a "fifth column." This very rebranding, read as proof of divided loyalty, can pour fuel on that fire. The "cool" reframing is therefore double-edged: it empowers the young, but it also slides them back under the geopolitical microscope.
 
-**Back to the essence: language and belonging**
+## Back to the essence: language and belonging
 
 Strip away the geopolitics and what remains is a universal story about language and belonging. A heritage tongue survives not because governments protect it, but because each generation decides it is worth speaking — and, sometimes, that it is cool. Xiao's camera is less a propaganda instrument than a personal act of continuity: he films the China he wants to understand, and in doing so keeps a language alive on his own terms.
 
