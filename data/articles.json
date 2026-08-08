@@ -13,7 +13,7 @@
     "date": "2026-08-08",
     "readingTime": 9,
     "featured": false,
-    "summary": "菲律宾统计局8月7日公布，二季度GDP同比仅增2.3%，创2009年以来、排除疫情年份外的逾十五年最慢；不仅低于一季度的2.8%，也低于彭博2.9%、路透2.8%的预估。本文梳理解读这场失速的三重成因：第一重，小马可斯下令彻查涉数十亿比索防洪工程贪腐丑闻后，基建审查加码、施工推迟，建筑业二季度萎缩14.8%、投资连降四季；意在清扫“幽灵工程”的反腐，短期反而成了增长的拖累。第二重，中东紧张推高能源与生活成本，家庭消费（占经济活动三分之二以上）增速降至2.8%，前七月通胀达5.0%，央行已加息50个基点。第三重，菲律宾依赖消费、侨汇与基建三轮驱动，同一季度三块短板同时被掐，增速失速并不意外。经济学家审慎乐观：被推迟的“幽灵项目”拖累有望本季消退，若中东趋稳，三季度或现温和复苏。这是治理失序与外部冲击叠加的“技术性减速”，而非结构性崩塌——但若反腐久拖、中东紧绷，阵痛恐成慢性病。",
+    "summary": "菲律宾二季度GDP同比仅增2.3%，创2009年以来（除疫情外）最慢。反腐调查冻结“幽灵工程”，建筑业萎缩14.8%、投资连降四季；中东紧张推高能源与物价，家庭消费放缓；消费、侨汇、基建三轮驱动同时承压。三季度或现温和复苏，但若反腐久拖、地缘紧绷，阵痛可能慢性化。",
     "image": "images/articles/philippines-q2-gdp-slowdown.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-08",
@@ -23,7 +23,7 @@
       "subtitle": "An anti-graft probe froze infrastructure, the Middle East shock lifted prices, and the growth model's soft underbelly showed — three short boards pinched at once, and Q2 GDP grew just 2.3%",
       "category": "Economy & Industry",
       "country": "Philippines",
-      "summary": "On August 7 the Philippine Statistics Authority reported second-quarter GDP growth of just 2.3% year-on-year — the weakest since Q4 2009 excluding pandemic years, missing both the prior quarter's 2.8% and consensus forecasts (Bloomberg 2.9%, Reuters 2.8%). This piece unpacks the three causes of the stall. The first blow: President Marcos Jr.'s probe into a multibillion-peso flood-control graft scandal tightened scrutiny and delayed construction, pushing the construction sector down 14.8% and investment to a fourth straight quarterly decline — an anti-corruption drive that, in the short run, became a drag on the growth it aimed to protect. The second blow: Middle East tension lifted energy and living costs, slowing household consumption (over two-thirds of activity) to 2.8%, with seven-month inflation at 5.0% and the central bank already 50 bps tighter. The third blow: an economy leaning on consumption, remittances, and infrastructure found all three constrained in a single quarter. Economists are cautiously optimistic — the drag from delayed \"ghost projects\" should fade this quarter, and a mild Q3 recovery is possible if the Middle East stabilizes. This is a \"technical deceleration\" born of governance disorder and external shock, not a structural collapse — but if the cleanup drags and the region stays tense, a temporary ache could harden into a chronic condition.",
+      "summary": "Philippine Q2 GDP grew just 2.3% year-on-year, the weakest since 2009 excluding pandemic years. An anti-graft probe froze 'ghost' infrastructure projects, construction fell 14.8%, and investment declined for a fourth straight quarter; Middle East tensions lifted energy and living costs, slowing household consumption. A mild Q3 recovery is possible, but if the cleanup drags and regional tension persists, the ache could become chronic.",
       "imageAlt": "Manila skyline where high-rises meet the river — urban pulse and uncertainty of the Philippine economy."
     },
     "references": [
@@ -48,7 +48,7 @@
     "date": "2026-08-08",
     "readingTime": 9,
     "featured": false,
-    "summary": "印尼总统普拉博沃力推的“免费营养餐计划”（Makan Bergizi Gratis），每天为低收入家庭学童与孕妇提供一餐热食，是其最具代表性的社福标杆。但智库CELIOS评估显示，该计划每周有6200万至1亿2000万份餐食遭浪费，仅熟米饭每周至少7700吨、配菜3400吨，相当于国家每周蒙受约1.27万亿印尼盾（约9100万新元）损失。本文认为，问题的病灶不在需求端，而在供给端与治理：配餐链条从采购、烹饪到配送环节越多、损耗越大，覆盖全国的“指定厨房”在产能、冷链与精准投放上未必跟得上雄心。环境部8月初推行的循环经济模式（厨余转饲料、废油转生物柴油），被批评是补丁而非治本——绿色和平警告有机废弃物堆积会释放甲烷。免费餐计划是衡量普拉博沃“亲民强人”路线的标尺，揭示了一个常见发展悖论：政治意愿可一夜立起标杆，而把标杆稳稳落到每张餐桌，要靠经年累月的行政能力。当“免费”遇上“浪费”，损耗的不只是粮食，更是政策信用。",
+    "summary": "普拉博沃的免费营养餐计划每周被浪费6200万至1.2亿份，损失约1.27万亿印尼盾。问题不在需求端，而在采购、烹饪到配送的链条损耗，以及“指定厨房”产能与冷链的行政短板。环保补丁治标不治本；当“免费”撞上“浪费”，损耗的不只是粮食，更是政策信用。",
     "image": "images/articles/indonesia-free-meals-waste.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-08",
@@ -58,7 +58,7 @@
       "subtitle": "A flagship that feeds schoolchildren and pregnant women daily is now rebounding over reports it bins over a hundred million meals a week",
       "category": "Society & Culture",
       "country": "Indonesia",
-      "summary": "President Prabowo Subianto's free nutritious meals program (Makan Bergizi Gratis, MBG) — one hot, nutritious meal a day for schoolchildren from low-income families and pregnant women — is his most emblematic social-policy flagship. Yet an assessment by the Center of Economic and Law Studies (CELIOS) found 62 million to 120 million prepared meals wasted each week, including at least 7,700 tonnes of cooked rice and 3,400 tonnes of side dishes — a weekly national loss of about 1.27 trillion rupiah (roughly S$91 million). This piece argues the real ailment lies in supply chains and administration, not demand: the more steps from procurement and cooking to distribution, the larger the leakage, and the nation-spanning network of \"appointed kitchens\" may lack the capacity, cold-chain, and targeting precision to match the ambition. The circular-economy model the Environment Ministry rolled out in early August — scraps to feed, used oil to biodiesel — is criticized as a patch, not a cure; Greenpeace warns piled organic waste releases methane. The free-meals plan is a yardstick for Prabowo's \"pro-poor strongman\" agenda, revealing a familiar paradox: political will can raise a flagship overnight, yet landing it on every plate depends on years of administrative capacity. When \"free\" collides with \"waste,\" what is lost is not only food but credibility.",
+      "summary": "Prabowo's free nutritious-meals program wastes an estimated 62–120 million servings weekly, costing roughly 1.27 trillion rupiah. The leak is not on the demand side but in procurement, cooking, and distribution, as appointed kitchens struggle with capacity and cold-chain logistics. Environmental fixes treat symptoms, not causes; when 'free' meets waste, what erodes is not only food but policy credibility.",
       "imageAlt": "A spread of Indonesian dishes — rice and side plates full, echoing the food imagery of the free-meals program."
     },
     "references": [
@@ -86,7 +86,7 @@
     "date": "2026-08-08",
     "readingTime": 10,
     "featured": false,
-    "summary": "马来西亚华裔青年萧国庆一句「说好中文，是一件很酷的事情」，折射出东南亚华人社区一场静水流深的身份转向。本文认为，真正的变化不在于年轻一代「会说中文」，而在于他们「如何看待说中文」：流利中文正从「祖辈传下来的义务」被重新定义为文化资本——接入世界第二大经济体的通行证、行走中国的能力、内容创作的工具。三股力量合力推动：中国经济体量抬升使中文由「情怀」变「技能」；「留学中国」与「China Travel」热潮把原乡变成实地；社交媒体让离散创作者绕开中介、直接面向跨国华语受众。但这一「酷」的重构也是双刃剑：它赋权青年，却也将他们重新推回地缘政治的放大镜下。一门传承之语得以延续，终究靠每一代人自己认定它「值得说」，有时更靠认定它「很酷」。",
+    "summary": "马来西亚华裔青年萧国庆“说好中文很酷”的口号，折射东南亚华人社区的身份转向：中文正从“祖辈义务”被重新定义为文化资本——进入中国市场的通行证、内容创作与跨国流动的工具。经济引力、留学与旅行热潮、社交媒体三股力量推动，但“酷”的重构也把他们推回地缘政治的放大镜下。",
     "image": "images/articles/malaysia-chinese-youth-mandarin.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-08",
@@ -96,7 +96,7 @@
       "subtitle": "From a Malaysian student's \"speaking Chinese is cool\" to a generational reframing of a heritage tongue as cultural capital",
       "category": "Overseas Chinese",
       "country": "Malaysia",
-      "summary": "A young Malaysian, Xiao Guoqing, summed up his pride in one line: \"Speaking good Chinese is a cool thing.\" Behind that sentence lies a quiet shift in Southeast Asia's ethnic Chinese communities. This piece argues the change is not that the young speak Chinese, but how they value it: fluent Mandarin is being redefined from an inherited obligation into cultural capital — a pass into the world's second-largest economy, a capacity to move through China, a tool for content creation. Three forces converge: China's economic weight turns Chinese from sentiment into skill; the \"Study in China\" and \"China Travel\" booms make the ancestral homeland tangible; and social media lets diaspora creators bypass gatekeepers to address a transnational Chinese-speaking audience. Yet this \"cool\" reframing is double-edged: it empowers the young, but also slides them back under the geopolitical microscope. A heritage tongue survives not because governments protect it, but because each generation decides it is worth speaking — and, sometimes, that it is cool.",
+      "summary": "A young Malaysian's line — 'speaking good Chinese is cool' — signals a quiet identity shift in Southeast Asia's ethnic Chinese communities. Mandarin is being redefined from inherited obligation to cultural capital: a pass into China, a tool for content creation, and a transnational mobility skill. Economic gravity, study-and-travel booms, and social media drive the change, yet the 'cool' rebranding also exposes youth to geopolitical scrutiny.",
       "imageAlt": "A Kuala Lumpur street scene — pedestrians moving through the urban fabric of Southeast Asian youth's daily life."
     },
     "references": [
