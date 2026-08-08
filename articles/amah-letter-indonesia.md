@@ -46,7 +46,9 @@
 
 **印尼华文禁令（Chinese-language ban）**：苏哈托“新秩序”自1966年起禁止公开使用华文、关闭华校，限制延续约三十年；1998年改革后逐步松动。文中“强加的沉默”即指这段历史。
 
-**唐山（Tangshan）**：东南亚华裔方言对“中国/祖籍地”的俗称，字面可溯唐代。对离散群体它并非具体城市，而是“家”与故国的代称。===EN===
+**唐山（Tangshan）**：东南亚华裔方言对“中国/祖籍地”的俗称，字面可溯唐代。对离散群体它并非具体城市，而是“家”与故国的代称。
+
+===EN===
 
 # When the Screen Spoke Teochew: A Film and the Slow Thaw of Indonesia's Chinese Memory
 
