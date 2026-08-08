@@ -78,7 +78,11 @@
 
 **2+2 对话机制（2+2 Dialogue）**：外长与防长共同出席的部长级磋商。2025年4月中印尼在北京举行首次“2+2”，印尼由此成为全球第一个与中国启动该机制的国家，议题涵盖海上安全与关键矿产。
 
+*话题参考：清华大学国际关系研究院《中国与大国关系分值表（1950—2025年8月）》；新华社《中印尼合作：在赤道线上奏响现代化交响曲》*
+
 ===EN===
+
+
 
 # Crossing the "Friendly" Threshold: China-Indonesia Relations Under Prabowo at a Historic High — and Its Hidden Currents
 
@@ -159,3 +163,5 @@ Yet the 6.2 reading is not without tension. Precisely when the relationship is w
 **Natuna** — Waters off northern Indonesia where its exclusive economic zone overlaps China's nine-dash line — the single structural friction point in China–Indonesia ties described here. Jakarta's response is "dual-track": assertive expulsion at sea alongside a coast-guard cooperation memorandum.
 
 **The 2+2 Dialogue** — A ministerial format bringing together foreign and defence ministers. China and Indonesia held their first "2+2" in Beijing in April 2025, making Indonesia the first country in the world to launch such a mechanism with China; agendas span maritime security and critical minerals.
+
+*Topic reference: The Jakarta Post — "Indonesia, China agree to bolster ties ahead of ASEAN summit"; CSIS — "Six Months of Prabowo: Indonesia's Diplomatic Charm Offensive"*

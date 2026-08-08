@@ -45,7 +45,11 @@
 
 **“中国+1”（China Plus One）**：跨国企业为分散对华单一依赖，在越南、印度等地布局第二产能的策略。中美博弈放大了越南的地缘价值，但也将它推入“走钢丝”的外交处境。
 
+*话题参考：越南工贸部（MOIT）"U.S. trade representative issues final determination in Section 301 investigation covering 60 economies"；越南投资评论（The Investor）"Vietnam's FDI disbursement hits five-year high in H1"*
+
 ===EN===
+
+
 
 # Vietnam Manufacturing: New Opportunities Amid Global Supply-Chain Realignment
 
@@ -93,3 +97,5 @@ As for the geopolitical dividend — how long it lasts was never Vietnam's call 
 **Đổi Mới (Renovation)** — Vietnam's economic reforms launched in 1986, shifting from a planned to a market-oriented economy and opening the country to global manufacturing. The electronics and textile rise described here is the four-decade fruit of that turn.
 
 **"China Plus One"** — A strategy in which multinationals spread production beyond China — to Vietnam, India and elsewhere — to diversify supply chains. U.S.–China rivalry has amplified Vietnam's geopolitical value but also pushed it onto a diplomatic tightrope.
+
+*Topic reference: Ministry of Industry and Trade (Vietnam) — "U.S. trade representative issues final determination in Section 301 investigation covering 60 economies"; The Investor — "Vietnam's FDI disbursement hits five-year high in H1"*

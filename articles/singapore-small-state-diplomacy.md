@@ -46,7 +46,11 @@
 
 **香格里拉对话（Shangri-La Dialogue）**：英国国际战略研究所（IISS）2002年起在新加坡每年举办的亚太防务论坛，是新加坡“以平台换影响力”的典型案例。
 
+*话题参考：新加坡外交部（MFA Singapore）"Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Media Wrap-Up Interview at the 59th ASEAN Foreign Ministers' Meeting, Manila"；海峡时报（The Straits Times）"US, China not forcing Asean to choose sides: Vivian"*
+
 ===EN===
+
+
 
 # Singapore: A Small State's Big Diplomacy
 
@@ -95,3 +99,5 @@ It is just that no one knows from which side the next gust will blow.
 **ASEAN** — The Association of Southeast Asian Nations, founded in 1967 by Indonesia, Malaysia, the Philippines, Singapore and Thailand; today ten members. It is the main arena for the region's cooperation and "hedging" diplomacy.
 
 **The Shangri-La Dialogue** — An annual Asia-Pacific defence forum in Singapore, convened by the International Institute for Strategic Studies (IISS) since 2002. It is a textbook case of Singapore trading platforms for influence.
+
+*Topic reference: Ministry of Foreign Affairs (Singapore) — "Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Media Wrap-Up Interview at the 59th ASEAN Foreign Ministers' Meeting, Manila"; The Straits Times — "US, China not forcing Asean to choose sides: Vivian"*

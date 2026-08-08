@@ -50,7 +50,11 @@
 
 **湄公河三角洲（Mekong Delta）**：越南南部冲积平原，占全国约12%土地与近两成人口，贡献全国约一半稻米产量和95%的大米出口，也是本文所述盐水入侵与地面沉降的重灾区。
 
+*话题参考：新华网（english.news.cn）"Laos issues heavy rain warning as flood risks mount"；越南青年报（Thanh Nien）"The Mekong Delta is 'starving' for floods"*
+
 ===EN===
+
+
 
 # The Mekong's Droughts and Floods: Climate Change and Geopolitics
 
@@ -103,3 +107,5 @@ It reminds us: **the contest over water rights is never just a contest between s
 **The Mekong River Commission (MRC)** — Founded in April 1995, when Thailand, Laos, Cambodia and Vietnam signed the Agreement on the Sustainable Development of the Mekong River Basin at Chiang Rai. Its secretariat has been based in Vientiane since 2004, and it coordinates water-resource planning and hydrological data sharing. China and Myanmar have been "dialogue partners" rather than members since 1996 — the institutional background to the "glass wall" described above. The Lancang-Mekong Cooperation mechanism, established in 2016, includes all six states.
 
 **The Mekong Delta** — Vietnam's southern alluvial plain, holding about 12% of the country's land and close to a fifth of its people. It produces roughly half of Vietnam's rice and 95% of its rice exports, and is the area worst affected by the saltwater intrusion and subsidence discussed here.
+
+*Topic reference: Xinhua (english.news.cn) — "Laos issues heavy rain warning as flood risks mount"; Thanh Nien — "The Mekong Delta is 'starving' for floods"*

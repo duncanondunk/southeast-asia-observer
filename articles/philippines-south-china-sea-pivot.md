@@ -53,7 +53,11 @@
 
 **2016年南海仲裁案（South China Sea arbitration）**：菲律宾依《联合国海洋法公约》附件七提起、海牙仲裁庭作出的裁决。杜特尔特淡化、小马科斯重申其立场，是两国对华基调分野的标志之一。
 
+*话题参考：Asia Pacific Insights "Philippines still seeks diplomatic route over South China Sea conflict"；中国日报（香港）（China Daily Hong Kong）"Manila's reef provocations condemned"*
+
 ===EN===
+
+
 
 # Watching the Philippines' South China Sea Pivot
 
@@ -109,3 +113,5 @@ But one thing is certain: **for a developing country, weighing sovereignty again
 **EDCA (Enhanced Defense Cooperation Agreement)** — Signed by the U.S. and the Philippines in 2014, it lets American forces rotate through and pre-position equipment at designated Philippine bases. Originally five sites, it was expanded to nine under Marcos Jr. in 2023, anchoring his "return to the U.S. alliance."
 
 **The 2016 South China Sea arbitration** — A tribunal ruling under UNCLOS Annex VII, brought by the Philippines and issued at The Hague. Duterte downplayed it while Marcos Jr. reaffirmed it — a marker of the two presidents' differing posture toward China.
+
+*Topic reference: Asia Pacific Insights — "Philippines still seeks diplomatic route over South China Sea conflict"; China Daily (Hong Kong) — "Manila's reef provocations condemned"*
