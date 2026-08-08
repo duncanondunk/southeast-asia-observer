@@ -29,7 +29,8 @@
     '水资源': 'Water Resources', '南海': 'South China Sea', '华侨华人': 'Overseas Chinese', '侨务': 'Diaspora Affairs', '移民': 'Migration', '历史': 'History', '全球': 'Worldwide', '华南': 'South China',
     '越南': 'Vietnam', '印度尼西亚': 'Indonesia', '新加坡': 'Singapore',
     '菲律宾': 'Philippines', '湄公河流域': 'Mekong Basin',
-    '人工智能': 'Artificial Intelligence', '制造业': 'Manufacturing'
+    '人工智能': 'Artificial Intelligence', '制造业': 'Manufacturing',
+    '社会文化': 'Society & Culture', '社会政策': 'Social Policy'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 
