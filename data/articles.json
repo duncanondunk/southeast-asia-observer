@@ -1,5 +1,43 @@
 [
   {
+    "slug": "malaysia-chinese-youth-mandarin",
+    "title": "说好中文很酷：东南亚华裔青年正在重塑一门传承语言",
+    "subtitle": "从马来西亚留学生萧国庆的「说好中文很酷」，看离散青年如何把一门「祖辈义务」重新定义为「文化资本」",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "马来西亚",
+      "语言",
+      "青年",
+      "文化认同"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-08",
+    "readingTime": 10,
+    "featured": false,
+    "summary": "马来西亚华裔青年萧国庆一句「说好中文，是一件很酷的事情」，折射出东南亚华人社区一场静水流深的身份转向。本文认为，真正的变化不在于年轻一代「会说中文」，而在于他们「如何看待说中文」：流利中文正从「祖辈传下来的义务」被重新定义为文化资本——接入世界第二大经济体的通行证、行走中国的能力、内容创作的工具。三股力量合力推动：中国经济体量抬升使中文由「情怀」变「技能」；「留学中国」与「China Travel」热潮把原乡变成实地；社交媒体让离散创作者绕开中介、直接面向跨国华语受众。但这一「酷」的重构也是双刃剑：它赋权青年，却也将他们重新推回地缘政治的放大镜下。一门传承之语得以延续，终究靠每一代人自己认定它「值得说」，有时更靠认定它「很酷」。",
+    "image": "images/articles/malaysia-chinese-youth-mandarin.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-08",
+    "imageAlt": "吉隆坡街头，行人穿梭于都市街区，象征东南亚华裔青年的都市日常。",
+    "en": {
+      "title": "\"Speaking Chinese Is Cool\": How Southeast Asia's Ethnic Chinese Youth Are Rebranding a Heritage Language",
+      "subtitle": "From a Malaysian student's \"speaking Chinese is cool\" to a generational reframing of a heritage tongue as cultural capital",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "A young Malaysian, Xiao Guoqing, summed up his pride in one line: \"Speaking good Chinese is a cool thing.\" Behind that sentence lies a quiet shift in Southeast Asia's ethnic Chinese communities. This piece argues the change is not that the young speak Chinese, but how they value it: fluent Mandarin is being redefined from an inherited obligation into cultural capital — a pass into the world's second-largest economy, a capacity to move through China, a tool for content creation. Three forces converge: China's economic weight turns Chinese from sentiment into skill; the \"Study in China\" and \"China Travel\" booms make the ancestral homeland tangible; and social media lets diaspora creators bypass gatekeepers to address a transnational Chinese-speaking audience. Yet this \"cool\" reframing is double-edged: it empowers the young, but also slides them back under the geopolitical microscope. A heritage tongue survives not because governments protect it, but because each generation decides it is worth speaking — and, sometimes, that it is cool.",
+      "imageAlt": "A Kuala Lumpur street scene — pedestrians moving through the urban fabric of Southeast Asian youth's daily life."
+    },
+    "references": [
+      {
+        "source": "中国侨网 China Qiao Wang",
+        "title": "马来西亚华裔青年的中文情结：说好中文是很酷的事",
+        "url": "https://www.chinaqw.com/hwjy/2026/08-07/409910.shtml",
+        "date": "2026-08-07"
+      }
+    ]
+  },
+  {
     "slug": "atoms-in-bits-out-batam-manila",
     "title": "原子进场，比特出局：峇淡岛的工厂与马尼拉的工位",
     "subtitle": "关税战把实体制造推进东南亚，生成式AI却在抽走这里的白领岗位——同一场外部冲击，两个相反方向",
