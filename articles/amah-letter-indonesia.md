@@ -48,6 +48,8 @@
 
 **唐山（Tangshan）**：东南亚华裔方言对“中国/祖籍地”的俗称，字面可溯唐代。对离散群体它并非具体城市，而是“家”与故国的代称。
 
+*话题参考：中国侨网（中国新闻网）《给阿嬷的情书》唤起印尼华人尘封记忆：“电影里的木生，让我想起了父亲”*
+
 ===EN===
 
 # When the Screen Spoke Teochew: A Film and the Slow Thaw of Indonesia's Chinese Memory

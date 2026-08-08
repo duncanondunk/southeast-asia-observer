@@ -54,6 +54,8 @@
 
 **业务流程外包（BPO）**：企业将客服、数据处理等后端环节外包。菲律宾凭英语与低成本成为“世界呼叫中心之都”，本文马尼拉一侧的岗位正被AI与自动化抽离。
 
+*话题参考：联合早报《受益于美国关税战 印尼峇淡岛崛起成代工转移基地》《亲手训练AI后被取代 菲律宾员工叹“像自掘坟墓”》*
+
 ===EN===
 
 # Atoms In, Bits Out: Batam's Factories, Manila's Desks, and Southeast Asia's Two-Front Reordering
