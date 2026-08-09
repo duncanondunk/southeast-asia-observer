@@ -109,6 +109,11 @@
 
 参考文献 / 数据来源
   - 列出 mfa.gov.cn、新华社等权威来源 + 本系列方法论出处
+
+延伸阅读（≤3 条，中英必备，硬性上限 3 条）
+  - 中文版在「参考文献」**之前**加一节 `<h2>延伸阅读</h2>`，列 2–3 条本篇核心概念，每条 `<p><strong>术语（英文）</strong>：一句话解释</p>`
+  - 英文版在 `References` **之前**加一节 `<h2>Further reading</h2>`，与中文**逐条对等、同为 ≤3 条**（仅语言不同）
+  - 示例概念：中国—东盟关系 / 六档双边关系评分（阎学通方法论）/ 命运共同体·"2+2"对话·"3+3"机制
 ```
 
 ### 英文结构（与中文逐段同义）
@@ -125,6 +130,8 @@ III. Emerging Challenges
 IV. Outlook
 Short Commentary (~300 words, ECNS analytical register)
 References
+
+Further reading (≤3 items, bilingual, hard cap 3): add `<h2>Further reading</h2>` **before** `References`, paired item-by-item with the Chinese `延伸阅读` section (same ≤3 terms, language only differs).
 ```
 
 **英文文风（ECNS 风）**：事实+数据驱动、短段落、中性语气、导语直陈核心发现、用 "according to the index" / "the data shows" 引出数据。

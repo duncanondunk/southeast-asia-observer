@@ -72,17 +72,11 @@
 
 ## 延伸阅读
 
-**妈祖信俗（Mazu Belief and Custom）**：以崇奉和颂扬妈祖立德、行善、大爱精神为核心的海神信仰，2009 年入选联合国教科文组织"人类非物质文化遗产代表作名录"，在东南亚华侨华人社区中活态传承，宫庙遍布新加坡、马来西亚、印尼、菲律宾、越南等地。
-
 **"妈祖"（MAZU）气象早期预警方案**：中国气象局推出的全民早期预警系统，英文名取自 Multi-hazard（多灾种）、Alert（预警）、Zero-gap（零差距）、Universal（普惠）四个词首字母，意在强调其技术属性而非宗教含义。
-
-**"风和"气象大模型（Fenghe）**：中国气象局在 2026 年世界人工智能大会（WAIC）上启动的全球开源计划，向海外开发者开放气象基础模型，可在一定程度上缓解发展中国家对云平台的依赖风险。
 
 **全民早期预警（Early Warnings for All, EW4All）**：联合国与世界气象组织（WMO）于 2022 年发起的倡议，目标是到 2027 年底前让地球上每一个人都能获得灾害性天气、水和气候事件的预警，预计需投入约 31 亿美元。
 
 **"单一权威声音"原则（Single Authoritative Voice）**：世界气象组织确立的预警发布准则，规定只有各国国家气象部门有权发布权威预警。因此华侨华人宫庙与会馆网络只能作为官方预警的辅助播报节点，而非替代渠道。
-
-**中泰气象灾害智能预测预警联合实验室**：2026 年 WAIC 期间由中国气象局宣布启动，是"妈祖"方案正式迈向东东南亚的第一步，选择泰国作为桥头堡。
 
 *话题参考：中国侨网（chinaqw.com）一周热点 —— "东西问｜从海上女神到气象卫士：'妈祖'如何守护全球安澜？"*
 
@@ -159,5 +153,13 @@ A millennium later, that spirit of confronting nature endures in a different for
 For Southeast Asia, MAZU's value lies not in whether it "replaces" existing Japanese-American-European systems, but in what it adds: an additional tool for a climate-vulnerable region, a new channel for capacity building, and an innovative approach to converting a traditional cultural symbol into a modern public good. If the China-Thailand joint laboratory operates smoothly, if the Fenghe open-source plan attracts Southeast Asian developers, if temple networks can supplement official warnings within legal bounds — then Mazu's transformation from "sea goddess" to "climate guardian" will find its fullest meaning on the very soil where her belief runs deepest.
 
 As China Qiao Wang reported, CMA named its early warning solution after Mazu as "a fusion of traditional culture and modern technology." Whether that fusion succeeds will ultimately be judged by fishermen and farmers in Southeast Asia's coastal villages — when the night before a typhoon arrives, the warning on their phone is early enough, accurate enough, and clear enough to understand.
+
+## Further reading
+
+**MAZU meteorological early-warning system**: Launched by China's meteorological authority, its English name is built from the initials of Multi-hazard, Alert, Zero-gap, and Universal — foregrounding its technical identity over any religious connotation.
+
+**Early Warnings for All (EW4All)**: A UN and World Meteorological Organization (WMO) initiative launched in 2022, aiming to give every person on Earth access to warnings for hazardous weather, water, and climate events by the end of 2027, at an estimated cost of about US$3.1 billion.
+
+**The "Single Authoritative Voice" principle**: A WMO norm holding that only national meteorological agencies may issue official alerts. Southeast Asia's Chinese temple and clan networks can therefore serve only as auxiliary relay nodes for official warnings, not as substitutes.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "东西问｜从海上女神到气象卫士：'妈祖'如何守护全球安澜？"*
