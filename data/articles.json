@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mazu-early-warning-diaspora",
+    "title": "从妈祖庙到气象预警：当中国方案遇上东南亚的最后一公里",
+    "subtitle": "以妈祖命名的中国气象预警方案已落地7国，却尚未进入东南亚——文化最深厚的地区为何成为技术盲区？",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "妈祖",
+      "气象预警",
+      "东南亚",
+      "早期预警",
+      "气候变化"
+    ],
+    "country": "东南亚",
+    "date": "2026-08-09",
+    "readingTime": 10,
+    "featured": false,
+    "summary": "2026年7月上海世界人工智能大会上，中方宣布推动气象智能预警方案妈祖（MAZU）在30国落地。然而截至8月，该系统已在巴基斯坦、吉布提等7国部署、40余国云端使用，东南亚十国却无一正式接入。本文分析这一悖论：东南亚恰恰是全球妈祖信俗最深厚地区，新加坡天福宫、吉隆坡天后宫等数千座宫庙构成现成的社区网络；预警真正的瓶颈不在卫星而在最后一公里；中泰联合实验室的启动标志东南亚破局开始；华侨华人的宫庙与会馆网络可作为官方预警的有益补充——前提是在WMO单一权威声音原则下合法合规运作。",
+    "image": "images/articles/mazu-early-warning-diaspora.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-09",
+    "imageAlt": "一名信众在传统中式寺庙的香炉前上香祈祷，香烟袅袅升起，象征妈祖信仰跨越千年的守护精神。",
+    "en": {
+      "title": "From Mazu Temples to Early Warning Systems: When China's MAZU Meets Southeast Asia's Last Mile",
+      "subtitle": "China's Mazu-named early warning system is live in seven countries — yet absent from Southeast Asia, where Mazu belief runs deepest. Why?",
+      "category": "Overseas Chinese",
+      "country": "Southeast Asia",
+      "summary": "At WAIC 2026 in Shanghai, China announced it would deploy its MAZU meteorological early warning solution in 30 countries. Yet as of August 2026, while MAZU operates in Pakistan, Djibouti and five other nations with cloud access in 40+ countries, no Southeast Asian state has formally onboarded. This piece examines the paradox: Southeast Asia is precisely where Mazu folk religion is most deeply rooted, with thousands of temples from Singapore's Thian Hock Keng to Ho Chi Minh City's Thien Hau Pagoda forming a ready community network. The real bottleneck in early warning is not satellites but the last mile; the China-Thailand joint laboratory marks Southeast Asia's entry point; and diaspora temple networks could supplement official warnings — within legal bounds under WMO's Single Authoritative Voice principle.",
+      "imageAlt": "A worshipper prays before an incense burner at a traditional Chinese temple, smoke rising gently — symbolizing Mazu's thousand-year legacy of protection."
+    },
+    "references": [
+      {
+        "source": "中国侨网 / 中新社",
+        "title": "东西问｜从海上女神到气象卫士：妈祖如何守护全球安澜？",
+        "url": "https://www.chinaqw.com/hwjy/2026/07-30/409531.shtml",
+        "date": "2026-07-30"
+      },
+      {
+        "source": "人民日报 / 新华社",
+        "title": "妈祖为全球应对气候变化贡献中国智慧",
+        "url": "https://www.news.cn/politics/20260803/dcce4d886c494c02998f41806cf84a63/c.html",
+        "date": "2026-08-03"
+      },
+      {
+        "source": "United Nations / WMO",
+        "title": "Early Warnings for All Initiative",
+        "url": "https://www.un.org/en/climatechange/early-warnings-for-all",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
     "slug": "protecting-overseas-chinese-rights",
     "title": "保护海外华侨的正当权益：一项国家义务，也是战略资产",
     "subtitle": "从宪法义务到专门立法，再到西方的双重标准——解读中国侨务工作的法律与战略逻辑",
