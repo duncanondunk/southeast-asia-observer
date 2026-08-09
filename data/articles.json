@@ -1,5 +1,114 @@
 [
   {
+    "slug": "protecting-overseas-chinese-rights",
+    "title": "保护海外华侨的正当权益：一项国家义务，也是战略资产",
+    "subtitle": "从宪法义务到专门立法，再到西方的双重标准——解读中国侨务工作的法律与战略逻辑",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨务",
+      "国际关系"
+    ],
+    "country": "全球",
+    "date": "2026-08-09",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "2026年8月初全国侨务工作会议重申，保护海外华侨正当权益是侨务工作“重中之重”。本文从法律与战略双重视角解读：宪法与《领事保护与协助条例》构成保护基石，也门、苏丹、黎巴嫩等撤离行动是最实在的后盾；西方将中国侨务污名化为“干涉内政”，实为“中国威胁论”翻版与双重标准。在东南亚这一华侨最集中区域，依法保护侨胞既是国家义务，也是民心相通的战略资产。",
+    "image": "images/articles/protecting-overseas-chinese-rights.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-09",
+    "imageAlt": "夜色中的唐人街，红灯笼沿街悬挂，象征海外华侨华人的社区与乡愁。",
+    "en": {
+      "title": "At the Heart of China's Diaspora Work: The Legal and Strategic Logic of Protecting Overseas Chinese",
+      "subtitle": "From constitutional duty to dedicated legislation, and the Western double standard — reading the legal and strategic logic of China's diaspora work",
+      "category": "Overseas Chinese",
+      "country": "Worldwide",
+      "summary": "A conference in early August 2026 reaffirmed that protecting overseas Chinese is the 'top priority' of diaspora work. This piece reads it from legal and strategic angles: the Constitution and the 2023 Consular Protection and Assistance Regulations form the bedrock, while evacuations from Yemen, Sudan, and Lebanon are the concrete backstop. Western framing of China's diaspora work as 'interference' is a double-standard reprocessing of the 'China threat' thesis — and, in Southeast Asia, lawful protection is both duty and a strategic asset for people-to-people ties.",
+      "imageAlt": "A Chinatown at night, red lanterns lining the street — symbolizing the community and nostalgia of overseas Chinese."
+    },
+    "references": [
+      {
+        "source": "中国侨网（统战新语）",
+        "title": "保护海外华侨的正当权益是国家侨务工作的重中之重",
+        "url": "https://www.chinaqw.com/qwxs/2026/08-07/409874.shtml",
+        "date": "2026-08-07"
+      }
+    ]
+  },
+  {
+    "slug": "java-fire-transboundary-haze",
+    "title": "极端干旱下的东爪哇大火与跨境烟霾：气候、治理与东盟的老难题",
+    "subtitle": "从东爪哇国家公园大火到加里曼丹跨境烟霾，再看东南亚“公地悲剧”式的区域治理困境",
+    "category": "气候变化",
+    "tags": [
+      "气候变化",
+      "印尼",
+      "环境",
+      "烟霾"
+    ],
+    "country": "印度尼西亚 / 马来西亚",
+    "date": "2026-08-09",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "2026年8月初，印尼东爪哇布罗莫·滕格尔·塞梅鲁国家公园燃起大火，过火逾120公顷；加里曼丹林火产生的烟霾跨境飘入马来西亚，砂拉越多地空污达“不健康”水平（西连最高172点）。在厄尔尼诺拉长旱季的背景下，烟霾再度暴露东盟跨境治理的“软约束”困局：火在一国烧、代价多国担。真正降本之策，是更早预警、更透明火点共享与国内执行。",
+    "image": "images/articles/java-fire-transboundary-haze.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-09",
+    "imageAlt": "烟笼下的森林，树木轮廓在烟尘中若隐若现，呼应跨境烟霾的环境主题。",
+    "en": {
+      "title": "Java's Park Fire and the Cross-Border Haze: Climate, Governance, and ASEAN's Recurring Headache",
+      "subtitle": "From East Java's park fire to Kalimantan's transboundary haze — Southeast Asia's 'tragedy of the commons' in regional governance",
+      "category": "Climate Change",
+      "country": "Indonesia / Malaysia",
+      "summary": "In early August 2026, a fire broke out in East Java's Bromo Tengger Semeru National Park, burning over 120 hectares; smoke from Kalimantan drifted into Malaysia, pushing Sarawak's air to 'unhealthy' levels (Sibu peaked at 172). Under an El Niño-lengthened dry season, the haze again exposes ASEAN's 'soft-law' bind on transboundary pollution: the fire burns in one country, the cost is shared by many. What lowers the cost is earlier warning, transparent hotspot sharing, and domestic enforcement.",
+      "imageAlt": "A forest shrouded in smoke, tree silhouettes fading into the haze — echoing the transboundary-haze theme."
+    },
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "极端干旱引发东爪哇国家公园大火 加里曼丹数百火点现跨境烟霾",
+        "url": "https://www.zaobao.com/news/sea/story20260808-9491879",
+        "date": "2026-08-08"
+      }
+    ]
+  },
+  {
+    "slug": "malaysia-blue-wave",
+    "title": "“蓝潮”来袭？马来西亚巫统与伊党的马来票大整合及其天花板",
+    "subtitle": "巧思中心预测国阵国盟联手或夺西马122席——解析“蓝潮”的票仓、关键与真实上限",
+    "category": "地缘政治",
+    "tags": [
+      "马来西亚",
+      "地缘政治",
+      "选举"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-09",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "2026年8月8日，巧思中心预测：若国阵与国盟把森州合作扩及全西马，集中马来选票掀起“蓝潮”，有望在来届大选拿下西马166席中的122席，超组阁门槛10席。本文解析“蓝潮”的票仓基础、基层互投的关键，以及伊党强州与东马“造王者”逻辑构成的真实天花板——马来板块整合正在重绘马来西亚政党地图，但上限不只在选票数学。",
+    "image": "images/articles/malaysia-blue-wave.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-09",
+    "imageAlt": "吉隆坡城市天际线，双子塔矗立其中，象征马来西亚的政治与经济中心。",
+    "en": {
+      "title": "A 'Blue Wave' in Malaysia? UMNO–PAS Malay-Vote Consolidation and Its Ceiling",
+      "subtitle": "Ilham Centre projects a BN–PN alliance could take 122 Peninsular seats — reading the blue wave's base, pivot, and real ceiling",
+      "category": "Geopolitics",
+      "country": "Malaysia",
+      "summary": "On 8 August 2026, Ilham Centre projected that if BN and PN extended their Negeri Sembilan cooperation across Peninsular Malaysia and consolidated Malay votes into a 'blue wave,' they could take 122 of the 166 Peninsular seats — 10 above the government threshold. This piece reads the electoral base of the blue wave, the pivot of grassroots mutual voting, and the real ceiling set by PAS strongholds and East Malaysia's 'kingmaker' logic — the Malay bloc's consolidation is redrawing Malaysia's party map, but its limit lies beyond mere arithmetic.",
+      "imageAlt": "Kuala Lumpur's skyline with the Petronas Twin Towers — a symbol of Malaysia's political and economic centre."
+    },
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国智库：国阵国盟“蓝潮”或席卷西马夺122国席",
+        "url": "https://www.zaobao.com/news/sea/story20260808-9491490",
+        "date": "2026-08-08"
+      }
+    ]
+  },
+  {
     "slug": "philippines-q2-gdp-slowdown",
     "title": "三重夹击下菲律宾经济二季度失速：“幽灵工程”的反腐阵痛",
     "subtitle": "反腐调查冻住基建、中东变局推高物价、增长模式软肋——同一季度三块短板同时掐住，菲律宾二季度GDP仅增2.3%",
