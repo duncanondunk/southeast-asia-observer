@@ -30,7 +30,10 @@
     '越南': 'Vietnam', '印度尼西亚': 'Indonesia', '新加坡': 'Singapore',
     '菲律宾': 'Philippines', '湄公河流域': 'Mekong Basin',
     '人工智能': 'Artificial Intelligence', '制造业': 'Manufacturing',
-    '社会文化': 'Society & Culture', '社会政策': 'Social Policy'
+    '社会文化': 'Society & Culture', '社会政策': 'Social Policy',
+    '马来西亚': 'Malaysia', '缅甸': 'Myanmar', '泰国': 'Thailand', '印尼': 'Indonesia',
+    '难民': 'Refugees', '文化遗产': 'Cultural Heritage', '教育': 'Education',
+    '环境': 'Environment', '烟霾': 'Haze'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 

@@ -1,5 +1,110 @@
 [
   {
+    "slug": "malaysia-24-festive-drums-national",
+    "title": "三十八年，鼓声敲开了国家的门：二十四节令鼓入编马来西亚教育体系",
+    "subtitle": "从新山柔佛古庙的九面鼓，到教育部主办的“徽崇杯”——一项华人文化创造如何同时完成在地化与国家化",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "马来西亚",
+      "社会文化",
+      "文化遗产"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-10",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "2026年8月8日，马来西亚教育部首次以主办方身份举办全国小学二十四节令鼓邀请赛，并以创始人陈徽崇之名命名为“徽崇杯”。16队、417名小鼓手，其中非华族逾一成。真正的新闻不是办了比赛，而是谁来办：一项1988年由华人在新山创造的鼓艺，用38年从社团自筹走进了国家教育体制。它之所以能被接纳，在于本地原创、无语言门槛、已有352支队伍的群众基础——而这三点同时也是它的天花板。",
+    "image": "images/articles/malaysia-24-festive-drums-national.jpg",
+    "imageCredit": "Leona Lee / Unsplash",
+    "imageAccessed": "2026-08-10",
+    "imageAlt": "身着制服、佩戴绶带的鼓手列队击鼓，呼应二十四节令鼓的集体表演形态。",
+    "en": {
+      "title": "Thirty-Eight Years to Enter the System: Malaysia's 24 Festive Drums Joins the National Education Fold",
+      "subtitle": "From nine drums at a Johor Bahru temple to a ministry-run “Hooi Chong Cup” — how a Chinese-Malaysian invention completed both its localisation and its nationalisation",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "On 8 August 2026 Malaysia's Ministry of Education convened, in its own name, the first national primary-school 24 Festive Drums invitational, naming it the “Hooi Chong Cup” after co-founder Tan Hooi Chong. Sixteen teams, 417 young drummers, more than 10 per cent of them non-Chinese. The news is not that a competition took place but who convened it: a drum art created by Chinese Malaysians in Johor Bahru in 1988 took 38 years to move from community funding into the state education system. It was accepted because it is homegrown, carries no language barrier, and already had 352 school troupes — the same three conditions that define its ceiling.",
+      "imageAlt": "Uniformed drummers in sashes lined up mid-performance, echoing the collective form of the 24 Festive Drums."
+    },
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "二十四节令鼓列入国家教育活动 马国教育部首办全国邀请赛",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260809-9494270",
+        "date": "2026-08-09"
+      },
+      {
+        "source": "中国新闻网ー东西问",
+        "title": "陈再藩：马来西亚二十四节令鼓蕴含怎样的文化基因？",
+        "url": "https://www.chinanews.com.cn/dxw/2025/01-03/10347147.shtml",
+        "date": "2025-01-03"
+      },
+      {
+        "source": "中国侨网 / 星洲网",
+        "title": "马来西亚二十四节令鼓遍地开花",
+        "url": "https://www.chinaqw.com/zhwh/2020/03-17/249837.shtml",
+        "date": "2020-03-17"
+      }
+    ]
+  },
+  {
+    "slug": "malaysia-myanmar-refugee-screening-return",
+    "title": "第三国的门关上之后：马来西亚为四千缅甸人启动“遣返式筛查”",
+    "subtitle": "从“渺茫的安置”到“组织的遣返”，一个非《难民公约》缔约国正在用行政程序填补法律真空",
+    "category": "地缘政治",
+    "tags": [
+      "地缘政治",
+      "马来西亚",
+      "缅甸",
+      "移民",
+      "难民"
+    ],
+    "country": "马来西亚 / 缅甸",
+    "date": "2026-08-10",
+    "readingTime": 10,
+    "featured": false,
+    "summary": "2026年8月9日，马来西亚内政部长赛夫丁称难民经难民署安置到美国等第三国已“非常渺茫”，政府启动身份筛查为遣返原籍国铺路，首批对象是扣留营内逾4000名缅甸公民。算术是残酷的：马国登记难民逾21万，2025年全年仅2585人完成安置或遣返，年清空率约1.2%。从扣留营起步筛查在行政上高效，在保护标准上却最可疑；“别只说罗兴亚人”的正名亦把无国籍这一最难案子溶进了易案。压力回流过境国，本质是国际保护体系退潮后的必然回声。",
+    "image": "images/articles/malaysia-myanmar-refugee-screening-return.jpg",
+    "imageCredit": "Iqx Azmi / Unsplash",
+    "imageAccessed": "2026-08-10",
+    "imageAlt": "吉隆坡街边聚集等候的人群，呼应马来西亚境内难民与外籍务工者的处境。",
+    "en": {
+      "title": "When the Third-Country Door Closes: Malaysia Starts “Screening for Return” on 4,000 Myanmar Nationals",
+      "subtitle": "From vanishing resettlement to organised repatriation — how a non-signatory state is filling a legal vacuum with administrative procedure",
+      "category": "Geopolitics",
+      "country": "Malaysia / Myanmar",
+      "summary": "On 9 August 2026 Malaysian Home Minister Saifuddin Nasution said resettlement to third countries such as the United States had become “very slim,” and launched status screening to prepare returns, starting with 4,000-plus Myanmar nationals in immigration depots. The arithmetic is brutal: more than 215,000 registered refugees, but only 2,585 resettled or repatriated in all of 2025 — about 1.2 per cent a year. Screening from inside detention is administratively efficient and, by protection standards, the most suspect starting point; the push to say “Myanmar refugees” rather than “Rohingya” also dissolves the hardest case, statelessness, into the easier ones. Pressure flowing back to transit states is the echo of a receding global protection system.",
+      "imageAlt": "People gathered and waiting at a Kuala Lumpur roadside, echoing the situation of refugees and migrant workers in Malaysia."
+    },
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国内长：启动筛查遣返原籍国 首批逾4000缅甸公民",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260809-9495349",
+        "date": "2026-08-09"
+      },
+      {
+        "source": "UNHCR Malaysia",
+        "title": "Figures at a glance in Malaysia",
+        "url": "https://www.unhcr.org/my/591bf07c4",
+        "date": "2026-02-28"
+      },
+      {
+        "source": "UNHCR",
+        "title": "Malaysia country page — 2026 planning and emergency analysis",
+        "url": "https://icc-routing.unhcr.org/where-we-work/countries/malaysia",
+        "date": "2026-01-01"
+      },
+      {
+        "source": "光华日报 Kwong Wah",
+        "title": "UNHCR登记难民逾21万 政府：数据未必反映实况",
+        "url": "https://www.kwongwah.com.my/20260714/",
+        "date": "2026-07-14"
+      }
+    ]
+  },
+  {
     "slug": "chinese-schools-securitized-philippines",
     "title": "每天两小时：当菲律宾华校的课程表变成一份安全档案",
     "subtitle": "菲律宾国防部长援引美国智库报告，把暨南大学面向菲华校的教师培训列为安全议题。一场关于中文课的争论，正在重新打开一个菲律宾自己在五十年前已经封存的问题。",
