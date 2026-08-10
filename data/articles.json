@@ -1,5 +1,50 @@
 [
   {
+    "slug": "indonesia-chinese-inti-roots",
+    "title": "从\"落叶归根\"到\"落地生根\"：印尼华裔总会换届背后的身份之变",
+    "subtitle": "黄印华履新印尼华裔总会（INTI）2026—2030年度总主席，一句\"落叶归根\"到\"落地生根\"，道出全球最大华侨华人聚居国数十年的身份之变。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "印尼",
+      "印尼华裔总会",
+      "身份认同",
+      "东南亚",
+      "中印尼"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-08-10",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "8月7日，印尼华裔总会（INTI）新一届理监事会在雅加达就职，黄印华履新2026—2030年度总主席。他提出的\"过去讲落叶归根，现在更多讲落地生根\"，折射出印尼——全球华侨华人人口最多国家——华人身份认同数十年的静默变迁。本文从INTI成立于1998年排华事件之后的历史背景切入，梳理华人社团从维权到融入的角色演变，并分析中国崛起如何赋予新一代华人\"更有底气\"的双重身份；INTI作为中印尼民间桥梁，其价值在于双向互信的累积，而青年接棒则是老牌侨社共同面临的代际挑战。",
+    "image": "images/articles/indonesia-chinese-inti-roots.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-10",
+    "imageAlt": "一座挂满红色灯笼与彩带的东南亚中式寺庙，红金装饰在绿意中格外醒目，象征华人文化在当地的生根与传承。",
+    "en": {
+      "title": "From \"returning to the roots\" to \"taking root locally\": the quiet shift in Indonesia's ethnic-Chinese identity",
+      "subtitle": "Huang Yinhua assumes the 2026–2030 chairmanship of Indonesia's Chinese Association (INTI); his 'falling leaves return to roots' to 'take root locally' captures a decades-long identity shift in the world's largest overseas-Chinese population.",
+      "category": "Overseas Chinese",
+      "country": "Indonesia",
+      "summary": "On 7 August 2026, the new board of the Indonesian Chinese Association (INTI) was inaugurated in Jakarta, with Huang Yinhua assuming the 2026–2030 chairmanship. His remark — 'In the past we spoke of falling leaves returning to their roots; now we speak more of taking root where we stand' — reflects the slow, decades-long transformation of ethnic-Chinese identity in Indonesia, home to the world's largest overseas-Chinese population. Tracing INTI's founding in the aftermath of the 1998 anti-Chinese riots, this piece maps the association's shift from rights-defense to social integration, and examines how China's rise has given a new generation the 'greater confidence' to hold a dual identity. As a people-to-people bridge between China and Indonesia, INTI's value lies in the accrual of two-way trust, while youth succession remains the shared generational challenge of established diaspora organizations.",
+      "imageAlt": "A Southeast Asian Chinese temple hung with red lanterns and festive bunting, its red-and-gold ornamentation vivid against the greenery — a symbol of Chinese culture taking root and enduring locally."
+    },
+    "references": [
+      {
+        "source": "中国侨网 / 中新社",
+        "title": "印尼华裔总会新任总主席黄印华：从'落叶归根'到'落地生根'",
+        "url": "https://www.chinanews.com/hr/2026/08-08/10674355.shtml",
+        "date": "2026-08-08"
+      },
+      {
+        "source": "国际日报",
+        "title": "黄印华全票当选印尼华裔总会会长 广泛政商网络助华社提升经济影响力",
+        "url": "https://hmguojiribao.com/184089",
+        "date": "2026-04"
+      }
+    ]
+  },
+  {
     "slug": "mazu-early-warning-diaspora",
     "title": "从妈祖庙到气象预警：当中国方案遇上东南亚的最后一公里",
     "subtitle": "以妈祖命名的中国气象预警方案已落地7国，却尚未进入东南亚——文化最深厚的地区为何成为技术盲区？",
