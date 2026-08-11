@@ -1,0 +1,183 @@
+{
+  "version": "2026-08-11",
+  "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
+  "materials": {
+    "film:Dear You (给阿嬷的情书)": {
+      "note": "历史遗留冲突：3 篇同素材（letter-to-grandma-indonesia / amah-letter-indonesia / dear-you-qiaopi-indonesia）。grandfathered，今后禁止再发该电影题材。",
+      "exception": null,
+      "slugs": [
+        "letter-to-grandma-indonesia",
+        "amah-letter-indonesia",
+        "dear-you-qiaopi-indonesia"
+      ]
+    },
+    "event:印尼央行行长提名(德斯特莉)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "indonesia-central-bank-desty"
+      ]
+    },
+    "event:马来西亚罗兴亚人遣返": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "malaysia-rohingya-repatriation"
+      ]
+    },
+    "event:二十四节令鼓入编马来西亚教育部": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "malaysia-24-festive-drums-national"
+      ]
+    },
+    "event:马来西亚缅甸难民筛查遣返": {
+      "note": "与罗兴亚人遣返为不同事件（筛查启动 vs 船运接收）",
+      "exception": null,
+      "slugs": [
+        "malaysia-myanmar-refugee-screening-return"
+      ]
+    },
+    "event:菲律宾华校安全化": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "chinese-schools-securitized-philippines"
+      ]
+    },
+    "event:印尼华裔总会(INTI)换届": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "indonesia-chinese-inti-roots"
+      ]
+    },
+    "project:中国气象预警MAZU海外落地": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "mazu-early-warning-diaspora"
+      ]
+    },
+    "topic:保护海外华侨权益(全国侨务工作会议)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "protecting-overseas-chinese-rights"
+      ]
+    },
+    "event:东爪哇林火与跨境烟霾": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "java-fire-transboundary-haze"
+      ]
+    },
+    "event:马来西亚巫统-伊党马来票整合(蓝潮)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "malaysia-blue-wave"
+      ]
+    },
+    "event:菲律宾Q2 GDP放缓": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "philippines-q2-gdp-slowdown"
+      ]
+    },
+    "policy:印尼免费餐计划与厨余": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "indonesia-free-meals-waste"
+      ]
+    },
+    "topic:东南亚华裔青年中文传承": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "malaysia-chinese-youth-mandarin"
+      ]
+    },
+    "topic:关税转移vs AI替代(峇淡岛/马尼拉)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "atoms-in-bits-out-batam-manila"
+      ]
+    },
+    "relation:中印尼关系(普拉博沃)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "prabowo-china-indonesia-relations"
+      ]
+    },
+    "topic:东南亚AI与能源震荡": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "sea-ai-and-energy-shock"
+      ]
+    },
+    "topic:郑和清真寺(泗水)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "zheng-he-mosque-surabaya"
+      ]
+    },
+    "topic:六千万海外侨民(侨务读本)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "overseas-chinese-sixty-million"
+      ]
+    },
+    "topic:侨批(离散群体汇款家书)": {
+      "note": "与 film:Dear You 不同素材（侨批制度本身）；不计入电影集群。",
+      "exception": null,
+      "slugs": [
+        "qiaopi-diaspora-letters"
+      ]
+    },
+    "topic:越南制造与供应链重构": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "vietnam-manufacturing-supply-chain"
+      ]
+    },
+    "policy:印尼镍矿出口禁令": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "indonesia-nickel-export-ban"
+      ]
+    },
+    "topic:湄公河旱涝(气候与地缘)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "mekong-drought-floods"
+      ]
+    },
+    "topic:新加坡小国外交": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "singapore-small-state-diplomacy"
+      ]
+    },
+    "event:菲律宾南海政策转向": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "philippines-south-china-sea-pivot"
+      ]
+    }
+  }
+}
