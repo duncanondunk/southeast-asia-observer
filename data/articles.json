@@ -1,5 +1,50 @@
 [
   {
+    "slug": "dear-you-qiaopi-indonesia",
+    "title": "当\"银信\"在雅加达响起：一部潮汕方言片为何牵动印尼华人",
+    "subtitle": "《给阿嬷的情书》（Dear You）8月7日在印尼公映，华社侨团公益包场；一部讲\"侨批\"与\"下南洋\"的潮汕方言片，为何唤起整个南洋华人的共同记忆？",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "印尼",
+      "侨批",
+      "下南洋",
+      "东南亚",
+      "华语电影"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-08-11",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "8月7日，潮汕方言电影《给阿嬷的情书》（Dear You）在印尼正式公映，多家华社、商会、侨团与中资企业组织公益包场，华侨华人在乡音乡情中重温\"下南洋\"往事。本文以这部2026年现象级华语片为切入点，介绍其以世界记忆遗产\"侨批\"为叙事线索、串联潮汕与南洋两代人情感旅程的故事，并分析\"侨批叙事\"为何能跨越方言与国界，唤起印尼乃至整个东南亚华人的集体记忆。文章指出，侨团包场本质是社区记忆的集体再生产，而当华人已\"落地生根\"的今天，共同的\"下南洋\"记忆仍是连接不同世代、连接中国与海外华人社会的柔软桥梁。",
+    "image": "images/articles/dear-you-qiaopi-indonesia.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-11",
+    "imageAlt": "雅加达唐人街的市井街景，行人穿梭于老式骑楼与摊位之间，呈现南洋华人社区的日常烟火气。",
+    "en": {
+      "title": "When \"silver letters\" echo in Jakarta: why a Teochew-dialect film moves Indonesia's Chinese",
+      "subtitle": "Dear You (《给阿嬷的情书》) premiered in Indonesia on 7 August with charitable group screenings by Chinese associations; how does a Teochew film about qiaopi and 'going to Nanyang' awaken a shared memory across the Nanyang Chinese world?",
+      "category": "Overseas Chinese",
+      "country": "Indonesia",
+      "summary": "On 7 August 2026, the Teochew-dialect film Dear You (《给阿嬷的情书》) officially premiered in Indonesia, with multiple Chinese associations, chambers, overseas-Chinese organizations and Chinese enterprises organizing charitable group screenings, letting ethnic Chinese revisit the 'going to Nanyang' past in familiar dialect. Taking this 2026 breakout Mandarin-language film as a starting point, this piece introduces its story — built around the Memory-of-the-World heritage qiaopi and linking two generations across Teochew and Nanyang — and analyzes why the 'qiaopi narrative' crosses dialect and border to awaken a collective memory among Indonesians and Southeast Asian Chinese at large. It argues that the associations' block bookings are, in essence, a collective reproduction of community memory, and that even as Chinese have 'taken root locally,' the shared 'going to Nanyang' memory remains a soft bond linking generations and connecting Chinese societies in China and abroad.",
+      "imageAlt": "A street scene in Jakarta's Chinatown, with people moving among old shophouses and stalls — the everyday texture of a Nanyang Chinese community."
+    },
+    "references": [
+      {
+        "source": "中国侨网 / 中新社",
+        "title": "《给阿嬷的情书》印尼公映 华社侨团包场观影",
+        "url": "https://www.chinaqw.com/sp/2026/08/10/409956.shtml",
+        "date": "2026-08-10"
+      },
+      {
+        "source": "中国日报（吉隆坡）",
+        "title": "《给阿嬷的情书》吉隆坡展映，牵动马来西亚华人文化乡愁",
+        "url": "https://new.qq.com/rain/a/20260616A03TJC00",
+        "date": "2026-06-16"
+      }
+    ]
+  },
+  {
     "slug": "malaysia-24-festive-drums-national",
     "title": "三十八年，鼓声敲开了国家的门：二十四节令鼓入编马来西亚教育体系",
     "subtitle": "从新山柔佛古庙的九面鼓，到教育部主办的“徽崇杯”——一项华人文化创造如何同时完成在地化与国家化",
