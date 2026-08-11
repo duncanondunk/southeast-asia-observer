@@ -239,8 +239,8 @@
   }
 
   function articleCardHtml(a, coverSeed) {
-    var coverClass = a.image ? '' : ('article-card__cover--' + (((coverSeed || 1) - 1) % 5 + 1));
-    var coverImg = a.image ? ('<img class="cover__img" src="' + escapeHtml(a.image) + '" alt="" loading="lazy">') : '';
+    var coverClass = a.image ? 'has-image' : ('article-card__cover--' + (((coverSeed || 1) - 1) % 5 + 1));
+    var coverImg = a.image ? ('<img class="cover__img" src="' + escapeHtml(a.image) + '" alt="" decoding="async" onerror="this.style.display=\'none\'">') : '';
     var share = shareLinks(a);
     return '' +
       '<article class="article-card">' +

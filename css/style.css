@@ -305,6 +305,7 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
   width: 160px; height: 110px; border-radius: var(--radius);
   background-size: cover; background-position: center;
   position: relative; overflow: hidden;
+  background: var(--bg-alt);
 }
 .article-card__cover--1 { background: linear-gradient(135deg, #a8401f, #c98a2b); }
 .article-card__cover--2 { background: linear-gradient(135deg, #1d5b4e, #3a8a6e); }
