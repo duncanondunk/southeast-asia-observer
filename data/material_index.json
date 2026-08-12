@@ -178,6 +178,13 @@
       "slugs": [
         "philippines-south-china-sea-pivot"
       ]
+    },
+    "topic:新时代侨务工作(向实向新向未来·专家论)": {
+      "note": "与 topic:保护海外华侨权益(全国侨务工作会议) 区分：本文聚焦侨务治理范式转移（引资引智→服务到人）及东南亚族裔政治试金石，非会议“权益保护为重中之重”的部署复述。",
+      "exception": null,
+      "slugs": [
+        "new-era-qiaowu-work"
+      ]
     }
   }
 }
