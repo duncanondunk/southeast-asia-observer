@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-page-v="20260812c">
 <head>
   <meta charset="UTF-8">
   <!-- 清理旧 Service Worker 缓存：Vercel 在大陆不稳定，旧缓存会导致用户滞留旧页面 -->
@@ -22,7 +22,7 @@
   <meta property="og:title" content="东南亚观察 · Southeast Asia Watch">
   <meta property="og:description" content="由谢畅独立运营的东南亚地缘政治、经济产业与社会文化观察。">
   <meta property="og:type" content="website">
-  <link rel="stylesheet" href="css/style.css?v=20260806j">
+  <link rel="stylesheet" href="css/style.css?v=20260812d">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <script type="application/ld+json">
   {
@@ -147,7 +147,7 @@
             <p class="grid-card__excerpt" data-zh="十国同处友善区间，一国滑入对抗——一份量化视角下的区域裂痕读数。" data-en="Ten partners in the amicable band, one in open confrontation — a quantitative reading of the region's widening split. (Chinese)">十国同处友善区间，一国滑入对抗——一份量化视角下的区域裂痕读数。</p>
             <div class="grid-card__meta"><span data-zh="中文 · 2026年8月6日" data-en="Chinese · Aug 6, 2026">中文 · 2026年8月6日</span><span>11 min</span></div>
           </article>
-          <article class="grid-card" data-lang-card="en" style="display:none">
+          <article class="grid-card" data-lang-card="en">
             <div class="grid-card__cat" data-zh="Quantitative Index" data-en="Quantitative Index">Quantitative Index</div>
             <h3 class="grid-card__title"><a href="articles/china-asean-relations-2026-en.html">Scoring the Bond: A Monthly Index of China–ASEAN Relations (Jan–Aug 2026)</a></h3>
             <p class="grid-card__excerpt" data-zh="Ten partners in the amicable band, one in open confrontation — a quantitative reading of the region's widening split.（英文版）" data-en="Ten partners in the amicable band, one in open confrontation — a quantitative reading of the region's widening split.">Ten partners in the amicable band, one in open confrontation — a quantitative reading of the region's widening split.</p>
@@ -159,7 +159,7 @@
             <p class="grid-card__excerpt" data-zh="量化指数与 GDELT 机器编码新闻两套独立读数共同显示：2026年前八个月，中菲关系从紧张一路滑入对抗，成为东盟中与中方唯一走向对立的国家。" data-en="A quantitative index and GDELT machine-coded news — two independent readings — both show China–Philippines ties sliding from tension into confrontation through 2026.（中文）">量化指数与 GDELT 机器编码新闻两套独立读数共同显示：2026年前八个月，中菲关系从紧张一路滑入对抗，成为东盟中与中方唯一走向对立的国家。</p>
             <div class="grid-card__meta"><span data-zh="中文 · 2026年8月12日" data-en="Chinese · Aug 12, 2026">中文 · 2026年8月12日</span><span>13 min</span></div>
           </article>
-          <article class="grid-card" data-lang-card="en" style="display:none">
+          <article class="grid-card" data-lang-card="en">
             <div class="grid-card__cat" data-zh="Geopolitics" data-en="Geopolitics">Geopolitics</div>
             <h3 class="grid-card__title"><a href="articles/China-Philippines_Deterioration_2026_en.html">A Cold Front in a Warm Belt: Why China–Philippines Relations Kept Deteriorating in 2026</a></h3>
             <p class="grid-card__excerpt" data-zh="A quantitative index and GDELT machine-coded news — two independent readings — both show China–Philippines ties sliding from tension into confrontation through 2026.（英文版）" data-en="A quantitative index and GDELT machine-coded news — two independent readings — both show China–Philippines ties sliding from tension into confrontation through 2026.">A quantitative index and GDELT machine-coded news — two independent readings — both show China–Philippines ties sliding from tension into confrontation through 2026.</p>
@@ -172,17 +172,12 @@
       (function(){
         try {
           var lang = localStorage.getItem('sea-lang') || 'en';
-          var zhCards = document.querySelectorAll('[data-lang-card="zh"]');
-          var enCards = document.querySelectorAll('[data-lang-card="en"]');
-          if (zhCards.length && enCards.length) {
-            zhCards.forEach(function(c){ c.style.display = (lang === 'zh') ? '' : 'none'; });
-            enCards.forEach(function(c){ c.style.display = (lang === 'en') ? '' : 'none'; });
-          }
+          // 立即设置 html lang 属性 → CSS 选择器自动切换 data-lang-card 显隐（!important 优先于一切）
+          document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
           window.addEventListener('storage', function(e){
-            if (e.key === 'sea-lang' && zhCards.length && enCards.length) {
+            if (e.key === 'sea-lang') {
               var l = e.newValue || 'en';
-              zhCards.forEach(function(c){ c.style.display = (l === 'zh') ? '' : 'none'; });
-              enCards.forEach(function(c){ c.style.display = (l === 'en') ? '' : 'none'; });
+              document.documentElement.lang = l === 'zh' ? 'zh-CN' : 'en';
             }
           });
         } catch(e){}
@@ -274,6 +269,6 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js" defer></script>
-  <script src="js/app.js?v=20260806j" defer></script>
+  <script src="js/app.js?v=20260812d" defer></script>
 </body>
 </html>

@@ -594,6 +594,10 @@ body.search-open { overflow: hidden; }
 .grid-card__excerpt { color: var(--text-soft); font-size: .9rem; flex: 1; margin-bottom: 12px; }
 .grid-card__meta { font-size: .8rem; color: var(--text-mute); display: flex; justify-content: space-between; }
 
+/* ---------- 数据专题卡片：CSS 语言切换（优先于 JS inline style） ---------- */
+html[lang="en"] [data-lang-card="zh"] { display: none !important; }
+html[lang="zh-CN"] [data-lang-card="en"] { display: none !important; }
+
 /* ---------- 关于页 ---------- */
 .about-hero { padding: 64px 0 40px; border-bottom: 1px solid var(--border); }
 .about-hero h1 { font-family: var(--serif); font-size: 2.4rem; margin: 0 0 12px; }
