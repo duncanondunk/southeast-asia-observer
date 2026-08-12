@@ -172,17 +172,17 @@
       (function(){
         try {
           var lang = localStorage.getItem('sea-lang') || 'en';
-          var zhCard = document.querySelector('[data-lang-card="zh"]');
-          var enCard = document.querySelector('[data-lang-card="en"]');
-          if (zhCard && enCard) {
-            zhCard.style.display = (lang === 'zh') ? '' : 'none';
-            enCard.style.display = (lang === 'en') ? '' : 'none';
+          var zhCards = document.querySelectorAll('[data-lang-card="zh"]');
+          var enCards = document.querySelectorAll('[data-lang-card="en"]');
+          if (zhCards.length && enCards.length) {
+            zhCards.forEach(function(c){ c.style.display = (lang === 'zh') ? '' : 'none'; });
+            enCards.forEach(function(c){ c.style.display = (lang === 'en') ? '' : 'none'; });
           }
           window.addEventListener('storage', function(e){
-            if (e.key === 'sea-lang' && zhCard && enCard) {
+            if (e.key === 'sea-lang' && zhCards.length && enCards.length) {
               var l = e.newValue || 'en';
-              zhCard.style.display = (l === 'zh') ? '' : 'none';
-              enCard.style.display = (l === 'en') ? '' : 'none';
+              zhCards.forEach(function(c){ c.style.display = (l === 'zh') ? '' : 'none'; });
+              enCards.forEach(function(c){ c.style.display = (l === 'en') ? '' : 'none'; });
             }
           });
         } catch(e){}
