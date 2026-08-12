@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-11",
+  "version": "2026-08-12",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -184,6 +184,27 @@
       "exception": null,
       "slugs": [
         "new-era-qiaowu-work"
+      ]
+    },
+    "topic:新侨餐饮创业与青年侨团（徐𬱖/法国里昂）": {
+      "note": "全新素材（中国侨网《华人故事》）",
+      "exception": null,
+      "slugs": [
+        "xudi-new-overseas-chinese-association"
+      ]
+    },
+    "event:菲律宾举债振兴经济(2027预算)": {
+      "note": "全新素材（联合早报）",
+      "exception": null,
+      "slugs": [
+        "philippines-debt-economic-stimulus-2027"
+      ]
+    },
+    "event:澳洲越南深化军事合作与供应链": {
+      "note": "全新素材（联合早报）",
+      "exception": null,
+      "slugs": [
+        "australia-vietnam-defence-supply-chain"
       ]
     }
   }
