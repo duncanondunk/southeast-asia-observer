@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-12",
+  "version": "2026-08-13",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -205,6 +205,27 @@
       "exception": null,
       "slugs": [
         "australia-vietnam-defence-supply-chain"
+      ]
+    },
+    "event:汕头大学新加坡潮籍侨领口述史采集": {
+      "note": "全新素材（中国侨网）",
+      "exception": null,
+      "slugs": [
+        "shantou-university-teochew-oral-history-singapore"
+      ]
+    },
+    "event:马来西亚民行党去留与华人政治格局": {
+      "note": "全新素材（联合早报）",
+      "exception": null,
+      "slugs": [
+        "malaysia-dap-chinese-opposition-pattern"
+      ]
+    },
+    "event:马澳稀土合作(钕磁铁生产)": {
+      "note": "全新素材（联合早报）",
+      "exception": null,
+      "slugs": [
+        "malaysia-australia-rare-earth-neodymium"
       ]
     }
   }
