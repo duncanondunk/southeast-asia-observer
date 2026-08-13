@@ -323,23 +323,30 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
 }
 
 .article-card__body { display: flex; flex-direction: column; }
-.article-card__share { display: flex; gap: 10px; margin-bottom: 8px; }
+.article-card__share { display: flex; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
 .article-card__share a,
 .article-card__share button {
-  font-size: .78rem; color: var(--text-mute);
+  color: var(--text-mute);
   border: 1px solid var(--border); border-radius: 50%;
-  width: 26px; height: 26px; display: inline-flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center;
   background: transparent; cursor: pointer; font-family: inherit; line-height: 1;
-  transition: color .15s ease, border-color .15s ease;
+  transition: color .2s ease, border-color .2s ease, background .2s ease, transform .2s ease;
 }
 .article-card__share a:hover,
-.article-card__share button:hover { color: var(--accent); border-color: var(--accent); }
+.article-card__share button:hover { color: var(--accent); border-color: var(--accent); transform: translateY(-2px); }
 /* 分享图标（微信/微博 SVG）统一尺寸与对齐 */
 .share-icon {
-  width: 14px; height: 14px;
+  width: 18px; height: 18px;
   display: inline-block; vertical-align: middle;
   flex: 0 0 auto;
 }
+/* 品牌色：仅作用于图标字形，文字保持中性 */
+.share-wechat .share-icon { color: #07C160; }
+.share-weibo .share-icon { color: #E6162D; }
+.article-card__share .share-wechat:hover { color: #07C160; border-color: #07C160; background: rgba(7,193,96,.12); }
+.article-card__share .share-weibo:hover { color: #E6162D; border-color: #E6162D; background: rgba(230,22,45,.12); }
+.article-card__share a:focus-visible,
+.article-card__share button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .article-share .btn--ghost .share-icon { margin-right: 6px; }
 .article-card__cat { font-size: .72rem; color: var(--accent); letter-spacing: .12em; text-transform: uppercase; font-weight: 600; margin-bottom: 6px; }
 .article-card__title { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; line-height: 1.35; margin: 0 0 8px; }
@@ -737,20 +744,30 @@ html[lang="zh-CN"] [data-lang-card="en"] { display: none !important; }
 
 /* ---------- 数据专题卡片分享栏（与文章卡片分享栏保持一致） ---------- */
 .grid-card__share {
-  display: flex; gap: 10px;
+  display: flex; gap: 8px;
   margin-top: 14px; padding-top: 12px;
   border-top: 1px solid var(--border);
 }
 .grid-card__share a,
 .grid-card__share button {
-  font-size: .78rem; color: var(--text-mute);
+  color: var(--text-mute);
   border: 1px solid var(--border); border-radius: 50%;
-  width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center;
   background: transparent; cursor: pointer; font-family: inherit; line-height: 1;
-  transition: color .15s ease, border-color .15s ease;
+  transition: color .2s ease, border-color .2s ease, background .2s ease, transform .2s ease;
 }
 .grid-card__share a:hover,
-.grid-card__share button:hover { color: var(--accent); border-color: var(--accent); }
+.grid-card__share button:hover { color: var(--accent); border-color: var(--accent); transform: translateY(-2px); }
+.grid-card__share .share-wechat:hover { color: #07C160; border-color: #07C160; background: rgba(7,193,96,.12); }
+.grid-card__share .share-weibo:hover { color: #E6162D; border-color: #E6162D; background: rgba(230,22,45,.12); }
+.grid-card__share a:focus-visible,
+.grid-card__share button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  .article-card__share a, .article-card__share button,
+  .grid-card__share a, .grid-card__share button { transition: none; }
+  .article-card__share a:hover, .article-card__share button:hover,
+  .grid-card__share a:hover, .grid-card__share button:hover { transform: none; }
+}
 @media (max-width: 640px) {
   .container, .container-narrow { padding: 0 16px; }
   .nav { display: none; }
