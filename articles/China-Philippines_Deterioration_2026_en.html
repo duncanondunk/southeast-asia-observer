@@ -50,6 +50,14 @@
   .commentary{border-top:3px double var(--gold);margin-top:50px;padding-top:26px}
   .commentary h2{color:var(--ink);border-left-color:var(--terracotta)}
   @media(max-width:620px){.pull{float:none;width:auto;margin:14px 0}.wrap{padding:0 16px}}
+  /* lightbox（与 china-asean-relations-2026 一致） */
+  .lb-mask{position:fixed;inset:0;background:rgba(250,247,242,.96);z-index:1000;display:flex;align-items:center;justify-content:center;opacity:0;visibility:hidden;transition:opacity .25s,visibility .25s;cursor:zoom-out;padding:20px}
+  .lb-mask.show{opacity:1;visibility:visible}
+  .lb-img{max-width:96vw;max-height:92vh;object-fit:contain;box-shadow:0 12px 60px rgba(0,0,0,.18);border-radius:6px;transform:scale(.96);transition:transform .25s}
+  .lb-mask.show .lb-img{transform:scale(1)}
+  .lb-close{position:fixed;top:16px;right:22px;font-size:36px;line-height:1;color:var(--terracotta);cursor:pointer;z-index:1001;background:rgba(255,255,255,.8);width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+  .lb-caption{position:fixed;bottom:18px;left:0;right:0;text-align:center;font-size:13.5px;color:var(--muted);padding:0 20px}
+  figure img{cursor:zoom-in}
 </style>
 </head>
 <body>
@@ -67,8 +75,7 @@
   <p>One ruler is expert-coded from diplomatic behavior; the other is machine-coded from global news. Different methods, same direction. The index tells us the relationship deteriorated; GDELT shows us when the friction concentrated. What follows is the attempt to explain <em>why</em>.</p>
 
   <figure class="chart">
-    <a href="china_philippines_chart_en.svg" target="_blank" title="Click to enlarge (opens in new window)" style="display:block;cursor:zoom-in">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" role="img" aria-label="China–Philippines index score and GDELT conflict share, Jan–Aug 2026" style="width:100%;height:auto;font-family:'Noto Sans SC',-apple-system,'Segoe UI',sans-serif"><defs>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" role="img" aria-label="China–Philippines index score and GDELT conflict share, Jan–Aug 2026" style="width:100%;height:auto;font-family:'Noto Sans SC',-apple-system,'Segoe UI',sans-serif"><defs>
     <pattern id="seaWM" width="260" height="140" patternUnits="userSpaceOnUse" patternTransform="rotate(-28)">
       <text x="0" y="74" font-size="19" fill="#a8401f" opacity="0.07" font-family="'Noto Sans SC','PingFang SC',sans-serif" font-weight="600" letter-spacing="2">SEA-东南亚观察</text>
     </pattern>
@@ -131,7 +138,6 @@
 <rect x="470" y="38.0" width="14" height="4" fill="#1d5b4e"/>
 <text x="490" y="48.0" font-size="12" fill="#2a2622">GDELT conflict share (right)</text>
 <rect x="0" y="0" width="820" height="430" fill="url(#seaWM)"/></svg>
-</a>
     <figcaption>Figure 1. Two independent readings of the China–Philippines relationship (Jan–Aug 2026). The solid line is the scored index (−9 to +9, left axis); the dashed line is the GDELT conflict-event share (right axis). Both lines jump in April, June, and August, showing the index and the machine-coded news point the same way. Both series run through August 2026 (GDELT coverage ends 8 August). <em>Academic, non-official assessment.</em></figcaption>
   </figure>
 
@@ -163,9 +169,7 @@
 
   <p>The flare-ups are the visible surface; the alliance geometry is the substrate.</p>
   <figure>
-    <a href="https://images.pexels.com/photos/10869666/pexels-photo-10869666.jpeg" target="_blank" title="Click to enlarge (opens in new window)" style="display:block;cursor:zoom-in">
     <img src="https://images.pexels.com/photos/10869666/pexels-photo-10869666.jpeg" alt="Manila skyline">
-    </a>
     <figcaption>Manila's skyline. The Philippine capital is both an anchor of the U.S.–Japan security architecture and the 2026 ASEAN chair — its diplomatic orientation pulled between the two. <em>Source: Pexels (Kim Gamara, pexels.com/photo/city-buildings-beside-the-body-of-water-10869666). Accessed 12 August 2026.</em></figcaption>
   </figure>
 
@@ -182,9 +186,7 @@
 
   <p>The geography is consistent. The flashpoints are Second Thomas Shoal (a grounded Philippine vessel supplied from Palawan, within the EDCA-facing arc), Huangyan Dao (where Manila filed a 350-nm West Palawan extended continental shelf claim with the UN on 29 July and its baseline map on 31 July), and the surrounding waters where coast-guard and maritime-militia encounters recur. This is the zone where alliance logic and sovereignty claim meet — which is why the conflict signal concentrates here rather than, say, in trade or cultural exchange.</p>
   <figure>
-    <a href="https://images.pexels.com/photos/38868638/pexels-photo-38868638.jpeg" target="_blank" title="Click to enlarge (opens in new window)" style="display:block;cursor:zoom-in">
     <img src="https://images.pexels.com/photos/38868638/pexels-photo-38868638.jpeg" alt="China Coast Guard vessel docked at Xiamen">
-    </a>
     <figcaption>A China Coast Guard vessel docked at Xiamen. Coast-guard activity and maritime standoffs in the South China Sea were the core of 2026 China–Philippines conflict events, concentrated around Second Thomas Shoal and Huangyan Dao. <em>Source: Pexels (Nowrin Sanjana, pexels.com/photo/coast-guard-vessel-docked-in-xiamen-china-38868638). Accessed 12 August 2026.</em></figcaption>
   </figure>
 
@@ -206,9 +208,7 @@
   <p>The difference is political architecture, not trade volume. China–ASEAN two-way trade surpassed US$1.05 trillion in 2025, and the FTA 3.0 upgrade protocol was signed on 28 October 2025, locking in a decade of integration. The Philippines trades with China too — yet its score falls. What really moves the variable is not the trade volume itself, but the political architecture. The five mainland Southeast Asian states have bound their China ties into institutions — community-of-shared-future frameworks, "2+2" and "3+3" dialogues — that turn summit photos into durable relationship foundations. The maritime four hedge (large trade plus U.S./Japanese security ties) but stay in the "sound" band because they avoid forward basing under a U.S. treaty and legalistic escalation. The Philippines is the outlier because it combines a U.S. defense treaty, forward base access, trilateral security institutions, and an internationalized legal claim — a combination none of the others possesses.</p>
 
   <figure>
-    <a href="https://images.pexels.com/photos/35351198/pexels-photo-35351198.jpeg" target="_blank" title="Click to enlarge (opens in new window)" style="display:block;cursor:zoom-in">
     <img src="https://images.pexels.com/photos/35351198/pexels-photo-35351198.jpeg" alt="Traditional boats in Sipalay harbour, Philippines">
-    </a>
     <figcaption>Traditional outrigger boats (banca) in Sipalay City harbour, Philippines. The Philippines maintains close trade and fisheries ties with China, yet its score kept sliding — evidence that political architecture, not trade volume, drives the relationship. <em>Source: Pexels (Anthony Vargas, pexels.com/photo/aerial-view-of-bancas-in-sipalay-city-harbour-35351198). Accessed 12 August 2026.</em></figcaption>
   </figure>
 
@@ -252,5 +252,41 @@
   </p>
 
 </div>
+<div id="lbMask" class="lb-mask" aria-hidden="true">
+  <span id="lbClose" class="lb-close" aria-label="Close">&times;</span>
+  <img id="lbImg" class="lb-img" src="" alt="">
+  <div id="lbCaption" class="lb-caption"></div>
+</div>
+<script>
+(function(){
+  var mask=document.getElementById('lbMask');
+  var img=document.getElementById('lbImg');
+  var cap=document.getElementById('lbCaption');
+  var close=document.getElementById('lbClose');
+  function open(src, caption){
+    img.src=src;
+    cap.textContent=caption||'';
+    mask.classList.add('show');
+    mask.setAttribute('aria-hidden','false');
+    document.body.style.overflow='hidden';
+  }
+  function closeFn(){
+    mask.classList.remove('show');
+    mask.setAttribute('aria-hidden','true');
+    document.body.style.overflow='';
+    setTimeout(function(){ img.src=''; cap.textContent=''; }, 250);
+  }
+  document.querySelectorAll('figure img').forEach(function(el){
+    el.addEventListener('click', function(){
+      var fig=el.closest('figure');
+      var caption=fig ? (fig.querySelector('figcaption')||{}).textContent || '' : '';
+      open(el.src, caption);
+    });
+  });
+  mask.addEventListener('click', closeFn);
+  close.addEventListener('click', closeFn);
+  document.addEventListener('keydown', function(e){ if(e.key==='Escape') closeFn(); });
+})();
+</script>
 </body>
 </html>

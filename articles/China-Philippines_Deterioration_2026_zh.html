@@ -50,6 +50,14 @@
   .commentary{border-top:3px double var(--gold);margin-top:50px;padding-top:26px}
   .commentary h2{color:var(--ink);border-left-color:var(--terracotta)}
   @media(max-width:620px){.pull{float:none;width:auto;margin:14px 0}.wrap{padding:0 16px}}
+  /* lightbox（与 china-asean-relations-2026 一致） */
+  .lb-mask{position:fixed;inset:0;background:rgba(250,247,242,.96);z-index:1000;display:flex;align-items:center;justify-content:center;opacity:0;visibility:hidden;transition:opacity .25s,visibility .25s;cursor:zoom-out;padding:20px}
+  .lb-mask.show{opacity:1;visibility:visible}
+  .lb-img{max-width:96vw;max-height:92vh;object-fit:contain;box-shadow:0 12px 60px rgba(0,0,0,.18);border-radius:6px;transform:scale(.96);transition:transform .25s}
+  .lb-mask.show .lb-img{transform:scale(1)}
+  .lb-close{position:fixed;top:16px;right:22px;font-size:36px;line-height:1;color:var(--terracotta);cursor:pointer;z-index:1001;background:rgba(255,255,255,.8);width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+  .lb-caption{position:fixed;bottom:18px;left:0;right:0;text-align:center;font-size:13.5px;color:var(--muted);padding:0 20px}
+  figure img{cursor:zoom-in}
 </style>
 </head>
 <body>
@@ -67,8 +75,7 @@
   <p>一把由专家按外交行为打分，一把由机器按全球新闻编码，方法不同，指向却一致。指数告诉我们关系"确实"在变差；GDELT 帮我们看清摩擦集中在哪些时段。接下来要回答的，是"为什么"会变差。</p>
 
   <figure class="chart">
-    <a href="china_philippines_chart_zh.svg" target="_blank" title="点击放大查看（新窗口打开）" style="display:block;cursor:zoom-in">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" role="img" aria-label="中国—菲律宾关系指数与GDELT冲突占比（2026年1—8月）" style="width:100%;height:auto;font-family:'Noto Sans SC',-apple-system,'Segoe UI',sans-serif"><defs>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" role="img" aria-label="中国—菲律宾关系指数与GDELT冲突占比（2026年1—8月）" style="width:100%;height:auto;font-family:'Noto Sans SC',-apple-system,'Segoe UI',sans-serif"><defs>
     <pattern id="seaWM" width="260" height="140" patternUnits="userSpaceOnUse" patternTransform="rotate(-28)">
       <text x="0" y="74" font-size="19" fill="#a8401f" opacity="0.07" font-family="'Noto Sans SC','PingFang SC',sans-serif" font-weight="600" letter-spacing="2">SEA-东南亚观察</text>
     </pattern>
@@ -131,7 +138,6 @@
 <rect x="470" y="38.0" width="14" height="4" fill="#1d5b4e"/>
 <text x="490" y="48.0" font-size="12" fill="#2a2622">GDELT冲突占比（右轴）</text>
 <rect x="0" y="0" width="820" height="430" fill="url(#seaWM)"/></svg>
-</a>
     <figcaption>图1. 中国—菲律宾关系的两套独立读数（2026年1—8月）。实线为评分指数（−9 至 +9，左轴），虚线为 GDELT 冲突事件占比（右轴）。两条线在4月、6月、8月同步跳升，说明指数与机器编码的新闻指向同一方向。指数与 GDELT 数据均截至2026年8月（GDELT覆盖至8月8日）。<em>学术性评估，非官方数据。</em></figcaption>
   </figure>
 
@@ -162,9 +168,7 @@
   <blockquote>一旦一国的前沿防御态势，在物理和制度上同时绑定于两个把自身区域角色定义为对抗中国海洋主张的大国，它与中国的海上摩擦就不再是偶发事件，而成为这段关系的一项结构性特征。</blockquote>
 
   <figure>
-    <a href="https://images.pexels.com/photos/10869666/pexels-photo-10869666.jpeg" target="_blank" title="点击放大查看（新窗口打开）" style="display:block;cursor:zoom-in">
     <img src="https://images.pexels.com/photos/10869666/pexels-photo-10869666.jpeg" alt="马尼拉城市天际线">
-    </a>
     <figcaption>马尼拉城市天际线。菲律宾首都既是与华盛顿、东京安全架构的锚点，也是2026年东盟轮值主席国的所在地——其外交取向在联盟逻辑与区域领导角色之间持续拉扯。<em>来源：Pexels（Kim Gamara，pexels.com/photo/city-buildings-beside-the-body-of-water-10869666）。访问时间：2026年8月12日。</em></figcaption>
   </figure>
 
@@ -182,9 +186,7 @@
   <p><b>8月</b>（8月1—8日冲突占比44.1%）。8月1日，北京作出"四线"回应——外交部发表谈话驳斥、南部战区在相关海域组织演训、海警开展拦截演练、中国政府（四部门）出台《黄岩岛国家级自然保护区管理办法》——当天产生 108 件事件，其中 61 件为冲突（56.5%，全年单日最高冲突占比），指数当月跌至 −6.4 的"对抗"区间。</p>
 
   <figure>
-    <a href="https://images.pexels.com/photos/38868638/pexels-photo-38868638.jpeg" target="_blank" title="点击放大查看（新窗口打开）" style="display:block;cursor:zoom-in">
     <img src="https://images.pexels.com/photos/38868638/pexels-photo-38868638.jpeg" alt="中国海警船停泊在厦门港">
-    </a>
     <figcaption>停泊在厦门港的中国海警船只。南海海域的海警活动与海上对峙是2026年中菲冲突事件的核心载体，GDELT 数据库中冲突类事件码（190/112/120）的高频出现印证了这一点。<em>来源：Pexels（Nowrin Sanjana，pexels.com/photo/coast-guard-vessel-docked-in-xiamen-china-38868638）。访问时间：2026年8月12日。</em></figcaption>
   </figure>
 
@@ -208,9 +210,7 @@
   <p>差别在政治架构，不在贸易量。中国—东盟双边贸易2025年突破 1.05 万亿美元，自贸区3.0版升级议定书于2025年10月28日签署，把十年的一体化锁定下来。菲律宾也跟中国做贸易——可它的评分却在往下掉。真正驱动这一变量的，不是贸易额本身，而是政治架构。五个中南半岛国家，已把对华关系绑进一系列机制——命运共同体框架、"2+2"和"3+3"对话——把峰会合影变成持久关系的基础。海上四国采取对冲（大贸易加美日安全纽带），但因为避开了在美国条约下的前沿驻军和法律升级，仍留在"良好"区间。菲律宾之所以是例外，是因为它把美国防御条约、前沿基地准入、三边安全机制和国际化的法律主张叠在了一起——这种组合，其他国家都没有。</p>
 
   <figure>
-    <a href="https://images.pexels.com/photos/35351198/pexels-photo-35351198.jpeg" target="_blank" title="点击放大查看（新窗口打开）" style="display:block;cursor:zoom-in">
     <img src="https://images.pexels.com/photos/35351198/pexels-photo-35351198.jpeg" alt="菲律宾锡帕莱港渔船">
-    </a>
     <figcaption>菲律宾锡帕莱市（Sipalay）港内的传统渔船（banca）。菲律宾与中国同样存在紧密的经贸与渔业纽带，但它的评分却在持续下滑——说明真正驱动关系变量的是政治架构而非贸易额本身。<em>来源：Pexels（Anthony Vargas，pexels.com/photo/aerial-view-of-bancas-in-sipalay-city-harbour-35351198）。访问时间：2026年8月12日。</em></figcaption>
   </figure>
 
@@ -253,5 +253,41 @@
   </p>
 
 </div>
+<div id="lbMask" class="lb-mask" aria-hidden="true">
+  <span id="lbClose" class="lb-close" aria-label="关闭">&times;</span>
+  <img id="lbImg" class="lb-img" src="" alt="">
+  <div id="lbCaption" class="lb-caption"></div>
+</div>
+<script>
+(function(){
+  var mask=document.getElementById('lbMask');
+  var img=document.getElementById('lbImg');
+  var cap=document.getElementById('lbCaption');
+  var close=document.getElementById('lbClose');
+  function open(src, caption){
+    img.src=src;
+    cap.textContent=caption||'';
+    mask.classList.add('show');
+    mask.setAttribute('aria-hidden','false');
+    document.body.style.overflow='hidden';
+  }
+  function closeFn(){
+    mask.classList.remove('show');
+    mask.setAttribute('aria-hidden','true');
+    document.body.style.overflow='';
+    setTimeout(function(){ img.src=''; cap.textContent=''; }, 250);
+  }
+  document.querySelectorAll('figure img').forEach(function(el){
+    el.addEventListener('click', function(){
+      var fig=el.closest('figure');
+      var caption=fig ? (fig.querySelector('figcaption')||{}).textContent || '' : '';
+      open(el.src, caption);
+    });
+  });
+  mask.addEventListener('click', closeFn);
+  close.addEventListener('click', closeFn);
+  document.addEventListener('keydown', function(e){ if(e.key==='Escape') closeFn(); });
+})();
+</script>
 </body>
 </html>
