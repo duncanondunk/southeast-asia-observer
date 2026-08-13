@@ -55,13 +55,9 @@
   .lb-mask.show{opacity:1;visibility:visible}
   .lb-img{max-width:96vw;max-height:92vh;object-fit:contain;box-shadow:0 12px 60px rgba(0,0,0,.18);border-radius:6px;transform:scale(.96);transition:transform .25s}
   .lb-mask.show .lb-img{transform:scale(1)}
-  /* 内联SVG克隆渲染层（避免SVG→data URL在<img>中渲染失败） */
-  .lb-svg{display:none;max-width:96vw;max-height:92vh;box-shadow:0 12px 60px rgba(0,0,0,.18);border-radius:6px;background:var(--cream);transform:scale(.96);transition:transform .25s}
-  .lb-mask.show .lb-svg{transform:scale(1)}
-  .lb-svg svg{display:block;width:auto;height:auto;max-width:96vw;max-height:92vh}
   .lb-close{position:fixed;top:16px;right:22px;font-size:36px;line-height:1;color:var(--terracotta);cursor:pointer;z-index:1001;background:rgba(255,255,255,.8);width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.1)}
   .lb-caption{position:fixed;bottom:18px;left:0;right:0;text-align:center;font-size:13.5px;color:var(--muted);padding:0 20px}
-  figure img{cursor:zoom-in}
+  figure img{cursor:zoom-in} figure svg{cursor:zoom-in}
 </style>
 </head>
 <body>
@@ -260,53 +256,43 @@
 <div id="lbMask" class="lb-mask" aria-hidden="true">
   <span id="lbClose" class="lb-close" aria-label="关闭">&times;</span>
   <img id="lbImg" class="lb-img" src="" alt="">
-  <div id="lbSvg" class="lb-svg"></div>
   <div id="lbCaption" class="lb-caption"></div>
 </div>
 <script>
 (function(){
   var mask=document.getElementById('lbMask');
   var img=document.getElementById('lbImg');
-  var svgWrap=document.getElementById('lbSvg');
   var cap=document.getElementById('lbCaption');
   var close=document.getElementById('lbClose');
+  /* 内联图表SVG对应的独立文件（与articles/同目录，<img>可直接加载） */
+  var CHART_SVG='china_philippines_chart_zh.svg';
   function show(caption){
     cap.textContent=caption||'';
     mask.classList.add('show');
     mask.setAttribute('aria-hidden','false');
     document.body.style.overflow='hidden';
   }
-  function openRaster(src, caption){
-    svgWrap.style.display='none'; svgWrap.innerHTML='';
-    img.style.display=''; img.src=src;
-    show(caption);
-  }
-  function openSvg(svgEl, caption){
-    img.style.display='none'; img.src='';
-    svgWrap.innerHTML='';
-    var clone=svgEl.cloneNode(true);
-    clone.removeAttribute('style');           /* 去掉原 width:100% 等内联约束 */
-    clone.setAttribute('width','100%');
-    clone.setAttribute('height','100%');
-    svgWrap.appendChild(clone);
-    svgWrap.style.display='';
+  function openSrc(src, caption){
+    img.src=src;
     show(caption);
   }
   function closeFn(){
     mask.classList.remove('show');
     mask.setAttribute('aria-hidden','true');
     document.body.style.overflow='';
-    setTimeout(function(){ img.src=''; svgWrap.innerHTML=''; cap.textContent=''; }, 250);
+    setTimeout(function(){ img.src=''; cap.textContent=''; }, 250);
   }
-  /* 统一处理 <img> 和内联 <svg>；兼容移动端 touch 与桌面 click */
   function doOpen(el){
     var fig=el.closest('figure');
     var caption=fig ? (fig.querySelector('figcaption')||{}).textContent || '' : '';
-    if(el.tagName==='SVG'){ openSvg(el, caption); }
-    else { openRaster(el.src, caption); }
+    if(el.tagName==='SVG'){
+      /* 内联SVG → 用独立.svg文件URL走<img>渲染（避免序列化/克隆的各种兼容问题） */
+      openSrc(CHART_SVG, caption);
+    }else{
+      openSrc(el.src, caption);
+    }
   }
   document.querySelectorAll('figure img, figure svg').forEach(function(el){
-    el.style.cursor='zoom-in';
     el.addEventListener('click', function(e){ e.preventDefault(); doOpen(el); });
     el.addEventListener('touchend', function(e){
       if(e.changedTouches.length===1){ e.preventDefault(); doOpen(el); }
