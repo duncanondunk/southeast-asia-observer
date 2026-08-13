@@ -264,8 +264,8 @@
   var img=document.getElementById('lbImg');
   var cap=document.getElementById('lbCaption');
   var close=document.getElementById('lbClose');
-  /* 内联图表SVG对应的独立文件（与articles/同目录，<img>可直接加载） */
-  var CHART_SVG='china_philippines_chart_zh.svg';
+  /* 图表高清位图（2x PNG，<img>加载最可靠，同目录） */
+  var CHART_IMG='china_philippines_chart_zh.png';
   function show(caption){
     cap.textContent=caption||'';
     mask.classList.add('show');
@@ -286,8 +286,8 @@
     var fig=el.closest('figure');
     var caption=fig ? (fig.querySelector('figcaption')||{}).textContent || '' : '';
     if(el.tagName==='SVG'){
-      /* 内联SVG → 用独立.svg文件URL走<img>渲染（避免序列化/克隆的各种兼容问题） */
-      openSrc(CHART_SVG, caption);
+      /* 内联SVG → 用预渲染的高清PNG走<img>（杜绝SVG在img中的尺寸塌陷） */
+      openSrc(CHART_IMG, caption);
     }else{
       openSrc(el.src, caption);
     }
