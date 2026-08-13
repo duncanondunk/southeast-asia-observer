@@ -244,6 +244,10 @@
     }).join('');
   }
 
+  // 分享平台 SVG 图标（inline，统一尺寸与视觉风格）
+  var ICON_WECHAT = '<svg class="share-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8.5 2C4.91 2 2 4.24 2 7c0 1.4.72 2.66 1.86 3.52L3.5 13l2.36-1.18C6.54 11.64 7.26 11.74 8 11.74c.12 0 .24 0 .36-.01-.23-.66-.35-1.36-.35-2.09 0-3.04 2.55-5.5 5.7-5.5.23 0 .46.02.68.05C14.1 2.95 11.5 2 8.5 2zm5.7 5c-2.87 0-5.2 2.01-5.2 4.5s2.33 4.5 5.2 4.5c.6 0 1.18-.08 1.73-.22L21.5 16l-.27-2.08c.93-.72 1.47-1.74 1.47-2.87 0-2.49-2.33-4.5-5.2-4.5h-.3zm-2.1 2.5c.39 0 .7.31.7.7s-.31.7-.7.7-.7-.31-.7-.7.31-.7.7-.7zm4.2 0c.39 0 .7.31.7.7s-.31.7-.7.7-.7-.31-.7-.7.31-.7.7-.7z" fill="currentColor"/></svg>';
+  var ICON_WEIBO = '<svg class="share-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M10.5 3C6.36 3 3 5.5 3 8.5c0 2.2 1.6 4.1 4 5l-.4 1.5 2.2-1.2c.7.18 1.45.28 2.2.28.5 0 .95-.04 1.4-.1-.3-.85-.45-1.75-.45-2.7 0-3.4 2.65-6.18 5.95-6.6-.9-1.2-3.3-1.8-5.4-1.8zm-2 6.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zm6.5-3.5c.6 0 1 .4 1 1s-.4 1-1 1-1-.4-1-1 .4-1 1-1zm1.5 1c.3 0 .5.2.5.5s-.2.5-.5.5-.5-.2-.5-.5.2-.5.5-.5z" fill="currentColor"/></svg>';
+
   function shareBarHtml(url, title) {
     var text = encodeURIComponent(title + ' · Southeast Asia Watch');
     var u = encodeURIComponent(url);
@@ -254,8 +258,8 @@
       '<a href="https://twitter.com/intent/tweet?text=' + text + '&url=' + u + '" target="_blank" rel="noopener" title="X">𝕏</a>' +
       '<a href="https://www.facebook.com/sharer/sharer.php?u=' + u + '" target="_blank" rel="noopener" title="Facebook">f</a>' +
       '<a href="mailto:?subject=' + text + '&body=' + encodeURIComponent('Recommended: ') + u + '" title="' + mailLabel + '">✉</a>' +
-      '<button type="button" class="share-wechat" data-share-url="' + escapeHtml(url) + '" data-share-title="' + escapeHtml(title) + '" title="' + wechatLabel + '">微</button>' +
-      '<a href="https://service.weibo.com/share/share.php?url=' + u + '&title=' + text + '" target="_blank" rel="noopener" title="' + weiboLabel + '">博</a>' +
+      '<button type="button" class="share-wechat" data-share-url="' + escapeHtml(url) + '" data-share-title="' + escapeHtml(title) + '" title="' + wechatLabel + '">' + ICON_WECHAT + '</button>' +
+      '<a href="https://service.weibo.com/share/share.php?url=' + u + '&title=' + text + '" target="_blank" rel="noopener" title="' + weiboLabel + '">' + ICON_WEIBO + '</a>' +
     '</div>';
   }
 

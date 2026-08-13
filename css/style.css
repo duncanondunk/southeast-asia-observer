@@ -334,6 +334,13 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
 }
 .article-card__share a:hover,
 .article-card__share button:hover { color: var(--accent); border-color: var(--accent); }
+/* 分享图标（微信/微博 SVG）统一尺寸与对齐 */
+.share-icon {
+  width: 14px; height: 14px;
+  display: inline-block; vertical-align: middle;
+  flex: 0 0 auto;
+}
+.article-share .btn--ghost .share-icon { margin-right: 6px; }
 .article-card__cat { font-size: .72rem; color: var(--accent); letter-spacing: .12em; text-transform: uppercase; font-weight: 600; margin-bottom: 6px; }
 .article-card__title { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; line-height: 1.35; margin: 0 0 8px; }
 .article-card__title a { color: var(--text); }
