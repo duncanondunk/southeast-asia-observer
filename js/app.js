@@ -565,7 +565,8 @@
     var box = $('#commentsList'); if (!box) return;
     var list = getComments(slug);
     if (!list.length) {
-      box.innerHTML = '<p class="comments__empty" data-zh="暂无评论，欢迎发表第一条评论。" data-en="No comments yet. Be the first to leave a reply.">暂无评论，欢迎发表第一条评论。</p>';
+      var emptyText = LANG === 'en' ? 'No comments yet. Be the first to leave a reply.' : '暂无评论，欢迎发表第一条评论。';
+      box.innerHTML = '<p class="comments__empty" data-zh="暂无评论，欢迎发表第一条评论。" data-en="No comments yet. Be the first to leave a reply.">' + escapeHtml(emptyText) + '</p>';
       return;
     }
     box.innerHTML = '<h3 class="comments__count">' + list.length + (LANG === 'en' ? ' comment' + (list.length > 1 ? 's' : '') : ' 条评论') + '</h3>' +
