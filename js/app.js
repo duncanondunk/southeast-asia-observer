@@ -167,7 +167,7 @@
     loadArticles()
       .then(function (list) {
         renderCarousel(list.slice(0, 5)); // 精选 hero 轮播：全站最新发布的 5 篇
-        renderLatest(list);
+        renderLatest(list.slice(0, 3)); // 最新文章板块：仅展示全站最新发布的前 3 篇（list 已按 date 倒序）
         renderRanking(list);
         renderCategorySections(list);
       })
