@@ -244,6 +244,21 @@
     }).join('');
   }
 
+  function shareBarHtml(url, title) {
+    var text = encodeURIComponent(title + ' · Southeast Asia Watch');
+    var u = encodeURIComponent(url);
+    var wechatLabel = LANG === 'en' ? 'WeChat' : '微信';
+    var weiboLabel = LANG === 'en' ? 'Weibo' : '微博';
+    var mailLabel = LANG === 'en' ? 'Email' : '邮件';
+    return '<div class="article-card__share">' +
+      '<a href="https://twitter.com/intent/tweet?text=' + text + '&url=' + u + '" target="_blank" rel="noopener" title="X">𝕏</a>' +
+      '<a href="https://www.facebook.com/sharer/sharer.php?u=' + u + '" target="_blank" rel="noopener" title="Facebook">f</a>' +
+      '<a href="mailto:?subject=' + text + '&body=' + encodeURIComponent('Recommended: ') + u + '" title="' + mailLabel + '">✉</a>' +
+      '<button type="button" class="share-wechat" data-share-url="' + escapeHtml(url) + '" data-share-title="' + escapeHtml(title) + '" title="' + wechatLabel + '">微</button>' +
+      '<a href="https://service.weibo.com/share/share.php?url=' + u + '&title=' + text + '" target="_blank" rel="noopener" title="' + weiboLabel + '">博</a>' +
+    '</div>';
+  }
+
   function articleCardHtml(a, coverSeed) {
     var coverClass = a.image ? 'has-image' : ('article-card__cover--' + (((coverSeed || 1) - 1) % 5 + 1));
     var coverImg = a.image ? ('<img class="cover__img" src="' + escapeHtml(a.image) + '" alt="" decoding="async" onerror="this.style.display=\'none\'">') : '';
@@ -255,11 +270,7 @@
           '<span class="cover__tag">' + escapeHtml(af(a, 'country') || categoryLabel(a)) + '</span>' +
         '</a>' +
         '<div class="article-card__body">' +
-          '<div class="article-card__share">' +
-            '<a href="' + share.x + '" target="_blank" rel="noopener" title="X">𝕏</a>' +
-            '<a href="' + share.fb + '" target="_blank" rel="noopener" title="Facebook">f</a>' +
-            '<a href="' + share.mail + '" title="' + (LANG === 'en' ? 'Email' : '邮件') + '">✉</a>' +
-          '</div>' +
+          shareBarHtml(share.url, af(a, 'title')) +
           '<div class="article-card__cat">' + escapeHtml(categoryLabel(a)) + '</div>' +
           '<h3 class="article-card__title"><a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' + escapeHtml(af(a, 'title')) + '</a></h3>' +
           '<p class="article-card__excerpt">' + escapeHtml(af(a, 'summary') || af(a, 'subtitle') || '') + '</p>' +
@@ -452,10 +463,13 @@
 
   // 为带 data-wechat / data-weibo 属性的分享按钮绑定交互（数据专题卡片等静态区块使用）
   function initShareWidgets() {
+    // 静态 data-wechat 按钮（兼容旧版数据专题卡片）
     $$('[data-wechat]').forEach(function (btn) {
       btn.addEventListener('click', function (e) {
         e.preventDefault();
-        openWechatModal(btn.getAttribute('data-wechat'));
+        var url = btn.getAttribute('data-wechat');
+        try { url = new URL(url, location.href).href; } catch (e) {}
+        openWechatModal(url);
       });
     });
     $$('[data-weibo]').forEach(function (btn) {
@@ -468,16 +482,42 @@
         window.open('https://service.weibo.com/share/share.php?url=' + u + '&title=' + t, '_blank', 'noopener');
       });
     });
+    bindModalClose();
+    bindShareDelegation();
+  }
+
+  // 全局事件委托：统一处理动态生成的文章卡片与数据专题卡片上的微信弹窗按钮
+  function bindShareDelegation() {
+    document.addEventListener('click', function (e) {
+      var btn = e.target.closest && e.target.closest('.share-wechat');
+      if (!btn) return;
+      e.preventDefault();
+      var url = btn.getAttribute('data-share-url');
+      try { url = new URL(url, location.href).href; } catch (e) {}
+      openWechatModal(url);
+    });
+  }
+
+  // 绑定微信分享弹窗的关闭按钮、背景点击、ESC 关闭
+  function bindModalClose() {
+    var modal = $('#wechatModal');
+    if (!modal) return;
+    if (modal.dataset.closeBound) return;
+    modal.dataset.closeBound = 'true';
     $$('#wechatModal [data-close]').forEach(function (el) {
       el.addEventListener('click', closeWechatModal);
     });
+    modal.addEventListener('click', function (e) {
+      if (e.target === modal || e.target.classList.contains('modal__backdrop')) closeWechatModal();
+    });
     document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape') closeWechatModal();
+      if (e.key === 'Escape' && !modal.hidden) closeWechatModal();
     });
   }
 
   function initArticleShare(a) {
     var s = shareLinks(a);
+    bindModalClose();
     $('#shareX').href = s.x; $('#shareFb').href = s.fb; $('#shareMail').href = s.mail;
     if ($('#shareWeibo')) $('#shareWeibo').href = s.weibo;
     if ($('#shareWechat')) {

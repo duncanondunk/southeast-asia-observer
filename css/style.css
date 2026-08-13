@@ -324,12 +324,16 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
 
 .article-card__body { display: flex; flex-direction: column; }
 .article-card__share { display: flex; gap: 10px; margin-bottom: 8px; }
-.article-card__share a {
+.article-card__share a,
+.article-card__share button {
   font-size: .78rem; color: var(--text-mute);
   border: 1px solid var(--border); border-radius: 50%;
   width: 26px; height: 26px; display: inline-flex; align-items: center; justify-content: center;
+  background: transparent; cursor: pointer; font-family: inherit; line-height: 1;
+  transition: color .15s ease, border-color .15s ease;
 }
-.article-card__share a:hover { color: var(--accent); border-color: var(--accent); }
+.article-card__share a:hover,
+.article-card__share button:hover { color: var(--accent); border-color: var(--accent); }
 .article-card__cat { font-size: .72rem; color: var(--accent); letter-spacing: .12em; text-transform: uppercase; font-weight: 600; margin-bottom: 6px; }
 .article-card__title { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; line-height: 1.35; margin: 0 0 8px; }
 .article-card__title a { color: var(--text); }
@@ -692,14 +696,22 @@ html[lang="zh-CN"] [data-lang-card="en"] { display: none !important; }
 }
 .modal__hint { font-size: .76rem; color: var(--text-soft); margin: 0; }
 
-/* ---------- 数据专题卡片分享栏 ---------- */
+/* ---------- 数据专题卡片分享栏（与文章卡片分享栏保持一致） ---------- */
 .grid-card__share {
-  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  display: flex; gap: 10px;
   margin-top: 14px; padding-top: 12px;
   border-top: 1px solid var(--border);
 }
-.grid-card__share .article-share__label { font-size: .8rem; color: var(--text-mute); }
-.grid-card__share .btn { padding: 6px 12px; font-size: .82rem; }
+.grid-card__share a,
+.grid-card__share button {
+  font-size: .78rem; color: var(--text-mute);
+  border: 1px solid var(--border); border-radius: 50%;
+  width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center;
+  background: transparent; cursor: pointer; font-family: inherit; line-height: 1;
+  transition: color .15s ease, border-color .15s ease;
+}
+.grid-card__share a:hover,
+.grid-card__share button:hover { color: var(--accent); border-color: var(--accent); }
 @media (max-width: 640px) {
   .container, .container-narrow { padding: 0 16px; }
   .nav { display: none; }
