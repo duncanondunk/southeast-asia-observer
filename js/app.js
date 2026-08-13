@@ -42,6 +42,11 @@
     if (LANG === 'en' && a.en && a.en[field] != null) return a.en[field];
     return a[field];
   }
+  // 分类标签统一按中文 category + TAG_I18N 翻译，避免 a.en.category 不一致导致英文首页拆出重复板块
+  function categoryLabel(a) {
+    var c = a.category || '';
+    return LANG === 'en' ? (TAG_I18N[c] || c) : c;
+  }
   function authorName() { return LANG === 'en' ? 'Xie Chang' : '谢畅'; }
 
   // 日期格式化
@@ -193,7 +198,7 @@
         '<div class="slide ' + slideClasses[i % 3] + '" ' + bg + '>' +
           '<div class="slide__overlay"></div>' +
           '<div class="slide__content">' +
-            '<span class="slide__cat">' + escapeHtml(af(a, 'category')) + '</span>' +
+            '<span class="slide__cat">' + escapeHtml(categoryLabel(a)) + '</span>' +
             '<h2 class="slide__title"><a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' + escapeHtml(af(a, 'title')) + '</a></h2>' +
             '<div class="slide__meta">' + formatDate(a.date) + ' · ' + readingLabel(a.readingTime || 5) + ' · <a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' + (LANG === 'en' ? 'Read full →' : '阅读全文 →') + '</a></div>' +
           '</div>' +
@@ -246,7 +251,7 @@
       '<article class="article-card">' +
         '<a class="article-card__cover ' + coverClass + '" href="article.html?slug=' + encodeURIComponent(a.slug) + '" aria-label="' + escapeHtml(af(a, 'title')) + '">' +
           coverImg +
-          '<span class="cover__tag">' + escapeHtml(af(a, 'country') || af(a, 'category')) + '</span>' +
+          '<span class="cover__tag">' + escapeHtml(af(a, 'country') || categoryLabel(a)) + '</span>' +
         '</a>' +
         '<div class="article-card__body">' +
           '<div class="article-card__share">' +
@@ -254,7 +259,7 @@
             '<a href="' + share.fb + '" target="_blank" rel="noopener" title="Facebook">f</a>' +
             '<a href="' + share.mail + '" title="' + (LANG === 'en' ? 'Email' : '邮件') + '">✉</a>' +
           '</div>' +
-          '<div class="article-card__cat">' + escapeHtml(af(a, 'category')) + '</div>' +
+          '<div class="article-card__cat">' + escapeHtml(categoryLabel(a)) + '</div>' +
           '<h3 class="article-card__title"><a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' + escapeHtml(af(a, 'title')) + '</a></h3>' +
           '<p class="article-card__excerpt">' + escapeHtml(af(a, 'summary') || af(a, 'subtitle') || '') + '</p>' +
           '<div class="article-card__meta">' +
@@ -268,20 +273,14 @@
 
   function renderCategorySections(list) {
     var box = $('#categorySections'); if (!box) return;
+    // 统一按中文 category 分组，再用 categoryLabel 翻译标题，避免 a.en.category 不一致拆出重复板块
     var groups = {};
-    list.forEach(function (a) { var c = af(a, 'category'); (groups[c] = groups[c] || []).push(a); });
-    var order = LANG === 'en'
-      ? ['Overseas Chinese', 'Geopolitics', 'Economy & Industry', 'Climate Change', 'Society & Culture']
-      : ['华侨华人', '地缘政治', '经济产业', '气候变化', '社会文化'];
+    list.forEach(function (a) { var c = a.category || ''; if (c) (groups[c] = groups[c] || []).push(a); });
+    var order = ['华侨华人', '地缘政治', '经济产业', '气候变化', '社会文化'];
     var cats = Object.keys(groups).sort(function (x, y) {
       var ix = order.indexOf(x), iy = order.indexOf(y);
       return (ix < 0 ? 99 : ix) - (iy < 0 ? 99 : iy);
     });
-    // 中文标签键用于 URL（保持稳定）
-    var catKey = function (cat) {
-      var inv = {}; Object.keys(TAG_I18N).forEach(function (k) { inv[TAG_I18N[k]] = k; });
-      return inv[cat] || cat;
-    };
     var html = '';
     cats.forEach(function (cat, ci) {
       // 每个板块仅展示该分类下最新发布的前三篇
@@ -289,7 +288,7 @@
       var top3 = items.slice(0, 3);
       var isAlt = ci % 2 === 1;
       html += '<section class="section' + (isAlt ? ' section--alt' : '') + '"><div class="container">';
-      html += '<div class="section__head"><h2 class="section__title">' + escapeHtml(cat) + '</h2><a class="section__more" href="tags.html?tag=' + encodeURIComponent(catKey(cat)) + '">' + (LANG === 'en' ? 'View all →' : '查看全部 →') + '</a></div>';
+      html += '<div class="section__head"><h2 class="section__title">' + escapeHtml(categoryLabel({category: cat})) + '</h2><a class="section__more" href="tags.html?tag=' + encodeURIComponent(cat) + '">' + (LANG === 'en' ? 'View all →' : '查看全部 →') + '</a></div>';
       html += '<div class="cat-grid"><div class="article-list">';
       top3.forEach(function (a, i) { html += articleCardHtml(a, ci * 10 + i + 1); });
       html += '</div><aside class="ranking"><h3 class="ranking__title">' + (LANG === 'en' ? 'Top in section' : '本分类热读') + ' <span>Most Read</span></h3><div>';
@@ -322,7 +321,7 @@
         var descMeta = document.querySelector('meta[name="description"]');
         if (descMeta) descMeta.setAttribute('content', af(a, 'summary') || af(a, 'subtitle') || '');
 
-        $('#articleCat').textContent = af(a, 'category');
+        $('#articleCat').textContent = categoryLabel(a);
         $('#articleTitle').textContent = af(a, 'title');
         $('#articleSub').textContent = af(a, 'subtitle') || '';
         $('#articleMeta').innerHTML =
@@ -494,7 +493,7 @@
     }
     box.innerHTML = filtered.map(function (a) {
       return '<article class="grid-card">' +
-        '<div class="grid-card__cat">' + escapeHtml(af(a, 'category')) + ' · ' + escapeHtml(af(a, 'country') || '') + '</div>' +
+        '<div class="grid-card__cat">' + escapeHtml(categoryLabel(a)) + ' · ' + escapeHtml(af(a, 'country') || '') + '</div>' +
         '<h3 class="grid-card__title"><a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' + escapeHtml(af(a, 'title')) + '</a></h3>' +
         '<p class="grid-card__excerpt">' + escapeHtml(af(a, 'summary') || af(a, 'subtitle') || '') + '</p>' +
         '<div class="grid-card__meta"><span>' + formatDateShort(a.date) + '</span><span>' + readingLabel(a.readingTime || 5) + '</span></div>' +
@@ -648,7 +647,7 @@
         }
         box.innerHTML = filtered.map(function (a) {
           return '<a class="search-result" href="article.html?slug=' + encodeURIComponent(a.slug) + '">' +
-            '<div class="search-result__cat">' + escapeHtml(af(a, 'category')) + ' · ' + escapeHtml(af(a, 'country') || '') + '</div>' +
+            '<div class="search-result__cat">' + escapeHtml(categoryLabel(a)) + ' · ' + escapeHtml(af(a, 'country') || '') + '</div>' +
             '<div class="search-result__title">' + escapeHtml(af(a, 'title')) + '</div>' +
             '<div class="search-result__excerpt">' + escapeHtml(af(a, 'summary') || af(a, 'subtitle') || '') + '</div>' +
           '</a>';
