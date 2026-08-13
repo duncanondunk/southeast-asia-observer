@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>文章 · 东南亚观察</title>
   <meta name="description" content="东南亚观察文章详情，由谢畅撰写。">
-  <link rel="stylesheet" href="css/style.css?v=20260813i">
+  <link rel="stylesheet" href="css/style.css?v=20260813j">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -99,6 +99,42 @@
         <section class="article-refs" id="articleRefs" aria-label="参考来源"></section>
       </div>
     </div>
+
+    <section class="container-narrow comments" id="comments" aria-label="Comments">
+      <h2 class="comments__title" data-zh="发表评论" data-en="Leave a Reply">发表评论</h2>
+      <p class="comments__note" data-zh="您的邮箱地址不会被公开。标 * 的为必填项。" data-en="Your email address will not be published. Required fields are marked *">您的邮箱地址不会被公开。标 * 的为必填项。</p>
+      <div id="commentsList" class="comments__list"></div>
+      <form class="comments__form" id="commentsForm" novalidate>
+        <div class="comments__field">
+          <label for="commentBody" data-zh="评论 *" data-en="Comment *">评论 *</label>
+          <textarea id="commentBody" name="comment" rows="6" required data-zh-placeholder="写下您的评论…" data-en-placeholder="Write your comment…" placeholder="写下您的评论…"></textarea>
+        </div>
+        <div class="comments__row">
+          <div class="comments__field">
+            <label for="commentName" data-zh="姓名 *" data-en="Name *">姓名 *</label>
+            <input type="text" id="commentName" name="name" required>
+          </div>
+          <div class="comments__field">
+            <label for="commentEmail" data-zh="邮箱 *" data-en="Email *">邮箱 *</label>
+            <input type="email" id="commentEmail" name="email" required>
+          </div>
+        </div>
+        <div class="comments__field">
+          <label for="commentWebsite" data-zh="网站" data-en="Website">网站</label>
+          <input type="url" id="commentWebsite" name="website" placeholder="https://">
+        </div>
+        <div class="comments__field comments__field--checkbox">
+          <label>
+            <input type="checkbox" id="commentSave" name="save">
+            <span data-zh="保存我的姓名、邮箱和网站信息，以便下次评论时使用。" data-en="Save my name, email, and website in this browser for the next time I comment.">保存我的姓名、邮箱和网站信息，以便下次评论时使用。</span>
+          </label>
+        </div>
+        <div>
+          <button type="submit" class="btn btn--gold" data-zh="发表评论" data-en="Post Comment">发表评论</button>
+          <p class="comments__status" id="commentStatus" aria-live="polite"></p>
+        </div>
+      </form>
+    </section>
   </main>
 
   <footer class="site-footer">
@@ -125,7 +161,7 @@
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js" defer></script>
   <script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs/qrcode.min.js" defer></script>
-  <script src="js/app.js?v=20260813i" defer></script>
+  <script src="js/app.js?v=20260813j" defer></script>
 
   <!-- 微信分享弹窗（扫码） -->
   <div class="modal" id="wechatModal" hidden>

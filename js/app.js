@@ -367,6 +367,7 @@
           buildToc(body);
           buildPostNav(list, idx);
           renderReferences(a);
+          initComments(slug);
         });
       })
       .catch(function (err) {
@@ -539,6 +540,74 @@
           setTimeout(function () { copy.textContent = LANG === 'en' ? 'Copy link' : '复制链接'; }, 1800);
         });
       }
+    });
+  }
+
+  /* ---------- 文章评论（基于 localStorage 的纯前端留言板） ---------- */
+  function commentStorageKey(slug) { return 'sea-comments-' + slug; }
+  function commentAuthorKey() { return 'sea-comment-author'; }
+  function loadSavedAuthor() {
+    try { return JSON.parse(localStorage.getItem(commentAuthorKey()) || '{}'); } catch (e) { return {}; }
+  }
+  function saveAuthorProfile(profile) {
+    try { localStorage.setItem(commentAuthorKey(), JSON.stringify(profile)); } catch (e) {}
+  }
+  function getComments(slug) {
+    try { return JSON.parse(localStorage.getItem(commentStorageKey(slug)) || '[]'); } catch (e) { return []; }
+  }
+  function pushComment(slug, comment) {
+    var list = getComments(slug);
+    list.unshift(comment);
+    try { localStorage.setItem(commentStorageKey(slug), JSON.stringify(list)); } catch (e) {}
+  }
+  function renderCommentsList(slug) {
+    var box = $('#commentsList'); if (!box) return;
+    var list = getComments(slug);
+    if (!list.length) {
+      box.innerHTML = '<p class="comments__empty" data-zh="暂无评论，欢迎发表第一条评论。" data-en="No comments yet. Be the first to leave a reply.">暂无评论，欢迎发表第一条评论。</p>';
+      return;
+    }
+    box.innerHTML = '<h3 class="comments__count">' + list.length + (LANG === 'en' ? ' comment' + (list.length > 1 ? 's' : '') : ' 条评论') + '</h3>' +
+      list.map(function (c, i) {
+        return '<article class="comment" id="comment-' + i + '">' +
+          '<div class="comment__header">' +
+            '<span class="comment__author">' + escapeHtml(c.name) + '</span>' +
+            (c.website ? '<a class="comment__site" href="' + escapeHtml(c.website) + '" target="_blank" rel="noopener">' + (LANG === 'en' ? 'Website' : '网站') + '</a>' : '') +
+            '<span class="comment__date">' + formatDate(c.date) + '</span>' +
+          '</div>' +
+          '<div class="comment__body">' + escapeHtml(c.comment).replace(/\n/g, '<br>') + '</div>' +
+        '</article>';
+      }).join('');
+  }
+  function initComments(slug) {
+    var section = $('#comments'); if (!section) return;
+    var form = $('#commentsForm'); if (!form) return;
+    renderCommentsList(slug);
+    var saved = loadSavedAuthor();
+    if (saved.name && $('#commentName')) $('#commentName').value = saved.name;
+    if (saved.email && $('#commentEmail')) $('#commentEmail').value = saved.email;
+    if (saved.website && $('#commentWebsite')) $('#commentWebsite').value = saved.website;
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var bodyEl = $('#commentBody'), nameEl = $('#commentName'), emailEl = $('#commentEmail'), websiteEl = $('#commentWebsite'), saveEl = $('#commentSave'), statusEl = $('#commentStatus');
+      var comment = { comment: (bodyEl ? bodyEl.value : '').trim(), name: (nameEl ? nameEl.value : '').trim(), email: (emailEl ? emailEl.value : '').trim(), website: (websiteEl ? websiteEl.value : '').trim(), date: new Date().toISOString().slice(0, 10) };
+      if (!comment.comment || !comment.name || !comment.email) {
+        if (statusEl) { statusEl.textContent = LANG === 'en' ? 'Please fill in the required fields.' : '请填写必填项。'; statusEl.className = 'comments__status comments__status--error'; }
+        return;
+      }
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(comment.email)) {
+        if (statusEl) { statusEl.textContent = LANG === 'en' ? 'Please enter a valid email address.' : '请输入有效的邮箱地址。'; statusEl.className = 'comments__status comments__status--error'; }
+        return;
+      }
+      pushComment(slug, comment);
+      if (saveEl && saveEl.checked) saveAuthorProfile({ name: comment.name, email: comment.email, website: comment.website });
+      form.reset();
+      if (saved.name && $('#commentName')) $('#commentName').value = saved.name;
+      if (saved.email && $('#commentEmail')) $('#commentEmail').value = saved.email;
+      if (saved.website && $('#commentWebsite')) $('#commentWebsite').value = saved.website;
+      renderCommentsList(slug);
+      if (statusEl) { statusEl.textContent = LANG === 'en' ? 'Your comment has been posted. Thank you!' : '评论已发表，谢谢！'; statusEl.className = 'comments__status comments__status--success'; }
+      setTimeout(function () { if (statusEl) { statusEl.textContent = ''; statusEl.className = 'comments__status'; } }, 4000);
     });
   }
 

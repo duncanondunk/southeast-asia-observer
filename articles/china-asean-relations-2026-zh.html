@@ -61,6 +61,36 @@
   .lb-close{position:fixed;top:16px;right:22px;font-size:36px;line-height:1;color:var(--terracotta);cursor:pointer;z-index:1001;background:rgba(255,255,255,.8);width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.1)}
   .lb-caption{position:fixed;bottom:18px;left:0;right:0;text-align:center;font-size:13.5px;color:var(--muted);padding:0 20px}
   figure img{cursor:zoom-in}
+  /* ---------- 评论区 ---------- */
+  .comments { margin-top:50px; padding-top:36px; border-top:1px solid var(--line); }
+  .comments__title { font-family:"Noto Serif SC","Songti SC",Georgia,serif; font-size:26px; margin:0 0 8px; color:var(--ink); }
+  .comments__note { font-size:14px; color:var(--muted); margin:0 0 22px; }
+  .comments__list { margin-bottom:32px; }
+  .comments__empty { font-size:14.5px; color:var(--muted); font-style:italic; }
+  .comments__count { font-size:17px; font-weight:600; margin:0 0 16px; color:var(--ink); }
+  .comment { padding:18px 0; border-bottom:1px solid var(--line); }
+  .comment__header { display:flex; flex-wrap:wrap; gap:8px 14px; align-items:center; margin-bottom:8px; font-size:13.5px; }
+  .comment__author { font-weight:600; color:var(--ink); }
+  .comment__site { color:var(--green); text-decoration:none; }
+  .comment__site:hover { text-decoration:underline; }
+  .comment__date { color:var(--muted); margin-left:auto; }
+  .comment__body { font-size:16px; line-height:1.7; color:var(--ink); }
+  .comments__form { display:grid; gap:18px; }
+  .comments__row { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+  .comments__field { display:flex; flex-direction:column; gap:6px; }
+  .comments__field label { font-size:13.5px; color:var(--muted); }
+  .comments__field input,
+  .comments__field textarea { padding:10px 12px; border:1px solid var(--line); border-radius:6px; background:#fff; color:var(--ink); font-family:inherit; font-size:15.5px; line-height:1.5; transition:border-color .15s ease; }
+  .comments__field input:focus,
+  .comments__field textarea:focus { outline:none; border-color:var(--green); }
+  .comments__field--checkbox label { display:flex; align-items:center; gap:8px; flex-direction:row; font-size:14px; cursor:pointer; }
+  .comments__field--checkbox input { width:auto; margin:0; }
+  .comments__submit { display:inline-block; padding:10px 18px; border:0; border-radius:6px; background:var(--green); color:#fff; font-family:inherit; font-size:15px; cursor:pointer; transition:opacity .15s ease; }
+  .comments__submit:hover { opacity:.9; }
+  .comments__status { font-size:14px; min-height:1.2em; margin:8px 0 0; }
+  .comments__status--error { color:#c0392b; }
+  .comments__status--success { color:var(--green); }
+  @media(max-width:620px){ .comments__row { grid-template-columns:1fr; } .comment__date { margin-left:0; width:100%; } }
 </style>
 </head>
 <body>
@@ -195,6 +225,41 @@
     <span class="tag">量化指数</span><span class="tag">南海问题</span>
   </p>
 
+  <section class="comments" id="comments" aria-label="评论">
+    <h2 class="comments__title">发表评论</h2>
+    <p class="comments__note">您的邮箱地址不会被公开。标 * 的为必填项。</p>
+    <div id="commentsList" class="comments__list"></div>
+    <form class="comments__form" id="commentsForm" novalidate>
+      <div class="comments__field">
+        <label for="commentBody">评论 *</label>
+        <textarea id="commentBody" name="comment" rows="6" required placeholder="写下您的评论…"></textarea>
+      </div>
+      <div class="comments__row">
+        <div class="comments__field">
+          <label for="commentName">姓名 *</label>
+          <input type="text" id="commentName" name="name" required>
+        </div>
+        <div class="comments__field">
+          <label for="commentEmail">邮箱 *</label>
+          <input type="email" id="commentEmail" name="email" required>
+        </div>
+      </div>
+      <div class="comments__field">
+        <label for="commentWebsite">网站</label>
+        <input type="url" id="commentWebsite" name="website" placeholder="https://">
+      </div>
+      <div class="comments__field comments__field--checkbox">
+        <label>
+          <input type="checkbox" id="commentSave" name="save">
+          <span>保存我的姓名、邮箱和网站信息，以便下次评论时使用。</span>
+        </label>
+      </div>
+      <div>
+        <button type="submit" class="comments__submit">发表评论</button>
+        <p class="comments__status" id="commentStatus" aria-live="polite"></p>
+      </div>
+    </form>
+  </section>
 </div>
 <div id="lbMask" class="lb-mask" aria-hidden="true">
   <span id="lbClose" class="lb-close" aria-label="关闭">&times;</span>
@@ -230,6 +295,54 @@
   mask.addEventListener('click', closeFn);
   close.addEventListener('click', closeFn);
   document.addEventListener('keydown', function(e){ if(e.key==='Escape') closeFn(); });
+})();
+
+/* ---------- 评论区 ---------- */
+(function(){
+  var LANG = 'zh';
+  var slug = location.pathname.split('/').pop().replace(/\.html$/, '') || 'article';
+  function $(id){ return document.getElementById(id); }
+  function escapeHtml(s){ return String(s).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function storageKey(){ return 'sea-comments-' + slug; }
+  function authorKey(){ return 'sea-comment-author'; }
+  function loadAuthor(){ try { return JSON.parse(localStorage.getItem(authorKey()) || '{}'); } catch(e){ return {}; } }
+  function saveAuthor(p){ try { localStorage.setItem(authorKey(), JSON.stringify(p)); } catch(e){} }
+  function getComments(){ try { return JSON.parse(localStorage.getItem(storageKey()) || '[]'); } catch(e){ return []; } }
+  function pushComment(c){ var list=getComments(); list.unshift(c); try { localStorage.setItem(storageKey(), JSON.stringify(list)); } catch(e){} }
+  function formatDate(iso){
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+    if(!m) return iso || '';
+    return parseInt(m[1],10) + '年' + parseInt(m[2],10) + '月' + parseInt(m[3],10) + '日';
+  }
+  function renderList(){
+    var box = $('commentsList'); if(!box) return;
+    var list = getComments();
+    if(!list.length){ box.innerHTML = '<p class="comments__empty">暂无评论，欢迎发表第一条评论。</p>'; return; }
+    box.innerHTML = '<h3 class="comments__count">' + list.length + ' 条评论</h3>' +
+      list.map(function(c,i){
+        return '<article class="comment" id="comment-'+i+'"><div class="comment__header"><span class="comment__author">'+escapeHtml(c.name)+'</span>'+(c.website?'<a class="comment__site" href="'+escapeHtml(c.website)+'" target="_blank" rel="noopener">网站</a>':'')+'<span class="comment__date">'+formatDate(c.date)+'</span></div><div class="comment__body">'+escapeHtml(c.comment).replace(/\n/g,'<br>')+'</div></article>';
+      }).join('');
+  }
+  var saved = loadAuthor();
+  renderList();
+  if($('commentName') && saved.name) $('commentName').value = saved.name;
+  if($('commentEmail') && saved.email) $('commentEmail').value = saved.email;
+  if($('commentWebsite') && saved.website) $('commentWebsite').value = saved.website;
+  $('commentsForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var body = $('commentBody').value.trim(), name = $('commentName').value.trim(), email = $('commentEmail').value.trim(), website = $('commentWebsite').value.trim(), save = $('commentSave').checked, status = $('commentStatus');
+    if(!body || !name || !email){ status.textContent = '请填写必填项。'; status.className='comments__status comments__status--error'; return; }
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){ status.textContent = '请输入有效的邮箱地址。'; status.className='comments__status comments__status--error'; return; }
+    pushComment({comment:body, name:name, email:email, website:website, date:new Date().toISOString().slice(0,10)});
+    if(save) saveAuthor({name:name, email:email, website:website});
+    $('commentsForm').reset();
+    if(saved.name) $('commentName').value = saved.name;
+    if(saved.email) $('commentEmail').value = saved.email;
+    if(saved.website) $('commentWebsite').value = saved.website;
+    renderList();
+    status.textContent = '评论已发表，谢谢！'; status.className='comments__status comments__status--success';
+    setTimeout(function(){ status.textContent=''; status.className='comments__status'; }, 4000);
+  });
 })();
 </script>
 </body>
