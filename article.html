@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>文章 · 东南亚观察</title>
   <meta name="description" content="东南亚观察文章详情，由谢畅撰写。">
-  <link rel="stylesheet" href="css/style.css?v=20260806j">
+  <link rel="stylesheet" href="css/style.css?v=20260813f">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -90,6 +90,8 @@
           <span class="article-share__label" data-zh="分享：" data-en="Share:">分享：</span>
           <a class="btn btn--ghost" id="shareX" href="#" target="_blank" rel="noopener" style="padding:8px 14px;">X</a>
           <a class="btn btn--ghost" id="shareFb" href="#" target="_blank" rel="noopener" style="padding:8px 14px;">Facebook</a>
+          <button class="btn btn--ghost" id="shareWechat" type="button" style="padding:8px 14px;" data-zh="微信" data-en="WeChat">微信</button>
+          <a class="btn btn--ghost" id="shareWeibo" href="#" target="_blank" rel="noopener" style="padding:8px 14px;" data-zh="微博" data-en="Weibo">微博</a>
           <a class="btn btn--ghost" id="shareMail" href="#" style="padding:8px 14px;" data-zh="邮件" data-en="Email">邮件</a>
           <a class="btn btn--ghost" id="copyLink" href="#" style="padding:8px 14px;cursor:pointer;" data-zh="复制链接" data-en="Copy link">复制链接</a>
         </div>
@@ -122,6 +124,19 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.11/dist/purify.min.js" defer></script>
-  <script src="js/app.js?v=20260813e" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js" defer></script>
+  <script src="js/app.js?v=20260813f" defer></script>
+
+  <!-- 微信分享弹窗（扫码） -->
+  <div class="modal" id="wechatModal" hidden>
+    <div class="modal__backdrop" data-close></div>
+    <div class="modal__panel" role="dialog" aria-modal="true" aria-label="WeChat share">
+      <button class="modal__close" type="button" data-close aria-label="关闭">×</button>
+      <h3 class="modal__title" data-zh="微信扫码分享" data-en="Scan to share on WeChat">微信扫码分享</h3>
+      <canvas id="wechatQr"></canvas>
+      <p class="modal__url" id="wechatModalUrl"></p>
+      <p class="modal__hint" data-zh="打开微信，扫描二维码即可分享本文" data-en="Open WeChat and scan the QR code to share">打开微信，扫描二维码即可分享本文</p>
+    </div>
+  </div>
 </body>
 </html>

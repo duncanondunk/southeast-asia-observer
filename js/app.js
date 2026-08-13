@@ -175,6 +175,7 @@
         renderLatest(list.slice(0, 3)); // 最新文章板块：仅展示全站最新发布的前 3 篇（list 已按 date 倒序）
         renderRanking(list);
         renderCategorySections(list);
+        initShareWidgets(); // 数据专题卡片等静态区块的微信/微博分享按钮
       })
       .catch(function (err) {
         console.error('load articles failed:', err);
@@ -409,14 +410,75 @@
     var text = encodeURIComponent(af(a, 'title') + ' · Southeast Asia Watch');
     var u = encodeURIComponent(url);
     return {
+      url: url,
       x: 'https://twitter.com/intent/tweet?text=' + text + '&url=' + u,
       fb: 'https://www.facebook.com/sharer/sharer.php?u=' + u,
+      weibo: 'https://service.weibo.com/share/share.php?url=' + u + '&title=' + text,
       mail: 'mailto:?subject=' + text + '&body=' + encodeURIComponent('Recommended: ') + u
     };
   }
+
+  // 微信分享：弹出二维码，用户用微信扫码分享（桌面 Web 无直接分享接口）
+  function openWechatModal(shareUrl) {
+    var modal = $('#wechatModal');
+    if (!modal) return;
+    var abs = shareUrl;
+    try { abs = new URL(shareUrl, location.href).href; } catch (e) {}
+    var urlEl = $('#wechatModalUrl'); if (urlEl) urlEl.textContent = abs;
+    var box = $('#wechatQr');
+    if (box) {
+      box.innerHTML = '';
+      if (typeof QRCode !== 'undefined') {
+        QRCode.toCanvas(box, abs, { width: 200, margin: 1 }, function (err) {
+          if (err) box.innerHTML = '<p style="color:#c0392b">' + (LANG === 'en' ? 'QR generation failed' : '二维码生成失败') + '</p>';
+        });
+      } else {
+        box.innerHTML = '<p style="color:#c0392b">' + (LANG === 'en' ? 'QR library not loaded' : '二维码组件未加载') + '</p>';
+      }
+    }
+    modal.removeAttribute('hidden');
+    modal.classList.add('is-open');
+  }
+  function closeWechatModal() {
+    var modal = $('#wechatModal');
+    if (modal) { modal.setAttribute('hidden', ''); modal.classList.remove('is-open'); }
+  }
+
+  // 为带 data-wechat / data-weibo 属性的分享按钮绑定交互（数据专题卡片等静态区块使用）
+  function initShareWidgets() {
+    $$('[data-wechat]').forEach(function (btn) {
+      btn.addEventListener('click', function (e) {
+        e.preventDefault();
+        openWechatModal(btn.getAttribute('data-wechat'));
+      });
+    });
+    $$('[data-weibo]').forEach(function (btn) {
+      btn.addEventListener('click', function (e) {
+        e.preventDefault();
+        var abs = btn.getAttribute('data-weibo');
+        try { abs = new URL(abs, location.href).href; } catch (e) {}
+        var u = encodeURIComponent(abs);
+        var t = encodeURIComponent(btn.getAttribute('data-weibo-title') || '');
+        window.open('https://service.weibo.com/share/share.php?url=' + u + '&title=' + t, '_blank', 'noopener');
+      });
+    });
+    $$('#wechatModal [data-close]').forEach(function (el) {
+      el.addEventListener('click', closeWechatModal);
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeWechatModal();
+    });
+  }
+
   function initArticleShare(a) {
     var s = shareLinks(a);
     $('#shareX').href = s.x; $('#shareFb').href = s.fb; $('#shareMail').href = s.mail;
+    if ($('#shareWeibo')) $('#shareWeibo').href = s.weibo;
+    if ($('#shareWechat')) {
+      $('#shareWechat').addEventListener('click', function (e) {
+        e.preventDefault(); openWechatModal(s.url);
+      });
+    }
     var copy = $('#copyLink');
     copy.addEventListener('click', function (e) {
       e.preventDefault();
