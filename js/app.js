@@ -429,9 +429,15 @@
     if (box) {
       box.innerHTML = '';
       if (typeof QRCode !== 'undefined') {
-        QRCode.toCanvas(box, abs, { width: 200, margin: 1 }, function (err) {
-          if (err) box.innerHTML = '<p style="color:#c0392b">' + (LANG === 'en' ? 'QR generation failed' : '二维码生成失败') + '</p>';
-        });
+        try {
+          new QRCode(box, {
+            text: abs, width: 200, height: 200,
+            colorDark: '#1f1b16', colorLight: '#ffffff',
+            correctLevel: QRCode.CorrectLevel.M
+          });
+        } catch (err) {
+          box.innerHTML = '<p style="color:#c0392b">' + (LANG === 'en' ? 'QR generation failed' : '二维码生成失败') + '</p>';
+        }
       } else {
         box.innerHTML = '<p style="color:#c0392b">' + (LANG === 'en' ? 'QR library not loaded' : '二维码组件未加载') + '</p>';
       }
