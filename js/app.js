@@ -286,13 +286,14 @@
       // 每个板块仅展示该分类下最新发布的前三篇
       var items = groups[cat].slice().sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
       var top3 = items.slice(0, 3);
+      var top5 = items.slice(0, 5); // 本分类热读侧栏：最多展示 5 篇
       var isAlt = ci % 2 === 1;
       html += '<section class="section' + (isAlt ? ' section--alt' : '') + '"><div class="container">';
       html += '<div class="section__head"><h2 class="section__title">' + escapeHtml(categoryLabel({category: cat})) + '</h2><a class="section__more" href="tags.html?tag=' + encodeURIComponent(cat) + '">' + (LANG === 'en' ? 'View all →' : '查看全部 →') + '</a></div>';
       html += '<div class="cat-grid"><div class="article-list">';
       top3.forEach(function (a, i) { html += articleCardHtml(a, ci * 10 + i + 1); });
       html += '</div><aside class="ranking"><h3 class="ranking__title">' + (LANG === 'en' ? 'Top in section' : '本分类热读') + ' <span>Most Read</span></h3><div>';
-      top3.forEach(function (a, i) {
+      top5.forEach(function (a, i) {
         html += '<div class="ranking__item"><div class="ranking__num">' + (i + 1) + '</div><div class="ranking__body"><h4 class="ranking__name"><a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' + escapeHtml(af(a, 'title')) + '</a></h4><div class="ranking__date">' + formatDateShort(a.date) + '</div></div></div>';
       });
       html += '</div></aside></div></div></section>';
