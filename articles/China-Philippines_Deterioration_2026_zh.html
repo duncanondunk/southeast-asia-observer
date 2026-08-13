@@ -277,11 +277,21 @@
     document.body.style.overflow='';
     setTimeout(function(){ img.src=''; cap.textContent=''; }, 250);
   }
-  document.querySelectorAll('figure img').forEach(function(el){
-    el.addEventListener('click', function(){
-      var fig=el.closest('figure');
-      var caption=fig ? (fig.querySelector('figcaption')||{}).textContent || '' : '';
+  /* 统一处理 <img> 和内联 <svg>；兼容移动端 touch 与桌面 click */
+  function doOpen(el){
+    var fig=el.closest('figure');
+    var caption=fig ? (fig.querySelector('figcaption')||{}).textContent || '' : '';
+    if(el.tagName==='SVG'){
+      open('data:image/svg+xml,'+encodeURIComponent(el.outerHTML), caption);
+    }else{
       open(el.src, caption);
+    }
+  }
+  document.querySelectorAll('figure img, figure svg').forEach(function(el){
+    el.style.cursor='zoom-in';
+    el.addEventListener('click', function(e){ e.preventDefault(); doOpen(el); });
+    el.addEventListener('touchend', function(e){
+      if(e.changedTouches.length===1){ e.preventDefault(); doOpen(el); }
     });
   });
   mask.addEventListener('click', closeFn);

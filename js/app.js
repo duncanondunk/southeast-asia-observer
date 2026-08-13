@@ -24,7 +24,7 @@
 
   // 标签中英映射
   var TAG_I18N = {
-    '经济产业': 'Economy & Industry', '国家观察': 'Country Watch', '供应链': 'Supply Chain',
+    '经济产业': 'Economy & Industry', '国家观察': 'Country Watch', '供应链': 'Supply Chain', '量化指数': 'Quantitative Index',
     '地缘政治': 'Geopolitics', '新能源': 'New Energy', '气候变化': 'Climate Change',
     '水资源': 'Water Resources', '南海': 'South China Sea', '华侨华人': 'Overseas Chinese', '侨务': 'Diaspora Affairs', '移民': 'Migration', '历史': 'History', '全球': 'Worldwide', '华南': 'South China',
     '越南': 'Vietnam', '印度尼西亚': 'Indonesia', '新加坡': 'Singapore',
@@ -166,7 +166,7 @@
     if (!$('#carouselTrack')) return;
     loadArticles()
       .then(function (list) {
-        renderCarousel(list.filter(function (a) { return a.featured; }));
+        renderCarousel(list.slice(0, 5)); // 精选 hero 轮播：全站最新发布的 5 篇
         renderLatest(list);
         renderRanking(list);
         renderCategorySections(list);
@@ -284,14 +284,16 @@
     };
     var html = '';
     cats.forEach(function (cat, ci) {
-      var items = groups[cat];
+      // 每个板块仅展示该分类下最新发布的前三篇
+      var items = groups[cat].slice().sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
+      var top3 = items.slice(0, 3);
       var isAlt = ci % 2 === 1;
       html += '<section class="section' + (isAlt ? ' section--alt' : '') + '"><div class="container">';
       html += '<div class="section__head"><h2 class="section__title">' + escapeHtml(cat) + '</h2><a class="section__more" href="tags.html?tag=' + encodeURIComponent(catKey(cat)) + '">' + (LANG === 'en' ? 'View all →' : '查看全部 →') + '</a></div>';
       html += '<div class="cat-grid"><div class="article-list">';
-      items.forEach(function (a, i) { html += articleCardHtml(a, ci * 10 + i + 1); });
+      top3.forEach(function (a, i) { html += articleCardHtml(a, ci * 10 + i + 1); });
       html += '</div><aside class="ranking"><h3 class="ranking__title">' + (LANG === 'en' ? 'Top in section' : '本分类热读') + ' <span>Most Read</span></h3><div>';
-      items.slice(0, 5).forEach(function (a, i) {
+      top3.forEach(function (a, i) {
         html += '<div class="ranking__item"><div class="ranking__num">' + (i + 1) + '</div><div class="ranking__body"><h4 class="ranking__name"><a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' + escapeHtml(af(a, 'title')) + '</a></h4><div class="ranking__date">' + formatDateShort(a.date) + '</div></div></div>';
       });
       html += '</div></aside></div></div></section>';
@@ -483,7 +485,8 @@
   function applyFilter(tag, list) {
     var box = $('#gridList');
     // tag 是中文键；筛选时按原始中文 tag 匹配
-    var filtered = tag ? list.filter(function (a) { return (a.tags || []).indexOf(tag) !== -1; }) : list;
+    // tag 是中文键；按原始中文 tag 匹配（tags 中含该标签，或文章分类即该标签），保证分类导航页完整
+    var filtered = tag ? list.filter(function (a) { return (a.tags || []).indexOf(tag) !== -1 || a.category === tag; }) : list;
     if (!filtered.length) {
       box.innerHTML = '<div class="empty" style="grid-column:1/-1;"><div class="empty__emoji">🗂️</div>' +
         (LANG === 'en' ? 'No articles for "' + escapeHtml(tag ? tagI18n(tag) : '') + '".' : '暂无「' + escapeHtml(tag || '') + '」相关文章。') + '</div>';
