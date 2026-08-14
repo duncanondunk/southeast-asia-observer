@@ -227,6 +227,27 @@
       "slugs": [
         "malaysia-australia-rare-earth-neodymium"
       ]
+    },
+    "topic:客家树叶吹奏技艺出海(福建)": {
+      "note": "全新素材（中国侨网·中新社，2026-08-14）",
+      "exception": null,
+      "slugs": [
+        "hakka-leaf-blowing-overseas"
+      ]
+    },
+    "event:越南对华榴莲出口(2026上半年)": {
+      "note": "全新素材（联合早报，2026-08-13）",
+      "exception": null,
+      "slugs": [
+        "vietnam-durian-china-export"
+      ]
+    },
+    "event:泰国否认军事关系作泰美贸易筹码": {
+      "note": "全新素材（联合早报，2026-08-13）",
+      "exception": null,
+      "slugs": [
+        "thailand-us-trade-military"
+      ]
     }
   }
 }

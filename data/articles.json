@@ -1475,5 +1475,119 @@
         "date": "2026-07"
       }
     ]
+  },
+  {
+    "slug": "hakka-leaf-blowing-overseas",
+    "title": "一片绿叶吹向世界：福建客家树叶吹奏技艺的“出海”之路",
+    "subtitle": "福建21人树叶吹奏代表队赴韩参加“2026世界叶笛节”揽获多项大奖，千年客家乡音登上国际舞台",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "文化遗产",
+      "客家",
+      "福建",
+      "韩国"
+    ],
+    "country": "中国",
+    "date": "2026-08-14",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "8月12日，福建21人树叶吹奏代表队从韩国首尔载誉而归——这支年龄跨度12至65岁的队伍在“2026世界叶笛节”揽获多项大奖。一片闽西榕树叶吹响国际舞台，背后是千年客家乡音的当代传承，也是小众非遗借“出海”寻求生机、以自身语汇与世界对话的文化自信。",
+    "image": "images/articles/hakka-leaf-blowing-overseas.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-14",
+    "imageAlt": "客家树叶吹奏技艺国际表演场景",
+    "references": [
+      {
+        "source": "中国侨网/中国新闻社 China News Service",
+        "title": "（八闽千姿）千年树叶吹奏技艺出海 福建客家乡音吹响国际舞台",
+        "url": "https://www.chinaqw.com/qx/2026/08-14/410179.shtml",
+        "date": "2026-08-14"
+      }
+    ],
+    "en": {
+      "title": "A Single Leaf, Blown to the World: The “Going Global” of Fujian Hakka Leaf-Playing",
+      "subtitle": "A 21-strong Fujian leaf-playing delegation won multiple awards at the 2026 World Leaf Flute Festival in Seoul, bringing a millennium of Hakka village tunes onto the international stage",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "On August 12, a 21-strong Fujian leaf-playing delegation returned from Seoul after winning multiple awards at the 2026 World Leaf Flute Festival. With members aged 12 to 65, the troupe carried more than two hundred fresh banyan leaves from west Fujian onto an international stage. The episode is less a contest than a case study in how a niche intangible heritage survives by 'going global' — and how Chinese folk art speaks to the world in its own idiom.",
+      "imageAlt": "International performance scene of Hakka leaf-playing"
+    }
+  },
+  {
+    "slug": "vietnam-durian-china-export",
+    "title": "一颗榴莲的双重棋局：越南对华出口破12亿新元背后的产业链逻辑",
+    "subtitle": "上半年越南对华榴莲出口额达9.88亿美元，同比增43.4%，占对华果蔬出口近半",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "中国",
+      "贸易",
+      "榴莲",
+      "农产品"
+    ],
+    "country": "越南",
+    "date": "2026-08-14",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "越南海关总署数据显示，2026年上半年越南对华榴莲出口额达9.88亿美元，同比增43.4%，占对华果蔬出口近半。西原主季将提供更多货源，印度市场亦已敞开。一颗榴莲折射中越农业耦合：中国需求驱动越南专业化，而出口集中度风险与检疫标准，将决定这份“甜蜜”能否延续。",
+    "image": "images/articles/vietnam-durian-china-export.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-14",
+    "imageAlt": "东南亚市场上堆叠的榴莲",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "越南今年上半年对华榴莲出口额逾12亿新元",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260813-9515445",
+        "date": "2026-08-13"
+      }
+    ],
+    "en": {
+      "title": "A Durian's Two Chessboards: The Industrial Logic Behind Vietnam's S$1.27bn Durian Exports to China",
+      "subtitle": "In H1 2026 Vietnam's durian exports to China reached US$988 million, up 43.4% year on year, nearly half of all its fruit-and-vegetable exports to China",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Data from Vietnam's customs show that in the first half of 2026, Vietnamese durian exports to China reached US$988 million, up 43.4% year on year and nearly half of all fruit-and-vegetable exports to China. The Central Highlands main season promises more supply, while India's market has just opened. One fruit captures the China–Vietnam agricultural coupling — Chinese demand drives Hanoi's specialisation, yet concentration risk and quarantine standards will decide whether the sweetness lasts.",
+      "imageAlt": "Piles of durian at a Southeast Asian market"
+    }
+  },
+  {
+    "slug": "thailand-us-trade-military",
+    "title": "不在一国牺牲另一国：泰国否认以军事合作换取对美贸易让步",
+    "subtitle": "曼谷驳斥彭博社报道，强调“金眼镜蛇”等防务合作不与商业谈判挂钩",
+    "category": "地缘政治",
+    "tags": [
+      "泰国",
+      "美国",
+      "贸易",
+      "军事",
+      "金眼镜蛇"
+    ],
+    "country": "泰国",
+    "date": "2026-08-14",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "泰国政府8月12日驳斥彭博社报道，否认在美泰贸易谈判中以“金眼镜蛇”军演等防务关系作筹码，强调“不会在一领域牺牲国家利益换取另一领域利益”。在美方12.5%关税阴影下，这个东盟唯二对美条约盟友，正以切割安全与贸易的方式，走出一条不愿被单方面绑定的中等国家平衡术。",
+    "image": "images/articles/thailand-us-trade-military.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-14",
+    "imageAlt": "泰国曼谷城市地标与军事外交意象",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "泰国否认把军事关系作为泰美贸易谈判筹码",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260813-9514411",
+        "date": "2026-08-13"
+      }
+    ],
+    "en": {
+      "title": "Not Sacrificing One Sphere for Another: Thailand Denies Using Military Ties as US Trade Leverage",
+      "subtitle": "Bangkok rejects Bloomberg reports, stressing that defence cooperation such as Cobra Gold is not linked to commercial negotiations",
+      "category": "Geopolitics",
+      "country": "Thailand",
+      "summary": "On August 12 the Thai government rejected Bloomberg reports that it would use defence ties — including the Cobra Gold exercise — as leverage in trade talks with the United States, insisting it 'will not sacrifice national interest in one area to gain in another.' Under the shadow of Washington's 12.5% tariffs, one of America's two Southeast Asian treaty allies is keeping security and trade separate — a middle power's balancing act reluctant to be bound by any single party.",
+      "imageAlt": "Bangkok landmarks evoking Thailand's military-diplomatic posture"
+    }
   }
 ]
