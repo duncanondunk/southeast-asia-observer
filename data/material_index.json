@@ -248,6 +248,34 @@
       "slugs": [
         "thailand-us-trade-military"
       ]
+    },
+    "topic:海外侨胞助老侨宅修缮活化(乡愁/侨乡)": {
+      "note": "全新素材（中国侨网）",
+      "exception": null,
+      "slugs": [
+        "overseas-chinese-old-home-restoration"
+      ]
+    },
+    "event:印尼弗洛雷斯岛7.7级强震海啸预警(2026-08-15)": {
+      "note": "全新素材（联合早报，今日突发）",
+      "exception": null,
+      "slugs": [
+        "indonesia-flores-7.7-quake-tsunami"
+      ]
+    },
+    "event:马来西亚次季GDP增6%(AI与内需,2026Q2)": {
+      "note": "全新素材（联合早报）",
+      "exception": null,
+      "slugs": [
+        "malaysia-q2-gdp-6-ai"
+      ]
+    },
+    "event:新加坡建筑垃圾跨境倾倒柔佛(2026-08)": {
+      "note": "08-14自动化中断残留，今(08-15)补发",
+      "exception": null,
+      "slugs": [
+        "singapore-construction-waste-johor-dumping"
+      ]
     }
   }
 }

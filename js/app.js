@@ -33,7 +33,7 @@
     '社会文化': 'Society & Culture', '社会政策': 'Social Policy',
     '马来西亚': 'Malaysia', '缅甸': 'Myanmar', '泰国': 'Thailand', '印尼': 'Indonesia',
     '难民': 'Refugees', '文化遗产': 'Cultural Heritage', '教育': 'Education',
-    '环境': 'Environment', '烟霾': 'Haze', '客家': 'Hakka', '福建': 'Fujian', '韩国': 'South Korea', '中国': 'China', '贸易': 'Trade', '榴莲': 'Durian', '农产品': 'Agriculture', '美国': 'United States', '军事': 'Military', '金眼镜蛇': 'Cobra Gold'
+    '环境': 'Environment', '烟霾': 'Haze', '客家': 'Hakka', '福建': 'Fujian', '韩国': 'South Korea', '中国': 'China', '贸易': 'Trade', '榴莲': 'Durian', '农产品': 'Agriculture', '美国': 'United States', '军事': 'Military', '金眼镜蛇': 'Cobra Gold', '侨乡': 'Qiaoxiang', '广东': 'Guangdong', '灾害': 'Disaster', '地震': 'Earthquake', '海啸': 'Tsunami', 'GDP': 'GDP', 'AI': 'AI', '出口': 'Exports'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 

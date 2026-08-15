@@ -1,5 +1,81 @@
 [
   {
+    "slug": "vietnam-durian-exports-china-2026",
+    "title": "一颗榴梿的地缘经济学：越南对华出口暴涨43%的甜头与软肋",
+    "subtitle": "上半年9亿8800万美元、占对华果蔬出口48.45%，高增长背后是低基数与双重集中",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "中国",
+      "农业贸易",
+      "供应链",
+      "经济产业"
+    ],
+    "country": "越南",
+    "date": "2026-08-14",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "越南上半年对华榴梿出口9亿8800万美元（约合71亿元人民币），同比增43.4%，占对华果蔬出口48.45%。但高增长有相当部分源自去年镉与金胺O检测加严造成的低基数。单一作物加单一市场的双重集中，使中国的种植园与包装厂注册编码成为可调节杠杆；印度新准入是期权，不是对冲。",
+    "image": "images/articles/vietnam-durian-exports-china-2026.jpg",
+    "imageCredit": "Lei Hwang / Unsplash",
+    "imageAccessed": "2026-08-14",
+    "imageAlt": "市场摊位前挑选榴梿的男子",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "越南今年上半年对华榴梿出口额逾12亿新元",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260813-9515445",
+        "date": "2026-08-13"
+      }
+    ],
+    "en": {
+      "title": "The Geo-Economics of a Durian",
+      "subtitle": "US$988 million in the first half and 48.45% of fruit-and-vegetable exports to China — behind the growth sit a base effect and double concentration",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam's durian exports to China hit US$988 million in the first half, up 43.4% and nearly half of its fruit-and-vegetable exports to China. Yet much of that growth is a base effect from last year's tightened cadmium and auramine O testing. Double concentration — one crop, one market — turns China's orchard and packing-house registration codes into an adjustable lever over hundreds of thousands of smallholders. India's new market access is an option, not a hedge.",
+      "imageAlt": "A man selecting durians at a market stall"
+    }
+  },
+  {
+    "slug": "singapore-construction-waste-johor-dumping",
+    "title": "申报为“农业废料”：新加坡建筑垃圾倒进柔佛甘榜的两年",
+    "subtitle": "笨珍九家马国公司受查，一条靠品类申报绕开监管的跨境暗渠，以及特区之下的环境套利",
+    "category": "地缘政治",
+    "tags": [
+      "马来西亚",
+      "新加坡",
+      "环境",
+      "跨境治理",
+      "地缘政治"
+    ],
+    "country": "马来西亚 / 新加坡",
+    "date": "2026-08-14",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "柔佛笨珍多个甘榜被非法倾倒疑源自新加坡的建筑废料，九家马国公司受查，废料经新马第二通道入境时申报为“农业废料”。两年未被察觉、10万令吉（约合17万元人民币）的罚款上限，说明处罚已被计入报价而非构成约束。新柔特区推进之际，一体化在降低交易成本的同时，也为环境套利铺平了路。",
+    "image": "images/articles/singapore-construction-waste-johor-dumping.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-15",
+    "imageAlt": "建筑拆除后的废墟与建筑垃圾堆积",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "疑新加坡建筑废料非法运入柔佛倾倒 九家马国公司受查",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260813-9513884",
+        "date": "2026-08-13"
+      }
+    ],
+    "en": {
+      "title": "Declared as “Agricultural Waste”",
+      "subtitle": "Nine Malaysian firms under investigation in Pontian — a cross-border culvert opened by one line on a customs form, and arbitrage beneath a special economic zone",
+      "category": "Geopolitics",
+      "country": "Malaysia / Singapore",
+      "summary": "Construction waste believed to originate in Singapore has been illegally dumped in kampungs across Pontian, Johor, for two years, with nine Malaysian companies under investigation; the material entered via the Second Link declared as “agricultural waste.” A RM100,000 (roughly US$24,000) fine ceiling against two years of hauling revenue shows deterrence functioning as a fee rather than a constraint. As the Johor–Singapore SEZ lowers transaction costs, it also smooths the path for environmental arbitrage.",
+      "imageAlt": "Workers loading construction debris onto a truck"
+    }
+  },
+  {
     "slug": "shantou-university-teochew-oral-history-singapore",
     "title": "从“听故事”到“存历史”：汕大在新加坡为潮籍侨领留下口述档案",
     "subtitle": "汕头大学启动第五个国别口述史工程，记录20位新加坡潮籍杰出侨领的奋斗与奉献",
@@ -1588,6 +1664,119 @@
       "country": "Thailand",
       "summary": "On August 12 the Thai government rejected Bloomberg reports that it would use defence ties — including the Cobra Gold exercise — as leverage in trade talks with the United States, insisting it 'will not sacrifice national interest in one area to gain in another.' Under the shadow of Washington's 12.5% tariffs, one of America's two Southeast Asian treaty allies is keeping security and trade separate — a middle power's balancing act reluctant to be bound by any single party.",
       "imageAlt": "Bangkok landmarks evoking Thailand's military-diplomatic posture"
+    }
+  },
+  {
+    "slug": "overseas-chinese-old-home-restoration",
+    "title": "海外侨胞助老侨宅焕新颜 留住“看得见的乡愁”",
+    "subtitle": "旅居比利时、美国、加拿大的华侨华人回乡修缮百年侨宅，以“最小干预”与活化利用延续侨乡文脉",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨乡",
+      "广东",
+      "福建",
+      "文化遗产"
+    ],
+    "country": "中国",
+    "date": "2026-08-15",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "旅居比利时、美国、加拿大的华侨华人回乡修缮百年侨宅，以“最小干预”修复砖木构件，并引入民宿、展馆等业态活化利用。一座座侨宅的焕新既是家族记忆的接力，也折射“以用促保”的遗产保护新思路，让看得见的乡愁有了落脚之地。",
+    "image": "images/articles/overseas-chinese-old-home-restoration.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-15",
+    "imageAlt": "修缮活化后的岭南侨宅与侨乡风貌",
+    "references": [
+      {
+        "source": "中国侨网/中国新闻社 China News Service",
+        "title": "海外侨胞助老侨宅焕新颜 留住“看得见的乡愁”",
+        "url": "https://www.chinaqw.com/jjkj/2026/08-14/410199.shtml",
+        "date": "2026-08-14"
+      }
+    ],
+    "en": {
+      "title": "Overseas Chinese Breathe New Life into Old Emigrant Homes, Preserving a “Visible Nostalgia”",
+      "subtitle": "Ethnic Chinese from Belgium, the US and Canada return to restore century-old qiaozhai, reviving them with 'minimal intervention' and adaptive reuse",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "Overseas Chinese from Belgium, the US and Canada are returning to restore century-old qiaozhai and revive them as homestays and museums. Such 'minimal intervention' repair and adaptive reuse relay family memory and reflect a 'conservation through use' ethos — giving visible nostalgia a place to land.",
+      "imageAlt": "Restored Lingnan qiaozhai and qiaoxiang townscape"
+    }
+  },
+  {
+    "slug": "indonesia-flores-7.7-quake-tsunami",
+    "title": "印尼弗洛雷斯岛发生7.7级强震 当局发布海啸预警",
+    "subtitle": "震源深度仅10公里，并触发5.6、5.9级余震；BMKG警告局部海啸风险",
+    "category": "社会文化",
+    "tags": [
+      "印尼",
+      "灾害",
+      "地震",
+      "海啸"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-08-15",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "8月15日清晨，印尼弗洛雷斯岛附近海域发生7.7级浅源强震，震源深度仅10公里，并触发5.6、5.9级余震。印尼气象部门警告可能激发局部海啸。这座坐落于“火环”上的群岛国家，再次被推到地质灾害常态化的命题面前。",
+    "image": "images/articles/indonesia-flores-7.7-quake-tsunami.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-15",
+    "imageAlt": "印尼弗洛雷斯海域与群岛地貌意象",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao (via AFP)",
+        "title": "印尼发生7.7级强震 当局警告可能引发海啸",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260815-9522615",
+        "date": "2026-08-15"
+      }
+    ],
+    "en": {
+      "title": "Indonesia’s Flores Island Hit by 7.7 Quake, Tsunami Warning Issued",
+      "subtitle": "Focal depth of just 10 km, followed by 5.6 and 5.9 aftershocks; BMKG warns of local tsunami risk",
+      "category": "Society & Culture",
+      "country": "Indonesia",
+      "summary": "A 7.7-magnitude shallow quake struck off Indonesia's Flores Island on 15 August, at a depth of just 10 km, followed by 5.6 and 5.9 aftershocks. BMKG warned of possible local tsunamis. For an archipelagic state on the Ring of Fire, geological hazard is a constant, not an accident.",
+      "imageAlt": "Ocean and archipelago scenery off Flores, Indonesia"
+    }
+  },
+  {
+    "slug": "malaysia-q2-gdp-6-ai",
+    "title": "AI与内需加持 马来西亚次季经济增速6%超出预期",
+    "subtitle": "国家银行公布次季GDP按年增长6%，净出口大增168.5%，电子电气出口受益AI周期",
+    "category": "经济产业",
+    "tags": [
+      "马来西亚",
+      "经济",
+      "GDP",
+      "AI",
+      "出口"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-15",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "马来西亚国家银行公布，次季GDP按年增长6%，优于首季5.4%，也超出市场预期的5.8%。净出口按年大增168.5%，电子电气出口受全球AI周期带动上涨57.1%，成为结构亮点；农业回落与通胀暗流则是隐忧。全年增速预计约5%。",
+    "image": "images/articles/malaysia-q2-gdp-6-ai.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-15",
+    "imageAlt": "马来西亚吉隆坡城市天际线与经济意象",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "AI与内需加持 马国次季经济增长6%超出预期",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260814-9521188",
+        "date": "2026-08-14"
+      }
+    ],
+    "en": {
+      "title": "AI Boom and Domestic Demand Lift Malaysia’s Q2 Growth to 6%, Beating Forecasts",
+      "subtitle": "Central bank reports Q2 GDP up 6% year on year; net exports surge 168.5% as E&E exports ride the AI cycle",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Bank Negara Malaysia reported Q2 GDP grew 6% year on year, above Q1's 5.4% and the 5.8% consensus. Net exports surged 168.5%, and electrical-and-electronics exports jumped 57.1% on the global AI cycle — the structural highlight — while agriculture's slide and inflation linger. Full-year growth is seen near 5%.",
+      "imageAlt": "Kuala Lumpur skyline evoking Malaysia's economy"
     }
   }
 ]
