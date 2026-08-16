@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>东南亚观察 · 宣传海报</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700;900&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --terracotta: #a8401f;
+    --gold: #c98a2b;
+    --green: #1d5b4e;
+    --cream: #faf7f2;
+    --ink: #2b2620;
+    --muted: #6f675c;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { background: #e8e2d8; }
+  body {
+    display: flex; justify-content: center; align-items: flex-start;
+    padding: 24px; font-family: 'Noto Sans SC', sans-serif;
+  }
+  .poster {
+    width: 900px; height: 1200px;
+    background: var(--cream);
+    box-shadow: 0 12px 48px rgba(0,0,0,.18);
+    display: flex; flex-direction: column;
+    overflow: hidden; position: relative;
+  }
+
+  /* ===== Header ===== */
+  .header {
+    background: var(--green);
+    color: var(--cream);
+    padding: 44px 56px 34px;
+    position: relative;
+  }
+  .header::after {
+    content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 6px;
+    background: linear-gradient(90deg, var(--terracotta) 0 40%, var(--gold) 40% 70%, var(--cream) 70% 100%);
+  }
+  .header .kicker {
+    font-size: 15px; letter-spacing: 6px; color: #d9c9a8;
+    text-transform: uppercase; margin-bottom: 12px; font-weight: 500;
+  }
+  .header h1 {
+    font-family: 'Noto Serif SC', serif; font-weight: 900;
+    font-size: 64px; letter-spacing: 10px; line-height: 1.1;
+  }
+  .header .en {
+    font-size: 18px; letter-spacing: 3px; color: #cfe0d8;
+    margin-top: 10px; font-weight: 400; text-transform: uppercase;
+  }
+  .header .columns-tag {
+    margin-top: 18px; font-size: 15px; color: var(--cream); opacity: .92;
+    display: flex; align-items: center; gap: 10px; letter-spacing: 2px;
+  }
+  .header .columns-tag .dot { width: 4px; height: 4px; border-radius: 50%; background: var(--gold); }
+
+  /* ===== Articles ===== */
+  .articles { flex: 1; padding: 30px 56px 8px; display: flex; flex-direction: column; }
+  .section-title {
+    display: flex; align-items: baseline; gap: 14px; margin-bottom: 18px;
+  }
+  .section-title .cn {
+    font-family: 'Noto Serif SC', serif; font-weight: 700;
+    font-size: 26px; color: var(--ink); letter-spacing: 4px;
+  }
+  .section-title .en {
+    font-size: 13px; letter-spacing: 3px; color: var(--muted); text-transform: uppercase;
+  }
+  .section-title .line { flex: 1; height: 1px; background: #ddd3c4; }
+
+  .card {
+    display: flex; gap: 18px; padding: 15px 0 15px;
+    border-bottom: 1px solid #e6ddcd;
+  }
+  .card:last-child { border-bottom: none; }
+  .card .date-col {
+    flex: 0 0 64px; text-align: center; padding-top: 2px;
+  }
+  .card .date-col .day {
+    font-family: 'Noto Serif SC', serif; font-weight: 900;
+    font-size: 30px; color: var(--terracotta); line-height: 1;
+  }
+  .card .date-col .ym { font-size: 12px; color: var(--muted); margin-top: 5px; letter-spacing: 1px; }
+  .card .body { flex: 1; min-width: 0; }
+  .card .meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .chip {
+    font-size: 11.5px; font-weight: 700; color: #fff;
+    padding: 2.5px 10px; border-radius: 3px; letter-spacing: 1.5px;
+  }
+  .chip.qiao { background: var(--terracotta); }
+  .chip.geo { background: var(--green); }
+  .chip.eco { background: var(--gold); }
+  .card .country { font-size: 12.5px; color: var(--muted); letter-spacing: 1px; }
+  .card h3 {
+    font-family: 'Noto Serif SC', serif; font-weight: 700;
+    font-size: 21px; color: var(--ink); line-height: 1.4; margin-bottom: 5px;
+  }
+  .card p {
+    font-size: 14px; color: var(--muted); line-height: 1.65;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+
+  /* ===== Footer / QR ===== */
+  .footer {
+    background: var(--green);
+    color: var(--cream);
+    padding: 30px 56px 26px;
+    display: flex; align-items: center; gap: 36px;
+    position: relative;
+  }
+  .footer::before {
+    content: ""; position: absolute; left: 0; right: 0; top: 0; height: 6px;
+    background: linear-gradient(90deg, var(--cream) 0 30%, var(--gold) 30% 60%, var(--terracotta) 60% 100%);
+  }
+  .footer .qr-box {
+    flex: 0 0 auto; background: #fff; padding: 10px; border-radius: 6px;
+    box-shadow: 0 4px 14px rgba(0,0,0,.25);
+  }
+  .footer .qr-box img { display: block; width: 148px; height: 148px; }
+  .footer .info { flex: 1; }
+  .footer .scan {
+    font-family: 'Noto Serif SC', serif; font-weight: 700;
+    font-size: 27px; letter-spacing: 3px; margin-bottom: 8px;
+  }
+  .footer .scan em { color: var(--gold); font-style: normal; }
+  .footer .sub { font-size: 14px; color: #cfe0d8; line-height: 1.7; margin-bottom: 14px; }
+  .footer .author {
+    border-top: 1px solid rgba(250,247,242,.25); padding-top: 12px;
+    font-size: 13.5px; color: #e9e2d4; line-height: 1.8; letter-spacing: .5px;
+  }
+  .footer .author b { color: var(--cream); font-weight: 700; }
+
+  @media print {
+    html, body { background: #fff; padding: 0; }
+    .poster { box-shadow: none; }
+    @page { size: 900px 1200px; margin: 0; }
+  }
+</style>
+</head>
+<body>
+<div class="poster">
+
+  <div class="header">
+    <div class="kicker">Independent Blog · 中英双语</div>
+    <h1>东南亚观察</h1>
+    <div class="en">Southeast Asia Observer</div>
+    <div class="columns-tag">
+      <span>地缘政治</span><span class="dot"></span>
+      <span>经济产业</span><span class="dot"></span>
+      <span>气候变化</span><span class="dot"></span>
+      <span>社会文化</span><span class="dot"></span>
+      <span>华侨华人</span>
+    </div>
+  </div>
+
+  <div class="articles">
+    <div class="section-title">
+      <span class="cn">最新文章</span>
+      <span class="en">Latest Articles · 2026.08</span>
+      <span class="line"></span>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">13</div><div class="ym">08 / 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip qiao">华侨华人</span><span class="country">新加坡</span></div>
+        <h3>从“听故事”到“存历史”：汕大在新加坡为潮籍侨领留下口述档案</h3>
+        <p>汕头大学启动第五个国别口述史工程，记录20位新加坡潮籍杰出侨领的奋斗与奉献——口述史是对抗记忆流失的“活档案”。</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">13</div><div class="ym">08 / 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip geo">地缘政治</span><span class="country">马来西亚</span></div>
+        <h3>“马来人在朝，华人在野”：民行党去留背后的华人政治困局</h3>
+        <p>民主行动党拟表决退出团结政府，折射马来西亚族裔化政治中华人的结构性位置。</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">13</div><div class="ym">08 / 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip eco">经济产业</span><span class="country">马来西亚</span></div>
+        <h3>稀土“去中国化”的一小步：马澳合作背后的供应链算计</h3>
+        <p>马来西亚与澳大利亚加强稀土合作、探讨在马生产钕磁铁，是全球关键矿产“去风险”叙事下的一枚落子。</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">12</div><div class="ym">08 / 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip eco">经济产业</span><span class="country">菲律宾</span></div>
+        <h3>举债近700亿新元救经济：小马科斯的政治赌注与财政红线</h3>
+        <p>二季度增速跌至2.3%的菲律宾，以明年举债3.3万亿比索的计划试图重启增长，但债务底色不容乐观。</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">12</div><div class="ym">08 / 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip geo">地缘政治</span><span class="country">越南 · 澳大利亚</span></div>
+        <h3>澳越深化军事合作：供应链韧性背后的南海棋局</h3>
+        <p>苏林以双重身份首访澳大利亚，两国在防务、供应链与南海议题上同步靠拢，折射印太板块重组。</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="qr-box"><img src="qr.png" alt="扫码访问东南亚观察"></div>
+    <div class="info">
+      <div class="scan">扫码访问 · <em>全文免费</em></div>
+      <div class="sub">每日更新 · 中英双语原创评论<br>基于联合早报、中国侨网等一手信源的深度观察</div>
+      <div class="author">
+        <b>谢畅</b>｜暨南大学国际关系学院（华侨华人研究院）硕士 · 深圳职业技术大学<br>
+        联系：xiechangcn@gmail.com
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

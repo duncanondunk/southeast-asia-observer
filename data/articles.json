@@ -1,5 +1,43 @@
 [
   {
+    "slug": "malaysia-returned-chinese-xiao-siming",
+    "title": "从逃难孩童到归国战士：一位马来西亚归侨的“唐山”记忆与离散中国的百年回响",
+    "subtitle": "九旬老人肖思明的口述——童年逃离南洋日寇暴行、1949年跨海归国、1953年投笔从戎——远不只是一个家族故事。它是一扇窗，让我们看见东南亚的华侨群体，如何在两个海岸之间，反复协商“归属”二字。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "马来西亚",
+      "归侨",
+      "南洋",
+      "离散记忆"
+    ],
+    "country": "马来西亚 / 中国",
+    "date": "2026-08-16",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "九旬马来西亚归侨肖思明1936年生于广东惠阳，3岁随家南渡马来亚，亲历日军占领下的烧杀；1949年新中国成立的消息传来，祖父令母亲带他归国，13岁登上货轮、海上漂泊半月方抵故土。归国后他苦读，1953年响应征兵与同窗投笔从戎，十一年驻守上海并立三等功。个人的轨迹与抗战中南侨机工、陈嘉庚筹款的结构性奉献同声相应；而家族在马来西亚已逾两百人，“根在中国”与在地亲族网络并存，恰是当今东南亚华人真实处境的写照。记忆既是中马民间的人心通道，也须警惕被单一道德榨取为治外忠诚的注脚。",
+    "image": "images/articles/malaysia-returned-chinese-xiao-siming.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-16",
+    "imageAlt": "槟城挂满红灯笼的窄街巷，映照南洋华侨的在地生活",
+    "references": [
+      {
+        "source": "中国侨网 China Qiao Wang / 中国新闻网",
+        "title": "九旬马来西亚归侨肖思明：亲历南洋日寇暴行 跨海归国投笔从戎",
+        "url": "https://www.chinaqw.com/qwxs/2026/08-14/410192.shtml",
+        "date": "2026-08-14"
+      }
+    ],
+    "en": {
+      "title": "From a Fleeing Child to a Homecoming Soldier: A Malaysian Returned Chinese and the Century-Long Echo of a Diasporic China",
+      "subtitle": "The memoir of 90-year-old Xiao Siming — who fled Japanese atrocities in Nanyang, sailed home in 1949, and enlisted in 1953 — is more than a family story. It is a window into how Southeast Asia's Chinese communities have always negotiated belonging between two shores.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia / China",
+      "summary": "Xiao Siming, a 90-year-old returned overseas Chinese from Malaysia, was born in Huiyang in 1936 and taken to Malaya at age three, living through the Japanese occupation's burnings and killings; when news of the 1949 founding of the PRC reached Malaya, his grandfather sent him home, and the thirteen-year-old sailed for half a month before reaching the motherland. He studied hard, answered the 1953 call-up with schoolmates, and served eleven years around Shanghai, earning a third-class merit. His personal arc rhymes with the structural devotion of the Nanyang Mechanics and Tan Kah Kee's fundraising, yet his family now numbers over two hundred in Malaysia — 'roots in China' coexisting with a thoroughly local kin network, the real condition of Southeast Asian Chinese today. Memory is both a human channel between China and Malaysia and a risk of being flattened into a brief for extraterritorial loyalty.",
+      "imageAlt": "A narrow Penang street hung with red Chinese lanterns, echoing the everyday life of the Nanyang overseas Chinese"
+    }
+  },
+  {
     "slug": "singapore-construction-waste-johor-dumping",
     "title": "申报为“农业废料”：新加坡建筑垃圾倒进柔佛甘榜的两年",
     "subtitle": "笨珍九家马国公司受查，一条靠品类申报绕开监管的跨境暗渠，以及特区之下的环境套利",

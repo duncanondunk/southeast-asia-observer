@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Southeast Asia Observer · Promo Poster</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700;900&family=Noto+Sans+SC:wght@400;500;700&family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --terracotta: #a8401f;
+    --gold: #c98a2b;
+    --green: #1d5b4e;
+    --cream: #faf7f2;
+    --ink: #2b2620;
+    --muted: #6f675c;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { background: #e8e2d8; }
+  body {
+    display: flex; justify-content: center; align-items: flex-start;
+    padding: 24px; font-family: 'Inter', 'Noto Sans SC', sans-serif;
+  }
+  .poster {
+    width: 900px; height: 1200px;
+    background: var(--cream);
+    box-shadow: 0 12px 48px rgba(0,0,0,.18);
+    display: flex; flex-direction: column;
+    overflow: hidden; position: relative;
+  }
+
+  /* ===== Header ===== */
+  .header {
+    background: var(--green);
+    color: var(--cream);
+    padding: 46px 56px 36px;
+    position: relative;
+  }
+  .header::after {
+    content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 6px;
+    background: linear-gradient(90deg, var(--terracotta) 0 40%, var(--gold) 40% 70%, var(--cream) 70% 100%);
+  }
+  .header .kicker {
+    font-size: 14px; letter-spacing: 5px; color: #d9c9a8;
+    text-transform: uppercase; margin-bottom: 14px; font-weight: 600;
+  }
+  .header h1 {
+    font-family: 'Playfair Display', serif; font-weight: 900;
+    font-size: 62px; letter-spacing: 1px; line-height: 1.05;
+  }
+  .header .zh {
+    font-family: 'Noto Serif SC', serif; font-size: 19px; letter-spacing: 8px;
+    color: #cfe0d8; margin-top: 12px; font-weight: 600;
+  }
+  .header .columns-tag {
+    margin-top: 20px; font-size: 14px; color: var(--cream); opacity: .92;
+    display: flex; align-items: center; gap: 10px; letter-spacing: 1px; font-weight: 500;
+  }
+  .header .columns-tag .dot { width: 4px; height: 4px; border-radius: 50%; background: var(--gold); }
+
+  /* ===== Articles ===== */
+  .articles { flex: 1; padding: 30px 56px 8px; display: flex; flex-direction: column; }
+  .section-title {
+    display: flex; align-items: baseline; gap: 14px; margin-bottom: 16px;
+  }
+  .section-title .cn {
+    font-family: 'Playfair Display', serif; font-weight: 700;
+    font-size: 27px; color: var(--ink); letter-spacing: .5px;
+  }
+  .section-title .en {
+    font-size: 12px; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; font-weight: 600;
+  }
+  .section-title .line { flex: 1; height: 1px; background: #ddd3c4; }
+
+  .card {
+    display: flex; gap: 18px; padding: 14px 0 14px;
+    border-bottom: 1px solid #e6ddcd;
+  }
+  .card:last-child { border-bottom: none; }
+  .card .date-col { flex: 0 0 62px; text-align: center; padding-top: 2px; }
+  .card .date-col .day {
+    font-family: 'Playfair Display', serif; font-weight: 900;
+    font-size: 30px; color: var(--terracotta); line-height: 1;
+  }
+  .card .date-col .ym { font-size: 11px; color: var(--muted); margin-top: 5px; letter-spacing: 1px; font-weight: 600; }
+  .card .body { flex: 1; min-width: 0; }
+  .card .meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .chip {
+    font-size: 11px; font-weight: 700; color: #fff;
+    padding: 2.5px 10px; border-radius: 3px; letter-spacing: .8px; text-transform: uppercase;
+  }
+  .chip.qiao { background: var(--terracotta); }
+  .chip.geo { background: var(--green); }
+  .chip.eco { background: var(--gold); }
+  .card .country { font-size: 12px; color: var(--muted); letter-spacing: .5px; font-weight: 500; }
+  .card h3 {
+    font-family: 'Playfair Display', serif; font-weight: 700;
+    font-size: 20px; color: var(--ink); line-height: 1.32; margin-bottom: 6px;
+  }
+  .card p {
+    font-size: 13.5px; color: var(--muted); line-height: 1.6;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+
+  /* ===== Footer / QR ===== */
+  .footer {
+    background: var(--green);
+    color: var(--cream);
+    padding: 30px 56px 26px;
+    display: flex; align-items: center; gap: 36px;
+    position: relative;
+  }
+  .footer::before {
+    content: ""; position: absolute; left: 0; right: 0; top: 0; height: 6px;
+    background: linear-gradient(90deg, var(--cream) 0 30%, var(--gold) 30% 60%, var(--terracotta) 60% 100%);
+  }
+  .footer .qr-box {
+    flex: 0 0 auto; background: #fff; padding: 10px; border-radius: 6px;
+    box-shadow: 0 4px 14px rgba(0,0,0,.25);
+  }
+  .footer .qr-box img { display: block; width: 146px; height: 146px; }
+  .footer .info { flex: 1; }
+  .footer .scan {
+    font-family: 'Playfair Display', serif; font-weight: 700;
+    font-size: 28px; letter-spacing: .5px; margin-bottom: 8px;
+  }
+  .footer .scan em { color: var(--gold); font-style: normal; }
+  .footer .sub { font-size: 13.5px; color: #cfe0d8; line-height: 1.7; margin-bottom: 14px; }
+  .footer .author {
+    border-top: 1px solid rgba(250,247,242,.25); padding-top: 12px;
+    font-size: 13px; color: #e9e2d4; line-height: 1.8; letter-spacing: .3px;
+  }
+  .footer .author b { color: var(--cream); font-weight: 700; }
+
+  @media print {
+    html, body { background: #fff; padding: 0; }
+    .poster { box-shadow: none; }
+    @page { size: 900px 1200px; margin: 0; }
+  }
+</style>
+</head>
+<body>
+<div class="poster">
+
+  <div class="header">
+    <div class="kicker">Independent Blog &middot; Bilingual</div>
+    <h1>Southeast Asia Observer</h1>
+    <div class="zh">东南亚观察</div>
+    <div class="columns-tag">
+      <span>Geopolitics</span><span class="dot"></span>
+      <span>Economy</span><span class="dot"></span>
+      <span>Climate</span><span class="dot"></span>
+      <span>Society &amp; Culture</span><span class="dot"></span>
+      <span>Overseas Chinese</span>
+    </div>
+  </div>
+
+  <div class="articles">
+    <div class="section-title">
+      <span class="cn">Latest Articles</span>
+      <span class="en">2026.08</span>
+      <span class="line"></span>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">13</div><div class="ym">AUG 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip qiao">Overseas Chinese</span><span class="country">Singapore</span></div>
+        <h3>From &ldquo;Hearing Stories&rdquo; to &ldquo;Keeping History&rdquo;</h3>
+        <p>Shantou University has launched its fifth country oral-history project in Singapore, interviewing twenty prominent Teochew leaders on migration, entrepreneurship and local contribution.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">13</div><div class="ym">AUG 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip geo">Geopolitics</span><span class="country">Malaysia</span></div>
+        <h3>&ldquo;Malays in Government, Chinese in Opposition&rdquo;</h3>
+        <p>Over 4,000 DAP delegates will vote on 16 August on quitting the Unity Government — a move that could entrench a "Malays in government, Chinese in opposition" order.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">13</div><div class="ym">AUG 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip eco">Economy &amp; Industry</span><span class="country">Malaysia</span></div>
+        <h3>A Small Step in Rare-Earth &ldquo;De-Risking&rdquo;</h3>
+        <p>Malaysia and Australia agreed to deepen rare-earth cooperation and explore neodymium-magnet manufacturing — a small move in the global "de-risking" of critical minerals.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">12</div><div class="ym">AUG 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip eco">Economy &amp; Industry</span><span class="country">Philippines</span></div>
+        <h3>Borrowing S$69 Billion to Rescue the Economy</h3>
+        <p>With Q2 growth at just 2.3%, Manila plans to borrow 3.3 trillion pesos (~US$53bn) next year — a fifth above this year's level — to restart the economy.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="date-col"><div class="day">12</div><div class="ym">AUG 2026</div></div>
+      <div class="body">
+        <div class="meta"><span class="chip geo">Geopolitics</span><span class="country">Vietnam</span></div>
+        <h3>Australia and Vietnam Deepen Defence Ties</h3>
+        <p>President To Lam's first visit to Australia in a dual role saw both sides agree to deepen defence cooperation and build resilient critical-mineral supply chains.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="qr-box"><img src="qr.png" alt="Scan to visit Southeast Asia Observer"></div>
+    <div class="info">
+      <div class="scan">Scan to read &middot; <em>all free</em></div>
+      <div class="sub">Daily updates &middot; Bilingual original commentary<br>In-depth analysis from Lianhe Zaobao, China Qiao Wang &amp; other primary sources</div>
+      <div class="author">
+        <b>Xie Chang</b> &nbsp;|&nbsp; M.A., Jinan University (Institute of Overseas Chinese) &middot; Shenzhen Polytechnic University<br>
+        Contact: xiechangcn@gmail.com
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
