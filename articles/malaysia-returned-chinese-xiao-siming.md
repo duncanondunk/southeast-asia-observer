@@ -52,6 +52,8 @@
 - **唐山（Tangshan / 侨乡口语中的"中国"）**：东南亚老一代华侨对祖国的习惯称谓，并非仅指河北唐山，而是"大唐江山"的缩略，承载离散群体对精神原乡的想象。
 - **归侨（Returned Overseas Chinese / guiqiao）**：已取得居住国身份或长期居留海外、后回国定居的华侨，是中国侨务工作中一个特定的身份类别，兼具"海外"与"中国"双重属性。
 
+*话题参考：中国侨网（chinaqw.com）一周热点——《九旬马来西亚归侨肖思明：亲历南洋日寇暴行 跨海归国投笔从戎》。*
+
 ===EN===
 
 # From a Fleeing Child to a Homecoming Soldier: A Malaysian Returned Chinese and the Century-Long Echo of a Diasporic China

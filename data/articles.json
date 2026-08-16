@@ -15,7 +15,7 @@
     "date": "2026-08-16",
     "readingTime": 9,
     "featured": false,
-    "summary": "九旬马来西亚归侨肖思明1936年生于广东惠阳，3岁随家南渡马来亚，亲历日军占领下的烧杀；1949年新中国成立的消息传来，祖父令母亲带他归国，13岁登上货轮、海上漂泊半月方抵故土。归国后他苦读，1953年响应征兵与同窗投笔从戎，十一年驻守上海并立三等功。个人的轨迹与抗战中南侨机工、陈嘉庚筹款的结构性奉献同声相应；而家族在马来西亚已逾两百人，“根在中国”与在地亲族网络并存，恰是当今东南亚华人真实处境的写照。记忆既是中马民间的人心通道，也须警惕被单一道德榨取为治外忠诚的注脚。",
+    "summary": "九旬马来西亚归侨肖思明，从南洋沦陷下的逃难孩童，到1949年跨海归国、1953年投笔从戎的战士。其家族在马来西亚已逾两百人，“根在中国”与在地亲族网络并存，恰是当今东南亚华人真实处境的写照；记忆既是中马民间的人心通道，也须警惕被单一道德榨取为治外忠诚的注脚。",
     "image": "images/articles/malaysia-returned-chinese-xiao-siming.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-16",
@@ -33,7 +33,7 @@
       "subtitle": "The memoir of 90-year-old Xiao Siming — who fled Japanese atrocities in Nanyang, sailed home in 1949, and enlisted in 1953 — is more than a family story. It is a window into how Southeast Asia's Chinese communities have always negotiated belonging between two shores.",
       "category": "Overseas Chinese",
       "country": "Malaysia / China",
-      "summary": "Xiao Siming, a 90-year-old returned overseas Chinese from Malaysia, was born in Huiyang in 1936 and taken to Malaya at age three, living through the Japanese occupation's burnings and killings; when news of the 1949 founding of the PRC reached Malaya, his grandfather sent him home, and the thirteen-year-old sailed for half a month before reaching the motherland. He studied hard, answered the 1953 call-up with schoolmates, and served eleven years around Shanghai, earning a third-class merit. His personal arc rhymes with the structural devotion of the Nanyang Mechanics and Tan Kah Kee's fundraising, yet his family now numbers over two hundred in Malaysia — 'roots in China' coexisting with a thoroughly local kin network, the real condition of Southeast Asian Chinese today. Memory is both a human channel between China and Malaysia and a risk of being flattened into a brief for extraterritorial loyalty.",
+      "summary": "Xiao Siming, a 90-year-old returned overseas Chinese from Malaysia, fled Japanese atrocities in Nanyang as a child, sailed home in 1949, and enlisted in 1953, serving eleven years around Shanghai. His personal arc rhymes with the devotion of the Nanyang Mechanics and Tan Kah Kee's fundraising, yet his family now numbers over two hundred in Malaysia — 'roots in China' coexisting with a local kin network, the real condition of Southeast Asian Chinese today. Memory is both a human channel and a risk of being flattened into a brief for extraterritorial loyalty.",
       "imageAlt": "A narrow Penang street hung with red Chinese lanterns, echoing the everyday life of the Nanyang overseas Chinese"
     }
   },
@@ -1777,6 +1777,82 @@
       "country": "Malaysia",
       "summary": "Bank Negara Malaysia reported Q2 GDP grew 6% year on year, above Q1's 5.4% and the 5.8% consensus. Net exports surged 168.5%, and electrical-and-electronics exports jumped 57.1% on the global AI cycle — the structural highlight — while agriculture's slide and inflation linger. Full-year growth is seen near 5%.",
       "imageAlt": "Kuala Lumpur skyline evoking Malaysia's economy"
+    }
+  },
+  {
+    "slug": "malaysia-ecrl-early-opening",
+    "title": "四小时穿越半岛：马来西亚东铁“抢跑”通车的工程与政治",
+    "subtitle": "东铁整体进度达95.08%，交通部简化部分检测程序，争取第一期由2027年1月提前至2026年12月通车",
+    "category": "经济产业",
+    "tags": [
+      "马来西亚",
+      "中国",
+      "一带一路",
+      "基础设施",
+      "铁路"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-16",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "马来西亚东铁进入通车前最后测试阶段。交通部长陆兆福说，正简化部分检测程序，争取让原定2027年1月通车的第一期提前至2026年12月运作，整体进度已达95.08%。这条665公里、耗资逾500亿令吉的铁路将哥打峇鲁至鹅唛车程从七小时压至四小时；但真正考验在通车之后：客流、货运与偿债。",
+    "image": "images/articles/malaysia-ecrl-early-opening.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-16",
+    "imageAlt": "列车停靠站台等待通勤乘客",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国交通部长：希望东铁可提前于今年12月通车",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260815-9523904",
+        "date": "2026-08-15"
+      }
+    ],
+    "en": {
+      "title": "Four Hours Across the Peninsula: The Engineering and Politics of Malaysia’s Early ECRL Opening",
+      "subtitle": "With construction at 95.08 per cent, the transport ministry is streamlining tests to move Phase One from January 2027 to December 2026",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Malaysia's East Coast Rail Link has entered final testing. Transport Minister Anthony Loke said the ministry is streamlining parts of the test regime to bring Phase One forward from January 2027 to December 2026, with construction at 95.08 per cent. The 665-kilometre line, costing over RM50 billion, cuts Kota Bharu–Gombak travel from more than seven hours to four. The real test comes after opening: ridership, freight and debt service.",
+      "imageAlt": "A train at a station platform serving commuters"
+    }
+  },
+  {
+    "slug": "china-philippines-joint-energy-exploration",
+    "title": "争议之下的能源算术：小马科斯为何在此时重提中菲联合勘探",
+    "subtitle": "菲律宾总统称中菲联合能源勘探谈判“已取得进展”，礼乐滩天然气开发再度浮出水面",
+    "category": "地缘政治",
+    "tags": [
+      "菲律宾",
+      "中国",
+      "南海",
+      "能源",
+      "天然气"
+    ],
+    "country": "菲律宾",
+    "date": "2026-08-16",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "菲律宾总统小马科斯8月14日说，尽管南海争议升温，中菲仍有望在能源领域合作，联合勘探谈判“已取得进展”。焦点是礼乐滩天然气：中国对南海诸岛及其附近海域拥有主权，菲方则以单方面主张的专属经济区索求开发权，法理分歧使该区多年无法开采。主力气田枯竭在即，能源时间表正压迫主权时间表。",
+    "image": "images/articles/china-philippines-joint-energy-exploration.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-16",
+    "imageAlt": "远洋中的海上油气钻井平台",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "小马可斯：中国菲律宾正就联合开展能源勘探谈判",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260814-9520637",
+        "date": "2026-08-14"
+      }
+    ],
+    "en": {
+      "title": "Energy Arithmetic Under Dispute: Why Marcos Revived Joint Exploration Talks Now",
+      "subtitle": "The Philippine president says talks with China on joint energy exploration are making progress, putting Reed Bank gas back on the table",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "Philippine President Ferdinand Marcos Jr. said on 14 August that despite sharpening South China Sea disputes, Manila and Beijing could still cooperate on energy, with joint exploration talks making progress. The focus is Reed Bank gas. China holds sovereignty over the South China Sea islands and their adjacent waters, while the Philippines claims development rights via a unilaterally asserted EEZ — a legal impasse that has kept the area unexploited for years. With its main gas field near depletion, Manila's energy clock is pressing on the sovereignty clock.",
+      "imageAlt": "An offshore oil and gas platform in open ocean"
     }
   }
 ]

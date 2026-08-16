@@ -283,6 +283,20 @@
       "slugs": [
         "malaysia-returned-chinese-xiao-siming"
       ]
+    },
+    "event:马来西亚东铁ECRL争取2026年12月提前通车": {
+      "note": "全新素材（联合早报）",
+      "exception": null,
+      "slugs": [
+        "malaysia-ecrl-early-opening"
+      ]
+    },
+    "event:中菲联合能源勘探谈判(礼乐滩,2026-08)": {
+      "note": "全新素材（联合早报）",
+      "exception": null,
+      "slugs": [
+        "china-philippines-joint-energy-exploration"
+      ]
     }
   }
 }
