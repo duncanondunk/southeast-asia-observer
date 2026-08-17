@@ -297,6 +297,27 @@
       "slugs": [
         "china-philippines-joint-energy-exploration"
       ]
+    },
+    "event:泰国设立数据中心经营政策委员会(2026-08)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "thailand-data-centre-policy-committee"
+      ]
+    },
+    "event:印尼普拉博沃提出小学一年级起加强中文等外语教育(2026-08)": {
+      "note": "",
+      "exception": null,
+      "slugs": [
+        "indonesia-chinese-language-education"
+      ]
+    },
+    "event:第十一届世界华侨华人社团联谊大会(2026-07)": {
+      "note": "第十一届世界华侨华人社团联谊大会（2026年7月14日北京闭幕）。",
+      "exception": null,
+      "slugs": [
+        "11th-world-congress-overseas-chinese-associations"
+      ]
     }
   }
 }

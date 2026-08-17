@@ -1854,5 +1854,117 @@
       "summary": "Philippine President Ferdinand Marcos Jr. said on 14 August that despite sharpening South China Sea disputes, Manila and Beijing could still cooperate on energy, with joint exploration talks making progress. The focus is Reed Bank gas. China holds sovereignty over the South China Sea islands and their adjacent waters, while the Philippines claims development rights via a unilaterally asserted EEZ — a legal impasse that has kept the area unexploited for years. With its main gas field near depletion, Manila's energy clock is pressing on the sovereignty clock.",
       "imageAlt": "An offshore oil and gas platform in open ocean"
     }
+  },
+  {
+    "slug": "thailand-data-centre-policy-committee",
+    "title": "算力的代价：泰国给数据中心\"立规矩\"背后的水与电",
+    "subtitle": "8月5日内阁通过、14日由政府网站正式公告成立的\"数据中心经营政策委员会\"，标志着东南亚数字经济竞赛进入新阶段——当全球资本把泰国当作算力新前线，曼谷开始认真计算这笔账的环境与社会成本。",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "基础设施",
+      "能源",
+      "数据中心",
+      "数字经济",
+      "环境"
+    ],
+    "country": "泰国",
+    "date": "2026-08-17",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "泰国8月设立国家级数据中心经营政策委员会，以能源、水资源与环境影响为支柱严审项目。在算力涌入潮中，曼谷试图把招商质量置于数量之前，平衡产业红利与民生成本。",
+    "image": "images/articles/thailand-data-centre-policy-committee.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-17",
+    "imageAlt": "泰国数据中心机房内的服务器阵列，冷光映照下排列整齐",
+    "references": [
+      {
+        "source": "联合早报 / zaobao.com",
+        "title": "泰国设立数据中心经营政策委员会，严审水电与环境影响",
+        "url": "https://www.zaobao.com/news/sea",
+        "date": "2026-08-14"
+      }
+    ],
+    "en": {
+      "title": "The Price of Compute: What Thailand's New Data-Centre Rules Reveal About Water, Power and Sovereignty",
+      "subtitle": "The 'Data Centre Business Policy Committee' approved by cabinet on 5 August and formally announced on 14 August marks a new phase in Southeast Asia's digital-economy race — as global capital treats Thailand as a new frontier for compute, Bangkok has begun counting the environmental and social cost of the bill.",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "Thailand established a national Data Centre Business Policy Committee in August, screening projects on energy, water and environmental impact. As a wave of compute investment arrives, Bangkok is trying to put quality of investment ahead of quantity, balancing industrial dividends against household costs.",
+      "imageAlt": "Rows of servers inside a Thai data-centre room, lit by cold blue light"
+    }
+  },
+  {
+    "slug": "indonesia-chinese-language-education",
+    "title": "从一年级学中文：普拉博沃\"外语从娃娃抓起\"背后的华文复兴",
+    "subtitle": "8月14日，印尼总统普拉博沃在国会发表国情咨文，提出让儿童从小学一年级开始学习包括中文在内的外语。一句看似寻常的教育表述，背后是印尼华文教育中断30余年后的艰难复苏，以及中印尼关系升温投射在课堂里的长影。",
+    "category": "社会文化",
+    "tags": [
+      "印度尼西亚",
+      "教育",
+      "中文",
+      "华侨华人"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-08-17",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "印尼总统普拉博沃在8月14日国情咨文中提出，从小学一年级起加强包括中文在内的外语教育。曾中断30余年的华文教育，正随中印尼关系升温而复苏；这既是语言政策，也是族群与区域关系的注脚。",
+    "image": "images/articles/indonesia-chinese-language-education.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-17",
+    "imageAlt": "印尼教室里，孩子们围坐课桌、专注听讲的日常一幕",
+    "references": [
+      {
+        "source": "联合早报 / zaobao.com",
+        "title": "普拉博沃国情咨文：从小学一年级起加强中文等外语教育",
+        "url": "https://www.zaobao.com/news/sea",
+        "date": "2026-08-14"
+      }
+    ],
+    "en": {
+      "title": "Learning Chinese from Grade One: What Prabowo's 'Languages from Childhood' Reveals About Indonesia's Chinese Revival",
+      "subtitle": "In his 14 August state address to parliament, President Prabowo proposed that Indonesian children begin foreign-language study — including Mandarin — in the first grade. An ordinary-sounding education line, beneath it lies the hard recovery of Chinese-language teaching after a 30-year suspension, and the long shadow that warming China–Indonesia ties cast into the classroom.",
+      "category": "Society & Culture",
+      "country": "Indonesia",
+      "summary": "In his 14 August state address, Indonesian President Prabowo proposed introducing foreign-language instruction — including Mandarin — from the first grade. After Chinese-language education was suspended for over three decades, its revival tracks warming China–Indonesia ties, making the policy both a language move and a footnote to ethnic and regional relations.",
+      "imageAlt": "Inside an Indonesian classroom, children sit at desks listening attentively"
+    }
+  },
+  {
+    "slug": "11th-world-congress-overseas-chinese-associations",
+    "title": "从\"守望相助\"到\"走进主流\"：第十一届世界华侨华人社团联谊大会的变与常",
+    "subtitle": "7月14日北京闭幕的第十一届世界华侨华人社团联谊大会，汇聚140个国家和地区、400余位侨团负责人。大会以\"凝侨心、聚侨力、谋发展\"为主题，但真正值得咀嚼的，是海外侨社正在发生的两重转变——功能的升级与代际的交接。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "文化传承",
+      "代际传承"
+    ],
+    "country": "中国 / 全球",
+    "date": "2026-08-17",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "第十一届世界华侨华人社团联谊大会7月14日在北京闭幕，140国、400余位侨领与会，主题\"凝侨心、聚侨力、谋发展\"。大会折射海外侨社两重转变：从同乡互助转向专业化的民间外交接口，以及老侨与新侨的代际交接。十家\"华社之光\"的表彰说明，侨社活力来自在地深耕，而非单向乡愁。",
+    "image": "images/articles/11th-world-congress-overseas-chinese-associations.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-17",
+    "imageAlt": "海外华人社区舞狮表演，象征文化传承与侨社活力",
+    "references": [
+      {
+        "source": "中国侨网 China Qiao Wang / 中国新闻网",
+        "title": "第十一届世界华侨华人社团联谊大会闭幕 青年侨胞共话成长与传承",
+        "url": "http://epaperres.chinanews.com/epms/article/html/2026/07/16/1527260711124865024.html",
+        "date": "2026-07-16"
+      }
+    ],
+    "en": {
+      "title": "From Mutual Aid to the Mainstream: What the 11th World Congress of Overseas Chinese Associations Reveals About a Shifting Diaspora",
+      "subtitle": "The 11th World Congress of Overseas Chinese Associations closed in Beijing on 14 July 2026, gathering over 400 community leaders from 140 countries and regions under the banner \"Unite hearts, gather strength, pursue development.\" Beyond the slogan, two quiet shifts deserve attention: a functional upgrade of diaspora organisations and a generational handover.",
+      "category": "Overseas Chinese",
+      "country": "China / Global",
+      "summary": "The 11th World Congress of Overseas Chinese Associations closed in Beijing on 14 July 2026, bringing together over 400 leaders from 140 countries under the theme \"Unite hearts, gather strength, pursue development.\" Beyond the slogan, the congress revealed two shifts in the global diaspora: a functional move from mutual aid toward professionalised people-to-people diplomacy, and a quiet generational handover from veteran to younger leaders. The ten \"Glory of the Chinese Community\" honourees show that diaspora vitality comes from local rootedness, not one-way nostalgia.",
+      "imageAlt": "A lion dance performed by an overseas Chinese community, symbolising cultural inheritance and diaspora vitality"
+    }
   }
 ]
