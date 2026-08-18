@@ -1,6 +1,5 @@
 # 从逃难孩童到归国战士：一位马来西亚归侨的"唐山"记忆与离散中国的百年回响
 
-**副标题**：九旬老人肖思明的口述——童年逃离南洋日寇暴行、1949年跨海归国、1953年投笔从戎——远不只是一个家族故事。它是一扇窗，让我们看见东南亚的华侨群体，如何在两个海岸之间，反复协商"归属"二字。
 
 ## 逃难：南洋沦陷下的华侨童年
 
@@ -58,7 +57,6 @@
 
 # From a Fleeing Child to a Homecoming Soldier: A Malaysian Returned Chinese and the Century-Long Echo of a Diasporic China
 
-*Subtitle:* The memoir of 90-year-old Xiao Siming — who fled Japanese atrocities in Nanyang, sailed home in 1949, and enlisted in 1953 — is more than a family story. It is a window into how Southeast Asia's Chinese communities have always negotiated belonging between two shores.
 
 ## Flight: a Nanyang childhood under occupation
 
