@@ -318,6 +318,27 @@
       "slugs": [
         "11th-world-congress-overseas-chinese-associations"
       ]
+    },
+    "event:2026年纪念南侨机工公祭典礼(吉隆坡)": {
+      "note": "2026年吉隆坡两度公祭南侨机工（7月5日隆雪华堂主办、8月15日广东义山815公祭），属华侨华人历史记忆主题。",
+      "exception": null,
+      "slugs": [
+        "nanqiao-jigong-memorial-kl-2026"
+      ]
+    },
+    "event:曼谷湄南河畔第二波开发热潮(2026-08)": {
+      "note": "2026年8月联合早报报道曼谷湄南河沿岸第二波开发潮（AWC、正大等沿河布局）。",
+      "exception": null,
+      "slugs": [
+        "bangkok-chaophraya-riverfront-boom"
+      ]
+    },
+    "event:越南连续第八个月贸易逆差(2026-08)": {
+      "note": "2026年8月越南连续第八个月贸易逆差，联合早报报道；属经济产业主题。",
+      "exception": null,
+      "slugs": [
+        "vietnam-trade-deficit-eighth-month"
+      ]
     }
   }
 }

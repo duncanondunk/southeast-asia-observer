@@ -24,7 +24,7 @@
 
   // 标签中英映射
   var TAG_I18N = {
-    '经济产业': 'Economy & Industry', '国家观察': 'Country Watch', '供应链': 'Supply Chain', '量化指数': 'Quantitative Index',
+    '经济产业': 'Economy & Industry', '国家观察': 'Country Watch', '供应链': 'Supply Chain', '量化指数': 'Quantitative Index', '城市': 'Urban', '旅游业': 'Tourism', '产业链': 'Industrial Chain',
     '地缘政治': 'Geopolitics', '新能源': 'New Energy', '气候变化': 'Climate Change',
     '水资源': 'Water Resources', '南海': 'South China Sea', '华侨华人': 'Overseas Chinese', '侨务': 'Diaspora Affairs', '移民': 'Migration', '历史': 'History', '全球': 'Worldwide', '华南': 'South China',
     '越南': 'Vietnam', '印度尼西亚': 'Indonesia', '新加坡': 'Singapore',
