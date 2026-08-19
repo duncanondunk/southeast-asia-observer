@@ -339,6 +339,13 @@
       "slugs": [
         "vietnam-trade-deficit-eighth-month"
       ]
+    },
+    "film:欢迎来龙餐馆(龙餐馆)": {
+      "note": "全新素材（中国侨网《欢迎来龙餐馆》热映，2026-08-14/18）。华侨华人离散叙事转向全球冲突地带的华商题材，与既有东南亚离散主题不重复。",
+      "exception": null,
+      "slugs": [
+        "dragon-restaurant-film-diaspora"
+      ]
     }
   }
 }
