@@ -1,5 +1,79 @@
 [
   {
+    "slug": "myanmar-russia-putin-reliable-partner",
+    "title": "克里姆林宫里的“可靠伙伴”：敏昂莱第六次访俄与缅甸的地缘突围",
+    "subtitle": "8月18日，缅甸总统敏昂莱在克里姆林宫对普京说“缅甸是俄罗斯在东南亚可靠的伙伴”。一句外交辞令背后，是一个被西方孤立五年的军政府，如何借莫斯科撬动自身的外交空间。",
+    "category": "地缘政治",
+    "tags": [
+      "缅甸",
+      "俄罗斯",
+      "地缘政治",
+      "军事合作"
+    ],
+    "country": "缅甸 / 俄罗斯",
+    "date": "2026-08-19",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "8月18日，缅甸总统敏昂莱第六次访俄、首次以文职总统身份到克里姆林宫，称缅甸是俄罗斯在东南亚可靠的伙伴。双方五年军事合作协议、小型核电站与军售勾勒出制裁之下的伙伴关系；一个被西方孤立五年的军政府，借莫斯科既获武器与外交庇护，也把地缘窘境转化为与大国讨价还价的筹码。这折射俄罗斯向东转后深耕全球南方的布局，也提醒制裁未必能孤立相互取暖的伙伴网络。",
+    "image": "images/articles/myanmar-russia-putin-reliable-partner.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-19",
+    "imageAlt": "莫斯科红场与克里姆林宫的砖红色建筑，映照大国政治的地标",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "敏昂莱会见普京 称缅甸是俄罗斯在东南亚可靠伙伴",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260818-9539529",
+        "date": "2026-08-18"
+      }
+    ],
+    "en": {
+      "title": "\"A Reliable Partner in Southeast Asia\": Min Aung Hlaing's Sixth Moscow Trip and Myanmar's Geopolitical Escape Hatch",
+      "subtitle": "On August 18, Senior General Min Aung Hlaing told Vladimir Putin in the Kremlin that \"Myanmar is a reliable partner for Russia in Southeast Asia.\" Behind the diplomatic phrasing lies how an internationally isolated junta has used Moscow to pry open its own diplomatic space.",
+      "category": "Geopolitics",
+      "country": "Myanmar / Russia",
+      "summary": "On August 18, Myanmar's Senior General Min Aung Hlaing made his sixth trip to Moscow — and first as civilian president — telling Putin that Myanmar is Russia's reliable partner in Southeast Asia. A five-year military pact, small nuclear plants and arms sales sketch a partnership under sanctions; an isolated junta uses Moscow for weapons and diplomatic cover while turning its predicament into bargaining chips. The meeting reflects Russia's post-Ukraine turn to the Global South and shows that sanctions need not isolate a network of partners who keep each other warm.",
+      "imageAlt": "Moscow's Red Square and the brick-red Kremlin, a landmark of great-power politics"
+    }
+  },
+  {
+    "slug": "vietnam-philippines-upper-middle-income",
+    "title": "半导体托起“中高收入”：越南与菲律宾的升级，与未竟的下一程",
+    "subtitle": "世界银行7月公布的分类中，越南与菲律宾人均国民总收入越过4636美元门槛，首次跻身中高收入国家。浪潮由半导体与电子产品出口驱动，但真正的考题，是如何不重蹈“中等收入陷阱”的覆辙。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "菲律宾",
+      "经济产业",
+      "半导体"
+    ],
+    "country": "越南 / 菲律宾",
+    "date": "2026-08-19",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "世界银行7月分类显示，越南与菲律宾去年人均国民总收入升至4970与4850美元，越过4636美元的中高收入门槛，首次跻身该行列，推力来自半导体与电子产品出口。但《日经亚洲》指出，要跻身高收入须摆脱廉价劳力依赖、向高附加值转型。泰国与印尼已跌入中等收入陷阱，马来西亚则借半导体重回增长轨道。越南与菲律宾刚跨过第一道门槛，能否把组装升级为创造，才是真正的比赛。",
+    "image": "images/articles/vietnam-philippines-upper-middle-income.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-19",
+    "imageAlt": "工厂车间里身着蓝色工装的工人在装配线前作业，象征制造业升级",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "受半导体业发展推动 越南菲律宾成中高收入国家",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260818-9537595",
+        "date": "2026-08-18"
+      }
+    ],
+    "en": {
+      "title": "Semiconductors Lift Two Nations Into the \"Upper-Middle-Income\" Club — and the Harder Climb Ahead",
+      "subtitle": "In the World Bank's July classification, Vietnam and the Philippines crossed the US$4,636 per-capita GNI threshold for the first time, riding a wave of semiconductor and electronics exports. The real test, analysts say, is escaping the middle-income trap that has ensnared their neighbours.",
+      "category": "Economy & Industry",
+      "country": "Vietnam / Philippines",
+      "summary": "In the World Bank's July classification, Vietnam and the Philippines crossed the US$4,636 per-capita GNI threshold for the first time, buoyed by semiconductor and electronics exports. But Nikkei Asia warns that reaching high income requires shedding reliance on cheap labour and moving up the value chain. Thailand and Indonesia have fallen into the middle-income trap, while Malaysia leveraged semiconductors to recover. Vietnam and the Philippines have cleared the first threshold; whether they can upgrade assembly into creation is the real race.",
+      "imageAlt": "Workers in blue uniforms at an assembly line in a large factory, symbolising manufacturing upgrade"
+    }
+  },
+  {
     "slug": "dragon-restaurant-film-diaspora",
     "title": "《欢迎来龙餐馆》热映：当\"海外中餐馆\"站到了聚光灯下",
     "subtitle": "文牧野新片上映六天破9亿，沈腾饰演的东北厨子远赴中东战乱之地掌勺，用热饭守护战争遗孤。它的原型，是2003年赴伊拉克开\"中国龙\"餐馆的深圳华商。一部讲\"海外中餐馆\"的电影，为何能撬动我们对华侨华人离散叙事的固有想象？",
