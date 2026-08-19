@@ -347,18 +347,32 @@
         "dragon-restaurant-film-diaspora"
       ]
     },
-    "event:印尼扩大人工增雨规模抗林火": {
-      "note": "联合早报 2026-08-18（10:00 自动化 HANG 残留，watchdog 补齐并发布）",
+    "event:敏昂莱会见普京(缅甸-俄罗斯伙伴)": {
+      "note": "全新素材（联合早报，2026-08-18）",
       "exception": null,
       "slugs": [
-        "indonesia-cloud-seeding-haze-2026"
+        "myanmar-russia-putin-reliable-partner"
       ]
     },
     "event:越南菲律宾迈入中高收入国家(半导体驱动)": {
-      "note": "联合早报 2026-08-18（10:00 自动化 HANG 残留，watchdog 补齐并发布）",
+      "note": "全新素材（联合早报，2026-08-18）",
       "exception": null,
       "slugs": [
-        "vietnam-philippines-upper-middle-income-semiconductors"
+        "vietnam-philippines-upper-middle-income"
+      ]
+    },
+    "event:东南亚侨领赴滇研习活动(2026-07)": {
+      "note": "全新素材（中国侨网，2026-07-15）",
+      "exception": null,
+      "slugs": [
+        "southeast-asian-overseas-chinese-leaders-yunnan-2026"
+      ]
+    },
+    "event:印尼扩大人工增雨抗林火(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-18）",
+      "exception": null,
+      "slugs": [
+        "indonesia-cloud-seeding-haze-2026"
       ]
     }
   }

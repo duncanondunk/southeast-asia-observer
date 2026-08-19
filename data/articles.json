@@ -1,44 +1,45 @@
 [
   {
-    "slug": "indonesia-cloud-seeding-haze-2026",
-    "title": "撒盐催雨，难掩焦土：印尼扩大人工增雨抗林火，专家指治标不治本",
-    "subtitle": "印尼今年1至7月逾20万公顷土地被林火吞噬，政府扩大人工增雨抗灾。但专家直言，旱季缺云时催雨效果有限，林火根源在泥炭地与毁林，而非天空。",
-    "category": "气候变化",
+    "slug": "myanmar-russia-putin-reliable-partner",
+    "title": "克里姆林宫里的“可靠伙伴”：敏昂莱第六次访俄与缅甸的地缘突围",
+    "subtitle": "8月18日，缅甸总统敏昂莱在克里姆林宫对普京说“缅甸是俄罗斯在东南亚可靠的伙伴”。一句外交辞令背后，是一个被西方孤立五年的军政府，如何借莫斯科撬动自身的外交空间。",
+    "category": "地缘政治",
     "tags": [
-      "印度尼西亚",
-      "气候变化",
-      "环境"
+      "缅甸",
+      "俄罗斯",
+      "地缘政治",
+      "军事合作"
     ],
-    "country": "印度尼西亚",
+    "country": "缅甸 / 俄罗斯",
     "date": "2026-08-19",
-    "readingTime": 7,
+    "readingTime": 6,
     "featured": false,
-    "summary": "印尼今年1至7月逾20万公顷土地被林火吞噬，政府扩大人工增雨抗灾。但专家直言，旱季缺云时催雨效果有限，林火根源在泥炭地开发与毁林，而非天空。短期催雨治标，长期仍须修复泥炭地、强化执法与区域协作，天空的盐填不满土地的沟。",
-    "image": "images/articles/indonesia-cloud-seeding-haze-2026.jpg",
+    "summary": "8月18日，缅甸总统敏昂莱第六次访俄、首次以文职总统身份到克里姆林宫，称缅甸是俄罗斯在东南亚可靠的伙伴。双方五年军事合作协议、小型核电站与军售勾勒出制裁之下的伙伴关系；一个被西方孤立五年的军政府，借莫斯科既获武器与外交庇护，也把地缘窘境转化为与大国讨价还价的筹码。这折射俄罗斯向东转后深耕全球南方的布局，也提醒制裁未必能孤立相互取暖的伙伴网络。",
+    "image": "images/articles/myanmar-russia-putin-reliable-partner.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-19",
-    "imageAlt": "印尼林火浓烟下焦黄的山丘与焦土，映照旱季的焦灼",
+    "imageAlt": "莫斯科红场与克里姆林宫的砖红色建筑，映照大国政治的地标",
     "references": [
       {
         "source": "联合早报 Lianhe Zaobao",
-        "title": "印尼扩大人工增雨规模抗林火 专家称治标不治本",
-        "url": "https://www.zaobao.com.sg/news/sea/story20260818-9538098",
+        "title": "敏昂莱会见普京 称缅甸是俄罗斯在东南亚可靠伙伴",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260818-9539529",
         "date": "2026-08-18"
       }
     ],
     "en": {
-      "title": "Salting the Skies, Not the Soil: Indonesia Scales Up Cloud-Seeding Against Fires, but Experts Call It a Band-Aid",
-      "subtitle": "From January to July, over 202,000 hectares of Indonesian land burned; the government is expanding cloud-seeding to fight the haze. But experts warn the effect is limited without clouds, and the real cause lies in peatland conversion and fire, not the sky.",
-      "category": "Climate Change",
-      "country": "Indonesia",
-      "summary": "From January to July, over 202,000 hectares of Indonesian land burned; the government is expanding cloud-seeding to fight the haze. But experts warn that with few clouds in the dry season the effect is limited, and the real cause lies in peatland conversion and clearing by fire, not the sky. Short-term seeding treats symptoms; the cure still demands peatland restoration, enforcement and regional cooperation.",
-      "imageAlt": "Charred hills and smoke from Indonesian forest fires, evoking a parched dry season"
+      "title": "\"A Reliable Partner in Southeast Asia\": Min Aung Hlaing's Sixth Moscow Trip and Myanmar's Geopolitical Escape Hatch",
+      "subtitle": "On August 18, Senior General Min Aung Hlaing told Vladimir Putin in the Kremlin that \"Myanmar is a reliable partner for Russia in Southeast Asia.\" Behind the diplomatic phrasing lies how an internationally isolated junta has used Moscow to pry open its own diplomatic space.",
+      "category": "Geopolitics",
+      "country": "Myanmar / Russia",
+      "summary": "On August 18, Myanmar's Senior General Min Aung Hlaing made his sixth trip to Moscow — and first as civilian president — telling Putin that Myanmar is Russia's reliable partner in Southeast Asia. A five-year military pact, small nuclear plants and arms sales sketch a partnership under sanctions; an isolated junta uses Moscow for weapons and diplomatic cover while turning its predicament into bargaining chips. The meeting reflects Russia's post-Ukraine turn to the Global South and shows that sanctions need not isolate a network of partners who keep each other warm.",
+      "imageAlt": "Moscow's Red Square and the brick-red Kremlin, a landmark of great-power politics"
     }
   },
   {
-    "slug": "vietnam-philippines-upper-middle-income-semiconductors",
-    "title": "芯片托起的跃迁：越南、菲律宾跻身中高收入国家，下一关是“高收入陷阱”",
-    "subtitle": "世界银行7月分类显示，越南与菲律宾人均国民总收入越过4636美元门槛，首次跻身中高收入国家。推力来自半导体出口，但下一关是如何不坠入中等收入陷阱。",
+    "slug": "vietnam-philippines-upper-middle-income",
+    "title": "半导体托起“中高收入”：越南与菲律宾的升级，与未竟的下一程",
+    "subtitle": "世界银行7月公布的分类中，越南与菲律宾人均国民总收入越过4636美元门槛，首次跻身中高收入国家。浪潮由半导体与电子产品出口驱动，但真正的考题，是如何不重蹈“中等收入陷阱”的覆辙。",
     "category": "经济产业",
     "tags": [
       "越南",
@@ -48,10 +49,10 @@
     ],
     "country": "越南 / 菲律宾",
     "date": "2026-08-19",
-    "readingTime": 7,
+    "readingTime": 6,
     "featured": false,
-    "summary": "世界银行7月分类显示，越南与菲律宾去年人均国民总收入升至4970与4850美元，越过4636美元的中高收入门槛，首次跻身该行列，推力来自半导体与电子产品出口。但《日经亚洲》指出，要跻身高收入须摆脱廉价劳力依赖、向高附加值转型。泰国与印尼已跌入中等收入陷阱，马来西亚则借半导体重回增长轨道。能否把组装升级为创造，才是真正的比赛。",
-    "image": "images/articles/vietnam-philippines-upper-middle-income-semiconductors.jpg",
+    "summary": "世界银行7月分类显示，越南与菲律宾去年人均国民总收入升至4970与4850美元，越过4636美元的中高收入门槛，首次跻身该行列，推力来自半导体与电子产品出口。但《日经亚洲》指出，要跻身高收入须摆脱廉价劳力依赖、向高附加值转型。泰国与印尼已跌入中等收入陷阱，马来西亚则借半导体重回增长轨道。越南与菲律宾刚跨过第一道门槛，能否把组装升级为创造，才是真正的比赛。",
+    "image": "images/articles/vietnam-philippines-upper-middle-income.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-19",
     "imageAlt": "工厂车间里身着蓝色工装的工人在装配线前作业，象征制造业升级",
@@ -64,11 +65,11 @@
       }
     ],
     "en": {
-      "title": "Lifted by Chips: Vietnam and the Philippines Join the Upper-Middle-Income Club, but the High-Income Trap Looms",
-      "subtitle": "In the World Bank's July classification, Vietnam and the Philippines crossed the US$4,636 per-capita GNI threshold for the first time. The lift comes from semiconductor exports, but the next gate is avoiding the middle-income trap.",
+      "title": "Semiconductors Lift Two Nations Into the \"Upper-Middle-Income\" Club — and the Harder Climb Ahead",
+      "subtitle": "In the World Bank's July classification, Vietnam and the Philippines crossed the US$4,636 per-capita GNI threshold for the first time, riding a wave of semiconductor and electronics exports. The real test, analysts say, is escaping the middle-income trap that has ensnared their neighbours.",
       "category": "Economy & Industry",
       "country": "Vietnam / Philippines",
-      "summary": "In the World Bank's July classification, Vietnam and the Philippines crossed the US$4,636 per-capita GNI threshold for the first time, buoyed by semiconductor and electronics exports. But Nikkei Asia warns that reaching high income requires shedding reliance on cheap labour and moving up the value chain. Thailand and Indonesia have fallen into the middle-income trap, while Malaysia leveraged semiconductors to recover. Whether they can upgrade assembly into creation is the real race.",
+      "summary": "In the World Bank's July classification, Vietnam and the Philippines crossed the US$4,636 per-capita GNI threshold for the first time, buoyed by semiconductor and electronics exports. But Nikkei Asia warns that reaching high income requires shedding reliance on cheap labour and moving up the value chain. Thailand and Indonesia have fallen into the middle-income trap, while Malaysia leveraged semiconductors to recover. Vietnam and the Philippines have cleared the first threshold; whether they can upgrade assembly into creation is the real race.",
       "imageAlt": "Workers in blue uniforms at an assembly line in a large factory, symbolising manufacturing upgrade"
     }
   },
@@ -2199,6 +2200,87 @@
       "country": "Vietnam / 越南",
       "summary": "Vietnam posted its eighth straight monthly trade deficit in July, with a seven-month gap of US$20.5 billion already past the 2008 record. Exports rise but imports rise faster, laying bare a \"China supplies, Vietnam assembles, America sells\" chain. Yet US tariff pressure and strain on local industry persist, leaving open whether the deficit is industrialisation's toll or a warning.",
       "imageAlt": "Container port in Vietnam, symbolising its external trade and position in global supply chains."
+    }
+  },
+  {
+    "slug": "southeast-asian-overseas-chinese-leaders-yunnan-2026",
+    "title": "侨见中国商机：28名东南亚侨领赴滇，寻找双向开放的接口",
+    "subtitle": "7月15日，28名来自缅甸、泰国、老挝的海外侨领在云南开启七天研习。他们看产业、谈营商，把侨务的落点从“引资”推到“引智引链”。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨务",
+      "经济产业",
+      "缅甸",
+      "泰国"
+    ],
+    "country": "东南亚",
+    "date": "2026-08-19",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "2026年7月，28名缅甸、泰国、老挝侨领在云南展开七天研习，从昆明到玉溪考察产业与营商。活动把侨务落点从引资推向引智引链，折射云南作为面向南亚东南亚辐射中心，正借侨力打通中国—东盟供应链接口。",
+    "image": "images/articles/southeast-asian-overseas-chinese-leaders-yunnan-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-19",
+    "imageAlt": "东南亚侨领在云南参访产业与城市的场景意象，呼应双向开放",
+    "references": [
+      {
+        "source": "中国侨网 China Qiao Wang",
+        "title": "“侨”见中国商机 28名东南亚侨领赴滇交流",
+        "url": "https://www.chinaqw.com/",
+        "date": "2026-07-15"
+      },
+      {
+        "source": "中国新闻网（云南） China News Service (Yunnan)",
+        "title": "2026年海外侨领相约彩云南研习活动启动",
+        "url": "http://epaperres.chinanews.com/epms/article/html/2026/07/17/1527616584741425152.html",
+        "date": "2026-07-15"
+      }
+    ],
+    "en": {
+      "title": "Seeing China's Opportunities: 28 Southeast Asian Overseas Chinese Leaders Tour Yunnan in Search of Two-Way Opening",
+      "subtitle": "On 15 July 2026, 28 leaders from Myanmar, Thailand and Laos began a seven-day Yunnan study tour. From Kunming to Yuxi, they inspected industries and the business environment, pushing diaspora affairs from 'attracting capital' toward 'attracting talent and chains.'",
+      "category": "Overseas Chinese",
+      "country": "Southeast Asia",
+      "summary": "In July 2026, 28 overseas Chinese leaders from Myanmar, Thailand and Laos undertook a seven-day study tour of Yunnan, visiting Kunming and Yuxi to inspect industries and the business environment. The programme shifts diaspora affairs from attracting capital toward attracting talent and supply chains, reflecting Yunnan's role as China's pivot to South and Southeast Asia and its use of diaspora networks to open a China-ASEAN interface.",
+      "imageAlt": "A scene evoking Southeast Asian diaspora leaders touring Yunnan's industries and cities, echoing two-way opening."
+    }
+  },
+  {
+    "slug": "indonesia-cloud-seeding-haze-2026",
+    "title": "撒盐催雨，难掩焦土：印尼扩大人工增雨抗林火，专家指治标不治本",
+    "subtitle": "印尼林业部8月18日数据显示，今年前七月全国20万公顷土地被烧毁。为压制烟霾，政府扩大人工增雨；但专家直言，这不过是治标，根子在土地而非天空。",
+    "category": "气候变化",
+    "tags": [
+      "印尼",
+      "气候变化",
+      "环境",
+      "烟霾"
+    ],
+    "country": "印尼",
+    "date": "2026-08-19",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "今年前七月，印尼20万公顷土地被林火烧毁，政府扩大人工增雨压制烟霾。但专家指出，旱季缺云令作业效果有限，根子在泥炭地开发与毁林；跨境烟霾更牵涉东盟协定。短期催雨治标，长期仍需土地修复与区域协作。",
+    "image": "images/articles/indonesia-cloud-seeding-haze-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-19",
+    "imageAlt": "印尼林火与烟霾笼罩的土地与城市，呼应气候治理主题",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "印尼扩大人工增雨规模抗林火 专家称治标不治本",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260818-9538098",
+        "date": "2026-08-18"
+      }
+    ],
+    "en": {
+      "title": "Salting the Skies, Not the Soil: Indonesia Scales Up Cloud-Seeding Against Fires, but Experts Call It a Band-Aid",
+      "subtitle": "On 18 August, Indonesia's Ministry of Forestry reported 202,004 hectares burned this year. To suppress the haze, the government is expanding cloud-seeding - yet experts warn the salt in the sky cannot fill the trenches in the soil.",
+      "category": "Climate Change",
+      "country": "Indonesia",
+      "summary": "In the first seven months of 2026, fires burned 202,004 hectares in Indonesia, prompting the government to scale up cloud-seeding against the haze. But experts say the dry-season lack of clouds limits efficacy, and the root cause lies in peatland conversion and burning. Cross-border haze implicates the ASEAN haze pact. Short-term seeding treats symptoms; the long-term cure still demands peatland restoration, land enforcement and regional cooperation.",
+      "imageAlt": "Indonesian land and cities shrouded in haze from forest fires, echoing the climate-governance theme."
     }
   }
 ]
