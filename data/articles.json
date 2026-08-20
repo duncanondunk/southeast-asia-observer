@@ -1,5 +1,43 @@
 [
   {
+    "slug": "qixi-overseas-chinese-2026",
+    "title": "当七夕“出海”：离散族群如何在爱情与传统之间守住自己的节日",
+    "subtitle": "从布宜诺斯艾利斯的火锅到马六甲的“七姐诞”，七夕在海外华人社区正同时承担浪漫与传统的双重角色——这既是文化认同的锚点，也是一场静默的软实力实践。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "七夕",
+      "文化认同",
+      "马来西亚",
+      "离散族群"
+    ],
+    "country": "阿根廷 / 意大利 / 马来西亚 / 美国",
+    "date": "2026-08-20",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "中国新闻网8月19日连线四位海外侨胞：阿根廷唐人街的火锅与新生代认同、都灵王宫前的琵琶《梁祝》、马六甲闽南社群以“七姐诞/七娘妈生”为孩童“护童”祈福、美国华裔教师把节俗搬进跨文化课堂。七夕漂洋过海后，商业浪漫与乞巧、护童等传统仪轨并存——离散族群守住的，反而是母土已稀释的“更厚”版本。",
+    "image": "images/articles/qixi-overseas-chinese-2026.jpg",
+    "imageCredit": "Flickr (via Openverse)",
+    "imageAccessed": "2026-08-20",
+    "imageAlt": "夜空下一组红艳艳的中华灯笼与传统亭台，是海外华人节庆最具辨识度的视觉符号",
+    "references": [
+      {
+        "source": "中国侨网/中新社",
+        "title": "海外侨胞过七夕：既话浪漫亦重传统",
+        "url": "https://www.chinaqw.com/hqhr/2026/08-19/410394.shtml",
+        "date": "2026-08-19"
+      }
+    ],
+    "en": {
+      "title": "When Qixi Goes Overseas: How a Diaspora Holds Its Festival Between Romance and Tradition",
+      "subtitle": "From hotpot in Buenos Aires to the “Seventh Maiden” rites in Malacca, Qixi now carries both romance and tradition in overseas Chinese communities — an anchor of identity and a quiet act of soft power.",
+      "category": "Overseas Chinese",
+      "country": "Argentina / Italy / Malaysia / United States",
+      "summary": "China News Service's August 19 phone interviews with four diaspora figures record how they marked Qixi: hotpot in Buenos Aires' Chinatown and a new generation's identity, the pipa piece \"Butterfly Lovers\" before Turin's Royal Palace, the Hokkien community in Malacca calling Qixi \"Qijie Dan / Qiniangma Sheng\" and performing child-protection rites for children under 16, and a Chinese-heritage teacher in the US folding the festival into cross-cultural classes. Once overseas, Qixi holds commercial romance alongside older rites of qiqiao and child protection — the diaspora may be preserving the \"thicker\" version the homeland has thinned.",
+      "imageAlt": "Red Chinese lanterns glowing against a night sky beside a lit traditional pavilion — the most recognizable visual symbol of overseas Chinese festivals"
+    }
+  },
+  {
     "slug": "myanmar-russia-putin-reliable-partner",
     "title": "克里姆林宫里的“可靠伙伴”：敏昂莱第六次访俄与缅甸的地缘突围",
     "subtitle": "8月18日，缅甸总统敏昂莱在克里姆林宫对普京说“缅甸是俄罗斯在东南亚可靠的伙伴”。一句外交辞令背后，是一个被西方孤立五年的军政府，如何借莫斯科撬动自身的外交空间。",
@@ -2281,6 +2319,115 @@
       "country": "Indonesia",
       "summary": "In the first seven months of 2026, fires burned 202,004 hectares in Indonesia, prompting the government to scale up cloud-seeding against the haze. But experts say the dry-season lack of clouds limits efficacy, and the root cause lies in peatland conversion and burning. Cross-border haze implicates the ASEAN haze pact. Short-term seeding treats symptoms; the long-term cure still demands peatland restoration, land enforcement and regional cooperation.",
       "imageAlt": "Indonesian land and cities shrouded in haze from forest fires, echoing the climate-governance theme."
+    }
+  },
+  {
+    "slug": "overseas-chinese-talent-cross-border-bridge-2026",
+    "title": "侨智搭桥：海外人才如何成为中国企业的出海接口",
+    "subtitle": "8月17日至19日，2026首都侨智发展大会在北京举行，300余位侨界人士聚焦企业出海。马来亚大学张润轩指出，华侨华人可凭融通中外的优势，协助中资对接东南亚合规准入。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "经济产业",
+      "侨务",
+      "马来西亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-20",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "8月17日至19日，2026首都侨智发展大会在北京举行，300余位侨界人士聚焦企业出海。马来亚大学张润轩指出，华侨华人可凭融通中外的优势，协助中资对接东南亚合规准入。",
+    "image": "images/articles/overseas-chinese-talent-cross-border-bridge-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-20",
+    "imageAlt": "吉隆坡城市天际线，象征东南亚与中国之间的产业与人才纽带",
+    "references": [
+      {
+        "source": "中国侨网 China Qiaowang",
+        "title": "侨智搭建跨境合作桥梁",
+        "url": "https://www.chinaqw.com/m/qwxs/2026/08-19/410379.shtml",
+        "date": "2026-08-19"
+      }
+    ],
+    "en": {
+      "title": "Overseas Chinese Talent as a Bridge: How the Diaspora Becomes China's Gateway for Going Global",
+      "subtitle": "From August 17 to 19, the 2026 Beijing Overseas Chinese Talent Conference gathered more than 300 diaspora professionals around Chinese firms going global. Wong Yew Hin of Universiti Malaya argues that overseas Chinese, bridging China and the region, can help companies navigate Southeast Asian compliance and market access.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "The 2026 Beijing Overseas Chinese Talent Conference (Aug 17-19) gathered 300-plus diaspora professionals around Chinese firms going global. Wong Yew Hin of Universiti Malaya argues that overseas Chinese, bridging China and the region, can help companies meet local compliance and market needs.",
+      "imageAlt": "Kuala Lumpur skyline, symbolizing the industrial and talent ties between Southeast Asia and China"
+    }
+  },
+  {
+    "slug": "vietnam-death-penalty-abolition-2026",
+    "title": "越南刑法修正草案拟废除六项死刑 刑罚改革迈出关键一步",
+    "subtitle": "越南政府向国会提交刑法修正草案，拟对叛乱、强奸未成年人、贩毒、危害人类与战争罪等六项罪名废除死刑，保留叛国、谋杀等死刑。预计10月表决、2027年3月生效。",
+    "category": "社会文化",
+    "tags": [
+      "越南",
+      "社会文化",
+      "法律"
+    ],
+    "country": "越南",
+    "date": "2026-08-20",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "越南政府向国会提交刑法修正草案，拟对叛乱、强奸未成年人、贩毒、危害人类与战争罪等六项罪名废除死刑，保留叛国、谋杀等死刑。预计10月表决、2027年3月生效。",
+    "image": "images/articles/vietnam-death-penalty-abolition-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-20",
+    "imageAlt": "河内城市景观，越南首都",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "越南刑法修正案草案拟对六项罪行废除死刑",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260820-9546962",
+        "date": "2026-08-20"
+      }
+    ],
+    "en": {
+      "title": "Vietnam's Draft Penal Code Revision Would Abolish the Death Penalty for Six Crimes",
+      "subtitle": "Vietnam submitted a draft penal-code revision proposing to abolish the death penalty for six crimes - including drug trafficking and rape of minors - while retaining it for treason and murder. A vote is expected in October, with the law taking effect in March 2027.",
+      "category": "Society & Culture",
+      "country": "Vietnam",
+      "summary": "Vietnam submitted a draft penal-code revision proposing to abolish the death penalty for six crimes - including drug trafficking and rape of minors - while retaining it for treason and murder. Parliament is expected to vote in October, with the law taking effect in March 2027.",
+      "imageAlt": "Hanoi cityscape, the Vietnamese capital"
+    }
+  },
+  {
+    "slug": "thailand-myanmar-top-generals-talks-2026",
+    "title": "继元首会晤后 泰缅最高军事将领会谈 边境安全议题浮上桌面",
+    "subtitle": "泰国武装部队总司令乌克里斯8月20日在曼谷会见缅甸军方领导人耶温乌，系后者上任后首次出访。双方预计聚焦2400公里边境的难民、武装冲突与贩毒外溢问题。",
+    "category": "地缘政治",
+    "tags": [
+      "泰国",
+      "缅甸",
+      "地缘政治"
+    ],
+    "country": "泰国 / 缅甸",
+    "date": "2026-08-20",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "泰国武装部队总司令乌克里斯8月20日在曼谷会见缅甸军方领导人耶温乌，系后者上任后首次出访。双方预计聚焦2400公里边境的难民、武装冲突与贩毒外溢问题，引发人权组织批评。",
+    "image": "images/articles/thailand-myanmar-top-generals-talks-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-20",
+    "imageAlt": "缅甸曼德勒乌本桥，象征泰缅边境地带的地缘张力",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "继元首会晤后 泰缅最高军事将领举行会谈",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260820-9547477",
+        "date": "2026-08-20"
+      }
+    ],
+    "en": {
+      "title": "After Leaders' Summit, Thailand and Myanmar's Top Generals Meet; Border Security Takes Center Stage",
+      "subtitle": "Thailand's armed forces commander Ukris Boontanondha met Myanmar's military leader Ye Win Oo in Bangkok on Aug 20 - the latter's first foreign trip since taking office. Talks are expected to focus on the 2,400 km border.",
+      "category": "Geopolitics",
+      "country": "Thailand / Myanmar",
+      "summary": "Thailand's armed forces commander Ukris Boontanondha met Myanmar's military leader Ye Win Oo in Bangkok on Aug 20 - the latter's first foreign trip since taking office. Talks are expected to focus on the 2,400 km border, where Myanmar's civil war spills over into refugees, conflict and trafficking, drawing criticism from rights groups.",
+      "imageAlt": "U Bein Bridge in Mandalay, Myanmar, evoking the geopolitical tension along the Thailand-Myanmar border"
     }
   }
 ]

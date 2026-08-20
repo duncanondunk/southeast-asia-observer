@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-19",
+  "version": "2026-08-20",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -374,6 +374,34 @@
       "slugs": [
         "indonesia-cloud-seeding-haze-2026"
       ]
+    },
+    "event:2026首都侨智发展大会(侨智搭桥跨境合作)": {
+      "slugs": [
+        "overseas-chinese-talent-cross-border-bridge-2026"
+      ],
+      "note": "",
+      "exception": null
+    },
+    "event:越南刑法修正草案废除死刑(2026-08)": {
+      "slugs": [
+        "vietnam-death-penalty-abolition-2026"
+      ],
+      "note": "",
+      "exception": null
+    },
+    "event:泰缅最高军事将领会谈(2026-08)": {
+      "slugs": [
+        "thailand-myanmar-top-generals-talks-2026"
+      ],
+      "note": "",
+      "exception": null
+    },
+    "event:海外侨胞过七夕(七夕文化传承,2026)": {
+      "slugs": [
+        "qixi-overseas-chinese-2026"
+      ],
+      "note": "全新素材（中国侨网/中新社，2026-08-19），华侨华人离散节俗主题：阿根廷/意大利/马来西亚/美国四个侨社的七夕实践，重点是马六甲闽南社群“七姐诞/七娘妈生”的护童仪式。",
+      "exception": null
     }
   }
 }

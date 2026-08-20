@@ -30,12 +30,12 @@
     '越南': 'Vietnam', '印度尼西亚': 'Indonesia', '新加坡': 'Singapore',
     '菲律宾': 'Philippines', '湄公河流域': 'Mekong Basin',
     '人工智能': 'Artificial Intelligence', '制造业': 'Manufacturing', '半导体': 'Semiconductor',
-    '社会文化': 'Society & Culture', '社会政策': 'Social Policy',
+    '社会文化': 'Society & Culture', '社会政策': 'Social Policy', '法律': 'Law',
     '马来西亚': 'Malaysia', '缅甸': 'Myanmar', '泰国': 'Thailand', '印尼': 'Indonesia',
     '难民': 'Refugees', '文化遗产': 'Cultural Heritage', '教育': 'Education',
     '环境': 'Environment', '烟霾': 'Haze', '客家': 'Hakka', '福建': 'Fujian', '韩国': 'South Korea', '中国': 'China', '贸易': 'Trade', '榴莲': 'Durian', '农产品': 'Agriculture', '美国': 'United States', '军事': 'Military', '金眼镜蛇': 'Cobra Gold', '侨乡': 'Qiaoxiang', '广东': 'Guangdong', '灾害': 'Disaster', '地震': 'Earthquake', '海啸': 'Tsunami',     'GDP': 'GDP', 'AI': 'AI', '出口': 'Exports', '一带一路': 'Belt and Road', '基础设施': 'Infrastructure', '铁路': 'Railway', '能源': 'Energy', '天然气': 'Natural Gas',
     '归侨': 'Returned Overseas Chinese', '离散记忆': 'Diaspora Memory', '南洋': 'Nanyang (Southeast Asia, old term)',
-    '数据中心': 'Data Centre', '数字经济': 'Digital Economy', '中文': 'Chinese / Mandarin', '文化传承': 'Cultural Inheritance', '代际传承': 'Generational Succession'
+    '数据中心': 'Data Centre', '数字经济': 'Digital Economy', '企业出海': 'Chinese Firms Going Global', '侨智': 'Overseas Chinese Talent', '中文': 'Chinese / Mandarin', '文化传承': 'Cultural Inheritance', '代际传承': 'Generational Succession'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 
