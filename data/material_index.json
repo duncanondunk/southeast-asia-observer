@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-20",
+  "version": "2026-08-21",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -395,6 +395,28 @@
       ],
       "note": "全新素材（中国侨网/中新社，2026-08-19），华侨华人离散节俗主题：阿根廷/意大利/马来西亚/美国四个侨社的七夕实践，重点是马六甲闽南社群“七姐诞/七娘妈生”的护童仪式。",
       "exception": null
+    },
+    "policy:240小时过境免签扩至越南公民(2026-08-20)": {
+      "slugs": [
+        "vietnam-china-240h-transit-visa-free"
+      ],
+      "exception": null,
+      "note": "全新素材（中国侨网，2026-08-20），东南亚人员往来/周边外交主题；与既有东南亚离散、经贸、签证相关条目无冲突。"
+    },
+    "event:缅甸华裔青年刘允以中文搭中缅文化桥(2026)": {
+      "slugs": [
+        "myanmar-chinese-youth-liu-yun-2026"
+      ]
+    },
+    "event:菲律宾西南季风暴雨洪灾(2026-08)": {
+      "slugs": [
+        "philippines-floods-villages-submerged-2026"
+      ]
+    },
+    "event:安华涉台表态与一中政策(2026-08)": {
+      "slugs": [
+        "malaysia-anwar-china-territorial-integrity-2026"
+      ]
     }
   }
 }
