@@ -34,7 +34,15 @@
       "category": "Geopolitics",
       "country": "Vietnam",
       "summary": "From 20 August 2026, Vietnamese and Kyrgyz citizens may use China's 240-hour transit visa-free policy and Hainan's 30-day entry waiver, lifting participant counts to 57 and 61. A modest tweak on paper, it is a soft instrument of Beijing's peripheral diplomacy — signalling goodwill through people's movement rather than ships, above all toward a rivalry-bound Vietnam. Yet the one-way waiver also exposes the absence of reciprocity and the ceiling of soft power.",
-      "imageAlt": "A cyclo driver weaving through Hanoi traffic and shophouses — the quintessential image of everyday Vietnamese city life"
+      "imageAlt": "A cyclo driver weaving through Hanoi traffic and shophouses — the quintessential image of everyday Vietnamese city life",
+      "references": [
+        {
+          "source": "China Qiaowang (chinaqw.com)",
+          "title": "今起吉尔吉斯斯坦、越南公民可适用240小时过境免签政策",
+          "url": "https://www.chinaqw.com/huazhu/2026/08-20/410415.shtml",
+          "date": "2026-08-20"
+        }
+      ]
     }
   },
   {
@@ -2429,48 +2437,6 @@
       "country": "Thailand / Myanmar",
       "summary": "Thailand's armed forces commander Ukris Boontanondha met Myanmar's military leader Ye Win Oo in Bangkok on Aug 20 - the latter's first foreign trip since taking office. Talks are expected to focus on the 2,400 km border, where Myanmar's civil war spills over into refugees, conflict and trafficking, drawing criticism from rights groups.",
       "imageAlt": "U Bein Bridge in Mandalay, Myanmar, evoking the geopolitical tension along the Thailand-Myanmar border"
-    }
-  },
-  {
-    "slug": "myanmar-chinese-youth-liu-yun-2026",
-    "title": "缅甸华裔青年刘允：以中文为媒，搭起中缅文化连心桥",
-    "subtitle": "来华求学六载，她准备回国执鞭，以国际中文教育拉紧中缅民间纽带",
-    "category": "华侨华人",
-    "tags": [
-      "华侨华人",
-      "缅甸",
-      "中文",
-      "文化传承",
-      "侨务"
-    ],
-    "country": "缅甸",
-    "date": "2026-08-21",
-    "image": "images/articles/myanmar-chinese-youth-liu-yun-2026.jpg",
-    "imageCredit": "Pexels (pexels.com)",
-    "imageAccessed": "2026-08-21",
-    "imageAlt": "缅甸街头与佛塔景观",
-    "summary": "缅甸华裔青年刘允来华求学六载，因家学渊源与中文血脉相连。她即将回国执鞭，以国际中文教育拉紧中缅民间文化纽带。",
-    "references": [
-      {
-        "source": "中国侨网（中国新闻网）",
-        "title": "华裔新生代｜缅甸华裔青年刘允：以中文为媒 搭起中缅文化连心桥",
-        "url": "https://www.chinaqw.com/m/sp/2026/06-29/408183.shtml",
-        "date": "2026-06-29"
-      }
-    ],
-    "en": {
-      "title": "Myanmar Chinese Youth Liu Yun: Bridging China–Myanmar Cultures Through the Chinese Language",
-      "subtitle": "After six years studying in China, she plans to return home and teach, using Chinese education to tighten people-to-people ties.",
-      "imageAlt": "Street scene in Myanmar with pagodas",
-      "summary": "Myanmar Chinese youth Liu Yun has studied in China for six years, bound to the language by family roots. Returning home to teach, she uses Chinese education to tighten China–Myanmar cultural ties.",
-      "references": [
-        {
-          "source": "China Qiaowang (chinaqw.com)",
-          "title": "Ethnic-Chinese New Generation | Myanmar Chinese Youth Liu Yun: Bridging China–Myanmar Cultures Through the Chinese Language",
-          "url": "https://www.chinaqw.com/m/sp/2026/06-29/408183.shtml",
-          "date": "2026-06-29"
-        }
-      ]
     }
   },
   {

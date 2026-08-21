@@ -40,6 +40,12 @@
 
 对越南而言，信号是双重编码的：一项实在的旅游与中转便利，也是一句安静的提醒——北京更愿意用签证与海滩度假村、而非手边更锋利的器具，去争夺越南的好感。河内是否会以自己的豁免相向，是改天的问题，且大概率缓慢。在此之前，这240小时，是就"亲近"而下的一笔小巧、有用、且刻意单向的赌注——形式上慷慨，目的上算计，在不愿给予什么这件事上，反而袒露无遗。
 
+## 延伸阅读
+
+- **过境免签（Transit Visa-Free）**：旅客持前往第三国的联程机票，可在中转国免签短暂停留的便利化制度；中国自2013年72小时起步，逐步放宽至240小时。
+- **周边外交（Peripheral Diplomacy）**：中国面向邻近国家的外交政策框架，常用"周边命运共同体"表述，强调务实合作与互信。
+- **海南自贸港（Hainan Free Trade Port）**：中国唯一省级自贸港，以旅游与高水平开放为定位，免签政策是其引流手段之一。
+
 *话题参考：中国侨网（chinaqw.com）一周热点——《今起吉尔吉斯斯坦、越南公民可适用240小时过境免签政策》。*
 
 ===EN===
@@ -85,5 +91,11 @@ That asymmetry is not necessarily a failure. A large country with strict border 
 So what should we make of two countries added to a list? Not much, if we count only the travellers affected this year. A great deal, if we read the move as a data point in a decade-long, deliberate broadening of China's external mobility regime — one that now stretches across both its Central Asian and Southeast Asian peripheries, and that uses the humblest of instruments, a passport stamp waived at a transit desk, to say something about openness.
 
 For Vietnam, the signal is doubly coded: a practical tourism and transit convenience, and a quiet reminder that Beijing prefers to compete for Vietnamese goodwill through visas and beach resorts rather than through the sharper instruments available to it. Whether Hanoi reciprocates with its own waiver is a question for another day, and probably a slow one. Until then, the 240 hours stand as a small, useful, and deliberately one-sided wager on proximity — generous in form, calculated in purpose, and revealing in what it declines to offer.
+
+## Further reading
+
+- **Transit Visa-Free**: a facilitation letting travellers with an onward third-country ticket stay briefly visa-free while in transit; China has widened it from 72 hours in 2013 to 240 hours today.
+- **Peripheral Diplomacy**: China's foreign-policy framework toward neighbouring states, framed by the language of a "community with a shared future" and pragmatic cooperation.
+- **Hainan Free Trade Port**: China's only provincial-level free-trade port, positioned on tourism and high-level opening, using visa waivers as a traffic tool.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "今起吉尔吉斯斯坦、越南公民可适用240小时过境免签政策".*
