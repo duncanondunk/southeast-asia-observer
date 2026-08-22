@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-21",
+  "version": "2026-08-22",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -411,6 +411,27 @@
     "event:安华涉台表态与一中政策(2026-08)": {
       "slugs": [
         "malaysia-anwar-china-territorial-integrity-2026"
+      ]
+    },
+    "policy:丽水侨贸百千万工程(东南亚链路,2026-08)": {
+      "note": "全新素材（中国侨网，2026-08-11），侨贸/青田侨乡/柬埔寨供应链主题，与既有侨乡、经贸条目不重复。",
+      "exception": null,
+      "slugs": [
+        "lishui-qiaomao-southeast-asia-link-2026"
+      ]
+    },
+    "event:中国印尼全面战略对话机制首次会议(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-21）。与 relation:中印尼关系(普拉博沃) 区分：本文聚焦全面战略对话机制首次会议+五大支柱+矿能/2+2安全架构，属机制化进程的新事件，非领导人关系复述。",
+      "exception": null,
+      "slugs": [
+        "china-indonesia-strategic-dialogue-2026"
+      ]
+    },
+    "event:柔州务大臣访新招揽潜在投资(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-21），柔新经济特区/新马经济协同主题。",
+      "exception": null,
+      "slugs": [
+        "johor-mb-singapore-investment-2026"
       ]
     }
   }

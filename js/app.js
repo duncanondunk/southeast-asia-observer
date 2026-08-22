@@ -35,7 +35,8 @@
     '难民': 'Refugees', '文化遗产': 'Cultural Heritage', '七夕': 'Qixi', '教育': 'Education',
     '环境': 'Environment', '烟霾': 'Haze', '客家': 'Hakka', '福建': 'Fujian', '韩国': 'South Korea', '中国': 'China', '贸易': 'Trade', '榴莲': 'Durian', '农产品': 'Agriculture', '美国': 'United States', '军事': 'Military', '金眼镜蛇': 'Cobra Gold', '侨乡': 'Qiaoxiang', '广东': 'Guangdong', '灾害': 'Disaster', '地震': 'Earthquake', '海啸': 'Tsunami',     'GDP': 'GDP', 'AI': 'AI', '出口': 'Exports', '一带一路': 'Belt and Road', '基础设施': 'Infrastructure', '铁路': 'Railway', '能源': 'Energy', '天然气': 'Natural Gas',
     '归侨': 'Returned Overseas Chinese', '离散记忆': 'Diaspora Memory', '南洋': 'Nanyang (Southeast Asia, old term)',
-    '数据中心': 'Data Centre', '数字经济': 'Digital Economy', '企业出海': 'Chinese Firms Going Global', '侨智': 'Overseas Chinese Talent',     '中文': 'Chinese / Mandarin', '文化传承': 'Cultural Inheritance', '代际传承': 'Generational Succession', '过境免签': 'Transit Visa-Free', '周边外交': 'Peripheral Diplomacy', '人员往来': 'People-to-People Exchange', '海南': 'Hainan'
+    '数据中心': 'Data Centre', '数字经济': 'Digital Economy', '企业出海': 'Chinese Firms Going Global', '侨智': 'Overseas Chinese Talent',     '中文': 'Chinese / Mandarin', '文化传承': 'Cultural Inheritance', '代际传承': 'Generational Succession', '过境免签': 'Transit Visa-Free', '周边外交': 'Peripheral Diplomacy', '人员往来': 'People-to-People Exchange', '海南': 'Hainan',
+    '浙江': 'Zhejiang', '青田': 'Qingtian', '柬埔寨': 'Cambodia', '侨贸': 'Qiaomao (Overseas-Chinese Trade)', '中印尼关系': 'China–Indonesia Relations', '全面战略伙伴': 'Comprehensive Strategic Partnership', '矿物能源': 'Minerals & Energy', '投资': 'Investment', '柔佛': 'Johor', '经济特区': 'Special Economic Zone', '经济外交': 'Economic Diplomacy'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 
