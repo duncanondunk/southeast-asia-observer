@@ -1,5 +1,144 @@
 [
   {
+    "slug": "12th-overseas-chinese-fair-shenzhen-2026",
+    "title": "第十二届侨交会落幕：以侨为桥，千企万品\"出海\"亚太",
+    "subtitle": "一场以\"侨\"为名的亚太经贸盛会，正从展会偶遇走向常年走动，侨商网络成为中企深耕亚太的\"超级链接器\"",
+    "category": "经济产业",
+    "tags": [
+      "侨交会",
+      "APEC",
+      "亚太",
+      "经贸合作",
+      "企业出海",
+      "供应链"
+    ],
+    "country": "中国",
+    "date": "2026-08-23",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "中国侨网报道，第十二届华人华侨产业交易会暨2026亚太产业合作与出海博览会8月22日在深圳落幕。三天展期意向采购27亿元、逾50国客商赴会，侨商网络成为中企深耕亚太的“超级链接器”。",
+    "image": "images/articles/12th-overseas-chinese-fair-shenzhen-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-23",
+    "imageAlt": "深圳会展中心内人头攒动的展会现场，展商与采购商在展位间洽谈对接",
+    "references": [
+      {
+        "source": "中国侨网（来源：中新网）",
+        "title": "第十二届侨交会启幕 以侨为桥搭建亚太经贸合作桥梁",
+        "url": "https://www.chinaqw.com/jjkj/2026/08-21/410489.shtml",
+        "date": "2026-08-21"
+      }
+    ],
+    "en": {
+      "title": "12th Overseas Chinese Entrepreneurs Fair Closes: Bridging with the Diaspora, Pushing \"Thousands of Firms, Ten Thousands of Products\" into Asia-Pacific",
+      "subtitle": "A diaspora-named Asia-Pacific trade gathering is shifting from exhibition encounters toward year-round engagement, with the diaspora network as a super-connector",
+      "category": "Economy & Industry",
+      "country": "China",
+      "summary": "China Qiaowang reports the 12th Overseas Chinese Entrepreneurs Fair and 2026 Asia-Pacific Industry Cooperation & Going-Global Expo closed in Shenzhen on 22 August. Across three days it drew professional visitors from over 50 countries, with intended procurement of 2.7 billion yuan; the overseas-Chinese business network is emerging as a super-connector for Chinese firms deepening in Asia-Pacific.",
+      "imageAlt": "A busy exhibition hall at the Shenzhen convention center, with exhibitors and buyers negotiating across booths",
+      "references": [
+        {
+          "source": "China Qiaowang (chinaqw.com)",
+          "title": "12th Overseas Chinese Entrepreneurs Fair Opens, Bridging with the Diaspora to Build an Asia-Pacific Economic and Trade Cooperation Bridge",
+          "url": "https://www.chinaqw.com/jjkj/2026/08-21/410489.shtml",
+          "date": "2026-08-21"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "southern-thailand-unrest-curfew-2026",
+    "title": "泰南三府连环骚乱，当局宵禁管控：分离主义暗流的又一次抬头",
+    "subtitle": "那拉提瓦、也拉、北大年三府一夜之间连环爆炸与纵火，唤醒泰南长期分离主义 insurgency 的未愈伤口",
+    "category": "地缘政治",
+    "tags": [
+      "泰南",
+      "宵禁",
+      "分离主义",
+      "泰国",
+      "地缘政治"
+    ],
+    "country": "泰国",
+    "date": "2026-08-23",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "联合早报报道，泰国南部那拉提瓦、也拉、北大年三府8月22日接连发生爆炸与纵火，那拉提瓦至少11起、汽车爆炸致2伤，当局实施宵禁。事件唤醒人们对泰南长期分离主义 insurgency 的记忆。",
+    "image": "images/articles/southern-thailand-unrest-curfew-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-23",
+    "imageAlt": "泰国南部石灰岩海岸的宁静景观，与边境地带长期潜伏的分离主义张力形成对照",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "泰南三府发生一连串骚乱事件 当局实施宵禁管控局势",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260823-9560090",
+        "date": "2026-08-23"
+      }
+    ],
+    "en": {
+      "title": "Unrest Across Three Southern Thailand Provinces Prompts Curfew: Another Surge of Separatist Undercurrents",
+      "subtitle": "A night of bombings and arson across Narathiwat, Yala and Pattani reopens the unhealed wound of the South's long separatist insurgency",
+      "category": "Geopolitics",
+      "country": "Thailand",
+      "summary": "Lianhe Zaobao reports that on 22 August explosions and arson hit Thailand's southern provinces of Narathiwat, Yala and Pattani; Narathiwat saw at least 11 incidents and a car bombing wounded two. Authorities imposed a curfew, reawakening memories of the region's long separatist insurgency.",
+      "imageAlt": "A tranquil limestone-coast landscape in southern Thailand, set against the latent separatist tension of the border region",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Unrest Across Three Southern Thailand Provinces Prompts Curfew to Control the Situation",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260823-9560090",
+          "date": "2026-08-23"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "malaysia-domestic-chips-2030-2026",
+    "title": "马来西亚放眼2030年量产本土晶片：从封装测试迈向设计与制造",
+    "subtitle": "借安谋（Arm）授权，马国力图从全球\"封测王国\"升级为掌握设计与制造两端的半导体国家",
+    "category": "经济产业",
+    "tags": [
+      "半导体",
+      "晶片",
+      "安谋",
+      "马来西亚",
+      "制造业"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-23",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "联合早报报道，马来西亚经济部长阿克马纳斯鲁拉表示，借助与安谋控股（Arm）的技术授权，马国力争最迟2030年量产本土设计与制造晶片；十年将付2.5亿美元授权费，目标2030年半导体出口1.2万亿令吉（约1.9万亿元人民币）。",
+    "image": "images/articles/malaysia-domestic-chips-2030-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-23",
+    "imageAlt": "电路板上密布的微处理器与电子元件特写，象征马来西亚力图自主的晶片制造野心",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国放眼2030年生产本土晶片",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260822-9558096",
+        "date": "2026-08-22"
+      }
+    ],
+    "en": {
+      "title": "Malaysia Aims to Produce Homegrown Chips by 2030: From Assembly-Test toward Design and Fabrication",
+      "subtitle": "Via Arm licensing, Malaysia seeks to upgrade from the world's 'packaging kingdom' to a semiconductor nation mastering both design and fabrication",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Lianhe Zaobao reports Economy Minister Akmal Nasrullah said Malaysia, via licensing from Arm Holdings, aims to mass-produce domestically designed and manufactured chips by 2030. Over a decade it will pay Arm US$250 million, targeting 1.2 trillion ringgit (about US$264 billion) in semiconductor exports by 2030.",
+      "imageAlt": "Close-up of microprocessors and electronic components densely packed on a circuit board, symbolising Malaysia's bid for chip-making autonomy",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Malaysia Aims to Produce Homegrown Chips by 2030",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260822-9558096",
+          "date": "2026-08-22"
+        }
+      ]
+    }
+  },
+  {
     "slug": "lishui-qiaomao-southeast-asia-link-2026",
     "title": "以侨为桥 贸通世界：丽水侨贸“百千万”工程开辟东南亚新链路",
     "subtitle": "一笔12万美元的试单，如何借力青田侨胞网络，把侨贸一体化从标语变成可复制的出口通道",

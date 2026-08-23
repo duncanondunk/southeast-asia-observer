@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-22",
+  "version": "2026-08-23",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -432,6 +432,27 @@
       "exception": null,
       "slugs": [
         "johor-mb-singapore-investment-2026"
+      ]
+    },
+    "event:第十二届侨交会(深圳·亚太出海,2026-08)": {
+      "note": "全新素材（中国侨网，2026-08-21）。侨交会/侨助千企万品出海/APEC亚太经贸合作主题，与既有侨乡、经贸、企业出海条目不重复。",
+      "exception": null,
+      "slugs": [
+        "12th-overseas-chinese-fair-shenzhen-2026"
+      ]
+    },
+    "event:泰南三府骚乱与宵禁(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-23）。泰南分离主义 insurgency 主题，与既有缅甸/泰国条目不重复。",
+      "exception": null,
+      "slugs": [
+        "southern-thailand-unrest-curfew-2026"
+      ]
+    },
+    "event:马来西亚2030本土晶片计划(Arm授权,2026-08)": {
+      "note": "全新素材（联合早报，2026-08-22）。马来西亚半导体自主/安谋授权主题，与马澳稀土、关税转移等不重复。",
+      "exception": null,
+      "slugs": [
+        "malaysia-domestic-chips-2030-2026"
       ]
     }
   }
