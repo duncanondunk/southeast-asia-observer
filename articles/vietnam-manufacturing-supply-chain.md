@@ -92,8 +92,7 @@ Vietnam's story is one of a developing country carving out space between giants.
 
 As for the geopolitical dividend — how long it lasts was never Vietnam's call to make.
 
-## Further Reading
-
+## Further reading
 **Đổi Mới (Renovation)** — Vietnam's economic reforms launched in 1986, shifting from a planned to a market-oriented economy and opening the country to global manufacturing. The electronics and textile rise described here is the four-decade fruit of that turn.
 
 **"China Plus One"** — A strategy in which multinationals spread production beyond China — to Vietnam, India and elsewhere — to diversify supply chains. U.S.–China rivalry has amplified Vietnam's geopolitical value but also pushed it onto a diplomatic tightrope.

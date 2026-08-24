@@ -56,7 +56,7 @@ Destry is seen as a pragmatic, market-friendly technocrat who knows the central 
 
 ## The old question of independence
 
-Central bank independence is hardly an Indonesian peculiarity. Yet under Prabowo it has been pushed to the foreground: the government has demanded that the bank support its growth agenda, and parliament passed a law empowering it to performance-review the central bank. Wijayanto notes these moves give the government more room to intervene, and outside unease about independence will not fade.
+Central bank independence is hardly an Indonesian peculiarity. Yet under Prabowo it has been pushed to the foreground: the government has demanded that the bank support its growth agenda, and parliament passed a law empowering it to conduct performance reviews of the central bank. Wijayanto notes these moves give the government more room to intervene, and outside unease about independence will not fade.
 
 A'an put it bluntly: "Destry was nominated by Prabowo; one cannot rule out that she may feel grateful to him. Keeping her independence is the homework she must do." Indonesia's parliament has not rejected a president's central-bank nominee since 2008, and the ruling coalition holds most seats, so her confirmation is expected. The procedure holds no suspense; the suspense lies beyond it.
 

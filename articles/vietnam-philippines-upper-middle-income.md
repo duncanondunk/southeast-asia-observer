@@ -1,3 +1,5 @@
+# 越南与菲律宾迈入中高收入门槛：半导体出口驱动的增长跃迁
+
 ## 数字：越过了那道门槛
 
 在半导体与其他电子产品出口增长的带动下，越南与菲律宾的经济格局悄然升级。世界银行今年7月发布的年度国家收入分类显示，两国去年的人均国民总收入分别升至4970美元（约3.57万元人民币）和4850美元（约3.48万元人民币），双双越过今年4636美元（约3.33万元人民币）的中高收入门槛，首次跻身这一行列。
@@ -20,7 +22,7 @@
 
 ## 下一程：从廉价劳力到高附加值
 
-越南能否在2037年前后超过泰国、2040年左右跻身高收入，取决于它能否把"组装"升级为"创造"。菲律宾语义上的"硅和平"入局，是借势，也是警示：供应链的安全叙事，终要落到本土能力上。
+越南能否在2037年前后超过泰国、2040年左右跻身高收入，取决于它能否把"组装"升级为"创造"。菲律宾加入"硅和平"（Pax Silica），是借势，也是警示：供应链的安全叙事，终要落到本土能力上。
 
 一个普遍命题浮现于此：中等收入不是终点，而是一道筛子。它奖励那些把外部红利转化为内生能力的国家，也冷落那些停在舒适区里的玩家。越南与菲律宾刚刚跨过第一道门槛，真正的比赛，才刚刚鸣枪。
 
@@ -28,9 +30,11 @@
 
 ===EN===
 
+# Vietnam and the Philippines Cross the Upper-Middle-Income Threshold
+
 ## The numbers: crossing the threshold
 
-Buoyed by growth in semiconductor and electronics exports, the economic profile of Vietnam and the Philippines has quietly upgraded. In the World Bank's July annual income classification, the two countries' gross national income per capita last year rose to US$4,970 (about S$6,350, ≈US$4,700) and US$4,850 respectively, both clearing this year's upper-middle-income threshold of US$4,636. They entered the bracket for the first time.
+Buoyed by growth in semiconductor and electronics exports, the economic profile of Vietnam and the Philippines has quietly upgraded. In the World Bank's July annual income classification, the two countries' gross national income per capita last year rose to US$4,970 (about S$6,350, ≈RMB 35,700) and US$4,850 respectively, both clearing this year's upper-middle-income threshold of US$4,636. They entered the bracket for the first time.
 
 In other words, by per-capita GNI, two economies long cast as "low-cost manufacturing bases" have written their names into the more consequential column.
 

@@ -92,7 +92,7 @@ The swing is not arbitrary. Behind it is the tug of three domestic forces:
 2. **Economic and local interests** — dependent on trade with China, Chinese tourists, and Chinese investment.
 3. **Nationalist opinion** — highly sensitive to any concession on sovereignty.
 
-The relative strength of these three shifts with the domestic and international environment, setting the pendulum's direction. **Understanding the pendulum matters more than judging which swing was "right."**
+The relative strength of these three forces shifts with the domestic and international environment, setting the pendulum's direction. **Understanding the pendulum matters more than judging which swing was "right."**
 
 ## A Metaphor for ASEAN
 
@@ -106,8 +106,7 @@ The Philippine pendulum will keep swinging. The next swing's direction depends o
 
 But one thing is certain: **for a developing country, weighing sovereignty against interest, security against economy, again and again, is not weakness — it is the norm of survival.** And that norm comes at a high cost.
 
-## Further Reading
-
+## Further reading
 **Rodrigo Duterte** — The 16th president of the Philippines (2016–2022). He downplayed the arbitration outcome and tilted toward Beijing in exchange for infrastructure pledges; his "toward Beijing, away from Washington" course is read here as one swing of the pendulum.
 
 **EDCA (Enhanced Defense Cooperation Agreement)** — Signed by the U.S. and the Philippines in 2014, it lets American forces rotate through and pre-position equipment at designated Philippine bases. Originally five sites, it was expanded to nine under Marcos Jr. in 2023, anchoring his "return to the U.S. alliance."

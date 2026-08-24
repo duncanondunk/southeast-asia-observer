@@ -14,7 +14,7 @@
 
 ## 强加的沉默，而非主动的选择
 
-要理解一个印尼华人家庭为什么要等着一部电影"轮到自己"，得回想：印尼的华人并不是简单地"漂离"了传统。从上世纪60年代中期到90年代末约三十年间，苏哈托（Suharto）时代的政权禁止公开使用华文、关闭华校、将华人文化生活公开表达定为犯罪。一整代人长大，读不懂祖父母写下的汉字，也跟不上父母记得的方言广播。
+要理解一个印尼华人家庭为什么要等着一部电影"轮到自己"，得回想：印尼的华人并不是简单地"漂离"了传统。从上世纪60年代中期到90年代末约三十年间，苏哈托（Suharto）时代的政权禁止公开使用华文、关闭华校、将华人文化生活的公开表达定为犯罪。一整代人长大，读不懂祖父母写下的汉字，也跟不上父母记得的方言广播。
 
 这正是陈美专的生平为何如此有说服力。她属于在关闭之前"接受"到完整华文教育的那一代——从幼儿园到高中的华校——因此至今把语言当成肌肉记忆带着。沉默落在她之后的人头上：正如报道温和地写道，那些孩子"渐渐听不懂祖辈的乡音"。记忆不是被抛弃，而是被政策打断。
 
@@ -84,7 +84,7 @@ That the film reached Malaysia and Singapore first, and only later Indonesia, is
 
 ## The limits of a single screening
 
-It would be sentimental to overstate what one documentary can do. A premiere in Jakarta does not reopen the Chinese schools, does not restore the dialects that dissolved under prohibition, does not undo the suspicion that attached to Chinese identity for so long. Tan can mouth the Teochew along with the screen only because she is an exception:: she had the luck of a pre-ban education and a family that kept speaking at home.
+It would be sentimental to overstate what one documentary can do. A premiere in Jakarta does not reopen the Chinese schools, does not restore the dialects that dissolved under prohibition, does not undo the suspicion that attached to Chinese identity for so long. Tan can mouth the Teochew along with the screen only because she is an exception: she had the luck of a pre-ban education and a family that kept speaking at home.
 
 Yet the scene also suggests a pathway. Memory, once silenced, does not return through policy alone. It returns through repetition — a song hummed, a letter read aloud, a film watched with a parent. The son who accompanied his mother, and who remembered her longing for the film, is part of that chain. So is the classroom in Jieyang that Tan's father donated and that his children later visited: a physical tie between diaspora and *Tangshan* that outlasted the silence.
 
@@ -94,8 +94,7 @@ For a blog that observes Southeast Asia rather than advocates, the lesson is mod
 
 The eighty-two-year-old who stayed in her seat after the credits is not a relic of a lost past. She is evidence that the past was never fully lost — only waiting, in a language, for someone to press play.
 
-## Further Reading
-
+## Further reading
 **Teochew (潮州话)** — A variety of Southern Min Chinese from the Chaoshan region of Guangdong. Many ethnic Chinese of Teochew origin in Southeast Asia keep their dialect as a tie to home and kin; in the film, the grandmother recognizes the screen's "code" precisely because of this language.
 
 **Indonesia's Chinese-language ban** — Under Suharto's New Order, public use of Chinese languages was banned and Chinese schools were closed from 1966, a restriction lasting about three decades. After the 1998 reformasi it was gradually relaxed. The "imposed silence" in the text refers to this period.

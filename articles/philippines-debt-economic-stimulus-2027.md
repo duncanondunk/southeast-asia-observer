@@ -44,7 +44,7 @@ Weighed down by a sluggish construction sector and weak domestic demand, the Phi
 
 ## The 2.3% warning
 
-The story behind the number is straightforward. Construction, a key growth engine in recent years, has slumped; household consumption, the traditional支柱, weakened under inflation and job uncertainty. Worse, external shocks piled up — the Middle East conflict pushed up energy and import costs, while domestic corruption scandals eroded public-investment efficiency and market confidence. Reuters plainly called it the slowest quarter since 2021.
+The story behind the number is straightforward. Construction, a key growth engine in recent years, has slumped; household consumption, the traditional pillar, weakened under inflation and job uncertainty. Worse, external shocks piled up — the Middle East conflict pushed up energy and import costs, while domestic corruption scandals eroded public-investment efficiency and market confidence. Reuters plainly called it the slowest quarter since 2021.
 
 For an economy leaning on overseas remittances and services, a drop to 2.3% is not merely a statistical low but a real pressure on jobs and livelihoods. With the first half at 2.6%, a sharp second-half rebound under the current rhythm looks unlikely — which is precisely why the government turned to expansionary fiscal policy.
 

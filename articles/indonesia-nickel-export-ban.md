@@ -48,7 +48,7 @@
 
 **电动车电池（EV battery）**：以镍、钴、锂为正极核心材料。印尼借禁令向上游要价，希望从“卖矿”转向“卖电池材料”，能否延伸到价值链高端仍待观察。
 
-*话题参考：中国新闻网（qq.com）《从3.79亿到2.5亿，印尼政策调整牵动全球产业链神经》；黑龙江省工信厅（gxt.hlj.gov.cn）《全球矿产资源本土化进程加速》*
+*话题参考：中国新闻网（chinanews.com.cn）《从3.79亿到2.5亿，印尼政策调整牵动全球产业链神经》；黑龙江省工信厅（gxt.hlj.gov.cn）《全球矿产资源本土化进程加速》*
 
 ===EN===
 
@@ -96,12 +96,11 @@ Indonesia's nickel ban is a bold experiment in resource-state industrial upgradi
 
 But the second half of the experiment is environmental compliance, technological autonomy, and a long contest with foreign capital. Whether Jakarta's ambition pays off will be decided in the next five years.
 
-## Further Reading
-
+## Further reading
 **Nickel** — A silvery metal essential to stainless steel and to the cathodes of electric-vehicle batteries. Reserves are led by Indonesia, Australia and Brazil; Indonesia's share of proven global reserves is roughly a quarter.
 
 **Indonesia's nickel export ban** — From January 2020 the Jokowi government banned exports of raw nickel ore, aiming to keep smelting, battery-material and even cell production at home. The policy drew large Chinese investment but also drew criticism over the environment and foreign-investor hesitation.
 
 **The EV battery** — Built around nickel, cobalt and lithium cathodes. Indonesia's ban is a bid to move up from "selling ore" to "selling battery materials," but whether it reaches the high end of the value chain remains to be seen.
 
-*Topic reference: China News Service (qq.com) — "从3.79亿到2.5亿，印尼政策调整牵动全球产业链神经"; Dept. of Industry & IT of Heilongjiang — "全球矿产资源本土化进程加速"*
+*Topic reference: China News Service (chinanews.com.cn) — "从3.79亿到2.5亿，印尼政策调整牵动全球产业链神经"; Dept. of Industry & IT of Heilongjiang — "全球矿产资源本土化进程加速"*

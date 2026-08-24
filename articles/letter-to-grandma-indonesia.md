@@ -46,8 +46,7 @@ What is striking is that neither screening came out of the commercial distributi
 The resonance triggered by *Letter to Grandma* reminds us that a diaspora endures not only through kinship and policy, but through continuous cultural reproduction. Where mainstream narratives often reduce overseas Chinese to an "economic role," such warm cultural products become precious vehicles for a group's self-recognition and intergenerational dialogue. In an age of assimilation pressure and shrinking native-language spaces, the cinema may be among the last rooms where a diaspora can sit together and remember out loud.
 
 ---
-## Further Reading
-
+## Further reading
 **Letter to Grandma (《给阿嬷的情书》)** — A Chinese-language film on diaspora and dialect memory that recently premiered in Indonesia and was screened by the Teochew Clan Association in Thailand, moving elderly ethnic Chinese to reconnect with their mother tongue and ancestral past.
 
 **Teochew Clan Association** — A dialect-and-ancestry association of ethnic Chinese in Southeast Asia, organized by Teochew-descended migrants. It provides mutual aid and acts as a "translator" of homeland symbols into forms local communities accept. Both screenings in the text were organized by such associations.

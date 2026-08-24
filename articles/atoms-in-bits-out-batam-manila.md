@@ -1,6 +1,6 @@
 # 原子进场，比特出局：峇淡岛的工厂与马尼拉（Manila）的工位
 
-同一周里，东南亚（Southeast Asia）传出了两条方向相反的新闻，但很少有人把它们放在一起读。一条来自印尼（Indonesia）峇淡岛：在美国关税战的压力下，这座距新加坡仅四十分钟船程、长期被全球投资者忽视的小岛，正成为代工转移的新落点。七月份，一家总部位于东莞、为迪士尼和绘儿乐等国际品牌代工的塑胶五金厂商，在此开设了它在中国的第一座海外工厂，开出三十多条迪士尼相关玩具和礼品的产线。该厂负责人的话很直白：去年四月的关税措施之后，客户要求供应链分散，中国成本不断攀升，在考察了东南亚多个选项后他们选了峇淡岛。"我们别无选择，只能分散，"他说，"如果留在中国，我们可能丢掉订单。"
+同一周里，东南亚（Southeast Asia）传出了两条方向相反的新闻，但很少有人把它们放在一起读。一条来自印尼（Indonesia）峇淡岛：在美国关税战的压力下，这座距新加坡仅四十分钟船程、长期被全球投资者忽视的小岛，正成为代工转移的新落点。七月份，一家总部位于东莞、为迪士尼和绘儿乐等国际品牌代工的塑胶五金厂商，在此开设了它的首座海外工厂，开出三十多条迪士尼相关玩具和礼品的产线。该厂负责人的话很直白：去年四月的关税措施之后，客户要求供应链分散，中国成本不断攀升，在考察了东南亚多个选项后他们选了峇淡岛。"我们别无选择，只能分散，"他说，"如果留在中国，我们可能丢掉订单。"
 
 他在这座岛上并不孤独。苹果在峇淡岛建了一座 AirTag 工厂，据称供应全球约七成需求；甲骨文与香港基汇资本承诺投建云与数据中心项目；最近澳大利亚 Firmus 公司又宣布与英伟达合作，建设一座 360 兆瓦的数据中心。峇淡岛去年经济增长 6.8%，高于全国 5.1%；印尼投资部在岛上设了常驻办公室，普拉博沃（Prabowo Subianto）总统上月还会见当地官员，商讨扩建其国际港口。正如一位工业园开发商所说：特朗普也许没意识到，他一手促成了峇淡岛的崛起。
 
@@ -110,8 +110,7 @@ On present evidence the answer is no, for reasons that are geographic before the
 
 The modest conclusion is this. Southeast Asia's current moment is usually narrated as a windfall — the "China plus one" dividend, the region as the great beneficiary of great-power friction. Batam supports that reading. Manila complicates it. The region is receiving atoms and shedding bits, and the exchange is neither balanced nor within its control. Recognising that is not pessimism. It is the precondition for asking a better question than "how much investment did we attract this quarter."
 
-## Further Reading
-
+## Further reading
 **Batam** — An Indonesian island in the Riau Archipelago, about 40 minutes by ferry from Singapore, with a free-trade zone that has long hosted multinational manufacturing and shipping. Under the tariff war it became a new landing point for relocated contract factories, growing faster than the national average.
 
 **Business-process outsourcing (BPO)** — Firms contracting back-office functions such as customer service and data processing to specialist providers. The Philippines, with English fluency and low cost, became the "call-centre capital of the world"; the Manila-side jobs in this story are being drained by AI and automation.

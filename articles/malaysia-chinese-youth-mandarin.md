@@ -56,8 +56,7 @@ States have noticed. Beijing openly courts the diaspora as a "bridge" (以侨为
 
 Strip away the geopolitics and what remains is a universal story about language and belonging. A heritage tongue survives not because governments protect it, but because each generation decides it is worth speaking — and, sometimes, that it is cool. Xiao's camera is less a propaganda instrument than a personal act of continuity: he films the China he wants to understand, and in doing so keeps a language alive on his own terms.
 
-## Further Reading
-
+## Further reading
 **Malaysian Chinese** — One of Malaysia's three main ethnic groups, about a fifth of the population. Subject historically to assimilation pressure, they nonetheless preserved Southeast Asia's most complete Chinese-medium education system.
 
 **Independent Chinese High Schools (独中)** — Secondary schools run by the ethnic-Chinese community and using Chinese as the main medium of instruction. When some Chinese schools refused state conversion in the 1960s and gave up subsidies, they survived as "independent" schools, today around sixty, coordinated by Dong Zong (the United Chinese School Committees' Association).

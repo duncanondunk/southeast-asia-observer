@@ -44,8 +44,7 @@ In early August the Environment Ministry announced a circular-economy model with
 ## The metaphor of ambition versus execution
 The free-meals plan is a yardstick for Prabowo's "pro-poor strongman" agenda. What it reveals is a familiar development paradox: political will can raise a flagship overnight, yet landing it steadily on every plate depends on years of accumulated administrative capacity. When "free" collides with "waste," what is lost is not only food but the program's credibility. Unless Indonesia remedies delivery precision and kitchen governance, this mountain of leftovers may, sooner than later, outweigh the original pledge "for the children."
 
-## Further Reading
-
+## Further reading
 **Prabowo Subianto** — Born in Jakarta on 17 October 1951, he graduated from the Indonesian Military Academy in 1974 and spent much of his career in the army's special forces (Kopassus). In 1983 he married a daughter of then-president Suharto, and in August 1998 he was discharged from military service. He founded the Gerindra party in 2008, lost presidential bids to Joko Widodo in 2014 and 2019, then served as Jokowi's defence minister from 2019 to 2024. In 2024 he won the presidency alongside Jokowi's eldest son, Gibran Rakabuming Raka, and was sworn in as Indonesia's eighth president on 20 October.
 
 **Makan Bergizi Gratis (MBG)** — Prabowo's central campaign pledge, launched on 6 January 2025 and administered by the National Nutrition Agency (Badan Gizi Nasional), created in 2024. Meals reach schoolchildren, pregnant and nursing women and toddlers through local nutrition service units known as SPPG. A nationwide expansion began in January 2026, targeting some 55 million recipients.

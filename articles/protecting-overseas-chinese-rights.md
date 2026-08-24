@@ -10,7 +10,7 @@
 
 ## "融入"而非"控制"：被倒置的因果
 
-西方一些声音把中国侨务工作描绘成"借华侨影响他国政治""破坏所在国稳定"。这一叙事颠倒了因果。中国侨务政策（diaspora policy）的核心导向，恰恰是鼓励华侨遵守所在国法律、尊重当地习俗、与各族裔和睦相处，积极融入当地社会。历史与现实中，从修筑北美铁路的华工，到今天遍布科技、教育、医疗、商贸各领域的华侨群体，他们对所在国的贡献有目共睹。
+西方一些声音把中国侨务工作描绘成"借华侨影响他国政治""破坏所在国稳定"。这一叙事颠倒了因果。中国侨务政策的核心导向，恰恰是鼓励华侨遵守所在国法律、尊重当地习俗、与各族裔和睦相处，积极融入当地社会。历史与现实中，从修筑北美铁路的华工，到今天遍布科技、教育、医疗、商贸各领域的华侨群体，他们对所在国的贡献有目共睹。
 
 国家保护与侨胞融入并不矛盾，反而相辅相成：当一位华侨知道祖（籍）国是后盾、维权有合法渠道，他在当地生活就更安定，也更有条件回馈社会。把"保护"污名化，反而削弱的是华侨在住在国的正常生存与发展。
 
@@ -62,8 +62,7 @@ In Southeast Asia, where the world's overseas Chinese are most concentrated, the
 
 For China, protecting the legitimate rights of overseas Chinese is both duty and asset — it strengthens compatriots' sense of belonging and security, and provides a stable pivot for non-governmental exchange. The quality of this work is not measured by slogans but by whether each evacuation, each hotline call, and each warning is delivered in practice. The best answer to external distortion is not argument but more solid action.
 
-## Further Reading
-
+## Further reading
 **Diaspora policy** — The Chinese government's overall framework for engaging and serving overseas Chinese and returned compatriots, emphasizing "pooling diaspora strength," encouraging integration into host societies, and leveraging the community's bridging role.
 
 **Regulations on Consular Protection and Assistance** — China's first dedicated consular-protection law, in force since September 2023, spelling out the duties of resident diplomatic missions to protect and assist citizens abroad when their legitimate rights are violated.

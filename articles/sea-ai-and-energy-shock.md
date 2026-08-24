@@ -88,8 +88,7 @@ The Filipino worker who trained the model that replaced him, and the finance min
 
 ---
 
-## Further Reading
-
+## Further reading
 **Business-process outsourcing (BPO)** — Firms contracting functions like customer service and data entry to specialist providers. The Philippines, with English fluency and low cost, became the "call-centre capital of the world," employing roughly 1.9 million people — the industry at the centre of the "trained the AI that replaced me" story.
 
 **Generative AI** — Artificial intelligence that produces text, images and other content. It can genuinely substitute for outsourced roles, yet is also frequently used as a "transformation" narrative to reframe ordinary layoffs — a distinction the text urges readers to keep in mind.

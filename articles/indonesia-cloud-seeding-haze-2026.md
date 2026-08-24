@@ -28,7 +28,7 @@
 
 - **人工增雨（Cloud Seeding）**：向云中播撒碘化银、干冰、盐粉等催化剂以提高降水效率的技术，印尼用于缓解林火旱情。
 - **泥炭地（Peatland）**：富含碳的湿地土壤，一旦排干焚烧会释放巨量温室气体，是东南亚跨境烟霾的主要来源。
-- **东盟跨境烟霾污染协定（ASEAN Agreement on Transboundary Haze Pollution）**：2002年签署的 regional 协定，旨在遏制林火烟霾越境，但执行长期受诟病。
+- **东盟跨境烟霾污染协定（ASEAN Agreement on Transboundary Haze Pollution）**：2002年签署的区域协定，旨在遏制林火烟霾越境，但执行长期受诟病。
 
 ===EN===
 

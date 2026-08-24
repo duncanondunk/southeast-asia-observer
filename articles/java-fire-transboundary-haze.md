@@ -54,8 +54,7 @@ The regional haze problem is long-standing and equipped with instruments like th
 
 From East Java to Kalimantan, one wildfire reminds us that, as warming and extreme weather normalize, haze is no longer an "occasional disaster" but a periodic stress test of regional governance. What genuinely lowers the cost is not post-disaster blame, but earlier warning, more transparent hotspot sharing, and writing "air knows no borders" into each country's domestic enforcement.
 
-## Further Reading
-
+## Further reading
 **El Niño** — A climate phenomenon of abnormal warming in the equatorial Pacific that often lengthens Southeast Asia's dry season and slashes rainfall, sharply raising the risk of forest fires and haze.
 
 **Bromo Tengger Semeru National Park** — East Java's famed volcanic park, known for Mount Bromo and its sand sea, fully closed in August 2026 after the wildfire.

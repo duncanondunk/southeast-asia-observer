@@ -80,7 +80,7 @@ Environmental and community impacts are also under review, echoing the spirit of
 
 Zoom out, and Thailand's choice is a regional specimen. Singapore long ago tightened data-centre access amid land and energy limits; Malaysia's Johor absorbed spillover thanks to proximity to Singapore and ample power; Indonesia is accelerating deployment around Jakarta. Thailand wants both the AI investment and the regional digital-hub dividend, yet refuses to let ordinary families pay for compute — its answer is a cross-ministerial national committee that puts "quality of investment" ahead of "quantity."
 
-Behind this lies a new logic of evaluation: Does a project create high-skill jobs, cultivate local engineers, pull SMEs into the supply chain? Does it avoid shifting the burden onto households, planning higher tariffs and water deposits? Does it advance green data centres and clean energy? As generative AI pushes global hunger for compute to new highs, the countries that can put "compute dividend" and "resource cost" on the same balance sheet are the ones likely to walk the next race more steadily.
+Behind this lies a new logic of evaluation: Does a project create high-skill jobs, cultivate local engineers, pull SMEs into the supply chain? Does it avoid shifting the burden onto households, planning higher tariffs and water deposits? Does it advance green data centres and clean energy? As generative AI pushes global hunger for compute to new highs, the countries that can put "compute dividend" and "resource cost" on the same balance sheet are the ones likely to navigate the next phase more steadily.
 
 ## Closing: digital infrastructure is also a public resource
 

@@ -62,8 +62,7 @@ More subtly, there is the East Malaysia logic. Ilham's math says a 122-seat BN�
 
 The blue wave may not sweep the whole country, but the structural fact it reveals is clear enough: the consolidation of the Malay electoral bloc is redrawing Malaysia's party-political map; and its ceiling lies not only in the arithmetic but in whether UMNO and PAS can cede interests, and how East Malaysia and urban voters respond. The hung-parliament flux and recombination since 2022 is not over, and the next election may yet produce new variables.
 
-## Further Reading
-
+## Further reading
 **Barisan Nasional (BN)** — Malaysia's long-ruling coalition centred on UMNO, traditionally representing Malay nationalism and the secular right; its colour is blue.
 
 **Perikatan Nasional (PN)** — A Malay-Islamic alliance built around PAS; both rival to and potential partner of BN in the contest for Malay votes.

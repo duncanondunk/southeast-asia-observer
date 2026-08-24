@@ -1,6 +1,6 @@
 # 六千万人的侨务读本：理解中国海外侨民
 
-> 从"侨牌"到侨务政策（diaspora policy），一组数字背后的政策逻辑与张力。
+> 从"侨牌"到侨务政策，一组数字背后的政策逻辑与张力。
 
 "六千多万海外侨胞，再加四千万归侨侨眷"——这组数字像一句副歌般反复出现。把它们加总，人口规模大致相当于一个英国，区别只在于这一亿多人散布在地球上几乎每一个国家。
 
@@ -40,7 +40,7 @@
 
 **海外侨胞（Overseas Chinese）**：广义指定居海外的中华儿女，文中以“六千多万海外侨胞+四千万归侨侨眷”概之，分布全球。法律上有“华侨”（持中国籍）、"华人"（已入外籍）、"归侨"、"侨眷"等细分。
 
-**侨务（Diaspora affairs / qiaowu）**：主权国家对海外侨民及其眷属的综合性工作，涵盖权益保护、文化联系与人才引进等。文中“打好侨牌”即这一政策逻辑的民间表述。
+**侨务（Diaspora affairs）**：主权国家对海外侨民及其眷属的综合性工作，涵盖权益保护、文化联系与人才引进等。文中“打好侨牌”即这一政策逻辑的民间表述。
 
 *话题参考：中国侨网（chinaqw.com）一周热点《6000 多万海外侨胞、4000 多万归侨侨眷，新时代如何打好"侨牌"？》*
 
@@ -84,8 +84,7 @@ The number is large. The margin for error, given the politics that surround it, 
 
 ---
 
-## Further Reading
-
+## Further reading
 **Overseas Chinese** — A broad term for ethnic Chinese residing abroad. The text cites "over sixty million overseas Chinese plus forty million returned overseas Chinese and relatives," scattered worldwide. In law the categories split into huaqiao (Chinese nationals abroad), huaren (foreign citizens of Chinese descent), guiqiao (returned overseas Chinese) and qiaojuan (their relatives).
 
 **Diaspora affairs (qiaowu)** — A state's comprehensive work concerning overseas nationals and their families, spanning rights protection, cultural ties and talent recruitment. The phrase "playing the qiao card" is the popular face of this policy logic.

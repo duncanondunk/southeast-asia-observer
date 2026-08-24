@@ -70,8 +70,7 @@ A century later, the *qiaopi* reminds us that what binds a scattered people is n
 
 ---
 
-## Further Reading
-
+## Further reading
 **Qiaopi (侨批)** — In the Hokkien and Teochew dialects the term fuses "letter" and "remittance": transoceanic family letters that also carried money, sent from Southeast Asia to Fujian and Guangdong from the 19th to mid-20th century. It was both a household lifeline and an early specimen of diaspora finance.
 
 **UNESCO's Memory of the World Register** — A list established by UNESCO in 1992 to safeguard documentary heritage of universal value. The Qiaopi Archives were inscribed in 2013, recognized as a shared heritage of humanity.

@@ -1,3 +1,5 @@
+# 敏昂莱会见普京：称缅甸是俄罗斯在东南亚"可靠伙伴"
+
 ## 会面：克里姆林宫里的罕见接见
 
 8月18日，克里姆林宫。缅甸总统敏昂莱通过翻译对普京说："目前，我们两国关系发展迅速。"他接着表示，感谢俄罗斯及其个人在国际舞台上的支持，"缅甸是俄罗斯在东南亚可靠的伙伴"。
@@ -12,7 +14,7 @@
 
 ## 背景：2021年以来的孤立军政府
 
-2021年，缅甸军方发动政变推翻翁山淑枝领导的民选政府，引发持续五年多的内战，据估计已造成超过10万人死亡。在西方国家普遍制裁、孤立军政府的背景下，俄罗斯是少数几个在政变后持续支持缅甸的国家之一。
+2021年，缅甸军方发动政变推翻昂山素季领导的民选政府，引发持续五年多的内战，据估计已造成超过10万人死亡。在西方国家普遍制裁、孤立军政府的背景下，俄罗斯是少数几个在政变后持续支持缅甸的国家之一。
 
 正因如此，敏昂莱口中的"可靠伙伴"并非客套。对缅甸而言，莫斯科既是武器与技术的供应方，也是在联合国等国际场合中为数不多能挡下谴责声浪的盟友。对一个被西方体系排除在外的政权来说，这种"可靠"具有近乎生存性的意义。
 
@@ -25,6 +27,8 @@
 *话题参考：联合早报《敏昂莱会见普京 称缅甸是俄罗斯在东南亚可靠伙伴》（2026-08-18）*
 
 ===EN===
+
+# Min Aung Hlaing Meets Putin: Myanmar as Russia's "Reliable Partner" in Southeast Asia
 
 ## The meeting: a rare audience in the Kremlin
 
@@ -40,7 +44,7 @@ Beyond energy, arms sales have long been the backbone of the relationship. The M
 
 ## The backdrop: a junta isolated since 2021
 
-In 2021, the Myanmar military staged a coup against the elected government of Aung San Suu Kyi, triggering a civil war now past five years that has killed an estimated over 100,000 people. As Western states imposed sanctions and isolation, Russia was among the few countries to keep backing the junta.
+In 2021, the Myanmar military staged a coup against the elected government of Aung San Suu Kyi, triggering a civil war now past five years that has killed an estimated 100,000-plus people. As Western states imposed sanctions and isolation, Russia was among the few countries to keep backing the junta.
 
 That is why "reliable partner" is more than courtesy. For Myanmar, Moscow is both a supplier of weapons and technology and one of the only allies able to blunt condemnations at the UN. For a regime excluded from the Western system, that reliability is close to existential.
 

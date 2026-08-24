@@ -42,7 +42,7 @@
 
 **李光耀（Lee Kuan Yew）**：新加坡建国总理（1959—1990），被视为该国“小国大外交”的设计者。其“小国无犯错余地”的现实主义，奠定了多边对冲、规则优先等外交原则。
 
-**东盟（ASEAN）**：东南亚国家联盟，1967年由印尼、马来亚、菲律宾、新加坡、泰国创立，今有十国，是区域合作与“对冲”外交的主要舞台。
+**东盟（ASEAN）**：东南亚国家联盟，1967年由印尼、马来西亚、菲律宾、新加坡、泰国创立，今有十国，是区域合作与“对冲”外交的主要舞台。
 
 **香格里拉对话（Shangri-La Dialogue）**：英国国际战略研究所（IISS）2002年起在新加坡每年举办的亚太防务论坛，是新加坡“以平台换影响力”的典型案例。
 
@@ -92,8 +92,7 @@ Singapore's story shows that size does not determine diplomatic success; judgmen
 
 It is just that no one knows from which side the next gust will blow.
 
-## Further Reading
-
+## Further reading
 **Lee Kuan Yew** — Singapore's founding prime minister (1959–1990), regarded as the architect of its "small state's big diplomacy." His realist premise that "small states have no margin for error" shaped principles of multilateral hedging and rules-first statecraft.
 
 **ASEAN** — The Association of Southeast Asian Nations, founded in 1967 by Indonesia, Malaysia, the Philippines, Singapore and Thailand; today ten members. It is the main arena for the region's cooperation and "hedging" diplomacy.

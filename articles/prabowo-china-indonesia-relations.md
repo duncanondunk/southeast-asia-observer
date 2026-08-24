@@ -158,8 +158,7 @@ Yet the 6.2 reading is not without tension. Precisely when the relationship is w
 
 **Budget and localization constraints.** Indonesia's 2025 budget refocusing cut defense spending by 16%, potentially affecting Prabowo's ambitious "Nusantara Trident Shield" modernization program of roughly US$125 billion over 25 years. On the civilian side, Chinese-invested nickel smelting parks have long faced international criticism over environmental and labor conditions, with the "green nickel" narrative remaining largely slogan-level. These are the hidden costs of operating at a high plateau.
 
-## Further Reading
-
+## Further reading
 **Natuna** — Waters off northern Indonesia where its exclusive economic zone overlaps China's nine-dash line — the single structural friction point in China–Indonesia ties described here. Jakarta's response is "dual-track": assertive expulsion at sea alongside a coast-guard cooperation memorandum.
 
 **The 2+2 Dialogue** — A ministerial format bringing together foreign and defence ministers. China and Indonesia held their first "2+2" in Beijing in April 2025, making Indonesia the first country in the world to launch such a mechanism with China; agendas span maritime security and critical minerals.

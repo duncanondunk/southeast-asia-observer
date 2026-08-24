@@ -44,7 +44,7 @@ On 7 August 2026, the new board of the Indonesian Chinese Association (INTI, Per
 
 ## A quote repeated for a reason
 
-"Ethnic Chinese are still ethnic Chinese," Huang said, "but with China's development and its rising international stature, we feel more confident (youdiqi) today." That word — confidence — is the key to understanding the shifting mindset of a new generation of Indonesian Chinese. It is no longer a defensive identity that must be justified, but a底气 that allows one to hold, with greater ease, a dual identity as both Indonesian citizen and ethnic Chinese.
+"Ethnic Chinese are still ethnic Chinese," Huang said, "but with China's development and its rising international stature, we feel more confident (youdiqi) today." That word — confidence — is the key to understanding the shifting mindset of a new generation of Indonesian Chinese. It is no longer a defensive identity that must be justified, but a confidence that allows one to hold, with greater ease, a dual identity as both Indonesian citizen and ethnic Chinese.
 
 ## The historical backdrop: after 1998
 

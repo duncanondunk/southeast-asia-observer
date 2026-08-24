@@ -38,7 +38,7 @@ The controversy began on August 18. In an Al Jazeera interview, Anwar reaffirmed
 
 ## Anwar's Defence: Holding Up America as a Mirror
 
-Facing pushback, Anwar's strategy was analogy. He noted that neither China nor the United States permits territorial separation; just as America tolerated no分裂 during its war of independence, Malaysia is simply taking a consistent position. He acknowledged that his phrasing might provoke a negative reaction, yet insisted on the view that both China and the US have the right to defend territorial integrity. This defence frames the Taiwan issue as a universal principle of "sovereignty and territorial integrity" rather than a choice of sides on a specific scenario.
+Facing pushback, Anwar's strategy was analogy. He noted that neither China nor the United States permits territorial separation; just as America tolerated no secession during its war of independence, Malaysia is simply taking a consistent position. He acknowledged that his phrasing might provoke a negative reaction, yet insisted on the view that both China and the US have the right to defend territorial integrity. This defence frames the Taiwan issue as a universal principle of "sovereignty and territorial integrity" rather than a choice of sides on a specific scenario.
 
 ## The Opposition's Worry: Why "Taking Sides" Is a Taboo in Kuala Lumpur
 

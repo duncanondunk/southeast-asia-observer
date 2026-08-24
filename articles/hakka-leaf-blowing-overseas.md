@@ -41,7 +41,7 @@ Leaf-playing (树叶吹奏) has a history of over a thousand years in China and 
 
 ## A generational baton: proving the inheritance ladder
 
-The participants spanned ages 12 to 65 across four generations — a deliberate choice to show the art's complete transmission梯队. Qiu emphasised that such cross-generational pairing reveals the "living vitality" of uninterrupted succession. The composition of a single troupe, in itself, is a declaration of continuity addressed to the future.
+The participants spanned ages 12 to 65 across four generations — a deliberate choice to show the art's complete transmission ladder. Qiu emphasised that such cross-generational pairing reveals the "living vitality" of uninterrupted succession. The composition of a single troupe, in itself, is a declaration of continuity addressed to the future.
 
 ## The "going global" test for a niche heritage
 

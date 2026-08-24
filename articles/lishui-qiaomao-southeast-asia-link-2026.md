@@ -24,7 +24,7 @@
 
 更大的背景是东南亚供应链的重组。劳动力与关税的再配置，让越南、柬埔寨、马来西亚成为新的制造与集散节点；而中国与这些节点之间，不仅需要货物通道，更需要理解与信任的通道。青田侨胞在柬埔寨的百年积淀，恰好提供了这条软通道。
 
-丽水此番试单，看似只是一个地级市的招商小动作，却折射出"侨"作为战略资源的重新被发现。当,"以侨为桥、贸通世界"从标语走向订单，侨贸一体化的红利，或许才刚刚开始兑现。
+丽水此番试单，看似只是一个地级市的招商小动作，却折射出"侨"作为战略资源的重新被发现。当"以侨为桥、贸通世界"从标语走向订单，侨贸一体化的红利，或许才刚刚开始兑现。
 
 *话题参考："中国侨网"（chinaqw.com）侨商投资频道——"丽水实施侨贸'百千万'工程，统筹推进侨贸一体化——以侨为桥 贸通世界"。*
 
@@ -40,7 +40,7 @@
 
 # Bridging Homeland and Diaspora: Lishui's "Hundred-Thousand-Ten-Thousand" Qiaomao Program Opens a New Southeast Asia Trade Link
 
-Recently, three containers of daily-care products worth US$120,000 (about RMB 860,000) from Lishui's Nice Group in Zhejiang were shipped to Cambodia. Shi Yongping, head of the Cambodia Zhejiang Chamber of Commerce and a Qingtian-born overseas Chinese from Lishui, called it "Lishui enterprises' first trial opening a brand-new qiaomao (overseas-Chinese-trade) link to Southeast Asia." An seemingly ordinary export, it sits on top of Lishui's "Hundred-Thousand-Ten-Thousand" qiaomao program — using the diaspora as a bridge to turn globally scattered overseas-Chinese business networks into reachable, convertible trade channels.
+Recently, three containers of daily-care products worth US$120,000 (about RMB 860,000) from Lishui's Nice Group in Zhejiang were shipped to Cambodia. Shi Yongping, head of the Cambodia Zhejiang Chamber of Commerce and a Qingtian-born overseas Chinese from Lishui, called it "Lishui enterprises' first trial opening a brand-new qiaomao (overseas-Chinese-trade) link to Southeast Asia." A seemingly ordinary export, it sits on top of Lishui's "Hundred-Thousand-Ten-Thousand" qiaomao program — using the diaspora as a bridge to turn globally scattered overseas-Chinese business networks into reachable, convertible trade channels.
 
 ## A US$120,000 trial order pries open a new link
 

@@ -100,8 +100,7 @@ The Mekong's droughts and floods are the compound result of warming layered on h
 
 It reminds us: **the contest over water rights is never just a contest between states — it is the fate of tens of millions who depend on this river to live.** And they, so far, have almost no voice in that contest.
 
-## Further Reading
-
+## Further reading
 **The Mekong River** — Southeast Asia's longest river, rising on the Tibetan Plateau and reaching the South China Sea. Known as the Lancang inside China, it then crosses Myanmar, Laos, Thailand, Cambodia and Vietnam. It supports one of the world's largest inland fisheries and more than 60 million people in its lower basin.
 
 **The Mekong River Commission (MRC)** — Founded in April 1995, when Thailand, Laos, Cambodia and Vietnam signed the Agreement on the Sustainable Development of the Mekong River Basin at Chiang Rai. Its secretariat has been based in Vientiane since 2004, and it coordinates water-resource planning and hydrological data sharing. China and Myanmar have been "dialogue partners" rather than members since 1996 — the institutional background to the "glass wall" described above. The Lancang-Mekong Cooperation mechanism, established in 2016, includes all six states.

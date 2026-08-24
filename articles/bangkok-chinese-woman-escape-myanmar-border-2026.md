@@ -4,7 +4,7 @@
 
 ## 一场深夜的逃亡
 
-据女子所述，四名泰国男子在曼谷一家酒店绑架了她，并试图把她带往边境地区。绑架过程中她受了伤，获救后被送往医院。这并非电影情节，而是发生在泰国首都街头的真实案件——一名受害者，在光天化日（乃至车水马龙）之外的深夜，险些被悄无声息地带离国境。
+据女子所述，四名泰国男子在曼谷一家酒店绑架了她，并试图把她带往边境地区。绑架过程中她受了伤，获救后被送往医院。这并非电影情节，而是发生在泰国首都街头的真实案件——一名受害者，在车水马龙的白天之外、万籁俱寂的深夜，险些被悄无声息地带离国境。
 
 泰国警方随后在甘烹碧府（Kamphaeng Phet）直辖县兰多迈区（Tambon Lan Dokmai）截获了嫌疑人的车辆，并逮捕两名男子。两人均来自与缅甸接壤的达府（Tak）湄索县（Mae Sot），年龄分别为24岁和41岁；另有两名嫌疑人仍在逃。
 
@@ -16,7 +16,7 @@
 
 ## 华裔为何成为目标
 
-在东南亚近年频发的跨境诈骗与人口贩运案中，华裔（尤其是懂中文、持中国护照或华裔外貌者）常被犯罪集团视作"高价值目标"。一方面，他们更容易被以"高薪工作""投资合作"等话术诱入圈套；另一方面，熟练的中文能力，使其在针对华语世界的诈骗链条中更具"用途"。这也解释了为何此类案件的受害者，常常带有明显的华裔特征。
+在东南亚近年频发的跨境诈骗与人口贩运案中，华裔（尤其是懂中文、持中国护照、具华裔外貌者）常被犯罪集团视作"高价值目标"。一方面，他们更容易被以"高薪工作""投资合作"等话术诱入圈套；另一方面，熟练的中文能力，使其在针对华语世界的诈骗链条中更具"用途"。这也解释了为何此类案件的受害者，常常带有明显的华裔特征。
 
 对华侨华人而言，这桩案件是一记提醒：在东南亚旅行、经商或探亲时，对"陌生高薪邀约""边境接送"应保持警惕，使馆与当地警方的相关提醒并非多此一举。
 
@@ -62,7 +62,7 @@ For overseas Chinese, the case is a reminder: when travelling, working or visiti
 
 ## An undercurrent that keeps spreading
 
-This case is not isolated. From northern Myanmar to the Thailand–Myanmar border, from "pig-butchering" fraud to armed compound control, cross-border trafficking has become a black industry chain spanning several countries. As a regional transport hub and tourism giant, Thailand is both a point of origin or transit for many victims and a country absorbing the spillover of cross-border crime.
+This case is not isolated. From northern Myanmar to the Thailand–Myanmar border, from "pig-butchering" fraud to armed compound control, cross-border trafficking has become a black industry chain spanning several countries. As a regional transport hub and tourism giant, Thailand is either a point of origin or a transit point for many victims, and a country absorbing the spillover of cross-border crime.
 
 Bangkok has in recent years tightened checks at border crossings and on suspect vehicles and pursued joint enforcement with neighbours. Yet as this Bangkok case shows, the tentacles of criminal networks have already reached from border towns into the capital's hotels and streets. Cutting the undercurrent still demands regional coordination and sustained pressure.
 

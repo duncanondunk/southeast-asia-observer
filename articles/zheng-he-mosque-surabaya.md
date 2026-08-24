@@ -100,8 +100,7 @@ Under the upturned eaves in Surabaya, faith, memory, and identity are still bein
 
 ---
 
-## Further Reading
-
+## Further reading
 **Zheng He** — Born Ma He, a Muslim eunuch of the Ming dynasty who commanded seven voyages across the Indian Ocean between 1405 and 1433, calling repeatedly at the Indonesian archipelago. Remembered for peaceful trade and no colonies, he became a "non-threatening" Chinese symbol for Indonesian Chinese.
 
 **The Cheng Hoo Mosque** — Indonesian mosques named for Zheng He, blending Chinese eaves, Javanese tradition and Islamic worship. The first, in Surabaya, was completed in 2002; the Haji Zheng He Foundation has since built nineteen across the country — material evidence of Chinese culture meeting local faith.
