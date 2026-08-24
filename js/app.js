@@ -37,7 +37,14 @@
     '归侨': 'Returned Overseas Chinese', '离散记忆': 'Diaspora Memory', '南洋': 'Nanyang (Southeast Asia, old term)',
     '数据中心': 'Data Centre', '数字经济': 'Digital Economy', '企业出海': 'Chinese Firms Going Global', '侨智': 'Overseas Chinese Talent',     '中文': 'Chinese / Mandarin', '文化传承': 'Cultural Inheritance', '代际传承': 'Generational Succession', '过境免签': 'Transit Visa-Free', '周边外交': 'Peripheral Diplomacy', '人员往来': 'People-to-People Exchange', '海南': 'Hainan',
     '浙江': 'Zhejiang', '青田': 'Qingtian', '柬埔寨': 'Cambodia', '侨贸': 'Qiaomao (Overseas-Chinese Trade)', '中印尼关系': 'China–Indonesia Relations', '全面战略伙伴': 'Comprehensive Strategic Partnership', '矿物能源': 'Minerals & Energy', '投资': 'Investment', '柔佛': 'Johor', '经济特区': 'Special Economic Zone', '经济外交': 'Economic Diplomacy',
-    '侨交会': 'Overseas Chinese Entrepreneurs Fair', 'APEC': 'APEC', '亚太': 'Asia-Pacific', '经贸合作': 'Economic & Trade Cooperation', '泰南': 'Southern Thailand', '宵禁': 'Curfew', '分离主义': 'Separatism', '晶片': 'Chips', '安谋': 'Arm Holdings'
+    '侨交会': 'Overseas Chinese Entrepreneurs Fair', 'APEC': 'APEC', '亚太': 'Asia-Pacific', '经贸合作': 'Economic & Trade Cooperation', '泰南': 'Southern Thailand', '宵禁': 'Curfew', '分离主义': 'Separatism', '晶片': 'Chips', '安谋': 'Arm Holdings', '华文教育': 'Chinese-Medium Education', '人口贩运': 'Human Trafficking',
+    '东南亚': 'Southeast Asia', '东盟': 'ASEAN', '侨社': 'Overseas Chinese Community', '侨团': 'Overseas Chinese Association', '柬华理事总会': 'Cambodian Chinese Association', '印尼华裔总会': 'INTI (Indonesian Chinese Association)', '离散群体': 'Diaspora', '离散': 'Diaspora', '跨境治理': 'Cross-Border Governance',
+    '口述史': 'Oral History', '潮籍': 'Teochew Origin', '侨批': 'Qiaopi (Overseas Chinese Remittance Letters)', '下南洋': 'Migration to Nanyang', '华语电影': 'Chinese-Language Cinema', '电影': 'Film', '文化': 'Culture', '文化交流': 'Cultural Exchange', '文化记忆': 'Cultural Memory', '身份认同': 'Identity',
+    '民主行动党': 'Democratic Action Party (DAP)', '政治': 'Politics', '华人': 'Ethnic Chinese', '族群': 'Ethnicity', '选举': 'Elections', '语言': 'Language', '青年': 'Youth', '青年侨胞': 'Young Overseas Chinese', '华裔新生代': 'New Generation of Chinese Descent',
+    '澳大利亚': 'Australia', '法国': 'France', '稀土': 'Rare Earths', '钕磁铁': 'Neodymium Magnets', '餐饮': 'Food & Beverage', '科技': 'Technology',
+    '经济': 'Economy', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
+    '小马科斯': 'Marcos Jr.', '普拉博沃': 'Prabowo', '罗兴亚': 'Rohingya', '中菲关系': 'China–Philippines Relations', '中印尼': 'China–Indonesia', '国际关系': 'International Relations', '安全化': 'Securitisation',
+    '侨务工作': 'Diaspora Affairs Work', '侨务政策': 'Diaspora Policy', '中国侨网': 'China Qiaowang', '软实力': 'Soft Power', '妈祖': 'Mazu', '气象预警': 'Weather Early Warning', '早期预警': 'Early Warning'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 

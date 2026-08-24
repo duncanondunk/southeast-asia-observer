@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-23",
+  "version": "2026-08-24",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -460,6 +460,20 @@
       "exception": null,
       "slugs": [
         "cambodia-xinmin-chinese-school-reopen"
+      ]
+    },
+    "event:越南批准连接中国铁路追加投资38亿新元(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-24），中越铁路/标准轨互联互通主题，与既有越南经贸、供应链条目不重复。",
+      "exception": null,
+      "slugs": [
+        "vietnam-china-railway-extra-funding-2026"
+      ]
+    },
+    "event:华裔女子曼谷遇绑架险被带至缅甸边境(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-24），华侨华人/跨境人口贩运与诈骗园区主题，与既有泰南、缅甸条目不重复。",
+      "exception": null,
+      "slugs": [
+        "bangkok-chinese-woman-escape-myanmar-border-2026"
       ]
     }
   }

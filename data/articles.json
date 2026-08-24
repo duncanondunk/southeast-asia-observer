@@ -1,5 +1,99 @@
 [
   {
+    "slug": "vietnam-china-railway-extra-funding-2026",
+    "title": "越南国会批准中越铁路追加拨款：老街—河内—海防线再添38亿新元",
+    "subtitle": "一条连接中国的铁路调整方案获国会放行，总长度拉至426公里、总造价升至逾111亿美元",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "中国",
+      "铁路",
+      "基础设施",
+      "经贸合作",
+      "一带一路"
+    ],
+    "country": "越南",
+    "date": "2026-08-24",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "联合早报报道，越南国会8月24日批准连接中国铁路项目的调整方案，需额外投入30亿美元（约38亿新元，约合216亿元人民币）。线路自老街经河内至海防，总长426公里，总造价升至289万亿越南盾（约111亿美元，约合800亿元人民币），目标2030年底前建成。",
+    "image": "images/articles/vietnam-china-railway-extra-funding-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-24",
+    "imageAlt": "越南乡村中一列火车驶过钢结构桥梁，象征中越铁路互联互通提速",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "越南批准为连接中国铁路额外投入38亿新元",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260824-9565387",
+        "date": "2026-08-24"
+      }
+    ],
+    "en": {
+      "title": "Vietnam's Parliament Approves Extra Outlay for China-Linked Railway: Lao Cai–Hanoi–Hai Phong Line Gets Another S$3.8 Billion",
+      "subtitle": "A revised plan for a China-linked railway clears the National Assembly, stretching the line to 426 km and lifting the total cost above US$11.1 billion",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Lianhe Zaobao reports Vietnam's National Assembly on 24 August approved an adjusted plan for a China-linked railway, requiring an extra US$3 billion (about S$3.8 billion). The line runs from Lao Cai through Hanoi to Hai Phong, now 426 km, with total cost raised to 289 trillion dong (about US$11.1 billion); completion is targeted by end-2030.",
+      "imageAlt": "A train crossing a steel railway bridge in Vietnam's countryside, symbolising accelerating China–Vietnam rail connectivity",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Vietnam approves extra S$3.8 billion for China-linked railway",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260824-9565387",
+          "date": "2026-08-24"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "bangkok-chinese-woman-escape-myanmar-border-2026",
+    "title": "华裔女子深夜曼谷跳车逃脱：一桩牵动缅边境的人口贩运案",
+    "subtitle": "一名被绑华裔女子从曼谷街头逃出，警方溯源至泰缅边境湄索，揭示跨境诈骗贩运链条的触手已伸向首都",
+    "category": "社会文化",
+    "tags": [
+      "华侨华人",
+      "泰国",
+      "缅甸",
+      "移民",
+      "离散族群",
+      "人口贩运"
+    ],
+    "country": "泰国",
+    "date": "2026-08-24",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "联合早报报道，一名双手被绑的华裔女子8月23日深夜从曼谷一辆轿车中逃脱。警方在甘烹碧截获嫌疑人车辆，逮捕两名来自泰缅边境湄索的男子，疑将受害者转运至缅甸诈骗园区。",
+    "image": "images/articles/bangkok-chinese-woman-escape-myanmar-border-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-08-24",
+    "imageAlt": "曼谷耀华力路夜间的霓虹街景，繁华之下亦暗藏跨境犯罪的风险",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "华裔女子深夜曼谷跳车逃脱 险被带到缅甸边境",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260824-9565983",
+        "date": "2026-08-24"
+      }
+    ],
+    "en": {
+      "title": "Ethnic-Chinese Woman Escapes Captors in Bangkok: A Human-Trafficking Case Tied to the Myanmar Border",
+      "subtitle": "A bound ethnic-Chinese woman fled a car on Bangkok's streets; police traced the suspects to Mae Sot on the Myanmar border, exposing how the trafficking chain reaches the capital",
+      "category": "Society & Culture",
+      "country": "Thailand",
+      "summary": "Lianhe Zaobao reports a bound ethnic-Chinese woman escaped from a car in Bangkok late on 23 August. Police intercepted the suspects' vehicle in Kamphaeng Phet and arrested two men from Mae Sot on the Myanmar border, suspected of ferrying the victim to scam compounds in Myanmar.",
+      "imageAlt": "Bangkok's Yaowarat Road glowing at night — prosperity under which the risk of cross-border crime lurks",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Ethnic-Chinese woman escapes captors in Bangkok, nearly taken to Myanmar border",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260824-9565983",
+          "date": "2026-08-24"
+        }
+      ]
+    }
+  },
+  {
     "slug": "cambodia-xinmin-chinese-school-reopen",
     "title": "停办半个世纪后，柬埔寨一所华校重新开学",
     "subtitle": "一所偏远小镇的华校在红色高棉时代被抹去、五十年后由侨社重建——它是东南亚华侨华人命运的一枚安静注脚",
@@ -16,7 +110,7 @@
     "date": "2026-08-24",
     "readingTime": 7,
     "featured": false,
-    "summary": "中国侨网报道，柬埔寨白马省土城市新民学校8月24日正式复校开学，停办约半世纪后当地华文教育重启。复校由柬埔寨港澳侨商总会会长黄瑞华发动香港侨商捐建教学楼、土城理事会协调，柬华理事总会支持；两百余名家长与官员见证。文章分析华校在红色高棉时期被禁的“断裂”，侨社网络作为重建引擎的角色，以及华文教育在东南亚随中国经济崛起而复兴的 broader 趋势，并指出其兼具文化修复与软权力维度的双重属性。",
+    "summary": "柬埔寨白马省土城市新民学校8月24日复校开学，当地华文教育在停办约半世纪后重启。复校由港澳侨商捐建教学楼、土城理事会协调、柬华理事总会支持。本文分析红色高棉时期的断裂、侨社网络作为重建引擎的角色，以及华校兼具文化修复与软权力的双重属性。",
     "image": "images/articles/cambodia-xinmin-chinese-school-reopen.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-24",
@@ -40,7 +134,7 @@
       "subtitle": "A provincial school erased under the Khmer Rouge and rebuilt by the diaspora after fifty years is a quiet footnote to the overseas Chinese story in Southeast Asia",
       "category": "Overseas Chinese",
       "country": "Cambodia",
-      "summary": "China Qiaowang reports the Xinmin School in Kampot Province's Tuek Chhou district reopened on 24 August 2026, half a century after war and the Khmer Rouge erased Chinese-language education there. The revival was driven from below by the overseas Chinese business community — a Hong Kong-linked chamber raised funds, the local council coordinated, and the Cambodian Chinese Federation backed it, with more than 200 parents and officials in attendance. The piece examines the rupture of the Khmer Rouge years, the diaspora network as the true engine of reconstruction, the regional revival of Chinese-language schooling as China's economy rises, and the dual character of such schools as both cultural restoration and soft-power infrastructure.",
+      "summary": "China Qiaowang reports that Xinmin School in Kampot's Tuek Chhou district reopened on 24 August 2026, half a century after war and the Khmer Rouge erased Chinese-language education there. The revival came from below: a Hong Kong-linked chamber of overseas Chinese businesspeople funded the building, the local council coordinated, and the Cambodian Chinese Federation backed it. The piece examines the rupture of the Khmer Rouge years, the diaspora network as the real engine of reconstruction, and the dual character of such schools as both cultural restoration and soft-power infrastructure.",
       "imageAlt": "Pedestrians stroll along a Phnom Penh street at night, under neon lights in the city scene",
       "references": [
         {
@@ -436,7 +530,7 @@
     "date": "2026-08-19",
     "readingTime": 6,
     "featured": false,
-    "summary": "8月18日，缅甸总统敏昂莱第六次访俄、首次以文职总统身份到克里姆林宫，称缅甸是俄罗斯在东南亚可靠的伙伴。双方五年军事合作协议、小型核电站与军售勾勒出制裁之下的伙伴关系；一个被西方孤立五年的军政府，借莫斯科既获武器与外交庇护，也把地缘窘境转化为与大国讨价还价的筹码。这折射俄罗斯向东转后深耕全球南方的布局，也提醒制裁未必能孤立相互取暖的伙伴网络。",
+    "summary": "8月18日，缅甸总统敏昂莱第六次访俄、首次以文职总统身份进入克里姆林宫，称缅甸是俄罗斯在东南亚可靠的伙伴。五年军事合作协议、小型核电站与军售，勾勒出制裁之下的取暖式伙伴关系：被孤立的军政府借莫斯科换取武器与外交庇护，也折射俄罗斯向东转后深耕全球南方的布局。",
     "image": "images/articles/myanmar-russia-putin-reliable-partner.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-19",
@@ -473,7 +567,7 @@
     "date": "2026-08-19",
     "readingTime": 6,
     "featured": false,
-    "summary": "世界银行7月分类显示，越南与菲律宾去年人均国民总收入升至4970与4850美元，越过4636美元的中高收入门槛，首次跻身该行列，推力来自半导体与电子产品出口。但《日经亚洲》指出，要跻身高收入须摆脱廉价劳力依赖、向高附加值转型。泰国与印尼已跌入中等收入陷阱，马来西亚则借半导体重回增长轨道。越南与菲律宾刚跨过第一道门槛，能否把组装升级为创造，才是真正的比赛。",
+    "summary": "世界银行7月分类显示，越南与菲律宾人均国民总收入升至4970与4850美元，首次越过4636美元的中高收入门槛，推力来自半导体与电子产品出口。但要跻身高收入，须摆脱廉价劳力依赖、向高附加值转型——泰国与印尼已困于中等收入陷阱。能否把组装升级为创造，才是真正的比赛。",
     "image": "images/articles/vietnam-philippines-upper-middle-income.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-19",
@@ -511,7 +605,7 @@
     "date": "2026-08-19",
     "readingTime": 9,
     "featured": false,
-    "summary": "《欢迎来龙餐馆》上映六天破9亿，以中东战乱之地一家中餐馆为舞台，讲述华商用热饭守护战争遗孤。其原型是2003年赴伊拉克开\"中国龙\"餐馆的深圳华商刘磊、帅学军。文章指出，中餐出海早非东南亚专利，该片把华侨华人离散叙事从\"寻根\"\"谋生\"老剧本转向全球冲突地带，既彰显\"以和为贵\"的软力量，也提醒勿把离散群体浪漫化为软实力注脚。",
+    "summary": "《欢迎来龙餐馆》上映六天破9亿，以中东战乱之地一家中餐馆为舞台，讲述华商用热饭守护战争遗孤，原型是2003年赴伊拉克开“中国龙”餐馆的深圳华商刘磊、帅学军。影片把华侨华人叙事从“寻根”“谋生”转向全球冲突地带，也提醒勿把离散群体浪漫化为软实力注脚。",
     "image": "images/articles/dragon-restaurant-film-diaspora.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-19",
@@ -535,7 +629,7 @@
       "subtitle": "Wen Muye's film grossed 900 million yuan in six days; Shen Teng's Northeastern cook sails to a war-torn Middle East to run a Chinese kitchen and feed orphaned children. Its real prototype: Shenzhen merchants who opened the \"China Dragon\" restaurant in Iraq in 2003. Why does a film about an overseas Chinese eatery unsettle our settled image of the diaspora?",
       "category": "Overseas Chinese",
       "country": "Middle East / China",
-      "summary": "Welcome to Dragon Restaurant earned 900 million yuan in six days, staging its story in a Chinese restaurant amid a Middle Eastern war, where a cook uses hot meals to shelter war orphans. Its prototype is Liu Lei and Shuai Xuejun, Shenzhen merchants who ran the \"China Dragon\" eatery in Iraq in 2003. The piece argues that Chinese food went global long beyond Southeast Asia, and the film pivots the overseas-Chinese narrative from \"roots\" and \"survival\" toward the world's conflict zones — asserting a soft power of \"harmony as the highest good\" while warning against flattening the diaspora into a footnote of soft power.",
+      "summary": "Welcome to Dragon Restaurant earned 900 million yuan in six days, staging its story in a Chinese restaurant amid a Middle Eastern war, where a cook uses hot meals to shelter war orphans. Its prototype is Liu Lei and Shuai Xuejun, Shenzhen merchants who ran the \"China Dragon\" eatery in Iraq in 2003. The film pivots the overseas-Chinese narrative from \"roots\" and \"survival\" toward the world's conflict zones — while warning against flattening the diaspora into a footnote of soft power.",
       "imageAlt": "A chef in a white uniform cooking at the stove, echoing the 'overseas Chinese restaurant' as a diaspora symbol"
     }
   },
