@@ -1,5 +1,64 @@
 [
   {
+    "slug": "cambodia-xinmin-chinese-school-reopen",
+    "title": "停办半个世纪后，柬埔寨一所华校重新开学",
+    "subtitle": "一所偏远小镇的华校在红色高棉时代被抹去、五十年后由侨社重建——它是东南亚华侨华人命运的一枚安静注脚",
+    "category": "华侨华人",
+    "tags": [
+      "华文教育",
+      "柬埔寨",
+      "侨社",
+      "柬华理事总会",
+      "离散群体",
+      "东南亚"
+    ],
+    "country": "柬埔寨",
+    "date": "2026-08-24",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "中国侨网报道，柬埔寨白马省土城市新民学校8月24日正式复校开学，停办约半世纪后当地华文教育重启。复校由柬埔寨港澳侨商总会会长黄瑞华发动香港侨商捐建教学楼、土城理事会协调，柬华理事总会支持；两百余名家长与官员见证。文章分析华校在红色高棉时期被禁的“断裂”，侨社网络作为重建引擎的角色，以及华文教育在东南亚随中国经济崛起而复兴的 broader 趋势，并指出其兼具文化修复与软权力维度的双重属性。",
+    "image": "images/articles/cambodia-xinmin-chinese-school-reopen.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-24",
+    "imageAlt": "金边夜晚的街道上，行人漫步于霓虹灯下的城市街景",
+    "references": [
+      {
+        "source": "中国侨网（来源：中国侨网微信公众号）",
+        "title": "停办50年后，柬埔寨一华文学校正式复校开学",
+        "url": "https://www.chinaqw.com/hwjy/2026/08-24/410563.shtml",
+        "date": "2026-08-24"
+      },
+      {
+        "source": "中国新闻网",
+        "title": "中华文化大乐园落地柬埔寨华校 以文化为桥厚植中柬友谊",
+        "url": "https://www.chinaqw.com/hwjy/2026/08-24/410524.shtml",
+        "date": "2026-08-24"
+      }
+    ],
+    "en": {
+      "title": "Fifty Years On: How a Khmer Rouge-Era Silence Ended at a Cambodian Chinese School",
+      "subtitle": "A provincial school erased under the Khmer Rouge and rebuilt by the diaspora after fifty years is a quiet footnote to the overseas Chinese story in Southeast Asia",
+      "category": "Overseas Chinese",
+      "country": "Cambodia",
+      "summary": "China Qiaowang reports the Xinmin School in Kampot Province's Tuek Chhou district reopened on 24 August 2026, half a century after war and the Khmer Rouge erased Chinese-language education there. The revival was driven from below by the overseas Chinese business community — a Hong Kong-linked chamber raised funds, the local council coordinated, and the Cambodian Chinese Federation backed it, with more than 200 parents and officials in attendance. The piece examines the rupture of the Khmer Rouge years, the diaspora network as the true engine of reconstruction, the regional revival of Chinese-language schooling as China's economy rises, and the dual character of such schools as both cultural restoration and soft-power infrastructure.",
+      "imageAlt": "Pedestrians stroll along a Phnom Penh street at night, under neon lights in the city scene",
+      "references": [
+        {
+          "source": "China Qiaowang (chinaqw.com)",
+          "title": "After a 50-Year Closure, a Chinese School in Cambodia Reopens",
+          "url": "https://www.chinaqw.com/hwjy/2026/08-24/410563.shtml",
+          "date": "2026-08-24"
+        },
+        {
+          "source": "China News Service",
+          "title": "Chinese Culture Paradise Lands at a Cambodian Chinese School, Building China–Cambodia Friendship through Culture",
+          "url": "https://www.chinaqw.com/hwjy/2026/08-24/410524.shtml",
+          "date": "2026-08-24"
+        }
+      ]
+    }
+  },
+  {
     "slug": "12th-overseas-chinese-fair-shenzhen-2026",
     "title": "第十二届侨交会落幕：以侨为桥，千企万品\"出海\"亚太",
     "subtitle": "一场以\"侨\"为名的亚太经贸盛会，正从展会偶遇走向常年走动，侨商网络成为中企深耕亚太的\"超级链接器\"",

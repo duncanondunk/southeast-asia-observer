@@ -454,6 +454,13 @@
       "slugs": [
         "malaysia-domestic-chips-2030-2026"
       ]
+    },
+    "event:柬埔寨华文学校停办50年后复校开学(新民学校·白马省土城,2026-08-24)": {
+      "note": "全新素材（中国侨网，2026-08-24）。柬埔寨华文教育复兴/侨社重建主题，与既有菲律宾华校安全化、东南亚华文教育 broadly 等条目不重复（本文聚焦柬埔寨特定学校复校事件与离散网络引擎）。",
+      "exception": null,
+      "slugs": [
+        "cambodia-xinmin-chinese-school-reopen"
+      ]
     }
   }
 }
