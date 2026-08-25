@@ -644,16 +644,10 @@
    * 标签页
    * ============================================================ */
   function initTags() {
-    if (!$('#tagCloud')) return;
+    if (!$('#gridList')) return;
     var currentTag = getQuery('tag');
     loadArticles()
       .then(function (list) {
-        var counts = {};
-        list.forEach(function (a) { (a.tags || []).forEach(function (t) { counts[t] = (counts[t] || 0) + 1; }); });
-        var tags = Object.keys(counts).sort(function (x, y) { return counts[y] - counts[x]; });
-        $('#tagCloud').innerHTML = tags.map(function (t) {
-          return '<a class="tag" href="tags.html?tag=' + encodeURIComponent(t) + '">' + escapeHtml(tagI18n(t)) + '<span class="tag-count">' + counts[t] + '</span></a>';
-        }).join('');
         applyFilter(currentTag, list);
         updateTagsHero(currentTag);
       })
@@ -694,10 +688,6 @@
         '<div class="grid-card__meta"><span>' + formatDateShort(a.date) + '</span><span>' + readingLabel(a.readingTime || 5) + '</span></div>' +
       '</article>';
     }).join('');
-    $$('#tagCloud .tag').forEach(function (a) {
-      var m = /tag=([^&]*)/.exec(a.getAttribute('href') || '');
-      a.classList.toggle('tag--accent', m && decodeURIComponent(m[1]) === tag);
-    });
   }
 
   /* ============================================================

@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-24",
+  "version": "2026-08-25",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -474,6 +474,27 @@
       "exception": null,
       "slugs": [
         "bangkok-chinese-woman-escape-myanmar-border-2026"
+      ]
+    },
+    "event:新加坡总理黄循财推广华语演讲(2026-08-23)": {
+      "note": "全新素材（中国侨网/中新社，2026-08-25），华侨华人/华文教育主题；与既有新加坡小国外交等条目不重复。",
+      "exception": null,
+      "slugs": [
+        "singapore-pm-bilingual-policy-2026"
+      ]
+    },
+    "event:越南外长黎怀忠访缅(2026-08,政变以来首次)": {
+      "note": "全新素材（联合早报，2026-08-25），地缘政治/缅甸回归区域外交主题。",
+      "exception": null,
+      "slugs": [
+        "vietnam-fm-myanmar-visit-2026"
+      ]
+    },
+    "event:东南亚廉航第二季亏损(2026-08,燃油+货币贬值)": {
+      "note": "全新素材（联合早报，2026-08-24），经济产业/廉价航空商业模式主题。",
+      "exception": null,
+      "slugs": [
+        "sea-budget-airlines-q2-losses-2026"
       ]
     }
   }
