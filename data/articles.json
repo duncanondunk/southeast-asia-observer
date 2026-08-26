@@ -63,7 +63,7 @@
     "featured": false,
     "summary": "联合早报报道，菲律宾国防部长特奥多罗8月25日称将扩大无人机等无人作战能力，争取2027国防预算增6.3%，其中500亿比索（约62亿元人民币）用于现代化、无人机为重点。安全重心由内安转向外防，但通信与网络整合才是真正考验。",
     "image": "images/articles/philippines-unmanned-warfare-external-defense-2026.jpg",
-    "imageCredit": "Pexels",
+    "imageCredit": "Photo by Royce Fonseca on Unsplash",
     "imageAccessed": "2026-08-26",
     "imageAlt": "菲律宾近海一艘巡逻艇划开浪线，映射马尼拉把海上对峙筹码伸向无人系统的转向",
     "references": [
@@ -3224,100 +3224,6 @@
           "title": "The Continuity and Renewal of Chinese-Language Education in Southeast Asia",
           "url": "https://www.chinaqw.com/hwjy/2026/08-21/410550.shtml",
           "date": "2026-08-21"
-        }
-      ]
-    }
-  },
-  {
-    "slug": "indonesia-100gw-solar-plan-2026",
-    "title": "印尼启动100吉瓦太阳能大计：730亿美元豪赌能源转型",
-    "subtitle": "普拉博沃宣布三年内建成100吉瓦太阳能装机，年省42亿美元补贴，但土地、融资与监管仍是落地障碍",
-    "category": "经济产业",
-    "tags": [
-      "印度尼西亚",
-      "能源",
-      "太阳能",
-      "清洁能源",
-      "经济产业",
-      "气候变化"
-    ],
-    "country": "印度尼西亚",
-    "date": "2026-08-26",
-    "readingTime": 6,
-    "featured": false,
-    "summary": "印尼总统普拉博沃宣布启动100吉瓦太阳能计划，预计投资730亿美元，目标三年内建成。目前印尼太阳能仅占装机1.5吉瓦，煤炭主导电力。该计划每年可省42亿美元补贴，但土地、融资与监管仍是落地障碍。",
-    "image": "images/articles/indonesia-100gw-solar-plan-2026.jpg",
-    "imageCredit": "Photo by American Public Power Association on Unsplash",
-    "imageAccessed": "2026-08-26",
-    "imageAlt": "印尼一处太阳能光伏阵列在阳光下铺展，代表该国100吉瓦清洁电力蓝图",
-    "references": [
-      {
-        "source": "联合早报 Lianhe Zaobao",
-        "title": "印尼启动100吉瓦太阳能发展计划 减少对化石燃料依赖",
-        "url": "https://www.zaobao.com.sg/news/sea/story20260826-9576105",
-        "date": "2026-08-26"
-      }
-    ],
-    "en": {
-      "title": "Indonesia Launches 100-Gigawatt Solar Plan: A US$73 Billion Bet on the Energy Transition",
-      "subtitle": "Prabowo targets 100 GW of solar capacity within three years, saving US$4.2 billion in annual subsidies, yet land, financing and regulation remain hurdles",
-      "category": "Economy & Industry",
-      "country": "Indonesia",
-      "summary": "Indonesia's President Prabowo launched a 100-GW solar plan with an estimated US$73 billion investment, targeted for completion within three years. Solar now supplies just 1.5 GW of capacity in a coal-dominated grid; the scheme could save US$4.2 billion in annual subsidies, but land, financing and regulation remain hurdles.",
-      "imageAlt": "A solar photovoltaic array sprawling under sunlight in Indonesia, representing the country's 100-GW clean-power blueprint",
-      "references": [
-        {
-          "source": "Lianhe Zaobao (zaobao.com)",
-          "title": "Indonesia Launches 100-Gigawatt Solar Plan to Cut Reliance on Fossil Fuels",
-          "url": "https://www.zaobao.com.sg/news/sea/story20260826-9576105",
-          "date": "2026-08-26"
-        }
-      ]
-    }
-  },
-  {
-    "slug": "philippines-unmanned-warfare-capability-2026",
-    "title": "菲律宾拟扩大无人化作战能力 国防预算增6.3%主攻无人机",
-    "subtitle": "特奥多罗称将扩编无人机与无人艇，2027年国防预算拟增6.3%，安全重心由国内转向外部防御",
-    "category": "地缘政治",
-    "tags": [
-      "菲律宾",
-      "国防",
-      "无人机",
-      "南海",
-      "地缘政治",
-      "外部防御"
-    ],
-    "country": "菲律宾",
-    "date": "2026-08-26",
-    "readingTime": 6,
-    "featured": false,
-    "summary": "菲律宾国防部长特奥多罗称将扩大无人作战能力，重点采购无人机。2027年国防预算拟在3055亿比索基础上增6.3%，现代化拨款增25%。菲方还与乌克兰、美国开展无人机技术合作，安全重心由国内转向外部防御。",
-    "image": "images/articles/philippines-unmanned-warfare-capability-2026.jpg",
-    "imageCredit": "Photo by Royce Fonseca on Unsplash",
-    "imageAccessed": "2026-08-26",
-    "imageAlt": "菲律宾海岸警卫队舰艇在争议海域执行巡逻任务，无人化装备正成为外部防御新支点",
-    "references": [
-      {
-        "source": "联合早报 Lianhe Zaobao",
-        "title": "菲拟扩大无人化作战能力加强外部防御",
-        "url": "https://www.zaobao.com.sg/news/sea/story20260825-9572677",
-        "date": "2026-08-25"
-      }
-    ],
-    "en": {
-      "title": "Philippines Plans to Expand Unmanned Warfare Capability, Lifting Defense Budget 6.3% for Drones",
-      "subtitle": "Teodoro says Manila will scale up drones and unmanned vessels; the 2027 defense budget is proposed to rise 6.3% as the security focus tilts toward external defense",
-      "category": "Geopolitics",
-      "country": "Philippines",
-      "summary": "Philippine Defense Secretary Teodoro says Manila will expand unmanned warfare capability, prioritizing drones. The 2027 defense budget is proposed to rise 6.3% to 305.5 billion pesos, with modernisation funding up 25%. The Philippines is also deepening drone ties with Ukraine and the US as it tilts toward external defense.",
-      "imageAlt": "A Philippine Coast Guard vessel on patrol in disputed waters, as unmanned systems emerge as a new pillar of external defense",
-      "references": [
-        {
-          "source": "Lianhe Zaobao (zaobao.com)",
-          "title": "Philippines Plans to Expand Unmanned Warfare Capability to Strengthen External Defense",
-          "url": "https://www.zaobao.com.sg/news/sea/story20260825-9572677",
-          "date": "2026-08-25"
         }
       ]
     }
