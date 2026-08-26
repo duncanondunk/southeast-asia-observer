@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-25",
+  "version": "2026-08-26",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -495,6 +495,41 @@
       "exception": null,
       "slugs": [
         "sea-budget-airlines-q2-losses-2026"
+      ]
+    },
+    "topic:东南亚华文教育守脉与向新(2026-08)": {
+      "note": "全新素材（中国侨网/中新社《东南亚华文教育的守脉和向新》，2026-08-21；马来西亚新纪元大学莫顺宗、柬埔寨柬华理事总会钟耀辉案例）。与 film:Dear You 区分：本文不涉电影本体，聚焦华文教育守脉与「中文+职业技能」转型。",
+      "exception": null,
+      "slugs": [
+        "sea-chinese-education-renewal-2026"
+      ]
+    },
+    "event:印尼启动100吉瓦太阳能计划(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-26）。印尼能源转型/清洁能源主题，与既有印尼林火、镍矿、AI与能源震荡等不重复。",
+      "exception": null,
+      "slugs": [
+        "indonesia-100gw-solar-plan-2026"
+      ]
+    },
+    "event:菲律宾扩大无人化作战能力(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-25）。菲律宾国防现代化/无人机/外部防御主题，与既有菲律宾南海、贸易逆差、举债振兴等不重复。",
+      "exception": null,
+      "slugs": [
+        "philippines-unmanned-warfare-capability-2026"
+      ]
+    },
+    "event:印尼启动100吉瓦太阳能发展计划(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-26），能源转型/新能源主题。",
+      "exception": null,
+      "slugs": [
+        "indonesia-100gw-solar-plan-2026"
+      ]
+    },
+    "event:菲律宾扩大无人化作战能力加强外部防御(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-25），军事现代化/无人作战/外部防御主题，与中菲关系、南海条目不重复。",
+      "exception": null,
+      "slugs": [
+        "philippines-unmanned-warfare-external-defense-2026"
       ]
     }
   }
