@@ -3352,5 +3352,52 @@
       "summary": "In August 2026, seventeen ethnic-Chinese university students from Japan, the United States and Hungary completed the 'Qiaohai Zhumeng' programme in Hainan. The camp mixes internships and cultural immersion, illustrating China's shift from attracting diaspora investment to nurturing diaspora youth — and the promise and limits of asking them to be 'grassroots envoys'.",
       "imageAlt": "A tropical Hainan coastline with palm trees, sandy beach and turquoise sea"
     }
+  },
+  {
+    "slug": "anutin-border-visit-cambodia-protest-2026",
+    "title": "阿努廷戎装访边境争议区 柬埔寨提最强烈抗议",
+    "subtitle": "一场身着军装的慰问，把泰柬边境百年历史地图之争再度推到火药味最浓的位置",
+    "category": "地缘政治",
+    "tags": [
+      "地缘政治",
+      "泰国",
+      "柬埔寨",
+      "边境",
+      "领土争端",
+      "阿努廷"
+    ],
+    "country": "泰国",
+    "date": "2026-08-27",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "2026年8月23日，泰国首相阿努廷戎装视察泰柬边境争议区安塞，慰问前线官兵，遭柬埔寨提出迄今最强烈抗议，指其“侵犯主权”。安塞归属依不同历史地图解读长期对峙，去年底停火后摩擦仍频。",
+    "image": "images/articles/anutin-border-visit-cambodia-protest-2026.jpg",
+    "imageCredit": "Photo by Simone Dinoia on Unsplash",
+    "imageAccessed": "2026-08-27",
+    "imageAlt": "古高棉式石柱浮雕遗迹，象征泰柬边境争议所围绕的寺庙与历史地图之争",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "阿努廷戎装访边境争议地区 柬提出迄今最强烈抗议",
+        "url": "https://www.zaobao.com/news/sea/story20260826-9579453",
+        "date": "2026-08-26"
+      }
+    ],
+    "en": {
+      "title": "Thai PM Anutin's Military-Attire Border Visit Draws Cambodia's Strongest Protest",
+      "subtitle": "A morale-boosting trip in combat dress has pushed the century-old dispute over a contested border zone to its most combustible point in years",
+      "category": "Geopolitics",
+      "country": "Thailand",
+      "summary": "On 23 August 2026, Thai Prime Minister Anutin visited the contested border zone of An Ses in Preah Vihear province in combat dress to cheer up front-line troops, prompting Phnom Penh's strongest protest to date — Cambodia condemned it as an infringement of sovereignty. The ownership of An Ses, read differently under rival historical maps, has simmered since last December's ceasefire.",
+      "imageAlt": "Khmer-style carved stone pillars, evoking the temples and rival historical maps at the heart of the Thailand–Cambodia border dispute",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Anutin Visits Contested Border in Military Attire; Cambodia Lodges Strongest Protest Yet",
+          "url": "https://www.zaobao.com/news/sea/story20260826-9579453",
+          "date": "2026-08-26"
+        }
+      ]
+    }
   }
 ]

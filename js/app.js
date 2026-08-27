@@ -25,7 +25,7 @@
   // 标签中英映射
   var TAG_I18N = {
     '经济产业': 'Economy & Industry', '国家观察': 'Country Watch', '供应链': 'Supply Chain', '量化指数': 'Quantitative Index', '城市': 'Urban', '旅游业': 'Tourism', '产业链': 'Industrial Chain',
-    '地缘政治': 'Geopolitics', '新能源': 'New Energy', '气候变化': 'Climate Change', '俄罗斯': 'Russia', '军事合作': 'Military Cooperation',
+    '地缘政治': 'Geopolitics', '新能源': 'New Energy', '气候变化': 'Climate Change', '俄罗斯': 'Russia', '军事合作': 'Military Cooperation', '边境': 'Border', '领土争端': 'Territorial Dispute', '阿努廷': 'Anutin',
     '水资源': 'Water Resources', '南海': 'South China Sea', '华侨华人': 'Overseas Chinese', '侨务': 'Diaspora Affairs', '华商': 'Overseas Chinese Business', '离散叙事': 'Diaspora Narrative', '中餐出海': 'Chinese Cuisine Going Global', '文牧野': 'Wen Muye', '移民': 'Migration', '历史': 'History', '全球': 'Worldwide', '华南': 'South China',
     '越南': 'Vietnam', '印度尼西亚': 'Indonesia', '新加坡': 'Singapore',
     '菲律宾': 'Philippines', '湄公河流域': 'Mekong Basin',
@@ -35,14 +35,14 @@
     '难民': 'Refugees', '文化遗产': 'Cultural Heritage', '七夕': 'Qixi', '教育': 'Education',
     '环境': 'Environment', '烟霾': 'Haze', '客家': 'Hakka', '福建': 'Fujian', '韩国': 'South Korea', '中国': 'China', '贸易': 'Trade', '榴莲': 'Durian', '农产品': 'Agriculture', '美国': 'United States', '军事': 'Military', '金眼镜蛇': 'Cobra Gold', '侨乡': 'Qiaoxiang', '广东': 'Guangdong', '灾害': 'Disaster', '地震': 'Earthquake', '海啸': 'Tsunami',     'GDP': 'GDP', 'AI': 'AI', '出口': 'Exports', '一带一路': 'Belt and Road', '基础设施': 'Infrastructure', '铁路': 'Railway', '能源': 'Energy', '天然气': 'Natural Gas',
     '归侨': 'Returned Overseas Chinese', '离散记忆': 'Diaspora Memory', '南洋': 'Nanyang (Southeast Asia, old term)',
-    '数据中心': 'Data Centre', '数字经济': 'Digital Economy', '企业出海': 'Chinese Firms Going Global', '侨智': 'Overseas Chinese Talent',     '中文': 'Chinese / Mandarin', '文化传承': 'Cultural Inheritance', '代际传承': 'Generational Succession', '过境免签': 'Transit Visa-Free', '周边外交': 'Peripheral Diplomacy', '人员往来': 'People-to-People Exchange', '海南': 'Hainan',
+    '数据中心': 'Data Centre', '数字经济': 'Digital Economy', '企业出海': 'Chinese Firms Going Global', '侨智': 'Overseas Chinese Talent',     '中文': 'Chinese / Mandarin', '文化传承': 'Cultural Inheritance', '代际传承': 'Generational Succession', '过境免签': 'Transit Visa-Free', '周边外交': 'Peripheral Diplomacy', '人员往来': 'People-to-People Exchange', '海南': 'Hainan', '海南自贸港': 'Hainan Free Trade Port',
     '浙江': 'Zhejiang', '青田': 'Qingtian', '柬埔寨': 'Cambodia', '侨贸': 'Qiaomao (Overseas-Chinese Trade)', '中印尼关系': 'China–Indonesia Relations', '全面战略伙伴': 'Comprehensive Strategic Partnership', '矿物能源': 'Minerals & Energy', '投资': 'Investment', '柔佛': 'Johor', '经济特区': 'Special Economic Zone', '经济外交': 'Economic Diplomacy',
     '侨交会': 'Overseas Chinese Entrepreneurs Fair', 'APEC': 'APEC', '亚太': 'Asia-Pacific', '经贸合作': 'Economic & Trade Cooperation', '泰南': 'Southern Thailand', '宵禁': 'Curfew', '分离主义': 'Separatism', '晶片': 'Chips', '安谋': 'Arm Holdings', '华文教育': 'Chinese-Medium Education', '人口贩运': 'Human Trafficking',
     '东南亚': 'Southeast Asia', '东盟': 'ASEAN', '侨社': 'Overseas Chinese Community', '侨团': 'Overseas Chinese Association', '柬华理事总会': 'Cambodian Chinese Association', '印尼华裔总会': 'INTI (Indonesian Chinese Association)', '离散群体': 'Diaspora', '离散': 'Diaspora', '跨境治理': 'Cross-Border Governance',
     '口述史': 'Oral History', '潮籍': 'Teochew Origin', '侨批': 'Qiaopi (Overseas Chinese Remittance Letters)', '下南洋': 'Migration to Nanyang', '华语电影': 'Chinese-Language Cinema', '电影': 'Film', '文化': 'Culture', '文化交流': 'Cultural Exchange', '文化记忆': 'Cultural Memory', '身份认同': 'Identity',
     '民主行动党': 'Democratic Action Party (DAP)', '政治': 'Politics', '华人': 'Ethnic Chinese', '族群': 'Ethnicity', '选举': 'Elections', '语言': 'Language', '青年': 'Youth', '青年侨胞': 'Young Overseas Chinese', '华裔新生代': 'New Generation of Chinese Descent',
     '澳大利亚': 'Australia', '法国': 'France', '稀土': 'Rare Earths', '钕磁铁': 'Neodymium Magnets', '餐饮': 'Food & Beverage', '科技': 'Technology',
-    '经济': 'Economy', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
+    '经济': 'Economy', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '利率': 'Interest Rate', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
     '小马科斯': 'Marcos Jr.', '普拉博沃': 'Prabowo', '罗兴亚': 'Rohingya', '中菲关系': 'China–Philippines Relations', '中印尼': 'China–Indonesia', '国际关系': 'International Relations', '安全化': 'Securitisation',
     '侨务工作': 'Diaspora Affairs Work', '侨务政策': 'Diaspora Policy', '中国侨网': 'China Qiaowang', '软实力': 'Soft Power', '妈祖': 'Mazu', '气象预警': 'Weather Early Warning', '早期预警': 'Early Warning'
   };

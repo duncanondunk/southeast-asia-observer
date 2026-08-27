@@ -540,6 +540,15 @@
       "slugs": [
         "thailand-central-bank-holds-1pct-2026"
       ]
+    },
+    "event:阿努廷访泰柬边境争议区安塞柬抗议(2026-08)": {
+      "type": "event",
+      "date": "2026-08-23",
+      "country": "泰国",
+      "category": "地缘政治",
+      "slugs": [
+        "anutin-border-visit-cambodia-protest-2026"
+      ]
     }
   }
 }
