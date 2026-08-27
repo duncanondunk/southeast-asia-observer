@@ -3227,5 +3227,36 @@
         }
       ]
     }
+  },
+  {
+    "slug": "hainan-qiaohai-zhumeng-youth-2026",
+    "title": "十七名华裔青年，一座自贸港：\"侨海逐梦\"与华裔新生代的认同之问",
+    "subtitle": "十七名海外华裔青年走进海南自贸港，在实习与文化体验中看见一座岛屿如何被同时讲述为旅游明信片与发展样板",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "华裔新生代",
+      "海南自贸港",
+      "侨务",
+      "文化交流",
+      "中国"
+    ],
+    "country": "中国",
+    "date": "2026-08-27",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "2026年8月，十七名来自日本、美国、匈牙利的华裔大学生在海南完成\"侨海逐梦\"研习。活动以实习与文化体验为载体，折射出中国侨务工作从\"引资引智\"转向\"育人\"的代际逻辑，也揭示了\"民间使者\"期待的成效与限度。",
+    "image": "images/articles/hainan-qiaohai-zhumeng-youth-2026.jpg",
+    "imageCredit": "Photo by Xie Jian on Unsplash",
+    "imageAccessed": "2026-08-27",
+    "imageAlt": "海南热带海滨，椰林、沙滩与碧海交织的岛屿风光",
+    "en": {
+      "title": "Seventeen Young Overseas Chinese, One Free-Trade Island: 'Qiaohai Zhumeng' and the Question of Identity for a New Diaspora Generation",
+      "subtitle": "Seventeen overseas Chinese youth entered Hainan's free-trade port and, through internships and cultural immersion, saw how one island is told simultaneously as a tourist postcard and a development showcase",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "In August 2026, seventeen ethnic-Chinese university students from Japan, the United States and Hungary completed the 'Qiaohai Zhumeng' programme in Hainan. The camp mixes internships and cultural immersion, illustrating China's shift from attracting diaspora investment to nurturing diaspora youth — and the promise and limits of asking them to be 'grassroots envoys'.",
+      "imageAlt": "A tropical Hainan coastline with palm trees, sandy beach and turquoise sea"
+    }
   }
 ]

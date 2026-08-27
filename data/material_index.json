@@ -517,6 +517,15 @@
       "slugs": [
         "philippines-unmanned-warfare-external-defense-2026"
       ]
+    },
+    "event:2026年侨海逐梦华裔大学生研习活动(2026-08)": {
+      "type": "event",
+      "date": "2026-08-23",
+      "country": "中国",
+      "category": "华侨华人",
+      "slugs": [
+        "hainan-qiaohai-zhumeng-youth-2026"
+      ]
     }
   }
 }
