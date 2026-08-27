@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-26",
+  "version": "2026-08-27",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -525,6 +525,20 @@
       "category": "华侨华人",
       "slugs": [
         "hainan-qiaohai-zhumeng-youth-2026"
+      ]
+    },
+    "event:54名马来西亚人尼泊尔灾区失联(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-27），马来西亚公民海外遇险/跨境领事保护主题，与既有离散、灾害条目不重复。",
+      "exception": null,
+      "slugs": [
+        "malaysia-citizens-nepal-disaster-missing-2026"
+      ]
+    },
+    "event:泰国央行连续三次维持1%基准利率(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-26），泰国货币政策/两速经济主题，与既有泰国、经济产业、央行条目不重复。",
+      "exception": null,
+      "slugs": [
+        "thailand-central-bank-holds-1pct-2026"
       ]
     }
   }

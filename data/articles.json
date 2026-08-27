@@ -1,5 +1,99 @@
 [
   {
+    "slug": "malaysia-citizens-nepal-disaster-missing-2026",
+    "title": "54名马来西亚人尼泊尔灾区失联：喜马拉雅走廊上的离散之问",
+    "subtitle": "拉苏瓦县突发洪水泥石流，54名马国人失联、157人遇难——安华调动外交部与驻尼使馆搜寻，并借调驻达卡使团协协调，暴露加德满都常驻外交存在单薄",
+    "category": "社会文化",
+    "tags": [
+      "马来西亚",
+      "灾害",
+      "离散群体",
+      "跨境治理",
+      "尼泊尔"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-27",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "尼泊尔拉苏瓦县突发洪水泥石流，54名马来西亚人失联、157人遇难。安华称深感忧虑，责成外交部与驻尼使馆全力搜寻，并借调驻达卡使团协助协调，暴露加德满都常驻外交存在单薄。事件折射国民越行越远、领事照护却未必同步的离散之问。",
+    "image": "images/articles/malaysia-citizens-nepal-disaster-missing-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-27",
+    "imageAlt": "喜马拉雅山脊在云层中若隐若现，映照拉苏瓦县那场把东南亚旅客困于高地的突发山洪",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "安华：54名马国人在尼泊尔灾区失联 当局全力展开搜索",
+        "url": "https://www.zaobao.com/news/sea/story20260827-9582676",
+        "date": "2026-08-27"
+      }
+    ],
+    "en": {
+      "title": "54 Malaysians Missing in Nepal Disaster: A Diaspora Question on the Himalayan Corridor",
+      "subtitle": "A flash flood in Rasuwa leaves 54 Malaysians missing and 157 dead — Anwar mobilises the Foreign Ministry and Kathmandu embassy, even borrowing Dhaka-based officials, exposing thin resident presence in Nepal",
+      "category": "Society & Culture",
+      "country": "Malaysia",
+      "summary": "Lianhe Zaobao reports that after a flash flood and landslide in Nepal's Rasuwa district, 54 Malaysians remain missing and 157 have died. Anwar expressed deep concern, tasked the Foreign Ministry and Kathmandu embassy with the search, and deployed Dhaka-based officials to coordinate — exposing thin resident diplomatic presence in Nepal. The episode reframes a quiet question for Southeast Asian states: as citizens travel ever farther, does consular care keep pace?",
+      "imageAlt": "Himalayan ridges emerge faintly through cloud, echoing the sudden flood in Rasuwa that trapped Southeast Asian travellers in the highlands",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Anwar: 54 Malaysians missing in Nepal disaster zone, authorities searching",
+          "url": "https://www.zaobao.com/news/sea/story20260827-9582676",
+          "date": "2026-08-27"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "thailand-central-bank-holds-1pct-2026",
+    "title": "泰国央行连续三次维持1%：AI热潮下的\"两速经济\"与降息弹药见底",
+    "subtitle": "一日期回购利率维持1%、连续第三次按兵不动；AI拉投资增31%至2550亿泰铢，但二季度GDP仅增1.9%、六大经济体垫底",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "经济",
+      "央行",
+      "货币政策",
+      "GDP",
+      "AI",
+      "投资"
+    ],
+    "country": "泰国",
+    "date": "2026-08-27",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "联合早报报道，泰国央行8月26日一致维持一日期回购利率于1%，连续第三次按兵不动，为2022年9月以来最低。AI热潮拉动投资增31%至2550亿泰铢，但二季度GDP仅增1.9%、六大经济体中垫底。利率贴近下限、降息弹药见底，刺激重担转向财政，外部脆弱性未因AI喧嚣而消。",
+    "image": "images/articles/thailand-central-bank-holds-1pct-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-27",
+    "imageAlt": "曼谷唐人街的街景在暮色中延伸，映照泰国经济在AI热潮与疲软内需之间的两速拉扯",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "如市场预期 泰国央行连续三次维持1%基准利率",
+        "url": "https://www.zaobao.com/news/sea/story20260826-9580552",
+        "date": "2026-08-26"
+      }
+    ],
+    "en": {
+      "title": "Thailand Holds Rate at 1% for Third Time: A \"Two-Speed Economy\" and Dwindling Ammunition",
+      "subtitle": "The one-day repo rate stays at 1%, held for the third straight time; the AI boom lifted investment 31% to 255 billion baht, yet Q2 GDP grew just 1.9%, the slowest of six major economies",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "Lianhe Zaobao reports that on 26 August the Bank of Thailand unanimously held its one-day repo rate at 1% — the third straight hold and the lowest since September 2022. The AI boom lifted promoted investment 31% to 255 billion baht, yet Q2 GDP grew just 1.9%, the slowest of six major Southeast Asian economies. With rates near the floor, the stimulus burden shifts to fiscal policy.",
+      "imageAlt": "Bangkok's Chinatown stretches into the dusk, echoing Thailand's two-speed tug between the AI boom and soft domestic demand",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "As expected, Thailand's central bank holds 1% benchmark rate for third straight time",
+          "url": "https://www.zaobao.com/news/sea/story20260826-9580552",
+          "date": "2026-08-26"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-100gw-solar-plan-2026",
     "title": "印尼启动100吉瓦太阳能大计：普拉博沃的\"三年不进口一滴油\"豪赌",
     "subtitle": "730亿美元押注太阳能，目标三年建成100吉瓦装机——但土地、电网与补贴惯性仍是三道坎",
