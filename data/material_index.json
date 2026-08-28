@@ -2,6 +2,21 @@
   "version": "2026-08-28",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
+    "event:马来西亚警方瓦解24非法矿场(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-28），非法采矿/稀土盗采/跨境灰产主题；与既有稀土、矿场、环境条目不重复。",
+      "exception": null,
+      "slugs": [
+        "malaysia-police-bust-illegal-mines-2026"
+      ]
+    },
+    "event:印尼反腐集会要求资产没收法案(2026-08)": {
+      "note": "全新素材（联合早报，2026-08-27），反腐败/社会运动/立法诉求主题；与既有菲律宾反腐（不同事件）、社会政策条目不重复。",
+      "exception": null,
+      "slugs": [
+        "indonesia-anti-corruption-protests-2026"
+      ]
+    },
+
     "film:Dear You (给阿嬷的情书)": {
       "note": "历史遗留冲突：3 篇同素材（letter-to-grandma-indonesia / amah-letter-indonesia / dear-you-qiaopi-indonesia）。grandfathered，今后禁止再发该电影题材。",
       "exception": null,
