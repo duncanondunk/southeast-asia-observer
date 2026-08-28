@@ -739,6 +739,9 @@ html[lang="zh-CN"] [data-lang-card="en"] { display: none !important; }
   letter-spacing: -0.01em;
   font-variant-numeric: tabular-nums;
 }
+.why-sea__num-locale--zh { display: none; }
+html[lang="zh-CN"] .why-sea__num-locale--en { display: none; }
+html[lang="zh-CN"] .why-sea__num-locale--zh { display: inline; }
 .why-sea__currency {
   font-size: 1.6rem;
   font-weight: 600;
@@ -756,6 +759,11 @@ html[lang="zh-CN"] [data-lang-card="en"] { display: none !important; }
   font-size: .76rem;
   color: var(--text-mute);
   font-style: italic;
+}
+/* 中文版段落左对齐（更符合中文阅读节奏） */
+html[lang="zh-CN"] .why-sea__desc,
+html[lang="zh-CN"] .why-sea__src {
+  text-align: left;
 }
 @media (max-width: 820px) {
   .why-sea__grid { grid-template-columns: 1fr; }

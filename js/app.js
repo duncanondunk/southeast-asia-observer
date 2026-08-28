@@ -702,7 +702,10 @@
   function initWhySEA() {
     var section = $('#whySEA');
     if (!section) return;
-    var values = $$('.why-sea__value', section);
+    // 每个 stat 卡片包含中英两个数字版本（.why-sea__num-locale--en / --zh），
+    // 只对当前语言可见的那一个启动动画，避免冗余 DOM 写入。
+    var localeClass = LANG === 'en' ? '.why-sea__num-locale--en' : '.why-sea__num-locale--zh';
+    var values = $$(localeClass + ' .why-sea__value', section);
     if (!values.length) return;
     if (typeof window.IntersectionObserver === 'undefined') {
       values.forEach(function (el) { el.textContent = formatStat(el.dataset.target, parseInt(el.dataset.decimals || '0', 10), el.dataset.suffix || ''); });
@@ -740,7 +743,9 @@
         if (!entry.isIntersecting) return;
         var card = entry.target;
         card.classList.add('is-in');
-        var stat = card.querySelector('.why-sea__value');
+        var locale = card.querySelector(localeClass);
+        if (!locale) return;
+        var stat = locale.querySelector('.why-sea__value');
         if (stat) animateCount(stat);
         io.unobserve(card);
       });
