@@ -170,6 +170,11 @@
       var v = el.getAttribute('data-' + LANG) || el.getAttribute('data-zh') || '';
       if (/<[a-z!/]/i.test(v)) el.innerHTML = v; else el.textContent = v;
     });
+    // placeholder 双语（form 输入提示）：data-zh-placeholder / data-en-placeholder
+    $$('[data-zh-placeholder]').forEach(function (el) {
+      var v = el.getAttribute('data-' + LANG + '-placeholder') || el.getAttribute('data-zh-placeholder') || '';
+      el.setAttribute('placeholder', v);
+    });
     $$('.lang-switch button').forEach(function (b) {
       b.classList.toggle('is-active', b.dataset.lang === LANG);
     });
