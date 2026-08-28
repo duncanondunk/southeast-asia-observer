@@ -85,6 +85,82 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
 .brand__sub { font-size: .72rem; color: var(--text-mute); letter-spacing: .12em; text-transform: uppercase; }
 /* 英文模式下 brand__name 与 brand__sub 内容重复，隐藏副标题 */
 html[lang="en"] .brand__sub { display: none; }
+
+/* ---------- sea-daily 风格内容加载动画 ---------- */
+/* 视觉：三根垂直短柱，像均衡器一样上下缩放循环 */
+.sea-loader {
+  --sea-loader-bar: 6px;
+  --sea-loader-gap: 5px;
+  --sea-loader-color: #1f1b16;
+  --sea-loader-duration: 1.1s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sea-loader-gap);
+  height: 28px;
+}
+.sea-loader__bar {
+  width: var(--sea-loader-bar);
+  height: 28px;
+  background: var(--sea-loader-color);
+  border-radius: 2px;
+  transform-origin: center;
+  animation: sea-loader-bounce var(--sea-loader-duration) ease-in-out infinite;
+}
+.sea-loader__bar:nth-child(1) { animation-delay: 0s; }
+.sea-loader__bar:nth-child(2) { animation-delay: calc(var(--sea-loader-duration) * 0.15); }
+.sea-loader__bar:nth-child(3) { animation-delay: calc(var(--sea-loader-duration) * 0.3); }
+
+@keyframes sea-loader-bounce {
+  0%, 100% { transform: scaleY(0.35); opacity: .7; }
+  50% { transform: scaleY(1); opacity: 1; }
+}
+
+/* 全局全屏遮罩：页面级数据加载（data/articles.json / article md） */
+.sea-loader--overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(250, 247, 242, 0.92);
+  backdrop-filter: saturate(180%) blur(10px);
+  -webkit-backdrop-filter: saturate(180%) blur(10px);
+  opacity: 1;
+  visibility: visible;
+  transition: opacity .35s ease, visibility .35s ease;
+}
+.sea-loader--overlay.is-done {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* 内联占位：模块内容加载（latestList / rankingList / gridList 等） */
+.sea-loader--inline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 160px;
+  width: 100%;
+}
+
+/* 文字提示（可选） */
+.sea-loader__text {
+  margin-top: 14px;
+  font-size: .8rem;
+  color: var(--text-mute);
+  letter-spacing: .05em;
+}
+.sea-loader--overlay .sea-loader__text { text-align: center; }
+
+/* 减少动画偏好 */
+@media (prefers-reduced-motion: reduce) {
+  .sea-loader__bar { animation: none; }
+  .sea-loader--overlay { transition: none; }
+}
+
 .nav { display: flex; gap: 26px; }
 .nav a {
   font-size: .92rem; color: var(--text-soft); font-weight: 500;

@@ -104,17 +104,58 @@
     return raw.replace(/^\s*#\s+[^\n]+\n*/, '');
   }
 
+  /* ---------- 加载动画（sea-daily 风格：三柱均衡器） ---------- */
+  var _pageLoaderCount = 0;
+  function showPageLoader() {
+    var el = $('#seaPageLoader');
+    if (!el) return;
+    _pageLoaderCount++;
+    el.classList.remove('is-done');
+  }
+  function hidePageLoader() {
+    var el = $('#seaPageLoader');
+    if (!el) return;
+    _pageLoaderCount = Math.max(0, _pageLoaderCount - 1);
+    if (_pageLoaderCount === 0) el.classList.add('is-done');
+  }
+  function setPageLoaderDone() {
+    _pageLoaderCount = 0;
+    var el = $('#seaPageLoader');
+    if (el) el.classList.add('is-done');
+  }
+
+  function loaderHtml() {
+    return '<div class="sea-loader" role="status" aria-label="' + (LANG === 'en' ? 'Loading' : '加载中') + '"><span class="sea-loader__bar"></span><span class="sea-loader__bar"></span><span class="sea-loader__bar"></span></div>';
+  }
+  function showInlineLoader(container) {
+    if (typeof container === 'string') container = $(container);
+    if (!container) return;
+    if (container.querySelector('.sea-loader--inline')) return;
+    var wrap = document.createElement('div');
+    wrap.className = 'sea-loader--inline';
+    wrap.innerHTML = loaderHtml();
+    container.appendChild(wrap);
+  }
+  function hideInlineLoader(container) {
+    if (typeof container === 'string') container = $(container);
+    if (!container) return;
+    var loader = container.querySelector('.sea-loader--inline');
+    if (loader) loader.remove();
+  }
+
   /* ---------- 数据加载（带缓存） ---------- */
   var _articlesCache = null;
   function loadArticles() {
     if (_articlesCache) return Promise.resolve(_articlesCache);
+    showPageLoader();
     return fetch('data/articles.json')
       .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
       .then(function (list) {
         list.sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
         _articlesCache = list;
         return list;
-      });
+      })
+      .finally(function () { hidePageLoader(); });
   }
   function loadMarkdown(a) {
     return fetch(articleFile(a)).then(function (r) {
@@ -180,6 +221,11 @@
    * ============================================================ */
   function initHome() {
     if (!$('#carouselTrack')) return;
+    showPageLoader();
+    showInlineLoader('#carouselTrack');
+    showInlineLoader('#latestList');
+    showInlineLoader('#rankingList');
+    showInlineLoader('#categorySections');
     loadArticles()
       .then(function (list) {
         renderCarousel(list.slice(0, 5)); // 精选 hero 轮播：全站最新发布的 5 篇
@@ -193,6 +239,13 @@
         var lb = $('#latestList');
         if (lb) lb.innerHTML = '<div class="empty"><div class="empty__emoji">📭</div>' +
           (LANG === 'en' ? 'Failed to load. Serve via a local HTTP server (python3 -m http.server).' : '文章加载失败，请通过本地服务器访问。') + '</div>';
+      })
+      .finally(function () {
+        hidePageLoader();
+        hideInlineLoader('#carouselTrack');
+        hideInlineLoader('#latestList');
+        hideInlineLoader('#rankingList');
+        hideInlineLoader('#categorySections');
       });
   }
 
@@ -336,11 +389,14 @@
     if (!$('#articleTitle')) return;
     var slug = getQuery('slug');
     if (!slug) {
+      setPageLoaderDone();
       $('#articleTitle').textContent = LANG === 'en' ? 'No article specified' : '未指定文章';
       $('#articleBody').innerHTML = '<div class="empty"><div class="empty__emoji">🔍</div>' +
         (LANG === 'en' ? 'Pick an article from the ' : '请从') + '<a href="index.html">' + (LANG === 'en' ? 'home page' : '首页') + '</a>' + (LANG === 'en' ? '.' : '选择一篇文章。') + '</div>';
       return;
     }
+    showPageLoader();
+    showInlineLoader('#articleBody');
     loadArticles()
       .then(function (list) {
         var idx = list.findIndex(function (a) { return a.slug === slug; });
@@ -387,6 +443,10 @@
         $('#articleTitle').textContent = LANG === 'en' ? 'Load failed' : '加载失败';
         $('#articleBody').innerHTML = '<div class="empty"><div class="empty__emoji">⚠️</div>' +
           (LANG === 'en' ? 'Failed: ' : '文章加载失败：') + escapeHtml(err.message) + '</div>';
+      })
+      .finally(function () {
+        hidePageLoader();
+        hideInlineLoader('#articleBody');
       });
   }
 
@@ -646,6 +706,8 @@
   function initTags() {
     if (!$('#gridList')) return;
     var currentTag = getQuery('tag');
+    showPageLoader();
+    showInlineLoader('#gridList');
     loadArticles()
       .then(function (list) {
         applyFilter(currentTag, list);
@@ -654,6 +716,10 @@
       .catch(function (err) {
         console.error('tags load failed:', err);
         $('#gridList').innerHTML = '<div class="empty">' + (LANG === 'en' ? 'Load failed' : '加载失败') + '</div>';
+      })
+      .finally(function () {
+        hidePageLoader();
+        hideInlineLoader('#gridList');
       });
   }
 
@@ -872,8 +938,10 @@
         box.innerHTML = '<p class="search-hint">' + (LANG === 'en' ? 'Type to search titles, summaries, tags, and categories.' : '输入关键词搜索标题、摘要、标签与分类。') + '</p>';
         return;
       }
-      box.innerHTML = '<p class="search-hint">' + (LANG === 'en' ? 'Searching…' : '搜索中…') + '</p>';
+      box.innerHTML = '';
+      showInlineLoader(box);
       loadArticles().then(function (list) {
+        hideInlineLoader(box);
         var ql = q.toLowerCase();
         var filtered = list.filter(function (a) {
           var en = a.en || {};
