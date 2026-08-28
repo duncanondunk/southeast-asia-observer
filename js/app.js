@@ -202,6 +202,15 @@
       var open = nav.classList.toggle('is-open');
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
     });
+    // 移动端点击 nav 链接时自动关闭菜单，避免菜单残留展开
+    $$('a', nav).forEach(function (a) {
+      a.addEventListener('click', function () {
+        if (nav.classList.contains('is-open')) {
+          nav.classList.remove('is-open');
+          btn.setAttribute('aria-expanded', 'false');
+        }
+      });
+    });
   }
 
   /* ---------- 通用：订阅表单 ---------- */

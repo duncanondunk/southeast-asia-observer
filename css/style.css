@@ -33,6 +33,10 @@
 /* ---------- 重置 ---------- */
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
+/* 锚点跳转偏移：sticky header 高 64px + 16px 缓冲，避免目标被遮 */
+html { scroll-padding-top: 80px; }
+/* 同页跳转的目标区块额外偏移（针对 #dataFeature 等 section 锚点） */
+:target { scroll-margin-top: 80px; }
 body {
   margin: 0;
   background: var(--bg);
