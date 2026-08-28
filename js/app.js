@@ -697,6 +697,58 @@
     if (document.readyState !== 'loading') fn();
     else document.addEventListener('DOMContentLoaded', fn);
   }
+
+  /* ---------- "Why Southeast Asia?" 数字滚动 + 渐入动画 ---------- */
+  function initWhySEA() {
+    var section = $('#whySEA');
+    if (!section) return;
+    var values = $$('.why-sea__value', section);
+    if (!values.length) return;
+    if (typeof window.IntersectionObserver === 'undefined') {
+      values.forEach(function (el) { el.textContent = formatStat(el.dataset.target, parseInt(el.dataset.decimals || '0', 10), el.dataset.suffix || ''); });
+      $$('.why-sea__stat', section).forEach(function (s) { s.classList.add('is-in'); });
+      return;
+    }
+
+    function formatStat(target, decimals, suffix) {
+      var n = Number(target);
+      if (decimals > 0) return n.toFixed(decimals) + suffix;
+      return Math.round(n) + suffix;
+    }
+
+    function animateCount(el) {
+      var target = parseFloat(el.dataset.target);
+      var decimals = parseInt(el.dataset.decimals || '0', 10);
+      var suffix = el.dataset.suffix || '';
+      var duration = 1600;
+      var startTs = null;
+      function step(ts) {
+        if (!startTs) startTs = ts;
+        var p = Math.min(1, (ts - startTs) / duration);
+        // ease-out cubic
+        var eased = 1 - Math.pow(1 - p, 3);
+        var cur = target * eased;
+        el.textContent = formatStat(cur, decimals, suffix);
+        if (p < 1) requestAnimationFrame(step);
+        else el.textContent = formatStat(target, decimals, suffix);
+      }
+      requestAnimationFrame(step);
+    }
+
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (!entry.isIntersecting) return;
+        var card = entry.target;
+        card.classList.add('is-in');
+        var stat = card.querySelector('.why-sea__value');
+        if (stat) animateCount(stat);
+        io.unobserve(card);
+      });
+    }, { threshold: 0.35 });
+
+    $$('.why-sea__stat', section).forEach(function (s) { io.observe(s); });
+  }
+
   /* ---------- 首页照片轮播（全宽，参考深职大布局） ---------- */
   function initHeroBanner() {
     var slides = $$('.hero-banner__slide');
@@ -948,5 +1000,6 @@
     initTags();
     initSearch();
     initPWA();
+    initWhySEA();
   });
 })();

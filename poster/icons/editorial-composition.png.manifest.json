@@ -1,0 +1,126 @@
+{
+  "layout_grid": {
+    "inset": 128,
+    "inset_ratio": 0.08,
+    "profile": "centered-archive"
+  },
+  "layout_profile": "centered-archive",
+  "manifest_version": 1,
+  "motif": {
+    "cleanup": {
+      "initial_min_component_area": 42,
+      "removed_components": 0,
+      "removed_pixels": 4072,
+      "resized_min_component_area": 391
+    },
+    "file_name": "motif.png",
+    "sha256": "036428e08cab3c905cc854a14248fe3c09dc5e3d5d8144149a225d3056e9ba8c"
+  },
+  "motif_region": {
+    "height": 389,
+    "width": 402,
+    "x": 599,
+    "y": 1443
+  },
+  "options": {
+    "accent_font_path": null,
+    "accent_scale": 0.7,
+    "dominant_axis": "vertical",
+    "font_path": null,
+    "layout": "auto",
+    "margin_ratio": 0.07,
+    "motif_center_x": null,
+    "motif_top_ratio": 0.16,
+    "motif_width_ratio": 0.54,
+    "negative_space": null,
+    "panel_color": "#faf7f2",
+    "panel_height": null,
+    "scene_profile": "architecture",
+    "source_orientation": null,
+    "subject_location": "center",
+    "subtitle": "Singapore",
+    "subtitle_color": "#a8401f",
+    "subtitle_font_path": null,
+    "target_width": 1600,
+    "title": "Southeast Asia Observer",
+    "title_accent": "Observer",
+    "title_bottom_inset_ratio": 0.115,
+    "title_color": "#1d5b4e",
+    "title_optical_offset_ratio": 0.012,
+    "title_size_ratio": 0.041
+  },
+  "output": {
+    "file_name": "editorial-composition.png",
+    "sha256": "295a3e8b4b12fa0b9252b8f57fa5a5dc65a650fad52be848a5c2e14767dc75b7",
+    "size": [
+      1600,
+      2302
+    ]
+  },
+  "panel": {
+    "color": "#FAF7F2",
+    "height": 1023,
+    "y": 1279
+  },
+  "photo_region": {
+    "height": 1279,
+    "pixel_exact": false,
+    "pixel_sha256": "25b07aa69d306a694436b6986366bb21358d570507924b510e6eac2e39c7f5cd",
+    "width": 1600,
+    "x": 0,
+    "y": 0
+  },
+  "source": {
+    "file_name": "clipboard-2026-08-27T10-35-07-638Z-09e8e2b2.jpg",
+    "rendered_pixel_sha256": "25b07aa69d306a694436b6986366bb21358d570507924b510e6eac2e39c7f5cd",
+    "sha256": "3a899e74a48068720c3de9cc9853ca22fcfec3e581bbc4e31680d8a20b708921",
+    "visual_size": [
+      1920,
+      1535
+    ]
+  },
+  "typography": {
+    "accent_font_file": "Bodoni 72 Smallcaps Book.ttf",
+    "bottom_inset": 192,
+    "font_file": "Bodoni 72.ttc",
+    "kerning_mode": "whole-run",
+    "layout": "auto",
+    "layout_profile": "centered-archive",
+    "subtitle": "Singapore",
+    "subtitle_color": "#A8401F",
+    "subtitle_font_file": "Bodoni 72 Smallcaps Book.ttf",
+    "subtitle_font_size": 39,
+    "subtitle_region": {
+      "height": 27,
+      "width": 150,
+      "x": 725,
+      "y": 2083
+    },
+    "title": "Southeast Asia Observer",
+    "title_accent": "Observer",
+    "title_anchor_x": 528,
+    "title_color": "#1D5B4E",
+    "title_font_size": 66,
+    "title_optical_offset": 0,
+    "title_region": {
+      "height": 48,
+      "width": 543,
+      "x": 528,
+      "y": 2017
+    },
+    "title_runs": [
+      {
+        "font_file": "Bodoni 72.ttc",
+        "font_size": 66,
+        "style": "primary",
+        "text": "Southeast Asia "
+      },
+      {
+        "font_file": "Bodoni 72 Smallcaps Book.ttf",
+        "font_size": 46,
+        "style": "accent",
+        "text": "Observer"
+      }
+    ]
+  }
+}
