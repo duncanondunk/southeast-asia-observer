@@ -378,7 +378,7 @@
       html += '<div class="section__head"><h2 class="section__title">' + escapeHtml(categoryLabel({category: cat})) + '</h2><a class="section__more" href="tags.html?tag=' + encodeURIComponent(cat) + '">' + (LANG === 'en' ? 'View all →' : '查看全部 →') + '</a></div>';
       html += '<div class="cat-grid"><div class="article-list">';
       top3.forEach(function (a, i) { html += articleCardHtml(a, ci * 10 + i + 1); });
-      html += '</div><aside class="ranking"><h3 class="ranking__title">' + (LANG === 'en' ? 'Top in section' : '本分类热读') + ' <span>Most Read</span></h3><div>';
+      html += '</div><aside class="ranking"><h3 class="ranking__title">' + (LANG === 'en' ? 'Top in section' : '本分类热读') + '</h3><div>';
       top5.forEach(function (a, i) {
         html += '<div class="ranking__item"><div class="ranking__num">' + (i + 1) + '</div><div class="ranking__body"><h4 class="ranking__name"><a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' + escapeHtml(af(a, 'title')) + '</a></h4><div class="ranking__date">' + formatDateShort(a.date) + '</div></div></div>';
       });

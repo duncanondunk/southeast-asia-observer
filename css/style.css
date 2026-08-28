@@ -635,7 +635,7 @@ html[lang="en"] .brand__sub { display: none; }
 .comments__field--checkbox input { width: auto; margin: 0; }
 .comments__status { font-size: .85rem; min-height: 1.2em; margin: 0; }
 .comments__status--error { color: #c0392b; }
-.comments__status--success { color: var(--green); }
+.comments__status--success { color: var(--jade); }
 
 .post-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
 .post-nav a {
