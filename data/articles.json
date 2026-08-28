@@ -1,5 +1,99 @@
 [
   {
+    "slug": "japanese-banks-pivot-southeast-asia-china-2026",
+    "title": "日本银行收缩中国业务，东南亚为何成为资本避风港？",
+    "subtitle": "",
+    "category": "经济产业",
+    "tags": [
+      "新加坡",
+      "印度尼西亚",
+      "日本",
+      "投资",
+      "银行",
+      "供应链",
+      "地缘政治"
+    ],
+    "country": "新加坡",
+    "date": "2026-08-28",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "日本银行五年间在华分支机构与贷款大幅收缩，千叶、佐贺等行转战新加坡、印尼；资本南迁折射\"中国加一\"战略下供应链与金融网络重组。",
+    "image": "images/articles/japanese-banks-pivot-southeast-asia-china-2026.jpg",
+    "imageCredit": "Unsplash — Trương Tuyết Ly",
+    "imageAccessed": "2026-08-28",
+    "imageAlt": "新加坡金融区现代玻璃摩天楼仰拍，象征日本银行资本南下东南亚",
+    "en": {
+      "title": "Why Japanese Banks Are Shrinking China and Betting on Southeast Asia",
+      "subtitle": "",
+      "category": "Economy & Industry",
+      "country": "Singapore",
+      "summary": "Japanese banks are pulling back from China—regional lenders cut branches by a fifth and megabanks trimmed loans by up to 40%—while opening hubs in Singapore and Indonesia. The shift follows manufacturing clients relocating production to Southeast Asia. For the region, it is a chance to deepen financial markets, provided regulatory clarity improves.",
+      "imageAlt": "Low-angle view of modern glass skyscrapers in Singapore's financial district, symbolising Japanese banks' capital shift to Southeast Asia",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Japanese regional banks scale back in China and turn to Southeast Asia and India",
+          "url": "https://asia.nikkei.com/location/southeast-asia?page=2",
+          "date": "2026-08-28"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "日本地方银行缩减中国业务、转投东南亚与印度",
+        "url": "https://asia.nikkei.com/location/southeast-asia?page=2",
+        "date": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "slug": "indonesia-panda-bond-china-backing-2026",
+    "title": "印尼熊猫债获中国背书：融资便利背后的规则博弈",
+    "subtitle": "",
+    "category": "经济产业",
+    "tags": [
+      "印度尼西亚",
+      "中国",
+      "投资",
+      "债券",
+      "经济"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-08-28",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "印尼首只熊猫债获中国央行与财政部强力支持，旨在以人民币融资分散外汇风险；但中企对印尼监管不确定性的担忧，仍构成真正的风险溢价。",
+    "image": "images/articles/indonesia-panda-bond-china-backing-2026.jpg",
+    "imageCredit": "Unsplash — Eko Herwantoro",
+    "imageAccessed": "2026-08-28",
+    "imageAlt": "雅加达 Selamat Datang 纪念碑与喷泉，背景是印尼首都高楼天际线",
+    "en": {
+      "title": "Indonesia's Panda Bond Gets China's Backing: The Rules Game Behind Easier Financing",
+      "subtitle": "",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "Indonesia's debut Panda Bond has won strong backing from China's central bank and finance ministry, giving Jakarta a yuan-denominated funding tool to diversify currency risk. Yet Chinese investors remain worried about Indonesia's regulatory unpredictability. The bond's success will depend less on political endorsement than on Jakarta's ability to improve the investment climate.",
+      "imageAlt": "The Selamat Datang Monument and fountains in Jakarta, with the Indonesian capital's skyline behind",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Indonesia hails China's backing for panda bond amid investor concerns over rules",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-08-28"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "印尼熊猫债获中国背书，投资者关注规则不确定性",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-08-28"
+      }
+    ]
+  },
+  {
     "slug": "malaysia-police-bust-illegal-mines-2026",
     "title": "马国五天跨十州瓦解24非法矿场：稀土盗采背后的跨境灰产",
     "subtitle": "警方8月19–23日动员728人突击45个矿场，24个无照营运，起获近1.19亿令吉物资，含3.3万吨可提稀土的高岭土；部分团伙聘外国地质专家，非法盗采达三至五年。",

@@ -16,7 +16,6 @@
         "indonesia-anti-corruption-protests-2026"
       ]
     },
-
     "film:Dear You (给阿嬷的情书)": {
       "note": "历史遗留冲突：3 篇同素材（letter-to-grandma-indonesia / amah-letter-indonesia / dear-you-qiaopi-indonesia）。grandfathered，今后禁止再发该电影题材。",
       "exception": null,
@@ -570,6 +569,20 @@
       "exception": null,
       "slugs": [
         "guangxi-pinglu-canal-qiao-asean"
+      ]
+    },
+    "event:日本银行缩减中国业务转投东南亚与印度(2026)": {
+      "note": "全新素材（Nikkei Asia，2026-08），日本银行业/中国业务收缩/东南亚资本流入主题；与既有供应链、投资条目不重复。",
+      "exception": null,
+      "slugs": [
+        "japanese-banks-pivot-southeast-asia-china-2026"
+      ]
+    },
+    "event:印尼首只熊猫债获中国背书(2026)": {
+      "note": "全新素材（South China Morning Post，2026-08），印尼—中国金融合作/熊猫债/外资规则主题；与既有中印尼关系、债务条目不重复。",
+      "exception": null,
+      "slugs": [
+        "indonesia-panda-bond-china-backing-2026"
       ]
     }
   }

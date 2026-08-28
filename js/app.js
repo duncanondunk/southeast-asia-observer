@@ -42,7 +42,8 @@
     '口述史': 'Oral History', '潮籍': 'Teochew Origin', '侨批': 'Qiaopi (Overseas Chinese Remittance Letters)', '下南洋': 'Migration to Nanyang', '华语电影': 'Chinese-Language Cinema', '电影': 'Film', '文化': 'Culture', '文化交流': 'Cultural Exchange', '文化记忆': 'Cultural Memory', '身份认同': 'Identity',
     '民主行动党': 'Democratic Action Party (DAP)', '政治': 'Politics', '华人': 'Ethnic Chinese', '族群': 'Ethnicity', '选举': 'Elections', '语言': 'Language', '青年': 'Youth', '青年侨胞': 'Young Overseas Chinese', '华裔新生代': 'New Generation of Chinese Descent',
     '澳大利亚': 'Australia', '法国': 'France', '稀土': 'Rare Earths', '钕磁铁': 'Neodymium Magnets', '餐饮': 'Food & Beverage', '科技': 'Technology',
-    '经济': 'Economy', '矿业': 'Mining', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '行长': 'Governor', '利率': 'Interest Rate', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
+    '经济': 'Economy', '矿业': 'Mining', '银行': 'Bank', '债券': 'Bond', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '行长': 'Governor', '利率': 'Interest Rate', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
+    '日本': 'Japan',
     '小马科斯': 'Marcos Jr.', '普拉博沃': 'Prabowo', '罗兴亚': 'Rohingya', '中菲关系': 'China–Philippines Relations', '中印尼': 'China–Indonesia', '国际关系': 'International Relations', '安全化': 'Securitisation',
     '侨务工作': 'Diaspora Affairs Work', '侨务政策': 'Diaspora Policy', '中国侨网': 'China Qiaowang', '软实力': 'Soft Power', '妈祖': 'Mazu', '气象预警': 'Weather Early Warning', '早期预警': 'Early Warning', '侨商': 'Overseas Chinese Merchant', '平陆运河': 'Pinglu Canal', '中国—东盟': 'China–ASEAN', '广西': 'Guangxi'
   };
