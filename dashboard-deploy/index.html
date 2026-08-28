@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>东南亚观察 · 内容管理工作台</title>
+<link rel="icon" type="image/png" sizes="32x32" href="../icons/favicon-32.png">
+<link rel="apple-touch-icon" href="../icons/apple-touch-icon.png">
 <style>
 :root{
   --accent:#a8401f; --gold:#c98a2b; --jade:#1d5b4e; --cream:#faf7f2;
@@ -23,7 +25,7 @@ button{font-family:inherit;cursor:pointer}
 .topbar{position:sticky;top:0;z-index:30;background:rgba(250,247,242,.92);backdrop-filter:saturate(140%) blur(8px);border-bottom:1px solid var(--line)}
 .topbar__in{max-width:1120px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:12px}
 .brand{display:flex;align-items:center;gap:9px;font-weight:700;font-size:1.02rem;color:var(--ink)}
-.brand .logo{width:30px;height:30px;border-radius:8px;background:linear-gradient(135deg,var(--accent),var(--gold));display:grid;place-items:center;color:#fff}
+.brand .logo{width:34px;height:34px;border-radius:7px;background:url('../icons/icon-192.png') center/cover no-repeat;flex:none}
 .brand small{display:block;font-weight:500;font-size:.66rem;color:var(--muted);letter-spacing:.04em}
 .topact{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap}
 .btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:#fff;color:var(--ink);padding:9px 13px;border-radius:10px;font-size:.85rem;min-height:44px;transition:.15s}
@@ -184,9 +186,7 @@ kbd{background:#f1ece4;border:1px solid var(--line);border-radius:5px;padding:1p
 <header class="topbar">
   <div class="topbar__in">
     <div class="brand">
-      <span class="logo">
-        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M9 20v-6h6v6"/></svg>
-      </span>
+      <span class="logo"></span>
       <span>内容管理工作台<small>东南亚观察 · 单人运营</small></span>
     </div>
     <div class="topact">
