@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-27",
+  "version": "2026-08-28",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "film:Dear You (给阿嬷的情书)": {
@@ -548,6 +548,13 @@
       "category": "地缘政治",
       "slugs": [
         "anutin-border-visit-cambodia-protest-2026"
+      ]
+    },
+    "event:广西侨商侨领对接平陆运河+东盟产供链(2026-08)": {
+      "note": "全新素材（中国侨网，2026-08-27），侨商侨领+平陆运河+中国—东盟跨境产供链主题；与既有侨乡、经贸、侨交会、企业出海等条目不重复。",
+      "exception": null,
+      "slugs": [
+        "guangxi-pinglu-canal-qiao-asean"
       ]
     }
   }

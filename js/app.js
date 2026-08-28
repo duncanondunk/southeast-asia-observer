@@ -44,7 +44,7 @@
     '澳大利亚': 'Australia', '法国': 'France', '稀土': 'Rare Earths', '钕磁铁': 'Neodymium Magnets', '餐饮': 'Food & Beverage', '科技': 'Technology',
     '经济': 'Economy', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '利率': 'Interest Rate', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
     '小马科斯': 'Marcos Jr.', '普拉博沃': 'Prabowo', '罗兴亚': 'Rohingya', '中菲关系': 'China–Philippines Relations', '中印尼': 'China–Indonesia', '国际关系': 'International Relations', '安全化': 'Securitisation',
-    '侨务工作': 'Diaspora Affairs Work', '侨务政策': 'Diaspora Policy', '中国侨网': 'China Qiaowang', '软实力': 'Soft Power', '妈祖': 'Mazu', '气象预警': 'Weather Early Warning', '早期预警': 'Early Warning'
+    '侨务工作': 'Diaspora Affairs Work', '侨务政策': 'Diaspora Policy', '中国侨网': 'China Qiaowang', '软实力': 'Soft Power', '妈祖': 'Mazu', '气象预警': 'Weather Early Warning', '早期预警': 'Early Warning', '侨商': 'Overseas Chinese Merchant', '平陆运河': 'Pinglu Canal', '中国—东盟': 'China–ASEAN', '广西': 'Guangxi'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 

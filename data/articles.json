@@ -1,5 +1,52 @@
 [
   {
+    "slug": "guangxi-pinglu-canal-qiao-asean",
+    "title": "运河、侨商与东盟：一条水道如何把离散网络织进产业链",
+    "subtitle": "广西借平陆运河9月通航之机，在8月26日大会上把侨商侨领推到中国与东盟跨境产供链前台；本文论其经济价值与分寸边界",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨商",
+      "平陆运河",
+      "中国—东盟",
+      "供应链",
+      "广西"
+    ],
+    "country": "中国",
+    "date": "2026-08-28",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "广西借平陆运河9月通航之机，在8月26日中国与东盟跨境产供链大会上把侨商侨领推到区域一体化前台。运河降物理成本、侨商降制度与文化成本，二者叠加方是\"跨境产供链\"真义；但网络碎片化、在地敏感与制度壁垒，决定它无法替代监管对接与互惠准入，合作须以适配东盟需求的双向收益为标尺。",
+    "image": "images/articles/guangxi-pinglu-canal-qiao-asean.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-28",
+    "imageAlt": "南宁市邕江畔的城市天际线在晨光中延展，映照平陆运河通航后广西面向东盟的江海联运新局",
+    "references": [
+      {
+        "source": "中国侨网 China Qiaowang",
+        "title": "广西邀侨商侨领抢抓平陆运河开通机遇 深化与东盟产供链合作",
+        "url": "https://www.chinaqw.com/qx/2026/08-27/410672.shtml",
+        "date": "2026-08-27"
+      }
+    ],
+    "en": {
+      "title": "The Canal, the Diaspora, and ASEAN: How One Waterway Weaves Overseas Chinese Networks into a Supply Chain",
+      "subtitle": "At an 26 August conference, Guangxi put overseas Chinese merchants and leaders at the front of its China–ASEAN cross-border supply-chain push, riding the Pinglu Canal's September opening",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "Riding the Pinglu Canal's September opening, Guangxi put overseas Chinese merchants and leaders at the front of its China–ASEAN cross-border supply-chain push at an 26 August conference. This piece argues the canal cuts physical cost while the diaspora cuts institutional and cultural cost — together the real meaning of a 'cross-border industrial and supply chain.' But fragmented networks, local sensitivities, and institutional barriers mean it cannot substitute for regulatory alignment and reciprocal access; success must be measured by two-way, verifiable gains adapted to ASEAN needs.",
+      "imageAlt": "Nanning's riverside skyline stretches in the morning light, echoing the new river–sea intermodal outlook Guangxi gains as the Pinglu Canal opens toward ASEAN",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Guangxi invites overseas Chinese merchants and leaders to seize the Pinglu Canal opening, deepening ASEAN supply-chain cooperation",
+          "url": "https://www.chinaqw.com/qx/2026/08-27/410672.shtml",
+          "date": "2026-08-27"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-citizens-nepal-disaster-missing-2026",
     "title": "54名马来西亚人尼泊尔灾区失联：喜马拉雅走廊上的离散之问",
     "subtitle": "拉苏瓦县突发洪水泥石流，54名马国人失联、157人遇难——安华调动外交部与驻尼使馆搜寻，并借调驻达卡使团协协调，暴露加德满都常驻外交存在单薄",
