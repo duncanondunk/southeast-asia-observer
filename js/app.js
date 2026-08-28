@@ -260,6 +260,7 @@
         hideInlineLoader('#latestList');
         hideInlineLoader('#rankingList');
         hideInlineLoader('#categorySections');
+        scrollToHash(); // 内容注入后重新定位 hash 锚点（修复首次点击不跳转）
       });
   }
 
@@ -778,6 +779,24 @@
     else document.addEventListener('DOMContentLoaded', fn);
   }
 
+  /* ---------- 跨页 hash 锚点修正 ----------
+   * 首页三大区块（轮播/最新/排行/分类）由 initHome() 异步 fetch 注入，
+   * 浏览器原生 hash 滚动在 DOMContentLoaded 时目标上方还是空占位、高度很小，
+   * 内容注入后目标被推下数百 px，造成「首次点击不跳、二次才跳」。
+   * 内容/图片/字体就绪后主动按 80px 顶导偏移重新定位一次即可修正。 */
+  function scrollToHash() {
+    var hash = window.location.hash || '';
+    if (hash.length < 2 || hash.charAt(0) !== '#') return;
+    var id = decodeURIComponent(hash.slice(1));
+    if (!id) return;
+    var target = document.getElementById(id);
+    if (!target) return;
+    var headerH = 80; // 与 CSS scroll-padding-top 一致（64px 顶导 + 16px 缓冲）
+    var top = target.getBoundingClientRect().top + (window.scrollY || window.pageYOffset || 0) - headerH;
+    if (top < 0) top = 0;
+    window.scrollTo({ top: top, behavior: 'auto' });
+  }
+
   /* ---------- "Why Southeast Asia?" 数字滚动 + 渐入动画 ---------- */
   function initWhySEA() {
     var section = $('#whySEA');
@@ -1088,5 +1107,8 @@
     initSearch();
     initPWA();
     initWhySEA();
+    // 图片/字体加载完成后页面高度可能再变化，兜底重新定位 hash 锚点
+    window.addEventListener('load', scrollToHash);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(scrollToHash);
   });
 })();
