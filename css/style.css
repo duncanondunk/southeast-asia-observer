@@ -83,6 +83,8 @@ ul { margin: 0 0 1em; padding-left: 1.2em; }
   color: var(--text);
 }
 .brand__sub { font-size: .72rem; color: var(--text-mute); letter-spacing: .12em; text-transform: uppercase; }
+/* 英文模式下 brand__name 与 brand__sub 内容重复，隐藏副标题 */
+html[lang="en"] .brand__sub { display: none; }
 .nav { display: flex; gap: 26px; }
 .nav a {
   font-size: .92rem; color: var(--text-soft); font-weight: 500;
