@@ -612,6 +612,20 @@
       "slugs": [
         "philippines-us-scope-chinese-steel-mindanao-2026"
       ]
+    },
+    "event:越南拟升格北宁广宁为中央直辖市(三星枢纽/下龙湾,2026-08)": {
+      "note": "全新素材（每日观察兜底·日经亚洲，2026-08-29），越南增长极升格/三星枢纽/中国+1产业链重构主题；与既有越南、供应链、制造业条目不重复。",
+      "exception": null,
+      "slugs": [
+        "vietnam-growth-poles-samsung-halong-2026"
+      ]
+    },
+    "event:美国“大转口骗局”报告点名9个东盟(2026-08)": {
+      "note": "全新素材（每日观察兜底·南华早报，2026-08-29），美报告指中国借40余国转运规避关税、9成东盟被点名；与既有峇淡/马尼拉“关税转移vs AI替代”条目为不同核心素材（本报告为宏观贸易政策/关税规避，后者为微观产能转移+AI替代）。",
+      "exception": null,
+      "slugs": [
+        "us-transshipment-scam-asean-2026"
+      ]
     }
   }
 }
