@@ -598,6 +598,13 @@
       "slugs": [
         "clv-one-journey-three-destinations-2026"
       ]
+    },
+    "topic:中国消费品牌东南亚出海(奢侈品试验场,2026-08)": {
+      "note": "全新素材（日经亚洲，2026-08-12）。中国消费/轻奢品牌（山下有松、PANE、花西子、观夏、周大福）借社交电商涌入东南亚，'奢侈品试验场'主题；与既有企业出海、中餐出海、侨交会、侨商等条目不重复（本文聚焦消费品牌全球高端化）。",
+      "exception": null,
+      "slugs": [
+        "china-brands-southeast-asia-luxury-2026"
+      ]
     }
   }
 }

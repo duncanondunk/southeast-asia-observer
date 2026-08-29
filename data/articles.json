@@ -1,5 +1,54 @@
 [
   {
+    "slug": "china-brands-southeast-asia-luxury-2026",
+    "title": "东南亚成中国品牌的奢侈品试验场：出海拐点，还是溢价幻觉？",
+    "subtitle": "",
+    "category": "经济产业",
+    "tags": [
+      "企业出海",
+      "东南亚",
+      "东盟",
+      "中国",
+      "消费品牌",
+      "软实力",
+      "侨商",
+      "经贸合作"
+    ],
+    "country": "东南亚",
+    "date": "2026-08-29",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "《日经亚洲》称东南亚为中国品牌的奢侈品试验场。本文认为，年轻数字消费者与关税顺风确让东南亚成为低风险的品牌排练场，但“中国造”要撑起真正溢价仍受制于产地神话，区域也需警惕沦为外部品牌的展厅。",
+    "image": "images/articles/china-brands-southeast-asia-luxury-2026.jpg",
+    "imageCredit": "Unsplash — Simon Hurry",
+    "imageAccessed": "2026-08-29",
+    "imageAlt": "东南亚夜市人群采购的生动场景，象征中国消费品牌借社交电商涌入区域市场",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Southeast Asia becomes luxury test lab for China's brands",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-08-12"
+      }
+    ],
+    "en": {
+      "title": "Southeast Asia as China's Luxury Lab: Why the Region Became the Testing Ground for Chinese Brands Going Global",
+      "subtitle": "",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "Nikkei Asia frames Southeast Asia as a 'luxury test lab' for Chinese brands. This commentary argues that young digital consumers and a tariff tailwind do make the region a low-risk rehearsal stage, but 'made in China' still struggles to carry a true premium, and the region should beware becoming a showroom for others' ascent.",
+      "imageAlt": "A lively night-market shopping scene in Southeast Asia, symbolising Chinese consumer brands flooding the regional market via social commerce",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Southeast Asia becomes luxury test lab for China's brands",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-08-12"
+        }
+      ]
+    }
+  },
+  {
     "slug": "clv-one-journey-three-destinations-2026",
     "title": "一程三地：柬埔寨、老挝与越南能把一句口号做成次区域品牌吗？",
     "subtitle": "",
