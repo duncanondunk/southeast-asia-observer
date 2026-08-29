@@ -1,5 +1,53 @@
 [
   {
+    "slug": "philippines-us-scope-chinese-steel-mindanao-2026",
+    "title": "从废钢厂到前沿阵地：棉兰老岛一座中资钢厂如何成为美菲中三方博弈的焦点",
+    "subtitle": "一座停产的中资钢厂，为何成了菲美联合军演与海军基地的候选地？",
+    "category": "地缘政治",
+    "tags": [
+      "中菲关系",
+      "华商",
+      "投资",
+      "军事",
+      "地缘政治",
+      "菲律宾",
+      "美国"
+    ],
+    "country": "菲律宾",
+    "date": "2026-08-29",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "菲美军人8月19日试图勘测棉兰老岛一座已停产的中资三佳钢厂，拟作未来海军基地与军演场地，因缺授权离开。这一事件折射中资在菲律宾如何从商业资产沦为大国博弈筹码，亦凸显美菲军事布局与北京反弹的张力。",
+    "image": "images/articles/philippines-us-scope-chinese-steel-mindanao-2026.jpg",
+    "imageCredit": "Patrick Hendry via Unsplash",
+    "imageAccessed": "2026-08-29",
+    "imageAlt": "棉兰老岛一座钢铁厂的烟囱在阴云下冒烟，喻指中资工业资产被卷入地缘博弈。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Why Philippine, US forces tried to 'scope' a Chinese-linked steel plant in Mindanao",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-08-26"
+      }
+    ],
+    "en": {
+      "title": "From scrap mill to front line: how a Chinese-linked steel plant in Mindanao became a US–Philippines–China flashpoint",
+      "subtitle": "Why a shuttered Chinese-invested steel mill in Mindanao became a candidate site for US–Philippines drills and a future naval base",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "On 19 August, Filipino and US troops tried to survey a shuttered Chinese-invested steel plant in Mindanao as a candidate site for a future naval base and the 2027 Balikatan exercises, leaving when told they lacked authorisation. The episode shows how Chinese capital in the Philippines is being drawn into great-power competition, as Manila deepens defence ties with Washington and Beijing pushes back.",
+      "imageAlt": "Smoke rising from a steel plant's chimneys under cloudy skies in Mindanao, symbolising Chinese industrial assets caught in geopolitical contestation.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Why Philippine, US forces tried to 'scope' a Chinese-linked steel plant in Mindanao",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-08-26"
+        }
+      ]
+    }
+  },
+  {
     "slug": "china-brands-southeast-asia-luxury-2026",
     "title": "东南亚成中国品牌的奢侈品试验场：出海拐点，还是溢价幻觉？",
     "subtitle": "",

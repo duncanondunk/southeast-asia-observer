@@ -605,6 +605,13 @@
       "slugs": [
         "china-brands-southeast-asia-luxury-2026"
       ]
+    },
+    "event:菲美勘测棉兰老岛中资三佳钢铁厂(2026-08)": {
+      "note": "全新素材（南华早报，2026-08-26/29），中资钢厂/美菲军事勘测/北棉兰老岛海军基地选址主题；与既有中菲关系、华校安全化、无人作战等条目不重复。",
+      "exception": null,
+      "slugs": [
+        "philippines-us-scope-chinese-steel-mindanao-2026"
+      ]
     }
   }
 }
