@@ -38,6 +38,18 @@
 
 风险在于依赖。如果东南亚主要沦为中国全球品牌的"排练舞台"，它自己的零售生态或许会变成外部品牌资产的输送带，而非本地品牌的建设者。区域应当欢迎这些品牌——同时也要看清楚，它的商场会不会变成别人登顶的展厅。
 
+## 科技与汽车：另一种"溢价"故事
+
+把镜头从手袋移到车道，会看到另一条曲线。在东南亚，新能源汽车的渗透率从2020年的约0.1%跃升至2025年的约20.4%，而中国车企是这股电动化浪潮的主要受益者。以比亚迪为例，其2025年12月在东南亚的销量约9,772辆，整体新能源车市场份额约13.52%；在菲律宾，份额更从2024年的约35%升至2025年前四个月的约71%。比亚迪位于印尼西爪哇的工厂规划年产能15万辆，预计2026年第一季度投产。这些数字说明，在技术与性价比能直接说话的品类里，"中国造"不但没有被折价，反而成了某种意义上的"默认优选"。
+
+这背后的差别值得点明：当溢价由"创新"而非"传承"支撑时，产地偏见的阻力更小。华为、小米与比亚迪在东南亚年轻人中建立的是"先进"而非"古老"的心智；它们卖的是前沿体验，不是几代人的工艺神话。换言之，奢侈品试验场的成败，或许取决于品类——在科技与出行上，中国品牌已经在改写规则；在手袋与香氛上，它们仍要说服消费者为故事而非仅为功能付费。
+
+## 青年市场与"性价比溢价"的张力
+
+无论卖什么，真正的买单方都是人。东南亚六国人口约6亿，年龄中位数低至26岁（菲律宾）到约33岁（越南）不等，Z世代占比约23%至27%；2023年区域零售额已达约1.1万亿美元。这是一片全球最年轻、也最舍得花钱的消费地——人均消费支出占可支配收入的比重在部分国家超过100%。对渴望溢价的中国品牌而言，这本是一张好牌。
+
+但年轻不等于盲目。报告显示，高达82%的东南亚消费者偏爱新技术与新商品，他们乐于尝鲜，却也精于比价、看重性价比。这意味着"溢价"必须附带真实的体验升级，而非只靠包装与叙事。一个品牌可以靠TikTok上的一支爆款视频瞬间走红，却可能因为一次质量落差或定价失当而被迅速遗忘。对"中国造"而言，青年市场既是最大的机会窗口，也是最严苛的考官：它奖赏创新，也毫不留情地惩罚虚高。
+
 ## 延伸阅读
 
 **代工（OEM）**：原始设备制造，指企业按外部品牌方设计与规格生产、贴上对方商标销售的模式；中国消费品牌的"去代工化"正是要摆脱这一身份。
@@ -89,6 +101,18 @@ The signs are mixed. Watch retailers in Singapore already stock one-third Chines
 For the region, the trend is mostly welcome. It diversifies retail offer, deepens the creator economy around social commerce, and gives local consumers alternatives to Western or Japanese incumbents. It also quietly rebalances the China–Southeast Asia relationship: for decades the flow was Chinese factories supplying Western shelves; now Chinese brands sell directly to Asian consumers, on Asian platforms, with Asian aesthetics.
 
 The risk is dependency. If Southeast Asia becomes chiefly a rehearsal stage for Chinese global brands, its own retail ecosystems may serve as feeders to external brand equity rather than builders of local ones. The region should welcome the brands — and watch whether its malls become showrooms for someone else's ascent.
+
+## Tech and autos: a different premium story
+
+Shift the lens from handbags to the highway and a second curve appears. In Southeast Asia, new-energy-vehicle penetration jumped from roughly 0.1% in 2020 to about 20.4% in 2025, and Chinese carmakers were the main beneficiaries of that electrification wave. BYD, for instance, sold around 9,772 vehicles across the region in December 2025, holding roughly a 13.52% share of the NEV market; in the Philippines its share rose from about 35% in 2024 to roughly 71% in the first four months of 2025. BYD's plant in West Java, Indonesia, with planned annual capacity of 150,000 units, is expected to begin production in the first quarter of 2026. The numbers suggest that in categories where technology and value speak directly, "made in China" is not discounted — it has become, in a sense, the default preference.
+
+The difference is worth naming: when a premium rests on "innovation" rather than "heritage," origin bias offers less resistance. Huawei, Xiaomi and BYD build a "cutting-edge" rather than "old-world" identity among Southeast Asian youth; they sell frontier experience, not generations of craft myth. In other words, the luxury lab's success may hinge on category — in tech and mobility Chinese brands are already rewriting the rules, while in handbags and fragrance they still must persuade consumers to pay for the story, not merely the function.
+
+## The youth market and the tension of value-for-money premium
+
+Whatever the product, the real payer is the person. The six major Southeast Asian economies hold some 600 million people, with a median age as low as 26 (the Philippines) and around 33 (Vietnam), and a Gen Z share of roughly 23% to 27%; regional retail sales reached about US$1.1 trillion in 2023. This is among the world's youngest and most free-spending consumer markets — in some countries household consumption exceeds 100% of disposable income. For Chinese brands chasing a premium, that looks like a strong hand.
+
+But young does not mean blind. Surveys show as many as 82% of Southeast Asian consumers favour new technology and new products; they love to try novel things, yet they also compare prices shrewdly and prize value for money. That means any "premium" must come bundled with a real upgrade in experience, not just packaging and narrative. A brand can go viral on TikTok overnight and be forgotten just as fast after a single quality slip or a misjudged price. For "made in China," the youth market is both the largest window of opportunity and the strictest examiner: it rewards innovation and punishes inflated pricing without mercy.
 
 ## Further reading
 

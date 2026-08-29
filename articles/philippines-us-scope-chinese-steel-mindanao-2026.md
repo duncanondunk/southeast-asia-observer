@@ -32,6 +32,14 @@
 
 *话题参考：South China Morning Post（scmp.com）东南亚 — "Why Philippine, US forces tried to 'scope' a Chinese-linked steel plant in Mindanao"。*
 
+## 燃料、港口与"军民合用"的疑云
+
+这并非孤立的一瞥。中国使馆发言人季凌鹏（Ji Lingpeng）在事后称这趟走访"令人不安"，并反问：5月突袭该厂，是否与美方把占地约3000公顷的PHIVIDEC综合工业园改造成"巨型美国燃料枢纽"的计划有关？疑问并非空穴来风。同年3月31日，美国国防后勤局公开招标，寻求在棉兰老岛达沃及周边建设大型燃料储存设施，合同拟自2028年4月起为美军储存最多4100万加仑燃料——其中2300万加仑海军燃料、1800万加仑航空燃料。钢厂的22.6公顷嵌在这片3000公顷园区之内，紧邻棉兰老集装箱码头。于是问题从"一座工厂能否办军演"升级为：民用工业空间是否正被悄然并入美菲军事后勤网络。对北京而言，这把一个商业落脚点重新框定为可能被打击的高价值目标——一旦民用设施具备军事效用，它也就获得了"被瞄准"的属性。
+
+## 棉兰老岛早已不是空白棋盘
+
+棉兰老岛并非毫无关防。九处EDCA站点中，卡加延德奥罗的伦比亚空军基地坐落在棉兰老岛北部，是正式的美菲轮驻点之一。2026年3月，美国军舰靠泊卡加延德奥罗的马卡巴兰港，与菲律宾陆军第4步兵师举行为期两周、以领土防御为假想的海岸登陆演练；同月美军一个连级单位进驻伦比亚基地。换言之，钢厂所在的北棉兰老已是美菲军事活动密集区域，勘测只是把一张既有地图又描深一笔。中国智库"南海战略态势感知"2026年7月2日发布《美军在菲律宾的基地扩建和军力部署》报告，梳理美军在菲基地扩建后结论克制：尽管EDCA由5处增至9处、演习规模连年扩大，但菲律宾自身实力有限、基地距战时能力尚远，美方更多意在战略造势与和平时期牵制消耗，而非把菲律宾打造成前进基地。喧嚣的部署未必等于实打实的威慑，棉兰老的角逐仍是长期消耗。
+
 ## 延伸阅读
 
 **三佳钢铁（Sanjia Steel）**：中资背景的棉兰老岛钢厂，租用 PHIVIDEC 综合工业园 22.6 公顷，2026 年因放射性废金属与劳工问题停产，成为菲美中三方博弈焦点。
@@ -73,6 +81,14 @@ Mindanao is not an isolated case. Across Southeast Asia, Chinese investment in p
 Three signals will show whether this was a one-off survey or the start of something larger. First, any formal site study, lease renegotiation or new permit from PHIVIDEC. Second, Manila's public framing — does it present the base as routine modernisation or as a pointed message? Third, Beijing's response: protest, retaliation against Philippine exports, or quiet pressure on the investor. For now, the steel is cold and the plant is shut. But the ground beneath it has become contested. In the competition unfolding across Southeast Asia, even a scrap-metal mill can end up on the map.
 
 *Topic reference: "South China Morning Post" (scmp.com) Southeast Asia — "Why Philippine, US forces tried to 'scope' a Chinese-linked steel plant in Mindanao".*
+
+## Fuel, ports and the spectre of dual-use
+
+The visit was not an isolated glimpse. Ji Lingpeng, a spokesman for the Chinese embassy in Manila, called the walk-in "disturbing" and asked pointedly whether the May raid on the plant was connected to a US plan to turn the roughly 3,000-hectare PHIVIDEC Industrial Estate into a "giant American fuel hub." The suspicion is not groundless. On 31 March, the US Defense Logistics Agency publicly solicited proposals to build large-scale fuel storage in or near Davao, also on Mindanao, with a contract intended to begin in April 2028 to store up to 41 million gallons of US government fuel — 23 million gallons of naval fuel and 18 million of aviation fuel. Sanjia's 22.6 hectares sit inside that 3,000-hectare zone, next to the Mindanao Container Terminal. The question thus shifts from "can a plant host drills" to whether civilian industrial space is quietly being folded into the US–Philippine military logistics network. For Beijing, that reframes a commercial foothold as a potential high-value target: the moment a civilian site gains military utility, it also acquires the attribute of being targetable.
+
+## Mindanao is no blank chessboard
+
+Mindanao is not undefended space. Among the nine EDCA sites, Lumbia Air Base in Cagayan de Oro, in northern Mindanao, is already a formal US rotational location. In March 2026 a US Navy ship docked at the Port of Macabalan in Cagayan de Oro for a two-week coastal-landing exercise with the Philippine Army's 4th Infantry Division built around territorial defence; that same month a company-sized US Army unit arrived at Lumbia for humanitarian-assistance training. The steel plant's corner of northern Mindanao is, in other words, already a dense zone of US–Philippine activity, and the survey merely darkened an existing line on the map. A Chinese think tank, the South China Sea Strategic Situation Probing Initiative, issued a report on 2 July 2026 on US base expansion in the Philippines that struck a measured note: even as the EDCA roster grew from five to nine and exercises scaled up, Manila's own capabilities are limited and the sites remain far from wartime readiness, suggesting Washington's aim is strategic signalling and peacetime attrition rather than a finished forward base. The noise of deployments need not equal real deterrence; Mindanao's contest is a long grind, not a single checkmate.
 
 ## Further reading
 

@@ -38,6 +38,20 @@
 
 更深层看，诈骗园区已成为中国—柬埔寨关系里一个挥之不去的摩擦点。中方持续施压要求清剿，柬方既要回应国内灰色利益的惯性，又要维系对华关系的稳定。如何在主权与协作之间找到平衡，既考验金边的治理勇气，也考验两国关系的成熟度。
 
+## 遣返与区域流动：三十万外籍人员离境，犯罪向邻国外溢
+
+清剿的直接后果，是数十万外籍涉诈人员被迫离场。柬埔寨副总理兼内政大臣萨尔索卡表示，自去年加大打击以来，累计约三十万名涉嫌或从事电诈的外籍人员被捕、被驱逐或自行离开。这一数字远超被拘留的近三万嫌犯，说明大量低端"水军"选择了主动撤离而非正面硬扛。
+
+但人走，生意未必走。随着柬埔寨持续施压，部分犯罪活动向缅甸、老挝、菲律宾等地转移，诈骗网络跨境流动、就地重生。柬官方也承认，单靠一国难以根除，必须依靠区域协作。金边的扫荡在切除本地病灶的同时，也可能把风险"挤出"到监管薄弱的邻境——这正是东南亚反诈的"打地鼠"困局。
+
+对中国而言，跨境遣返是合作最直接的成果。据中国驻柬大使汪文斌撰文，今年以来柬方已向中方遣返逾两千七百名电诈嫌疑人，数量创历史新高；中柬警方更在蒙多基里、金边、柴桢等地联合行动，抓获两千一百余名嫌疑人并全部移交中方。被解救的同胞，正一批批经包机押解回国。
+
+## 六国机制与法律框架：从"运动式"走向常态协作
+
+决定清剿能否真正落地的，是区域协作与制度。二〇二五年十一月十四日，中、柬、老、缅、泰、越六国打击电诈部级会议在昆明召开，六国签署成果文件，并就建立国际反诈联盟磋商；国际刑警组织与联合国毒罪办以观察员列席，反诈协作由此从双边个案升级为多边常态化机制。
+
+配套的是法律框架搭建。柬方称本轮行动系统建立了网络安全法律体系，并对涉案人员、网络与涉事官员采取严格法律行动。执法思路也从追查基层"键盘手"转向瓦解全链条、追捕主谋。柬国家通讯社披露，太子控股创始人陈志、金边集团创始人刘任、汇旺集团前董事长李雄等高级嫌疑人已被捕并引渡中国受审——把"老板"而非仅"马仔"送上法庭，才是切断命脉的关键。
+
 *话题参考："联合早报" (zaobao.com) 东南亚新闻 — "柬扫荡逾700网诈窝点 逮捕近3万嫌犯包括15高官"。*
 
 ## 延伸阅读
@@ -89,6 +103,20 @@ For a year now, the scam compounds have branded Cambodia as a "criminal haven" �
 This affair is not unrelated to the overseas Chinese. On one hand, the Chinese nationals trapped in the compounds are compatriots who are unambiguously victims; their safety bears directly on diaspora affairs and consular protection. On the other hand, the scam industry's outward spread often uses "Chinese circles" and "Chinese-language communities" as cover and entry points — and over time, what suffers is the reputation and the trust base of ethnic-Chinese communities throughout the region.
 
 At a deeper level, the scam compounds have become a persistent friction point in China–Cambodia relations. Beijing keeps pressing for a cleanup; Phnom Penh must both answer the inertia of domestic grey interests and keep its ties with China steady. How to balance sovereignty and cooperation will test not only Phnom Penh's governing courage but also the maturity of the bilateral relationship.
+
+## Deportations and regional spillover
+
+The crackdown's immediate effect is the exodus of hundreds of thousands of foreign scam workers. Cambodia's Deputy Prime Minister and Interior Minister Sar Sokha said that since the intensified drive began last year, a cumulative total of roughly 300,000 foreign nationals suspected of or engaged in online fraud have been arrested, deported, or left the country on their own. That figure dwarfs the nearly 30,000 detained suspects, indicating that a large rank-and-file of low-end "keyboard workers" chose to flee rather than confront the sweep.
+
+But people leave, the business may not. As Phnom Penh keeps up the pressure, some criminal activity is migrating to Myanmar, Laos and the Philippines, where scam networks re-establish themselves across borders. Cambodian officials themselves concede that no single country can root out the crime and that regional cooperation is essential. The sweep thus excises the local tumour while possibly squeezing risk into less-regulated neighbours — the classic Southeast Asian "whack-a-mole" dilemma.
+
+For China, cross-border repatriation is the most tangible fruit of the cooperation. In an article, Chinese Ambassador to Cambodia Wang Wenbin noted that this year alone Phnom Penh has handed over more than 2,700 scam suspects to Beijing — a record high — while Chinese and Cambodian police, in joint operations across Mondulkiri, Phnom Penh and Svay Rieng, detained over 2,100 suspects and transferred all of them to China. Rescued compatriots are being flown home in batches.
+
+## The six-nation framework and the legal architecture
+
+What determines whether the cleanup sticks is regional coordination and institutions. On 14 November 2025, the anti-online-scam ministerial meeting of China, Cambodia, Laos, Myanmar, Thailand and Vietnam convened in Kunming, where the six signed an outcome document and discussed building an international anti-scam alliance. INTERPOL and the UN Office on Drugs and Crime attended as observers, upgrading cooperation from bilateral casework to a standing multilateral mechanism.
+
+Alongside it comes a legal framework. Phnom Penh says the campaign systematically built a cybersecurity legal system and pursued strict legal action against perpetrators, networks and complicit officials. Enforcement thinking has also shifted — from rounding up front-line "keyboard workers" to dismantling the whole chain and chasing kingpins. Cambodia's state news agency reports that senior suspects including Chen Zhi of Prince Holding Group, Liu Ren of Phnom Penh Group and former Huione chairman Li Xiong have been arrested and extradited to China — putting the "bosses," not just the foot soldiers, on trial is what severs the industry's lifeline.
 
 *Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "Cambodia raids over 700 scam dens, arrests nearly 30,000 including 15 officials".*
 

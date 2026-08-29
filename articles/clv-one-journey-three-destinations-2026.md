@@ -40,6 +40,18 @@
 
 CLV 三角区确有真金白银般的资产——吴哥、老挝高原、下龙湾与越南中部海岸。把它们打包成一次旅程，是经得起算账的经济学。三国政府能否把这句口号变成大巴、签证与实实在在的订单，才是唯一要紧的问题。
 
+## 数字目标与落地压力：3500 万游客的算术题
+
+口号要经得起算术。根据越南文化体育与旅游部披露的数据，2025 年三国合计接待国际游客 3130 万人次，同比增长 10.2%；其中三国间互访的区域内游客约 320 万人次，仅占总量的 10%。旅游总收入估计约 456 亿美元。2026 年上半年，三国已接待国际游客 1660 万人次（含区域内 160 万人次），而会议提出的目标，是全年 CLV 区域国际游客达到 3500 万人次，并力争实现入境游客的双位数年增长。
+
+这组数字的关键不在总数，而在结构。区域内跨境流动目前只占一成，说明"一程三地"的买账者还很少。行动计划真正的考验，是把原本只游越南或单访柬埔寨的客人，转化为在同一条线路上跨境穿行的多国游客——否则 3500 万的目标就只是把三国各自盘子相加，而非创造新增量。把口号变成增量，比把口号写进联合声明难得多。
+
+## 基建与便利化：边境环线公路与"东盟签证"的想象
+
+互联互通不只是愿景，也有看得见的工地。柬埔寨在 CLV 发展三角区的边境环线公路网已完工 98.87%，总长 264.40 公里，自 2024 年 12 月借助"边境基础设施建设基金"动工；其中蒙多基里省已达 100%，拉达那基里省为 97.63%。这条环路把三国边境省份真正缝在一起，是"一程三地"得以成行的物理前提。
+
+在节点城市，胡志明市人民委员会主席阮文得明确把本市定位为战略连接中枢：通过航空、陆路与国家级旅游线路，把 CLV 行程与国际重点客源市场接驳，而不仅是一个停留点。更远的想象来自签证——泰国正推动覆盖柬埔寨、老挝、越南等六国的"类申根"东盟联合签证。若落地，它将是"一次旅程"口号最大的一笔便利化红利；障碍则在于各国移民标准不一，协调难度不亚于修路。
+
 ## 延伸阅读
 
 - **柬老越发展三角区（CLV-DTA）**：2004 年设立的次区域合作框架，本次旅游新计划正是建立在它之上。
@@ -91,6 +103,20 @@ At one level, "one journey, three destinations" is soft power on the cheap: a sh
 The limit is delivery. The region is littered with subregional initiatives that produced elegant logos and few arrivals. A ministerial mechanism helps, but without a funded secretariat, shared data, and measurable targets, this risks becoming another line in the long inventory of Mekong cooperation pledges.
 
 The CLV triangle has real assets — Angkor, the Lao highlands, Ha Long and the central Vietnamese coast. Packaging them as one journey is sensible economics. Whether the three governments can convert the slogan into buses, visas and bookings is the only question that will matter.
+
+## The arithmetic of targets: the 35-million visitor maths
+
+Slogans must survive arithmetic. According to data from Vietnam's Ministry of Culture, Sports and Tourism, the three countries welcomed 31.3 million international visitors in 2025, up 10.2% year on year; intra-regional travellers moving between the three countries reached 3.2 million, just 10% of the total. Estimated tourism revenue was about US$45.6 billion. In the first half of 2026 alone the three countries received 16.6 million international arrivals, including 1.6 million intra-regional. The meeting's stated aim is 35 million international visitors to the CLV region for the year, alongside double-digit annual growth in arrivals.
+
+The point of these figures is not the headline total but the structure. Cross-border intra-regional flow is still only one-tenth of the total, which means few travellers have yet bought into "one journey, three destinations." The real test of the action plan is whether it can convert visitors who would otherwise tour Vietnam alone or Cambodia alone into multi-country itineraries — otherwise the 35-million target is merely the sum of three national totals rather than new demand. Turning a slogan into incremental arrivals is far harder than writing it into a joint statement.
+
+## Infrastructure and facilitation: border ring roads and the "ASEAN visa" idea
+
+Connectivity is not only vision; there are visible construction sites. Cambodia's border-ring road network in the CLV Development Triangle has reached 98.87% completion, spanning 264.40 kilometres, since work began in December 2024 under the Border Infrastructure Construction Fund; Mondulkiri province is at 100% and Ratanakkiri at 97.63%. This ring literally stitches the three countries' border provinces together and is the physical precondition for "one journey, three destinations" to be practicable.
+
+At the nodal-city level, Ho Chi Minh City's chairman, Nguyen Van Duoc, explicitly positioned the city as a strategic connectivity hub: linking CLV routes to key international source markets via air, land and national tourism corridors, rather than serving merely as a stop. The more distant imagination concerns visas — Thailand is pushing a Schengen-style ASEAN joint visa covering six countries including Cambodia, Laos and Vietnam. If realised, it would be the single largest facilitation dividend for the "one journey" tagline; the obstacle is that member states' migration standards differ, making coordination no easier than building roads.
+
+Still, the triangle's weakest link is governance, not geography. Cross-border tourism thrives on trust between provincial authorities, yet the CLV borderlands have long doubled as zones of informal trade, migration and, at times, trafficking. A joint brand promising safe, seamless travel must be backed by shared standards on visitor protection and crisis response; without them, the "one journey" risks becoming a slogan that outruns the institutions meant to deliver it.
 
 ## Further reading
 
