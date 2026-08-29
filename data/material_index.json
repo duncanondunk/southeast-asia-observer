@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-28",
+  "version": "2026-08-29",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:马来西亚警方瓦解24非法矿场(2026-08)": {
@@ -584,6 +584,13 @@
       "slugs": [
         "indonesia-panda-bond-china-backing-2026"
       ]
+    },
+    "event:柬埔寨扫荡网诈窝点(2026-08)": {
+      "slugs": [
+        "cambodia-cyber-scam-crackdown-2026"
+      ],
+      "exception": null,
+      "note": "全新素材（联合早报，2026-08-28/29），柬埔寨跨境电诈专项整治/华侨华人安全/跨境治理主题；与既有泰国、缅甸跨境犯罪及人口贩运条目不重复。"
     }
   }
 }
