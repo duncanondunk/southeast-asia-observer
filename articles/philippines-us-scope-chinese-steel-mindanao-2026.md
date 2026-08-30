@@ -30,8 +30,6 @@
 
 三个信号将表明这只是一次孤立勘察，还是更大动作的开端。其一，PHIVIDEC 是否启动正式场地研究、租约重谈或发放新许可。其二，马尼拉的公开定性——是把基地说成例行现代化，还是一次刻意释放的信号。其三，北京的回应：抗议、对菲出口报复，还是对投资方悄然施压。眼下钢铁已冷、厂房已关，但它脚下的土地已成争夺对象。在东南亚展开的这场竞争中，哪怕一座废钢厂，也可能被画上地图。
 
-*话题参考：South China Morning Post（scmp.com）东南亚 — "Why Philippine, US forces tried to 'scope' a Chinese-linked steel plant in Mindanao"。*
-
 ## 燃料、港口与"军民合用"的疑云
 
 这并非孤立的一瞥。中国使馆发言人季凌鹏（Ji Lingpeng）在事后称这趟走访"令人不安"，并反问：5月突袭该厂，是否与美方把占地约3000公顷的PHIVIDEC综合工业园改造成"巨型美国燃料枢纽"的计划有关？疑问并非空穴来风。同年3月31日，美国国防后勤局公开招标，寻求在棉兰老岛达沃及周边建设大型燃料储存设施，合同拟自2028年4月起为美军储存最多4100万加仑燃料——其中2300万加仑海军燃料、1800万加仑航空燃料。钢厂的22.6公顷嵌在这片3000公顷园区之内，紧邻棉兰老集装箱码头。于是问题从"一座工厂能否办军演"升级为：民用工业空间是否正被悄然并入美菲军事后勤网络。对北京而言，这把一个商业落脚点重新框定为可能被打击的高价值目标——一旦民用设施具备军事效用，它也就获得了"被瞄准"的属性。
@@ -45,6 +43,8 @@
 **三佳钢铁（Sanjia Steel）**：中资背景的棉兰老岛钢厂，租用 PHIVIDEC 综合工业园 22.6公顷，2026年因放射性废金属与劳工问题停产，成为菲美中三方博弈焦点。
 **加强防务合作协议（Enhanced Defense Cooperation Agreement）**：美菲间允许美军在约定基地轮换驻扎的协议；马科斯任内适用地点由 5处增至 9处。
 **综合群岛防御概念（Comprehensive Archipelagic Defense Concept）**：马尼拉修订后的防御构想，优先对外领土防御，拟在 PHIVIDEC 区内新建海军基地。
+
+*话题参考：South China Morning Post（scmp.com）东南亚 — "Why Philippine, US forces tried to 'scope' a Chinese-linked steel plant in Mindanao"。*
 
 ===EN===
 
@@ -80,8 +80,6 @@ Mindanao is not an isolated case. Across Southeast Asia, Chinese investment in p
 
 Three signals will show whether this was a one-off survey or the start of something larger. First, any formal site study, lease renegotiation or new permit from PHIVIDEC. Second, Manila's public framing — does it present the base as routine modernisation or as a pointed message? Third, Beijing's response: protest, retaliation against Philippine exports, or quiet pressure on the investor. For now, the steel is cold and the plant is shut. But the ground beneath it has become contested. In the competition unfolding across Southeast Asia, even a scrap-metal mill can end up on the map.
 
-*Topic reference: "South China Morning Post" (scmp.com) Southeast Asia — "Why Philippine, US forces tried to 'scope' a Chinese-linked steel plant in Mindanao".*
-
 ## Fuel, ports and the spectre of dual-use
 
 The visit was not an isolated glimpse. Ji Lingpeng, a spokesman for the Chinese embassy in Manila, called the walk-in "disturbing" and asked pointedly whether the May raid on the plant was connected to a US plan to turn the roughly 3,000-hectare PHIVIDEC Industrial Estate into a "giant American fuel hub." The suspicion is not groundless. On 31 March, the US Defense Logistics Agency publicly solicited proposals to build large-scale fuel storage in or near Davao, also on Mindanao, with a contract intended to begin in April 2028 to store up to 41 million gallons of US government fuel — 23 million gallons of naval fuel and 18 million of aviation fuel. Sanjia's 22.6 hectares sit inside that 3,000-hectare zone, next to the Mindanao Container Terminal. The question thus shifts from "can a plant host drills" to whether civilian industrial space is quietly being folded into the US–Philippine military logistics network. For Beijing, that reframes a commercial foothold as a potential high-value target: the moment a civilian site gains military utility, it also acquires the attribute of being targetable.
@@ -95,3 +93,5 @@ Mindanao is not undefended space. Among the nine EDCA sites, Lumbia Air Base in 
 **Sanjia Steel**: A Chinese-invested steel mill in Mindanao leasing 22.6 hectares inside the PHIVIDEC Industrial Estate; shut in 2026 over radioactive scrap and labour issues, it has become a focal point of Philippine–US–Chinese tension.
 **Enhanced Defense Cooperation Agreement (EDCA)**: The US–Philippines pact allowing rotational American troop presence at agreed sites; under Marcos the number of sites rose from five to nine.
 **Comprehensive Archipelagic Defense Concept (CADC)**: Manila's revised defence doctrine prioritising external territorial defence, under which a new naval base is planned inside the PHIVIDEC zone.
+
+*Topic reference: "South China Morning Post" (scmp.com) Southeast Asia — "Why Philippine, US forces tried to 'scope' a Chinese-linked steel plant in Mindanao".*
