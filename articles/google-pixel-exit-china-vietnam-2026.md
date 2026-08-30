@@ -4,7 +4,7 @@
 
 ## 一位工程师坐在深圳工厂的最后一排
 
-让我们设想一个画面：深圳宝安或东莞松山湖的某条SMT贴片线（Surface Mount Technology，表面贴装技术）末端，一位工艺工程师正紧盯一片Pixel主板的炉后良率（rework rate，回修率）。他也许不知道，这块板的下一次量产，多半会出现在越南北宁或海防的洁净车间。这不是哪一家代工厂的决定，而是谷歌已经向供应商发出的明确信号：到2027年，中国将不再出现在Pixel的整机制造版图里。
+让我们设想一个画面：深圳宝安或东莞松山湖的某条SMT贴片线（Surface Mount Technology，表面贴装技术）末端，一位工艺工程师正紧盯一片Pixel主板的炉后良率（post-reflow yield）。他也许不知道，这块板的下一次量产，多半会出现在越南（Vietnam）北宁或海防的洁净车间。这不是哪一家代工厂的决定，而是谷歌已经向供应商发出的明确信号：到2027年，中国将不再出现在Pixel的整机制造版图里。
 
 迁移背后的真正动因，是不确定。路透社与日经此前的报道均提示，谷歌是在为可能进一步加码的关税与出口管制提前布防。中美在半导体、清洁能源、关键矿产上反复拉锯的近三年里，「最坏情况」的门槛一再被刷新；任何一家美国公司，都不愿在旺季前夜，发现自己的旗舰机突然被卡在某一项出口许可上。
 
@@ -46,9 +46,9 @@ Pixel的高端机型已先在越南完成开发与生产，这一点至关重要
 
 ## 越南、菲律宾、泰国：东南亚的接力
 
-最后，把镜头拉远。谷歌的「+1」选项不止越南，菲律宾与泰国同样在候选名单上。菲律宾的优势在于英语人才与服务业基础，更适合做软件测试、用户运营与售后服务；其制造基础相对薄弱，工业用电成本偏高，但在「服务+硬件」结合的环节有结构性优势。泰国的优势在于汽车与硬盘产业积累的精密制造与模具工程，更适合做结构性电子部件与车载电子。越南的相对优势则是规模化、组装与智能手机产业链的现成生态。
+最后，把镜头拉远。谷歌的「+1」选项不止越南，菲律宾（Philippines）与泰国（Thailand）同样在候选名单上。菲律宾的优势在于英语人才与服务业基础，更适合做软件测试、用户运营与售后服务；其制造基础相对薄弱，工业用电成本偏高，但在「服务+硬件」结合的环节有结构性优势。泰国的优势在于汽车与硬盘产业积累的精密制造与模具工程，更适合做结构性电子部件与车载电子。越南的相对优势则是规模化、组装与智能手机产业链的现成生态。
 
-也就是说，谷歌的「+1」不太可能是「单点选择」，更可能是「组合配置」：整机装配在越南，结构件与模具在泰国，服务与软件在菲律宾——东南亚内部会出现「产业再分工」，而不是「哪一个国家赢者通吃」。日经亚洲的判断也呼应了这一点：东南亚半导体产业的发展正在重塑区域经济格局，使越南与菲律宾都走上了迈向高收入经济体的路径——前提是那四块天花板被妥善管理。
+也就是说，谷歌的「+1」不太可能是「单点选择」，更可能是「组合配置」：整机装配在越南，结构件与模具在泰国，服务与软件在菲律宾——东南亚（Southeast Asia）内部会出现「产业再分工」，而不是「哪一个国家赢者通吃」。日经亚洲的判断也呼应了这一点：东南亚半导体产业的发展正在重塑区域经济格局，使越南与菲律宾都走上了迈向高收入经济体的路径——前提是那四块天花板被妥善管理。
 
 ## 延伸阅读
 
@@ -64,7 +64,7 @@ Pixel的高端机型已先在越南完成开发与生产，这一点至关重要
 
 # Google Moves Pixel Out of China: Vietnam at the Tipping Point of "China+1"
 
-On 28 August, Vietnam's state news agency Vietnam+ cited Nikkei Asia in reporting that Google has told suppliers it will move all final assembly of its Pixel smartphones, Pixel Watch and Pixel Buds out of China starting in 2027. The most telling detail is not the move itself, but its sequencing: the technically hardest product — the flagship handset — was engineered and built in Vietnam first, then the lower-barrier watch and earbuds are to follow. This is less a forced exit than a rehearsed one. With US–China trade frictions and export controls still tightening, Google's Pixel line is now the first major US consumer-electronics brand to fully decouple from Chinese final assembly.
+On 28 August, Vietnam's state news agency Vietnam+ cited Nikkei Asia in reporting that Google has told suppliers it will move all final assembly of its Pixel smartphones, Pixel Watch and Pixel Buds out of China starting in 2027. The most telling detail is not the move itself, but its sequencing: the technically hardest product — the flagship handset — was engineered and built in Vietnam first, then the lower-barrier watch and earbuds are to follow. This is less a forced exit than a rehearsed one. With US–China trade frictions and export controls still tightening, Google is now moving Pixel's final assembly out of China on a rehearsed timeline rather than a forced one.
 
 ## An engineer in the last row of a Shenzhen line
 
@@ -98,7 +98,7 @@ These ceilings will not stop "China+1." They will reshape it from "full substitu
 
 ## Who actually captures the value?
 
-A cooler question: how much value does Vietnam actually capture from Pixel final assembly? In a typical smartphone manufacturing value chain, materials and components usually account for the largest share of bill-of-materials cost — often well over half. That share is captured overwhelmingly by overseas suppliers and by the brand. Vietnam's domestic capture is mostly back-end: assembly labour, clean-room operations, and a portion of localised component sourcing. The volume is real, but in percentage-of-total-value terms it is a small number.
+A cooler question: how much value does Vietnam actually capture from Pixel final assembly? In a typical smartphone manufacturing value chain, materials and components usually account for the largest share of bill-of-materials cost — often 60 to 70 per cent or more. That share is captured overwhelmingly by overseas suppliers and by the brand. Vietnam's domestic capture is mostly back-end: assembly labour, clean-room operations, and a portion of localised component sourcing. The volume is real, but in percentage-of-total-value terms it is a small number.
 
 Seen this way, the real industrial question for Vietnam is how to move its domestic suppliers into the "materials and components" column, rather than staying in the "assembly hours" column. That is not a question a single Bac Ninh factory can answer. It is a long-term project that has to be coordinated across industrial policy, local capital markets — equity, bond and bank financing — and the country's broader technology-education system.
 
