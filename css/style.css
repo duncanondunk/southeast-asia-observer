@@ -484,6 +484,14 @@ html[lang="en"] .brand__sub { display: none; }
   background: linear-gradient(135deg, var(--accent), var(--gold));
   display: flex; align-items: center; justify-content: center;
   font-family: var(--serif); font-size: 2.4rem; color: #fff; font-weight: 700;
+  object-fit: cover;
+  object-position: center 22%;
+  border: 3px solid #fff;
+  box-shadow: 0 3px 14px rgba(0,0,0,.10);
+}
+/* 首页作者区移动端（≤820px flex 列向）保持 120px 不缩，确保人脸可辨 */
+@media (max-width: 480px) {
+  .author__avatar { width: 96px; height: 96px; border-width: 2px; }
 }
 .author__body { flex: 1; }
 .author__name { font-family: var(--serif); font-size: 1.4rem; font-weight: 700; margin: 0 0 6px; }
