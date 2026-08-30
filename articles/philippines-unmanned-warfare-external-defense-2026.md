@@ -44,7 +44,7 @@ Behind the move is a structural pivot in Philippine security: from domestic thre
 
 ## The catch: can you buy the system, link the network
 
-Outside help is already arriving. Ukraine's ambassador to Manila, Yevheniia Fediv, said in June that Kyiv is discussing drone-tech cooperation with Manila; the United States that same month delivered four solar-powered uncrewed boats for maritime surveillance. But the real test is not "can you buy it" but "can you link it in." The battlefield value of unmanned platforms hinges on comms links, data fusion and command maturity. If networks and spectrum are captive, more drones are just scattered toys. Manila's experiment in "algorithmic coast guard" has only turned its first page.
+Outside help is already arriving. Ukraine's ambassador to Manila, Yuliia Fediv, said in June that Kyiv is discussing drone-tech cooperation with Manila; the United States that same month delivered four solar-powered uncrewed boats for maritime surveillance. But the real test is not "can you buy it" but "can you link it in." The battlefield value of unmanned platforms hinges on comms links, data fusion and command maturity. If networks and spectrum are captive, more drones are just scattered toys. Manila's experiment in "algorithmic coast guard" has only turned its first page.
 
 ## Further reading
 

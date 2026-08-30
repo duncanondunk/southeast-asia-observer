@@ -16,7 +16,7 @@
 
 ## 土地见底之后的玩法
 
-业内判断，湄南河沿岸已基本没有可供大规模开发的新土地，未来新增项目主要依赖历史建筑改造、资产升级与综合体更新。这意味着开发逻辑从"圈地"转向"织补"——把大皇宫、黎明寺、唐人街与当代艺术、生活方式街区缝进一条可步行的"河流路线"。AWC 此前提出的 100 层滨河综合体计划已暂缓，公司称将视全球经济与市场需求重新评估。
+业内判断，湄南河沿岸已基本没有可供大规模开发的新土地，未来新增项目主要依赖历史建筑改造、资产升级与综合体更新。这意味着开发逻辑从"圈地"转向"织补"——把大皇宫、黎明寺、唐人街与当代艺术、生活方式街区缝进一条可步行的"河流路线"。AWC 此前提出的 100层滨河综合体计划已暂缓，公司称将视全球经济与市场需求重新评估。
 
 ## 尾声：谁的城市，谁的河
 
@@ -42,11 +42,11 @@ Developed by Siam Piwat, MQDC and Charoen Pokphand, ICONSIAM sits on 55 rai of l
 
 ## Wave Two: Night Market, Cable Car and "Avatar"
 
-The new momentum comes from AWC's expansion of the Asiatique riverfront night market. The company plans to invest about 100 billion baht (roughly US$2.8 billion) to grow floor area from 40,000 to 224,000 square metres — roughly sixfold — and to import "Avatar: The Tulkun Protector," a 4,000-square-metre immersive experience opening in 2027 inside a dome designed by Pritzker laureate Shigeru Ban, relocated from Expo 2025 Osaka. A roughly 2-billion-baht (about US$56 million) eco cable car will span the river and link to a MONA-backed immersive art museum.
+The new momentum comes from AWC's expansion of the Asiatique riverfront night market. The company plans to invest about 10 billion baht (roughly US$280 million) to grow floor area from 40,000 to 224,000 square metres — roughly sixfold — and to import "Avatar: The Tulkun Protector," a 4,000-square-metre immersive experience opening in 2027 inside a dome designed by Pritzker laureate Shigeru Ban, relocated from Expo 2025 Osaka. A roughly 2-billion-baht (about US$56 million) eco cable car will span the river and link to a MONA-backed immersive art museum.
 
 ## Hotel Brands Rush the Bank
 
-Luxury hotels are heating up too. AWC plans a ~5-billion-baht (about US$140 million) Ritz-Carlton Riverside with Marriott (2028), and is converting "River Garden" into a 29-billion-baht (around US$810 million), 146-room Anantara ultra-luxury hotel (also 2028), folding it into its 11-stop "AWC River Journey." Langham, with Rabbit Holdings, is restoring the 130-year-old Customs House and old post office into Bangkok's first Raffles, at 6 billion baht (about US$170 million), targeted for late 2026. Meanwhile the Royal Orchid Sheraton is up for sale, with estimates of 6–7 billion baht (US$170–200 million).
+Luxury hotels are heating up too. AWC plans a ~5-billion-baht (about US$140 million) Ritz-Carlton Riverside with Marriott (2028), and is converting "River Garden" into a 2.9-billion-baht (around US$81 million), 146-room Anantara ultra-luxury hotel (also 2028), folding it into its 11-stop "AWC River Journey." Langham, with Rabbit Holdings, is restoring the 130-year-old Customs House and old post office into Bangkok's first Raffles, at 6 billion baht (about US$170 million), targeted for late 2026. Meanwhile the Royal Orchid Sheraton is up for sale, with estimates of 6–7 billion baht (US$170–200 million).
 
 ## What Comes After the Land Runs Out
 

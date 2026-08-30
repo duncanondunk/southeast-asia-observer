@@ -4,9 +4,9 @@
 
 民主行动党是马来西亚历史最久的多族群政党之一，长期被视为华人政治的重要代表。它的去留，折射的正是海外华人（华侨华人）在族裔化政治结构中的结构性位置——一个值得观察者反复咀嚼的样本。
 
-## （Taman Jauhar）之败：一道算术题的天花板
+## 真纳（Chennah）之败：一道算术题的天花板
 
-引爆点来自选举。秘书长陆兆福（Anthony Loke）在森美兰州（Taman Jauhar）州议席失守，该区马来选民占47.36%、未过半却仍由马来反对党拿下。更冷的数字在宏观面：2022年大选时，马来西亚半岛165个国会议席中，非马来人占多数的仅剩33席。按马来人口增长快于非马来人的趋势推算，这恐怕已是天花板。
+引爆点来自选举。秘书长陆兆福（Anthony Loke）在森美兰州真纳（Chennah）州议席失守，该区马来选民占47.36%、未过半却仍由马来反对党拿下。更冷的数字在宏观面：2022年大选时，马来西亚半岛166个国会议席中，非马来人占多数的仅剩33席。按马来人口增长快于非马来人的趋势推算，这恐怕已是天花板。
 
 换言之，只要柔佛、森美兰州选的投票趋势延续，民主行动党未来能斩获的席位只会更少。陆兆福形象温和、基层口碑不差，却依然无法在一个马来选民未过半的选区突围——这本身就是对"跨族群政党"天花板的注解。
 
@@ -43,9 +43,9 @@ On 16 August, more than 4,000 delegates of Malaysia's Democratic Action Party (D
 
 The DAP is among Malaysia's oldest multi-ethnic parties and has long been seen as a key vehicle for Chinese political representation. Its predicament reflects the structural position of overseas Chinese within an ethnicised political system — a specimen worth close study.
 
-## The Taman Jauhar defeat: a ceiling written in arithmetic
+## The Chennah defeat: a ceiling written in arithmetic
 
-The trigger was electoral. Secretary-general Anthony Loke lost the Negeri Sembilan state seat of Taman Jauhar, where Malays made up 47.36% — a minority, yet the seat fell to a Malay opposition party. The colder macro figure: in the 2022 general election, only 33 of Peninsular Malaysia's 165 parliamentary seats had non-Malay majorities. Given Malay population growth outpacing non-Malays, that number is likely a ceiling.
+The trigger was electoral. Secretary-general Anthony Loke lost the Negeri Sembilan state seat of Chennah, where Malays made up 47.36% — a minority, yet the seat fell to a Malay opposition party. The colder macro figure: in the 2022 general election, only 33 of Peninsular Malaysia's 166 parliamentary seats had non-Malay majorities. Given Malay population growth outpacing non-Malays, that number is likely a ceiling.
 
 In other words, if the Johor and Negeri Sembilan voting trends persist, the DAP can only win fewer seats ahead. Loke, relatively moderate and well regarded at the grassroots, still could not break through in a seat where Malays were a minority — itself a footnote on the ceiling facing cross-ethnic parties.
 

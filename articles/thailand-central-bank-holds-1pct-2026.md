@@ -32,7 +32,7 @@
 
 ## The decision: rate held at 1% for the third time
 
-On Wednesday 26 August, the Bank of Thailand's Monetary Policy Committee unanimously agreed to keep the one-day repurchase rate at 1% — the lowest level since September 2022, and the third consecutive hold this year. The trajectory tells the story: to counter a slowing economy, the bank cut six times in a row from October 2024 to February 2025, by 150 basis points in total, and has stood still since. Widely expected, this "no move" reads less like hesitation than a deliberate pause.
+On Wednesday 26 August, the Bank of Thailand's Monetary Policy Committee unanimously agreed to keep the one-day repurchase rate at 1% — the lowest level since September 2022, and the third consecutive hold this year. The trajectory tells the story: to counter a slowing economy, the bank cut six times in a row from October 2024 to February 2026, by 150 basis points in total, and has stood still since. Widely expected, this "no move" reads less like hesitation than a deliberate pause.
 
 ## Why hold: the AI boom versus a slowing real economy
 

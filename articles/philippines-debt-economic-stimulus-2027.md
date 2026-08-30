@@ -1,4 +1,4 @@
-# 举债近700亿新元救经济：小马科斯的政治赌注与财政红线
+# 举债近700亿新元救经济：小马可斯的政治赌注与财政红线
 
 受建筑业低迷与内需疲软拖累，菲律宾（Philippines）经济今年第二季同比仅增长2.3%，创下2021年以来最低增速；上半年增长率2.6%，也明显低于全年3.5%至4.5%的目标区间。面对失速压力，马尼拉（Manila）开出的药方是"借钱刺激"。8月11日，菲律宾预算与管理部公布数据：明年计划举债3.3万亿比索（约690亿新元，约合3720亿元人民币），比今年修订后的2.73万亿比索借款计划高出五分之一。同一天，总统小马可斯（Ferdinand Marcos Jr.）要求国会批准明年7.2万亿比索（约1500亿新元，约合8100亿元人民币）的国家预算，较上年增长6%。这意味着，借款将占预算的46%。
 
@@ -18,7 +18,7 @@
 
 真正需要正视的，是债务的存量结构。截至6月，菲律宾未偿债务达19.07万亿比索（约3970亿新元，约合2.14万亿元人民币），约占国内生产总值（GDP）的66%。而明年的新增借款中，近一半、约1.6万亿比索（约333亿新元，约合1800亿元人民币）将直接用于偿还债务。换言之，借来的钱里有相当部分并非投入新增长，而是为旧债"续命"。
 
-拟议支出计划占GDP的21.7%。中国银行首席经济师维拉斯奎兹（Velasquez）的评论较为克制：尽管推进步伐放缓，菲律宾的财政整顿计划依然有效；要让债务占GDP比率持续下行，必须结合更强劲的增长、持续的增收改革与审慎的支出管理。这句话的潜台词是——借钱能买时间，却买不来结构性的好转。
+拟议支出计划占GDP的21.7%。菲律宾中兴银行（Chinabank）首席经济师维拉斯奎兹（Domini Velasquez）的评论较为克制：尽管推进步伐放缓，菲律宾的财政整顿计划依然有效；要让债务占GDP比率持续下行，必须结合更强劲的增长、持续的增收改革与审慎的支出管理。这句话的潜台词是——借钱能买时间，却买不来结构性的好转。
 
 ## 财政责任的两难：刺激与红线
 
@@ -58,7 +58,7 @@ Companion measures are rolling out: higher taxes on soda, vaping products and al
 
 What demands attention is the stock of debt. As of June, outstanding obligations reached 19.07 trillion pesos (about S$397 billion, ~US$306 billion), roughly 66% of GDP. And of next year's new borrowings, nearly half — about 1.6 trillion pesos (about S$33 billion, ~US$26 billion) — is earmarked simply to repay existing debt. In other words, a sizable share of the new money services old obligations rather than building new growth.
 
-The proposed spending plan equals 21.7% of GDP. Velasquez, chief economist at Bank of China, was measured: though the pace has slowed, the fiscal-consolidation plan remains effective, and bringing the debt-to-GDP ratio down sustainably requires stronger growth, continued revenue reforms and prudent spending. The subtext is clear — borrowing buys time, not structural recovery.
+The proposed spending plan equals 21.7% of GDP. Domini Velasquez, chief economist at China Banking Corporation (Chinabank), was measured: though the pace has slowed, the fiscal-consolidation plan remains effective, and bringing the debt-to-GDP ratio down sustainably requires stronger growth, continued revenue reforms and prudent spending. The subtext is clear — borrowing buys time, not structural recovery.
 
 ## The fiscal dilemma
 

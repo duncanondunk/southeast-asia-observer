@@ -40,13 +40,13 @@
 
 # Bridging Homeland and Diaspora: Lishui's "Hundred-Thousand-Ten-Thousand" Qiaomao Program Opens a New Southeast Asia Trade Link
 
-Recently, three containers of daily-care products worth US$120,000 (about RMB 860,000) from Lishui's Nice Group in Zhejiang were shipped to Cambodia. Shi Yongping, head of the Cambodia Zhejiang Chamber of Commerce and a Qingtian-born overseas Chinese from Lishui, called it "Lishui enterprises' first trial opening a brand-new qiaomao (overseas-Chinese-trade) link to Southeast Asia." A seemingly ordinary export, it sits on top of Lishui's "Hundred-Thousand-Ten-Thousand" qiaomao program — using the diaspora as a bridge to turn globally scattered overseas-Chinese business networks into reachable, convertible trade channels.
+Recently, three containers of daily-care products worth US$120,000 from Lishui's Nice Group in Zhejiang were shipped to Cambodia. Shi Yongping, head of the Cambodia Zhejiang Chamber of Commerce and a Qingtian-born overseas Chinese from Lishui, called it "Lishui enterprises' first trial opening a brand-new qiaomao (overseas-Chinese-trade) link to Southeast Asia." A seemingly ordinary export, it sits on top of Lishui's "Hundred-Thousand-Ten-Thousand" qiaomao program — using the diaspora as a bridge to turn globally scattered overseas-Chinese business networks into reachable, convertible trade channels.
 
 ## A US$120,000 trial order pries open a new link
 
 According to China Qiaowang, Nice Group's shipment did not go overseas through a conventional trading agent. Instead, with the federation of returned overseas Chinese acting as matchmaker, it connected directly to Cambodian overseas-Chinese distribution channels. The "brand-new link" in Shi's words refers to a shorter path from factory to Southeast Asian shelf: in the past Lishui's daily-care goods were re-exported via third-party traders, but this time they moved through diaspora-owned networks.
 
-In pure value terms, US$120,000 (about RMB 860,000) is modest. Yet as a "trial" model, its value lies in proving a replicable export channel built on diaspora networks. For many small and mid-sized manufacturers, the real barrier to the Southeast Asian market is not production capacity but channels, credit and local compliance — precisely what overseas-Chinese merchants rooted locally do best.
+In pure value terms, US$120,000 is modest. Yet as a "trial" model, its value lies in proving a replicable export channel built on diaspora networks. For many small and mid-sized manufacturers, the real barrier to the Southeast Asian market is not production capacity but channels, credit and local compliance — precisely what overseas-Chinese merchants rooted locally do best.
 
 ## Qingtian compatriots: the "bridge" scattered across Cambodia
 

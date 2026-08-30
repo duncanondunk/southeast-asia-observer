@@ -34,7 +34,7 @@
 
 ## The numbers: crossing the threshold
 
-Buoyed by growth in semiconductor and electronics exports, the economic profile of Vietnam and the Philippines has quietly upgraded. In the World Bank's July annual income classification, the two countries' gross national income per capita last year rose to US$4,970 (about S$6,350, ≈RMB 35,700) and US$4,850 respectively, both clearing this year's upper-middle-income threshold of US$4,636. They entered the bracket for the first time.
+Buoyed by growth in semiconductor and electronics exports, the economic profile of Vietnam and the Philippines has quietly upgraded. In the World Bank's July annual income classification, the two countries' gross national income per capita last year rose to US$4,970 and US$4,850 respectively, both clearing this year's upper-middle-income threshold of US$4,636. They entered the bracket for the first time.
 
 In other words, by per-capita GNI, two economies long cast as "low-cost manufacturing bases" have written their names into the more consequential column.
 

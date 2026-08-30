@@ -18,7 +18,7 @@
 
 十五名高级官员与执法人员落网，是这份声明里最不该被轻轻带过的细节。被查的包括一名副检察官、一名移民总局副局长、金边市警察局一名副局长，以及外交部前总司长。这说明什么？说明在不少园区里，腐败不是偶然的副产品，而是这门生意得以运转的底层架构。没有保护伞，窝点根本开不下去；没有里应外合，近三万名嫌犯也关不进、跑不掉。
 
-所以，把十五名官员一并拿下，恰恰说明此轮行动与以往"运动式"整治的不同——它试图从权力末端切断保护链。但也要清醒：反腐局目前只针对四起具体案件出手，这更像是"杀猴儆鸡"的开端，而非整张腐败网的覆灭。
+所以，把十五名官员一并拿下，恰恰说明此轮行动与以往"运动式"整治的不同——它试图从权力末端切断保护链。但也要清醒：反腐局目前只针对四起具体案件出手，这更像是"杀鸡儆猴"的开端，而非整张腐败网的覆灭。
 
 ## 从园区到咖啡馆：诈骗像九头蛇般重生
 
@@ -56,7 +56,7 @@
 
 ## 延伸阅读
 
-**网络诈骗委员会（National Committee to Combat Online Scams）**：柬埔寨首相洪玛内设立的高级别专责机构，统筹全国打击电诈与人口贩运的执法行动。
+**国家打击网络诈骗委员会（打击网诈委 / National Committee to Combat Online Scams）**：柬埔寨首相洪玛内设立的高级别专责机构，统筹全国打击电诈与人口贩运的执法行动。
 
 **跨境治理（Cross-Border Governance）**：指单一国家无力单独应对、必须依靠多国执法与司法协作的犯罪形态，电诈与贩运是其典型代表。
 
@@ -78,7 +78,7 @@ The casino thread is the most telling. Enforcement targeted 27 implicated casino
 
 Why this year, and not earlier? The answer lies in where the pressure comes from. Citing Agence France-Presse and Xinhua, Lianhe Zaobao notes the crackdown unfolded under "strong pressure" from China, the United States and others. Plainly put, the compounds persisted for so long because some local forces treated them as a grey engine of "investment promotion" and foreign-exchange earnings. They were reclassified as a tumour to be excised only when the damage spilled over — harming Chinese citizens and tarnishing Cambodia's own international standing.
 
-Beijing's concern is straightforward: tens of thousands of Chinese citizens have been trapped in these compounds, at once victims and coerced perpetrators. Protecting compatriots abroad is a hard task that diaspora affairs and diplomacy cannot回避. Washington's gaze is shaped more by counter-fraud and regional-security calculations. The convergence of the two great powers handed the Hun Manet government a rare "both domestic and external" justification for a cleanup.
+Beijing's concern is straightforward: tens of thousands of Chinese citizens have been trapped in these compounds, at once victims and coerced perpetrators. Protecting compatriots abroad is a hard task that diaspora affairs and diplomacy cannot evade. Washington's gaze is shaped more by counter-fraud and regional-security calculations. The convergence of the two great powers handed the Hun Manet government a rare "both domestic and external" justification for a cleanup.
 
 ## The 15 officials: corruption is the business model
 

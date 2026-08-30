@@ -1,6 +1,6 @@
 # 越南外长将访缅甸，政变以来首次
 
-据路透社报道，越南外交部周二（8月25日）宣布，外长黎怀忠将于周三（8月26日）正式访问缅甸。这是自2021年缅甸政变以来，越南外长首次对缅甸进行正式访问。据联合早报报道，此行他预计将与缅甸外长丁貌瑞共同主持双边合作会议。
+据路透社报道，越南外交部周二（8月25日）宣布，外长黎怀忠将于周三（8月26日）正式访问缅甸。这是自2021年缅甸政变以来，越南外长首次对缅甸进行正式访问。据联合早报报道，此行他预计将与缅甸外长丹穗共同主持双边合作会议。
 
 ## 河内主动出手的时机
 
@@ -32,7 +32,7 @@
 
 # Vietnam's Foreign Minister to Visit Myanmar, First Since the Coup
 
-Reuters reported on Tuesday that Vietnam's Ministry of Foreign Affairs announced Foreign Minister Bui Thanh Son will travel to Myanmar on Wednesday, August 26. The visit marks the first formal trip by a Vietnamese foreign minister since Myanmar's 2021 coup. According to Lianhe Zaobao, he is expected to co-chair a bilateral cooperation meeting with Myanmar's Foreign Minister Than Swe during the trip.
+Reuters reported on Tuesday that Vietnam's Ministry of Foreign Affairs announced Foreign Minister Le Hoai Trung will travel to Myanmar on Wednesday, August 26. The visit marks the first formal trip by a Vietnamese foreign minister since Myanmar's 2021 coup. According to Lianhe Zaobao, he is expected to co-chair a bilateral cooperation meeting with Myanmar's Foreign Minister Than Swe during the trip.
 
 ## Hanoi's timing in stepping forward
 
@@ -48,7 +48,7 @@ Vietnam is not alone. In recent months, Thailand and Laos have actively pushed t
 
 ## Signals of Myanmar's re-entry into regional diplomacy
 
-Bui Thanh Son's visit symbolizes Myanmar's slow but visible steps back into the web of regional multilateral diplomacy. For Vietnam, maintaining contact safeguards ASEAN centrality and ensures it does not fall behind in the contest for influence across the Mekong subregion. For ASEAN as a whole, a gradual Myanmar return — if effective dialogue can resume under the Five-Point Consensus — would bolster regional stability. A single visit cannot unravel Myanmar's domestic stalemate, yet its symbolic weight should not be underestimated: it signals that ASEAN's engagement path is moving from frozen to pragmatic.
+Le Hoai Trung's visit symbolizes Myanmar's slow but visible steps back into the web of regional multilateral diplomacy. For Vietnam, maintaining contact safeguards ASEAN centrality and ensures it does not fall behind in the contest for influence across the Mekong subregion. For ASEAN as a whole, a gradual Myanmar return — if effective dialogue can resume under the Five-Point Consensus — would bolster regional stability. A single visit cannot unravel Myanmar's domestic stalemate, yet its symbolic weight should not be underestimated: it signals that ASEAN's engagement path is moving from frozen to pragmatic.
 
 ## Further reading
 

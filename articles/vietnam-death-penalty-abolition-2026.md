@@ -46,7 +46,7 @@ Retained under capital punishment are treason, murder, terrorism and illicit dru
 
 A ministry statement this week said narrowing the scope of the death penalty "institutionalizes the party's policy, aligns with the trend of legislative progress, and enhances Vietnam's standing in criminal justice cooperation, extradition and mutual legal assistance." That framing ties penal reform to Vietnam's integration into the international judicial system.
 
-The penal code that took effect last July already removed the death penalty for eight crimes, including corruption and acts aimed at overthrowing the government, sparing real-estate tycoon Truong My Lan, convicted in an alleged US$12 billion (around RMB 86 billion) fraud. In Vietnam, death-penalty data are state secrets, and lethal injection — adopted in 2011 after abolishing firing squads — is the sole method of execution.
+The penal code that took effect last July already removed the death penalty for eight crimes, including corruption and acts aimed at overthrowing the government, sparing real-estate tycoon Truong My Lan, convicted in an alleged US$12 billion fraud. In Vietnam, death-penalty data are state secrets, and lethal injection — adopted in 2011 after abolishing firing squads — is the sole method of execution.
 
 ## Context and debate
 

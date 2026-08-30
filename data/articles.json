@@ -106,7 +106,7 @@
     "date": "2026-08-30",
     "readingTime": 8,
     "featured": false,
-    "summary": "日经亚洲报道谷歌计划自2027年起将Pixel全线产能迁出中国，越南与印度为主要承接方。文章认为，这标志「中国+1」从对冲策略转向主轴布局，越南的制造生态、自贸协定与地缘位置使其受益，但核心在于产业链本地化能否真正落地。",
+    "summary": "日经亚洲报道谷歌计划自2027年起将Pixel全线产能迁出中国，越南、菲律宾与泰国为主要候选承接方。文章认为，这标志「中国+1」从对冲策略转向主轴布局，越南的制造生态、自贸协定与地缘位置使其受益，但核心在于产业链本地化能否真正落地。",
     "image": "images/articles/google-pixel-exit-china-vietnam-2026.jpg",
     "imageCredit": "Unsplash (unsplash.com)",
     "imageAccessed": "2026-08-30",
@@ -124,7 +124,7 @@
       "subtitle": "From backup capacity to the main axis, can Vietnam absorb not only the orders but the whole supply chain?",
       "category": "Economy & Industry",
       "country": "Vietnam",
-      "summary": "Nikkei Asia reports that Google plans to move all Pixel production out of China from 2027, with Vietnam and India as the main recipients. The article argues this marks a shift of \"China+1\" from hedging to the main axis; Vietnam's manufacturing ecosystem, free-trade agreements and geopolitical position give it an edge, but the real test is whether supply-chain localisation can take root.",
+      "summary": "Nikkei Asia reports that Google plans to move all Pixel production out of China from 2027, with Vietnam, the Philippines and Thailand the leading candidates. The article argues this marks a shift of \"China+1\" from hedging to the main axis; Vietnam's manufacturing ecosystem, free-trade agreements and geopolitical position give it an edge, but the real test is whether supply-chain localisation can take root.",
       "imageAlt": "An engineer working on a laptop amid complex machinery and wiring in an electronics manufacturing plant, symbolising Vietnam's take-up of consumer-electronics supply chains.",
       "references": [
         {
@@ -378,7 +378,7 @@
   },
   {
     "slug": "japanese-banks-pivot-southeast-asia-china-2026",
-    "title": "日本银行收缩中国业务，东南亚为何成为资本避风港？",
+    "title": "日本银行收缩中国业务，东南亚与印度为何成为资本新腹地？",
     "subtitle": "",
     "category": "经济产业",
     "tags": [
@@ -393,13 +393,13 @@
     "date": "2026-08-28",
     "readingTime": 5,
     "featured": false,
-    "summary": "日本银行五年间在华分支机构与贷款大幅收缩，千叶、佐贺等行转战新加坡、印尼；资本南迁折射\"中国加一\"战略下供应链与金融网络重组。",
+    "summary": "日本银行五年间在华分支机构与贷款大幅收缩，千叶、西京等行转战新加坡、印尼；资本南迁折射\"中国加一\"战略下供应链与金融网络重组。",
     "image": "images/articles/japanese-banks-pivot-southeast-asia-china-2026.jpg",
     "imageCredit": "Unsplash — Trương Tuyết Ly",
     "imageAccessed": "2026-08-28",
     "imageAlt": "新加坡金融区现代玻璃摩天楼仰拍，象征日本银行资本南下东南亚",
     "en": {
-      "title": "Why Japanese Banks Are Shrinking China and Betting on Southeast Asia",
+      "title": "Why Japanese Banks Are Shrinking China and Betting on Southeast Asia and India",
       "subtitle": "",
       "category": "Economy & Industry",
       "country": "Singapore",
@@ -592,10 +592,10 @@
     ],
     "en": {
       "title": "The Canal, the Diaspora, and ASEAN: How One Waterway Weaves Overseas Chinese Networks into a Supply Chain",
-      "subtitle": "At an 26 August conference, Guangxi put overseas Chinese merchants and leaders at the front of its China–ASEAN cross-border supply-chain push, riding the Pinglu Canal's September opening",
+      "subtitle": "At a 26 August conference, Guangxi put overseas Chinese merchants and leaders at the front of its China–ASEAN cross-border supply-chain push, riding the Pinglu Canal's September opening",
       "category": "Overseas Chinese",
       "country": "China",
-      "summary": "Riding the Pinglu Canal's September opening, Guangxi put overseas Chinese merchants and leaders at the front of its China–ASEAN cross-border supply-chain push at an 26 August conference. This piece argues the canal cuts physical cost while the diaspora cuts institutional and cultural cost — together the real meaning of a 'cross-border industrial and supply chain.' But fragmented networks, local sensitivities, and institutional barriers mean it cannot substitute for regulatory alignment and reciprocal access; success must be measured by two-way, verifiable gains adapted to ASEAN needs.",
+      "summary": "Riding the Pinglu Canal's September opening, Guangxi put overseas Chinese merchants and leaders at the front of its China–ASEAN cross-border supply-chain push at a 26 August conference. This piece argues the canal cuts physical cost while the diaspora cuts institutional and cultural cost — together the real meaning of a 'cross-border industrial and supply chain.' But fragmented networks, local sensitivities, and institutional barriers mean it cannot substitute for regulatory alignment and reciprocal access; success must be measured by two-way, verifiable gains adapted to ASEAN needs.",
       "imageAlt": "Nanning's riverside skyline stretches in the morning light, echoing the new river–sea intermodal outlook Guangxi gains as the Pinglu Canal opens toward ASEAN",
       "references": [
         {
@@ -736,7 +736,7 @@
       "category": "Economy & Industry",
       "country": "Indonesia",
       "summary": "Lianhe Zaobao reports Indonesian President Prabowo on 25 August launched a 100GW solar plan in Bali, to be built within three years at US$73 billion. Once complete it would save US$4.2 billion a year in fuel subsidies. Solar is only 1.5GW today and coal dominates; land, grid and tenders are the three hurdles.",
-      "imageAlt": "Rows of solar photovoltaic panels across Indonesia's countryside, symbolising an coal-dependent nation's clean-energy ambition",
+      "imageAlt": "Rows of solar photovoltaic panels across Indonesia's countryside, symbolising a coal-dependent nation's clean-energy ambition",
       "references": [
         {
           "source": "Lianhe Zaobao (zaobao.com)",
@@ -781,7 +781,7 @@
       "subtitle": "Teodoro seeks a 6.3% boost to the 2027 defence budget, with drones a priority in the 50 billion peso modernization fund — but integration is harder than procurement",
       "category": "Geopolitics",
       "country": "Philippines",
-      "summary": "Lianhe Zaobao reports Philippine Defence Secretary Teodoro on 25 August said Manila will expand unmanned warfare, including more drones, seeking a 6.3% rise in the 2027 defence budget with 50 billion pesos for modernization. The focus shifts from internal security to external defense, but comms and network integration are the real test.",
+      "summary": "Lianhe Zaobao reports Philippine Defence Secretary Teodoro on 25 August said Manila will expand unmanned warfare, including more drones, seeking a 6.3% rise in the 2027 defence budget with 50 billion pesos (about US$860 million) for modernization. The focus shifts from internal security to external defense, but comms and network integration are the real test.",
       "imageAlt": "A patrol boat cutting through Philippine coastal waters, reflecting Manila's pivot to extending maritime standoff chips into unmanned systems",
       "references": [
         {
@@ -904,7 +904,7 @@
     "date": "2026-08-24",
     "readingTime": 7,
     "featured": false,
-    "summary": "柬埔寨白马省土城市新民学校8月24日复校开学，当地华文教育在停办约半世纪后重启。复校由港澳侨商捐建教学楼、土城理事会协调、柬华理事总会支持。本文分析红色高棉时期的断裂、侨社网络作为重建引擎的角色，以及华校兼具文化修复与软权力的双重属性。",
+    "summary": "柬埔寨贡布省土城市新民学校8月24日复校开学，当地华文教育在停办约半世纪后重启。复校由港澳侨商捐建教学楼、土城理事会协调、柬华理事总会支持。本文分析红色高棉时期的断裂、侨社网络作为重建引擎的角色，以及华校兼具文化修复与软权力的双重属性。",
     "image": "images/articles/cambodia-xinmin-chinese-school-reopen.jpg",
     "imageCredit": "Unsplash",
     "imageAccessed": "2026-08-24",
@@ -977,7 +977,7 @@
       }
     ],
     "en": {
-      "title": "12th Overseas Chinese Entrepreneurs Fair Closes: Bridging with the Diaspora, Pushing \"Thousands of Firms, Ten Thousands of Products\" into Asia-Pacific",
+      "title": "12th Overseas Chinese Entrepreneurs Fair Closes: Bridging with the Diaspora, Pushing \"Thousands of Firms, Ten Thousand Products\" into Asia-Pacific",
       "subtitle": "A diaspora-named Asia-Pacific trade gathering is shifting from exhibition encounters toward year-round engagement, with the diaspora network as a super-connector",
       "category": "Economy & Industry",
       "country": "China",
@@ -996,7 +996,7 @@
   {
     "slug": "southern-thailand-unrest-curfew-2026",
     "title": "泰南三府连环骚乱，当局宵禁管控：分离主义暗流的又一次抬头",
-    "subtitle": "那拉提瓦、也拉、北大年三府一夜之间连环爆炸与纵火，唤醒泰南长期分离主义 insurgency 的未愈伤口",
+    "subtitle": "那拉提瓦、也拉、北大年三府一夜之间连环爆炸与纵火，唤醒泰南长期分离主义叛乱的未愈伤口",
     "category": "地缘政治",
     "tags": [
       "泰南",
@@ -1009,7 +1009,7 @@
     "date": "2026-08-23",
     "readingTime": 7,
     "featured": false,
-    "summary": "联合早报报道，泰国南部那拉提瓦、也拉、北大年三府8月22日接连发生爆炸与纵火，那拉提瓦至少11起、汽车爆炸致2伤，当局实施宵禁。事件唤醒人们对泰南长期分离主义 insurgency 的记忆。",
+    "summary": "联合早报报道，泰国南部那拉提瓦、也拉、北大年三府8月22日接连发生爆炸与纵火，那拉提瓦至少11起、汽车爆炸致2伤，当局实施宵禁。事件唤醒人们对泰南长期分离主义叛乱的记忆。",
     "image": "images/articles/southern-thailand-unrest-curfew-2026.jpg",
     "imageCredit": "Pexels",
     "imageAccessed": "2026-08-23",
@@ -1148,7 +1148,7 @@
     "date": "2026-08-22",
     "readingTime": 8,
     "featured": false,
-    "summary": "8月21日，王毅与苏吉奥诺在雅加达举行中国印尼全面战略对话首次会议，把政治、经济、海事、民间与安保“五大支柱”框架化，并承诺深化矿物、能源、科技与防务合作；同日“2+2”第二次部长级会议举行。对话既稳住中企在印尼的资源合作预期，也勾勒雅加达“经济靠中、安全多元”的平衡姿态。",
+    "summary": "8月21日，王毅与苏吉约诺在雅加达举行中国印尼全面战略对话首次会议，把政治、经济、海事、民间与安保“五大支柱”框架化，并承诺深化矿物、能源、科技与防务合作；同日“2+2”第二次部长级会议举行。对话既稳住中企在印尼的资源合作预期，也勾勒雅加达“经济靠中、安全多元”的平衡姿态。",
     "image": "images/articles/china-indonesia-strategic-dialogue-2026.jpg",
     "imageCredit": "Pexels",
     "imageAccessed": "2026-08-22",
@@ -1199,7 +1199,7 @@
     "image": "images/articles/johor-mb-singapore-investment-2026.jpg",
     "imageCredit": "Pexels",
     "imageAccessed": "2026-08-22",
-    "imageAlt": "新加坡滨海湾天际线在夕阳下展开，是东南亚最成熟的金融与 connectivity 枢纽意象",
+    "imageAlt": "新加坡滨海湾天际线在夕阳下展开，是东南亚最成熟的金融与互联互通枢纽意象",
     "references": [
       {
         "source": "联合早报 Lianhe Zaobao",
@@ -1339,7 +1339,7 @@
     ],
     "en": {
       "title": "\"A Reliable Partner in Southeast Asia\": Min Aung Hlaing's Sixth Moscow Trip and Myanmar's Geopolitical Escape Hatch",
-      "subtitle": "On August 18, Senior General Min Aung Hlaing told Vladimir Putin in the Kremlin that \"Myanmar is a reliable partner for Russia in Southeast Asia.\" Behind the diplomatic phrasing lies how an internationally isolated junta has used Moscow to pry open its own diplomatic space.",
+      "subtitle": "On August 18, President Min Aung Hlaing told Vladimir Putin in the Kremlin that \"Myanmar is a reliable partner for Russia in Southeast Asia.\" Behind the diplomatic phrasing lies how an internationally isolated junta has used Moscow to pry open its own diplomatic space.",
       "category": "Geopolitics",
       "country": "Myanmar / Russia",
       "summary": "On August 18, Myanmar's Senior General Min Aung Hlaing made his sixth trip to Moscow — and first as civilian president — telling Putin that Myanmar is Russia's reliable partner in Southeast Asia. A five-year military pact, small nuclear plants and arms sales sketch a partnership under sanctions; an isolated junta uses Moscow for weapons and diplomatic cover while turning its predicament into bargaining chips. The meeting reflects Russia's post-Ukraine turn to the Global South and shows that sanctions need not isolate a network of partners who keep each other warm.",
@@ -1495,7 +1495,7 @@
       }
     ],
     "en": {
-      "title": "Declared as “Agricultural Waste”",
+      "title": "Declared as “Agricultural Waste”: Two Years of Singapore's Construction Debris in Johor's Kampungs",
       "subtitle": "Nine Malaysian firms under investigation in Pontian — a cross-border culvert opened by one line on a customs form, and arbitrage beneath a special economic zone",
       "category": "Geopolitics",
       "country": "Malaysia / Singapore",
@@ -1533,7 +1533,7 @@
       }
     ],
     "en": {
-      "title": "From “Hearing Stories” to “Keeping History”",
+      "title": "From “Hearing Stories” to “Keeping History”: Shantou University Archives Teochew Leaders' Oral Histories in Singapore",
       "subtitle": "Shantou University launches its fifth country oral-history project, recording twenty prominent Teochew leaders in Singapore",
       "category": "Overseas Chinese",
       "country": "Singapore",
@@ -1657,7 +1657,7 @@
   },
   {
     "slug": "philippines-debt-economic-stimulus-2027",
-    "title": "举债近700亿新元救经济：小马科斯的政治赌注与财政红线",
+    "title": "举债近700亿新元救经济：小马可斯的政治赌注与财政红线",
     "subtitle": "二季度增速跌至2.3%的菲律宾，以明年举债3.3万亿比索的计划试图重启增长，但债务底色不容乐观",
     "category": "经济产业",
     "tags": [
@@ -1929,7 +1929,7 @@
         "date": "2026-08-09"
       },
       {
-        "source": "中国新闻网ー东西问",
+        "source": "中国新闻网—东西问",
         "title": "陈再藩：马来西亚二十四节令鼓蕴含怎样的文化基因？",
         "url": "https://www.chinanews.com.cn/dxw/2025/01-03/10347147.shtml",
         "date": "2025-01-03"
@@ -2312,7 +2312,7 @@
   {
     "slug": "indonesia-free-meals-waste",
     "title": "普拉博沃的“免费餐”遇上厨余山：雄心与执行的落差",
-    "subtitle": "每天为学童与孕妇供一餐热食的社福标杆，却因每周浪费上亿份餐食、造成万亿印尼盾损失而遭反噬",
+    "subtitle": "每天为学童与孕妇供一餐热食的社福标杆，却因每周浪费数千万至1.2亿份餐食、造成万亿印尼盾损失而遭反噬",
     "category": "社会文化",
     "tags": [
       "印度尼西亚",
@@ -2329,7 +2329,7 @@
     "imageAlt": "一桌印尼餐食，米饭与配菜满盘，呼应“免费营养餐计划”的食物意象。",
     "en": {
       "title": "Prabowo's Free-Meals Ambition Meets a Mountain of Leftovers",
-      "subtitle": "A flagship that feeds schoolchildren and pregnant women daily is now rebounding over reports it bins over a hundred million meals a week",
+      "subtitle": "A flagship that feeds schoolchildren and pregnant women daily is now rebounding over reports it bins tens of millions of meals a week",
       "category": "Society & Culture",
       "country": "Indonesia",
       "summary": "Prabowo's free nutritious-meals program wastes an estimated 62–120 million servings weekly, costing roughly 1.27 trillion rupiah. The leak is not on the demand side but in procurement, cooking, and distribution, as appointed kitchens struggle with capacity and cold-chain logistics. Environmental fixes treat symptoms, not causes; when 'free' meets waste, what erodes is not only food but policy credibility.",
@@ -2739,16 +2739,16 @@
     "featured": false,
     "summary": "侨批把家书与汇款合二为一，从东南亚寄回闽粤乡村，是早期 diaspora 金融的样本，也是离散群体情感延续的纽带。",
     "image": "images/articles/qiaopi-diaspora-letters.jpg",
-    "imageCredit": "Pexels",
-    "imageAccessed": "2026-08-05",
-    "imageAlt": "越南街头，一位戴斗笠的摊贩推着满载水果的自行车。",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-30",
+    "imageAlt": "一组带有手写文字和邮票的旧明信片，呼应侨批跨国书信的主题。",
     "en": {
       "title": "Qiaopi: The Remittance Letters That Sustained a Diaspora",
       "subtitle": "A thin sheet of paper carrying a century of overseas Chinese livelihood and longing",
       "category": "Overseas Chinese",
       "country": "South China",
       "summary": "Fusing letter and remittance, the qiaopi carried money and word from Southeast Asia back to Fujian and Guangdong — an early specimen of diaspora finance and the emotional sinew of a scattered people.",
-      "imageAlt": "A street vendor in a conical hat pushes a bicycle loaded with fruit in Vietnam."
+      "imageAlt": "A collection of vintage postcards with handwritten messages and stamps, echoing the theme of transnational remittance letters."
     },
     "references": [
       {
@@ -2871,16 +2871,16 @@
     "featured": true,
     "summary": "上游筑坝、下游干涸——湄公河的旱涝交替，是气候变暖与水电开发叠加的结果，也是六国博弈的缩影。",
     "image": "images/articles/mekong-drought-floods.jpg",
-    "imageCredit": "Pexels",
-    "imageAccessed": "2026-08-05",
-    "imageAlt": "黄昏时分的湄公河，河面上有一艘小船，远处是连绵山峦。",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-08-30",
+    "imageAlt": "湄公河三角洲水道，一位戴斗笠的船夫撑船穿行于棕榈树干之间。",
     "en": {
       "title": "The Mekong's Droughts and Floods: Climate Change and Geopolitics",
       "subtitle": "A transnational river's ecological crisis and the contest over water rights",
       "category": "Climate Change",
       "country": "Mekong Basin",
       "summary": "Upstream dams, downstream dry spells — the Mekong's alternating droughts and floods are the compound result of warming and hydropower, and a mirror of six-nation contention.",
-      "imageAlt": "The Mekong River at dusk with a small boat on the water and mountains in the distance."
+      "imageAlt": "A conical-hatted boatman poles a boat among palm trunks in a Mekong Delta waterway."
     },
     "references": [
       {
@@ -3058,7 +3058,7 @@
   },
   {
     "slug": "thailand-us-trade-military",
-    "title": "不在一国牺牲另一国：泰国否认以军事合作换取对美贸易让步",
+    "title": "不在一领域牺牲另一领域：泰国否认以军事合作换取对美贸易让步",
     "subtitle": "曼谷驳斥彭博社报道，强调“金眼镜蛇”等防务合作不与商业谈判挂钩",
     "category": "地缘政治",
     "tags": [
@@ -3464,7 +3464,7 @@
       "title": "The Chao Phraya's Second Spring: Can Bangkok Make Its River the \"Marina Bay of the East\"?",
       "subtitle": "After ICONSIAM, Bangkok's riverfront is booming again: AWC is expanding Asiatique nearly sixfold and adding an Avatar immersive experience and a cross-river cable car, while luxury hotels stake their claim. With land nearly exhausted, the logic shifts from \"land grab\" to \"stitching.\"",
       "category": "Economy & Industry",
-      "country": "Thailand / 泰国",
+      "country": "Thailand",
       "summary": "After ICONSIAM, Bangkok's riverfront is booming again: AWC is expanding Asiatique nearly sixfold and adding an Avatar immersive experience and a cross-river cable car, while Ritz-Carlton and Raffles hotels stake their claim along the bank. With riverfront land nearly exhausted, the logic is shifting from \"land grab\" to \"stitching\" heritage districts into one walkable route.",
       "imageAlt": "Modern development along Bangkok's Chao Phraya riverfront, symbolising the city's waterfront renewal boom."
     }
@@ -3647,7 +3647,7 @@
     "image": "images/articles/thailand-myanmar-top-generals-talks-2026.jpg",
     "imageCredit": "Pexels",
     "imageAccessed": "2026-08-20",
-    "imageAlt": "缅甸曼德勒乌本桥，象征泰缅边境地带的地缘张力",
+    "imageAlt": "缅甸曼德勒近郊的乌本桥，喻指缅甸军政府所处的国际孤立",
     "references": [
       {
         "source": "联合早报 Lianhe Zaobao",
@@ -3662,7 +3662,7 @@
       "category": "Geopolitics",
       "country": "Thailand / Myanmar",
       "summary": "Thailand's armed forces commander Ukris Boontanondha met Myanmar's military leader Ye Win Oo in Bangkok on Aug 20 - the latter's first foreign trip since taking office. Talks are expected to focus on the 2,400 km border, where Myanmar's civil war spills over into refugees, conflict and trafficking, drawing criticism from rights groups.",
-      "imageAlt": "U Bein Bridge in Mandalay, Myanmar, evoking the geopolitical tension along the Thailand-Myanmar border"
+      "imageAlt": "U Bein Bridge near Mandalay, Myanmar, evoking the international isolation of the country's military government"
     }
   },
   {
@@ -3794,7 +3794,7 @@
   {
     "slug": "vietnam-fm-myanmar-visit-2026",
     "title": "越南外长将访缅甸，政变以来首次",
-    "subtitle": "黎怀忠8月26日将正式访缅，与缅外长丁貌瑞共主持双边合作会议，凸显东盟由“冻结”转向“务实接触”",
+    "subtitle": "黎怀忠8月26日将正式访缅，与缅外长丹穗共主持双边合作会议，凸显东盟由“冻结”转向“务实接触”",
     "category": "地缘政治",
     "tags": [
       "越南",
@@ -3822,10 +3822,10 @@
     ],
     "en": {
       "title": "Vietnam's Foreign Minister to Visit Myanmar, First Since the Coup",
-      "subtitle": "Bui Thanh Son visits Myanmar on Aug 26, co-chairing a bilateral meeting with Than Swe, signalling ASEAN's shift from frozen to pragmatic engagement.",
+      "subtitle": "Le Hoai Trung visits Myanmar on Aug 26, co-chairing a bilateral meeting with Than Swe, signalling ASEAN's shift from frozen to pragmatic engagement.",
       "category": "Geopolitics",
       "country": "Myanmar",
-      "summary": "Vietnam's FM Bui Thanh Son visits Myanmar on Aug 26 — the first since the 2021 coup. The article frames Hanoi's move as hedging engagement under the Five-Point Consensus, notes Thailand and Laos precedents of re-engagement, and argues the trip signals Myanmar's gradual re-entry into regional diplomacy and ASEAN's shift from frozen to pragmatic contact.",
+      "summary": "Vietnam's FM Le Hoai Trung visits Myanmar on Aug 26 — the first since the 2021 coup. The article frames Hanoi's move as hedging engagement under the Five-Point Consensus, notes Thailand and Laos precedents of re-engagement, and argues the trip signals Myanmar's gradual re-entry into regional diplomacy and ASEAN's shift from frozen to pragmatic contact.",
       "imageAlt": "Pedestrians on a Yangon street in Myanmar, echoing the regional-diplomacy context of the Vietnamese FM's visit",
       "references": [
         {

@@ -3,7 +3,7 @@
 
 ## 逃难：南洋沦陷下的华侨童年
 
-肖思明1936年出生于广东惠阳，祖父早年赴马来西亚谋生。1939年日军进犯华南，年仅3岁的他随家人远赴马来西亚，开始了长达十年的异乡漂泊。"我几乎整个童年都是在逃难、流浪中度过的。"他后来接受中新网专访时这样回忆。
+肖思明1936年出生于广东惠阳，祖父早年赴马来西亚谋生。1939年日军进犯华南，年仅3岁的他随家人远赴马来亚，开始了长达十年的异乡漂泊。"我几乎整个童年都是在逃难、流浪中度过的。"他后来接受中新网专访时这样回忆。
 
 这句轻描淡写的话背后，藏着极重的分量。日军占领马来西亚期间烧杀抢掠，肖思明记得，听说有个地方一夜之间就有三千多人被杀害，房屋全被烧毁。他的家庭也未能幸免：一位小叔去镇上拉泔水喂猪，路上撞见日军，躲进阴沟仍被发现，最终惨遭杀害。对当地华侨而言，躲避日军搜查、四处逃难是生活的常态。日寇的暴行，在年少的肖思明心中埋下了家国伤痛的种子。
 
@@ -19,7 +19,7 @@
 
 ## 归国：1949年的那艘货轮与"投笔从戎"
 
-1949年，新中国成立的消息传到马来西亚。肖思明的祖父既牵挂故土，也担忧子孙在异乡的安危，当即决定让母亲带他归国。1949年12月，13岁的肖思明登上货轮。"船上没有固定座位，大家只能挤在角落，就这样在海上漂了半个多月。"经辗转多地，他于1950年1月终于踏上祖国大地。
+1949年，新中国成立的消息传到马来亚。肖思明的祖父既牵挂故土，也担忧子孙在异乡的安危，当即决定让母亲带他归国。1949年12月，13岁的肖思明登上货轮。"船上没有固定座位，大家只能挤在角落，就这样在海上漂了半个多月。"经辗转多地，他于1950年1月终于踏上祖国大地。
 
 亲历过战乱之苦，肖思明格外珍视和平岁月的读书机会。归国后他刻苦学习，即便跳级插班仍成绩优异。他就读的惠阳崇雅中学素有"东江革命摇篮"之称，革命先驱的事迹与童年战乱记忆交织，让他的报国念头愈发坚定。1953年，肖思明响应国家征兵号召，与十几名同学一同投笔从戎。
 
@@ -104,7 +104,7 @@ Xiao Siming's life — from a fleeing Nanyang child, to a homecoming soldier, to
 
 ## Further reading
 
-- **Nanyang Mechanics (南侨机工 / Nanyang Jiugong)**: During the War of Resistance, a corps of ethnic-Chinese drivers and mechanics from Southeast Asia who trucked strategic supplies along the Burma Road — among the most emblematic collective acts of overseas Chinese support for the homeland.
+- **Nanyang Mechanics (南侨机工 / Nanqiao Jigong)**: During the War of Resistance, a corps of ethnic-Chinese drivers and mechanics from Southeast Asia who trucked strategic supplies along the Burma Road — among the most emblematic collective acts of overseas Chinese support for the homeland.
 - **Tangshan (唐山 / "China" in diaspora vernacular)**: The old term Southeast Asian Chinese used for the motherland, not the city in Hebei but a contraction of "Tang dynasty's realm" (大唐江山), carrying the dispersed community's imagined spiritual homeland.
 - **Returned Overseas Chinese (归侨 / guiqiao)**: Overseas Chinese who obtained resident status abroad or lived there long-term and later settled back in China — a distinct category in China's diaspora governance, bearing both "overseas" and "Chinese" attributes.
 

@@ -64,7 +64,7 @@ For overseas Chinese, the case is a reminder: when travelling, working or visiti
 
 This case is not isolated. From northern Myanmar to the Thailand–Myanmar border, from "pig-butchering" fraud to armed compound control, cross-border trafficking has become a black industry chain spanning several countries. As a regional transport hub and tourism giant, Thailand is either a point of origin or a transit point for many victims, and a country absorbing the spillover of cross-border crime.
 
-Bangkok has in recent years tightened checks at border crossings and on suspect vehicles and pursued joint enforcement with neighbours. Yet as this Bangkok case shows, the tentacles of criminal networks have already reached from border towns into the capital's hotels and streets. Cutting the undercurrent still demands regional coordination and sustained pressure.
+The Thai government has in recent years tightened checks at border crossings and on suspect vehicles and pursued joint enforcement with neighbours. Yet as this Bangkok case shows, the tentacles of criminal networks have already reached from border towns into the capital's hotels and streets. Cutting the undercurrent still demands regional coordination and sustained pressure.
 
 ## Further reading
 

@@ -60,7 +60,7 @@
 
 **中国—东盟自贸区3.0版（China–ASEAN FTA 3.0）**：双方升级版自贸安排，聚焦数字经济、绿色经济等新领域，为跨境产供链合作提供制度框架。
 
-*Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "广西邀侨商侨领抢抓平陆运河开通机遇 深化与东盟产供链合作".*
+*话题参考：中国侨网（chinaqw.com）一周热点《广西邀侨商侨领抢抓平陆运河开通机遇 深化与东盟产供链合作》。*
 
 ===EN===
 

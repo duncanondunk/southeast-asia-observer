@@ -1,4 +1,4 @@
-# 不在一国牺牲另一国：泰国否认以军事合作换取对美贸易让步
+# 不在一领域牺牲另一领域：泰国否认以军事合作换取对美贸易让步
 
 泰国政府8月12日驳斥外媒报道，否认计划在美泰贸易谈判中，把包括"金眼镜蛇"（Cobra Gold）军演在内的防务关系作为谈判筹码。发言人拉查达（Ratchada）强调，贸易谈判聚焦泰国经济利益，"不会在一个领域牺牲国家利益，以换取另一个领域的利益"。一场关于关税与军演的拉扯，折射出中等国家在霸权博弈中的平衡术。
 
@@ -41,7 +41,7 @@ Cobra Gold is the region's biggest annual multilateral exercise, held in Thailan
 
 ## The alliance under a tariff cloud
 
-The US has imposed a 12.5% tariff on most exports from dozens of countries including Thailand (July 24, 2026). Thailand ran a US$51.4 billion (about RMB 369 billion) trade surplus with the US last year and has offered concessions to meet Washington's demands. Deputy Prime Minister and Commerce Minister Suphakit said last month that, given the strategic alliance, the friendship treaty and Thai investment in the US, Thailand deserves better treatment.
+The US has imposed a 12.5% tariff on most exports from dozens of countries including Thailand (July 24, 2026). Thailand ran a US$51.4 billion trade surplus with the US last year and has offered concessions to meet Washington's demands. Deputy Prime Minister and Commerce Minister Suphakit said last month that, given the strategic alliance, the friendship treaty and Thai investment in the US, Thailand deserves better treatment.
 
 ## The balancing art of a middle power
 

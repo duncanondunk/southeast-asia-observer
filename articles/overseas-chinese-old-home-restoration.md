@@ -34,7 +34,7 @@
 
 # Overseas Chinese Breathe New Life into Old Emigrant Homes, Preserving a “Visible Nostalgia”
 
-Qiaozhai — the homes left behind by emigrants — anchor the nostalgia of overseas Chinese. In recent years, ethnic Chinese living in Belgium, the United States and Canada have returned to their ancestral towns to help protect and restore such buildings, reintegrating century-old brick-and-timber houses into present-day life. The revitalisation of these homes is at once a relay of family memory and a continuation of qiaoxiang culture, and it also reflects a new “conservation through use” approach to heritage.
+Qiaozhai — the homes left behind by emigrants — anchor the nostalgia of overseas Chinese. In recent years, overseas Chinese living in Belgium, the United States and Canada have returned to their ancestral towns to help protect and restore such buildings, reintegrating century-old brick-and-timber houses into present-day life. The revitalisation of these homes is at once a relay of family memory and a continuation of qiaoxiang culture, and it also reflects a new “conservation through use” approach to heritage.
 
 ## Qiaozhai: Nostalgia Encoded in Brick and Tile
 

@@ -1,6 +1,6 @@
 # 《欢迎来龙餐馆》热映：当"海外中餐馆"站到了聚光灯下
 
-文牧野的新片《欢迎来龙餐馆》上映六天，内地票房便突破 9亿元（约1.25亿美元）。沈腾饰演的东北厨子徐福，为还债远赴中东战乱之地，在一家名为"龙餐馆"的中餐厅执掌后厨，用一锅锅热饭，为流离失所的战争遗孤撑起一片避难所。一部讲"海外中餐馆"的电影，何以在当下击中这么多观众？
+文牧野的新片《欢迎来龙餐馆》上映六天，内地票房便突破 9亿元。沈腾饰演的东北厨子徐福，为还债远赴中东战乱之地，在一家名为"龙餐馆"的中餐厅执掌后厨，用一锅锅热饭，为流离失所的战争遗孤撑起一片避难所。一部讲"海外中餐馆"的电影，何以在当下击中这么多观众？
 
 答案或许不在电影本身，而在它挪动了我们熟悉的叙事坐标。过去三十年，中国流行文化里的华侨华人，几乎被锁死在两条线索里：要么是东南亚唐人街里"落叶归根"的乡愁，要么是欧美唐人街里刻苦谋生的打工者。而《欢迎来龙餐馆》把镜头对准了一群更少被讲述的人——散落在全球冲突地带、靠着一口灶台讨生活的华商。它提醒我们：华侨华人的故事，从来不止于东南亚。
 
@@ -16,7 +16,7 @@
 
 电影不是凭空编的。银幕之外，二十多年前的巴格达街头，确实有过一间中餐厅，在硝烟里见证人间百味。
 
-据中国新闻网报道，刘磊和帅学军本是深圳一家 IT 公司的员工。2003年3月伊拉克战争打响，刘磊当年7月便踏上伊拉克的土地，想"赚一笔钱"。他们最早在安德鲁斯公寓开起"中国龙"餐馆，本想接待往来战地记者，可持续的轰炸让客流惨淡。熬到 12月，两人把店搬进巴格达绿区——那里曾是萨达姆的官邸与政府部门所在地，战后成了美军与临时政府驻地，相对安全，美军客源也稳定，生意才慢慢回暖。
+据中国新闻网报道，刘磊和帅学军本是深圳一家 IT 公司的员工。2003年3月伊拉克战争打响，刘磊当年7月便踏上伊拉克的土地，想"赚一笔钱"。刘磊最早在安德鲁斯公寓开起"中国龙"餐馆，本想接待往来战地记者，可持续的轰炸让客流惨淡。熬到12月，他把店搬进巴格达绿区——那里曾是萨达姆的官邸与政府部门所在地，战后成了美军与临时政府驻地，相对安全，美军客源也稳定，生意才慢慢回暖。
 
 现实比电影更克制，也更荒诞。影片里徐福坚持地道中式口味、对"左宗棠鸡"嗤之以鼻；现实中的刘磊却不得不妥协，主营酸甜鸡等改良美式中餐，去迎合美军士兵的胃。2004年4月，帅学军也来到巴格达，此后一年里，两人多次经历人肉炸弹袭击，还零距离目睹美军车辆被炸毁。运营一年多后，因局势恶化，两人相继回国，把战时见闻编撰成书。
 
@@ -54,7 +54,7 @@
 
 **离散叙事（Diaspora Narrative）**：关于移居群体如何讲述自身处境、记忆与归属的叙事框架；从"落叶归根"到"落地生根"再到全球冲突地带的谋生故事，折射出中国对海外侨民想象的代际变化。
 
-**以和为贵（He harmony as the highest good）**：中华处世伦理的核心命题之一，强调以和平、和睦为价值优先；影片借中餐馆空间将其转化为"一起好好吃饭"的反战母题。
+**以和为贵（Harmony as the highest good）**：中华处世伦理的核心命题之一，强调以和平、和睦为价值优先；影片借中餐馆空间将其转化为"一起好好吃饭"的反战母题。
 
 *话题参考："中国侨网"（chinaqw.com）一周热点——《欢迎来龙餐馆》热映 原型华商见证硝烟中的人间百味。*
 
@@ -78,7 +78,7 @@ But let us be frank: the film's success never rested on the "Chinese food" gimmi
 
 The film was not invented from thin air. Off-screen, more than two decades ago, a Chinese restaurant did stand on the streets of Baghdad, witnessing the full texture of life amid gunfire.
 
-According to China News Service, Liu Lei and Shuai Xuejun were employees of an IT company in Shenzhen. When the Iraq War broke out in March 2003, Liu flew to Iraq that July hoping to "make some money." They first opened the "China Dragon" restaurant in the Andrews apartment complex, expecting to serve war correspondents, but sustained bombardments kept customers away. By December they relocated into Baghdad's Green Zone — once Saddam's palace and government seat, then the base of U.S. forces and the interim government — where relative safety and a steady American clientele let business recover.
+According to China News Service, Liu Lei and Shuai Xuejun were employees of an IT company in Shenzhen. When the Iraq War broke out in March 2003, Liu flew to Iraq that July hoping to "make some money." Liu first opened the "China Dragon" restaurant in the Andrews apartment complex, expecting to serve war correspondents, but sustained bombardments kept customers away. By December he relocated into Baghdad's Green Zone — once Saddam's palace and government seat, then the base of U.S. forces and the interim government — where relative safety and a steady American clientele let business recover.
 
 Reality was more restrained, and more absurd, than the movie. On screen, Xu Fu insists on authentic Chinese flavors and scoffs at "General Tso's chicken"; the real Liu had to compromise, serving sweet-and-sour chicken and other Americanized dishes to suit U.S. soldiers' palates. Shuai joined in April 2004, and over the following year the two survived multiple suicide bombings and watched at close range as an American vehicle was blown up. After operating for just over a year, worsening conditions sent them home, where they compiled their wartime notes into a book.
 
@@ -88,7 +88,7 @@ Shuai later summed up those days with the classical line, "In triumph the people
 
 Step back, and an often-missed fact appears: sending Chinese food abroad was never Southeast Asia's monopoly, and certainly is not today.
 
-Industry watchers estimate that the Chinese-food sector in the United States alone turns over hundreds of billions of dollars a year (several trillion yuan) — before counting the vast networks across Southeast Asia, Europe, and the Middle East. From the "gold-rush chop suey" of the 1800s to today's Michelin-starred Chinese kitchens, the restaurant trade is one of the most durable economic foundations of the overseas Chinese. Southeast Asia surely holds the oldest and deepest-rooted Chinatowns, but the new "frontier" has long shifted toward the Global South's zones where turmoil and resources intertwine — the Middle East, Africa, Latin America. Liu Lei's Baghdad is only one link in that long chain.
+Industry watchers estimate that the Chinese-food sector in the United States alone turns over tens of billions of dollars a year — before counting the vast networks across Southeast Asia, Europe, and the Middle East. From the "gold-rush chop suey" of the 1800s to today's Michelin-starred Chinese kitchens, the restaurant trade is one of the most durable economic foundations of the overseas Chinese. Southeast Asia surely holds the oldest and deepest-rooted Chinatowns, but the new "frontier" has long shifted toward the Global South's zones where turmoil and resources intertwine — the Middle East, Africa, Latin America. Liu Lei's Baghdad is only one link in that long chain.
 
 This is why the "overseas Chinese restaurant" deserves serious analytic attention. It is both commerce and a soft form of presence: whether under shelling or lockdown, the moment the stove lights and the hot meal is served, a minimal dignity between strangers is briefly restored. Opening a Chinese restaurant is usually a family's first foothold abroad, and the first interface where a diaspora meets local society.
 

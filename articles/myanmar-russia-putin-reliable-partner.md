@@ -32,7 +32,7 @@
 
 ## The meeting: a rare audience in the Kremlin
 
-On August 18, in the Kremlin, Senior General Min Aung Hlaing told Vladimir Putin through an interpreter: "At present, the relations between our two countries are developing rapidly." He went on to thank Russia — and Putin personally — for support on the international stage, adding that "Myanmar is a reliable partner for Russia in Southeast Asia."
+On August 18, in the Kremlin, President Min Aung Hlaing told Vladimir Putin through an interpreter: "At present, the relations between our two countries are developing rapidly." He went on to thank Russia — and Putin personally — for support on the international stage, adding that "Myanmar is a reliable partner for Russia in Southeast Asia."
 
 AFP reported that this was Min Aung Hlaing's sixth official visit to Moscow since the 2021 coup, and his first since assuming the civilian presidency. Putin replied that the two countries "cooperate actively on the international stage" and that security ties "are developing," while noting that "the economic sphere still requires effort." The meeting was slotted into a tightly packed Russian itinerary and received with high-level hospitality — a clear political signal.
 

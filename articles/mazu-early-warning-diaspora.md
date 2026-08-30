@@ -6,7 +6,7 @@
 
 这并非疏忽，而是一个值得深究的结构性悖论：东南亚恰恰是全球妈祖信俗最深厚的地区，新加坡天福宫、吉隆坡天后宫、槟城琼州会馆、胡志明市天后宫、马尼拉岷伦洛区的华人寺庙群……据不完全统计，仅马来西亚一国的妈祖宫庙就超过200座。2009年联合国教科文组织将"妈祖信俗"列入人类非物质文化遗产代表作名录时，评审报告特别强调了其在东南亚华人社群中的活态传承。
 
-**换句话说，品牌认知早已就位，技术落地却绕道而行。为什么？**
+换句话说，品牌认知早已就位，技术落地却绕道而行。为什么？
 
 ## 数字：预警缺失的代价有多高
 
@@ -88,13 +88,13 @@ In July 2026, at the World Artificial Intelligence Conference (WAIC) in Shanghai
 
 Yet a striking reality persists: as of August 2026, MAZU has been deployed in seven countries — Pakistan, Ethiopia, the Solomon Islands, Jordan, Sri Lanka, Mongolia, and Djibouti — with meteorological agencies in more than 40 countries accessing it via cloud platforms. **Not a single Southeast Asian nation has formally onboarded.**
 
-This is not an oversight. It is a structural paradox worth examining: Southeast Asia is precisely where Mazu folk religion runs deepest. Singapore's Thian Hock Keng (built 1842), Kuala Lumpur's Thean Hou Temple, Penang's Hainan Temple, Ho Chi Minh City's Thien Hau Pagoda in Cholon, Manila's Chinese temple cluster in Binondo — across the region, Mazu temples number in the thousands. When UNESCO inscribed "Mazu Belief and Custom" on its Representative List of the Intangible Cultural Heritage of Humanity in 2009, the evaluation report specifically highlighted its living transmission among Chinese diaspora communities in Southeast Asia.
+This is not an oversight. It is a structural paradox worth examining: Southeast Asia is precisely where Mazu folk religion runs deepest. Singapore's Thian Hock Keng (built 1842), Kuala Lumpur's Thean Hou Temple, Penang's Hainan Association, Ho Chi Minh City's Thien Hau Pagoda in Cholon, Manila's Chinese temple cluster in Binondo — in Malaysia alone, Mazu temples number more than 200. When UNESCO inscribed "Mazu Belief and Custom" on its Representative List of the Intangible Cultural Heritage of Humanity in 2009, the evaluation report specifically highlighted its living transmission among Chinese diaspora communities in Southeast Asia.
 
 **In other words, brand recognition is already in place. Technology has taken a detour around it. Why?**
 
 ## The numbers: the cost of missing warnings
 
-Consider some stark figures. In 2022, UN Secretary-General António Guterres launched the Early Warnings for All (EW4All) initiative, aiming to protect every person on Earth against hazardous weather, water, and climate events by the end of 2027. The initiative's Executive Action Plan calls for US$3.1 billion (about RMB 22.4 billion) in targeted investments between 2023 and 2027 — roughly US$0.50 per person per year. What does this buy? According to former WMO Secretary-General Petteri Taalas, just 24 hours' advance notice of an impending hazard can reduce resulting damage by up to 30 per cent.
+Consider some stark figures. In 2022, UN Secretary-General António Guterres launched the Early Warnings for All (EW4All) initiative, aiming to protect every person on Earth against hazardous weather, water, and climate events by the end of 2027. The initiative's Executive Action Plan calls for US$3.1 billion in targeted investments between 2023 and 2027 — roughly US$0.50 per person per year. What does this buy? According to former WMO Secretary-General Petteri Taalas, just 24 hours' advance notice of an impending hazard can reduce resulting damage by up to 30 per cent.
 
 The cost of inaction is starker still. Countries with limited early warning coverage suffer disaster-related mortality at least six times higher than those with robust systems — under some statistical definitions, up to eight times higher. Over the past five decades, weather-, water- and climate-related hazards have killed more than two million people, with developing countries accounting for 90 per cent of deaths.
 

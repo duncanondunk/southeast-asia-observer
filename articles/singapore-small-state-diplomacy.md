@@ -76,9 +76,9 @@ Singapore is among the world's most open economies, with total trade exceeding t
 
 ## The Balancing Act on Security
 
-On security, Singapore is a close defense partner of the United States — F-15SG fighters and the deployment of littoral combat ships rely on the US system. At the same time, Singapore takes part in China-led bilateral exercises and keeps channels open with both sides of the Taiwan Strait.
+On security, Singapore is a close defence partner of the United States — F-15SG fighters and the deployment of littoral combat ships rely on the US system. At the same time, Singapore takes part in China-led bilateral exercises and keeps channels open with both sides of the Taiwan Strait.
 
-The Shangri-La Dialogue, held annually, has become the Asia-Pacific's most important defense forum — itself a textbook case of Singapore trading platforms for influence.
+The Shangri-La Dialogue, held annually, has become the Asia-Pacific's most important defence forum — itself a textbook case of Singapore trading platforms for influence.
 
 ## Where the Limits Lie
 

@@ -68,7 +68,7 @@ The ethnic Chinese community is a special link in that chain. Indonesia hosts on
 
 Of course, reading one state address as "the spring of Chinese education" calls for restraint. Indonesia's language policy has always oscillated among national identity, ethnic relations and external economic need. Mandarin's place on the "learn-from-grade-one" list reflects pragmatism more than a systemic reckoning with ethnic Chinese cultural rights — China is Indonesia's largest trading partner and a major source of investment, and the market value of its language has risen accordingly.
 
-Chen Yulan, head of Jakarta's Cerdas Budaya institute, put it more plainly: from historical rupture to today's voluntary learners, Chinese education connects not only language and culture but also education, employment and tightening China–Indonesia exchange. In other words, the language's revival is the result of economic gravity preceding political gesture; whether it settles into stable institution depends on the resilience of bilateral ties and the trajectory of Indonesia's domestic ethnic politics.
+Chen Yulan, head of Jakarta's Cerdas Bangsa College, put it more plainly: from historical rupture to today's voluntary learners, Chinese education connects not only language and culture but also education, employment and tightening China–Indonesia exchange. In other words, the language's revival is the result of economic gravity preceding political gesture; whether it settles into stable institution depends on the resilience of bilateral ties and the trajectory of Indonesia's domestic ethnic politics.
 
 ## Closing: one language, half a history of relations
 

@@ -2,7 +2,7 @@
 
 > 从"侨牌"到侨务政策，一组数字背后的政策逻辑与张力。
 
-"六千多万海外侨胞，再加四千万归侨侨眷"——这组数字像一句副歌般反复出现。把它们加总，人口规模大致相当于一个英国，区别只在于这一亿多人散布在地球上几乎每一个国家。
+"六千多万海外侨胞，再加四千万归侨侨眷"——这组数字像一句副歌般反复出现。把它们加总，人口规模超过一亿，比世界上绝大多数国家的人口都多，区别只在于这一亿多人散布在地球上几乎每一个国家。
 
 ## 一个数字的政治分量
 
@@ -42,7 +42,7 @@
 
 **侨务（Diaspora affairs）**：主权国家对海外侨民及其眷属的综合性工作，涵盖权益保护、文化联系与人才引进等。文中“打好侨牌”即这一政策逻辑的民间表述。
 
-*话题参考：中国侨网（chinaqw.com）一周热点《6000 多万海外侨胞、4000 多万归侨侨眷，新时代如何打好"侨牌"？》*
+*话题参考：中国侨网（chinaqw.com）一周热点《6000多万海外侨胞、4000多万归侨侨眷，新时代如何打好"侨牌"？》*
 
 ===EN===
 
@@ -50,7 +50,7 @@
 
 > From "qiao card" to diaspora policy — the logic and tension behind a set of numbers.
 
-"The figure travels like a refrain: sixty million overseas Chinese, plus another forty million returned overseas Chinese and their relatives at home. Together they amount to a population roughly the size of the United Kingdom — except this one is scattered across nearly every country on earth."
+"The figure travels like a refrain: sixty million overseas Chinese, plus another forty million returned overseas Chinese and their relatives at home. Together they amount to a population of more than 100 million, larger than that of almost any other country — except this one is scattered across nearly every country on earth."
 
 ## The Political Weight of a Number
 

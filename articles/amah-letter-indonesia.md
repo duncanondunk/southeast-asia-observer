@@ -1,6 +1,6 @@
 # 当银幕响起潮州话：一部电影与印尼（Indonesia）华人的"记忆解冻"
 
-2026年8月5日晚，一部名为《给阿嬷的情书》的纪录片在雅加达（Jakarta）首映。灯亮起时，82岁的陈美专没有离开。她坐在暗下来的放映厅里，看着字幕，喃喃地说，片中的主人公——那个漂洋过海去南洋的年轻人"木生"——让她想起自己的父亲：老人上世纪30年代从广东揭阳去了加里曼丹，从此年年往家乡写信。
+2026年8月5日晚，一部名为《给阿嬷的情书》的电影在雅加达（Jakarta）首映。灯亮起时，82岁的陈美专没有离开。她坐在暗下来的放映厅里，看着字幕，喃喃地说，片中的主人公——那个漂洋过海去南洋的年轻人"木生"——让她想起自己的父亲：老人上世纪30年代从广东揭阳去了加里曼丹，从此年年往家乡写信。
 
 这是一个微小、近乎私人的瞬间。但它抓住了东南亚（Southeast Asia）、尤其是印尼华人社群里一个更大的问题：记忆如何存续，如何失落，又要如何被重新找回。
 
@@ -54,7 +54,7 @@
 
 # When the Screen Spoke Teochew: A Film and the Slow Thaw of Indonesia's Chinese Memory
 
-On the evening of 5 August 2026, a documentary titled *A Letter to Amah* (*Gei Ama di Qing Shu*) held its premiere in Jakarta. When the lights came up, an eighty-two-year-old woman named Tan Mei Zhuan did not leave. She sat in the darkened hall, watching the credits, and murmured that the film's protagonist — a young man named Musheng who crosses the sea to Nanyang — had reminded her of her own father, who had left Guangdong's Jieyang county for Kalimantan in the 1930s and never stopped writing home.
+On the evening of 5 August 2026, a feature film titled *Dear You* (*Gei Ama de Qing Shu*) held its premiere in Jakarta. When the lights came up, an eighty-two-year-old woman named Tan Mei Zhuan did not leave. She sat in the darkened hall, watching the credits, and murmured that the film's protagonist — a young man named Musheng who crosses the sea to Nanyang — had reminded her of her own father, who had left Guangdong's Jieyang county for Kalimantan in the 1930s and never stopped writing home.
 
 It is a small, almost private moment. Yet it captures something larger about the Chinese diaspora in Southeast Asia, and specifically in Indonesia: how memory survives, how it is lost, and what it takes to recover it.
 

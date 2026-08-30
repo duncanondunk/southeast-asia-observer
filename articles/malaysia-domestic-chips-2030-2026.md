@@ -42,7 +42,7 @@ Under the planned path, Malaysian firms with Arm licenses need about three years
 
 ## US$250 Million Over a Decade: Bought Technological Sovereignty
 
-To acquire this capability, Malaysia will pay Arm US$250 million (about 1.8 billion yuan) over ten years for IP in semiconductor equipment and technology, made available to domestic firms; the fee covers seven high-end chip-design blueprints and training for roughly 10,000 engineers. The country also plans to produce its own graphics-processing-unit (GPU) chips within five to ten years, building a local ecosystem of chip design and fabrication. In effect, this is a long-term bet of real money for "technological sovereignty."
+To acquire this capability, Malaysia will pay Arm US$250 million over ten years for IP in semiconductor equipment and technology, made available to domestic firms; the fee covers seven high-end chip-design blueprints and training for roughly 10,000 engineers. The country also plans to produce its own graphics-processing-unit (GPU) chips within five to ten years, building a local ecosystem of chip design and fabrication. In effect, this is a long-term bet of real money for "technological sovereignty."
 
 ## Chips as Geopolitical Leverage: Malaysia's Semiconductor Ambition
 

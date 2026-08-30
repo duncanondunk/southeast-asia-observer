@@ -1,6 +1,6 @@
 # 撒盐催雨，难掩焦土：印尼扩大人工增雨抗林火，专家指治标不治本
 
-印尼（Indonesia）林业部8月18日公布的数据触目惊心：今年1月至7月，全国共有20万2004公顷土地被烧毁；仅7月一个月，林火就吞噬近9万5000公顷，几乎相当于前六个月过火面积的两倍。受强厄尔尼诺（El Niño）现象影响，今年的林火很可能成为近年来最严重之一。
+印尼（Indonesia）林业部8月18日公布的数据触目惊心：今年1月至7月，全国共有20万2004公顷土地被烧毁；仅7月一个月，林火就吞噬近9万5000公顷，几乎相当于前六个月过火面积之和。受强厄尔尼诺（El Niño）现象影响，今年的林火很可能成为近年来最严重之一。
 
 ## 一场被厄尔尼诺点燃的旱季
 
@@ -34,7 +34,7 @@
 
 # Salting the Skies, Not the Soil: Indonesia Scales Up Cloud-Seeding Against Fires, but Experts Call It a Band-Aid
 
-Figures released by Indonesia's Ministry of Forestry on 18 August are sobering: from January to July this year, 202,004 hectares of land were burned nationwide; in July alone, fires consumed nearly 95,000 hectares — almost twice the total for the first six months. Driven by a strong El Niño, this year's fires could rank among the worst in recent memory.
+Figures released by Indonesia's Ministry of Forestry on 18 August are sobering: from January to July this year, 202,004 hectares of land were burned nationwide; in July alone, fires consumed nearly 95,000 hectares — almost matching the total for the first six months. Driven by a strong El Niño, this year's fires could rank among the worst in recent memory.
 
 ## A Dry Season Lit by El Niño
 

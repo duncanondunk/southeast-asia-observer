@@ -54,7 +54,7 @@ The real test lies in Pahang, Perak, and Selangor — three-way contests where s
 
 ## The ceiling: PAS strongholds and the "kingmaker" logic
 
-UMNO president Ahmad Zahid Hamidi conceded the blue wave may not reach Kelantan, Terengganu, and Kedah — PAS-led states — and cooperation still depends on PN's sincerity. ISEAS – Yusof Ishak Institute's Malcolm Hutchinson also questions the over-optimistic forecast, doubting BN and PN can cooperate in states where they are evenly matched.
+UMNO president Ahmad Zahid Hamidi conceded the blue wave may not reach Kelantan, Terengganu, and Kedah — PAS-led states — and cooperation still depends on PN's sincerity. ISEAS – Yusof Ishak Institute's Francis Hutchinson also questions the over-optimistic forecast, doubting BN and PN can cooperate in states where they are evenly matched.
 
 More subtly, there is the East Malaysia logic. Ilham's math says a 122-seat BN–PN haul would let them form a government without the Sabah and Sarawak parties that have long played "kingmaker" — weakening East Malaysian leverage and possibly pushing those parties to recalibrate. Malaysia's balance of power has never been decided by Peninsular Malay votes alone.
 

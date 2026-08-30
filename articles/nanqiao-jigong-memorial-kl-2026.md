@@ -26,7 +26,7 @@
 
 ## 延伸阅读
 
-- **南侨机工（Nanyang Mechanics）**：抗战时期响应陈嘉庚号召、从南洋赴华抢运军需的华侨青年群体，逾 3200 人参与，逾千人殉职。
+- **南侨机工（Nanyang Mechanics）**：抗战时期响应陈嘉庚号召、从南洋赴华抢运军需的华侨青年群体，逾 3200人参与，逾千人殉职。
 - **隆雪华堂（Kuala Lumpur and Selangor Chinese Assembly Hall）**：吉隆坡暨雪兰莪中华大会堂，近年南侨机工公祭的主要主办方。
 - **滇缅公路（Burma Road）**：连接云南与缅甸的抗战物资生命线，以险峻与高伤亡著称，被称为"死亡公路"。
 
@@ -46,11 +46,11 @@ The story reaches back to 1939. More than 3,200 young overseas Chinese from acro
 
 ## From Looking Back to Living Memory
 
-This year's observances felt younger. Organisers proposed using artificial intelligence to refresh the storytelling for a new generation, while local Chinese schools launched an "oral history in the classroom" programme. On 15 August, the accompanying events saw the release of the first volume of *Nanyang Mechanics: Collected Biographies* and an international seminar on Southeast Asia's WWII memory and monuments. Memory is moving from inscription to classroom, from mourning to research.
+This year's observances felt younger. Organisers proposed using artificial intelligence to refresh the storytelling for a new generation, while local Chinese schools launched an "oral history in the classroom" programme. On 15 August, the accompanying events saw the release of the first volume of *Nanyang Mechanics: Collected Biographies* and an international seminar on Malaysia and Southeast Asia's WWII memory and monuments. Memory is moving from inscription to classroom, from mourning to research.
 
 ## When a Grandfather's Name Was Read Aloud
 
-The most moving moment came on 15 August. Minister in the Prime Minister's Department (Federal Territories) Yang Soo Siu said her grandfather, Yeung Ma Foo, had been one of the mechanics, but had died before she was born; she had known him only through her grandmother's fragments. "Today is the first time I have seen his life in the historical record," she said, tears welling, and pledged 50,000 ringgit (roughly 82,500 RMB, about US$11,500) to support the cemetery's archival work.
+The most moving moment came on 15 August. Minister in the Prime Minister's Department (Federal Territories) Yeoh Soo Siu said her grandfather, Yeoh Ma Foo, had been one of the mechanics, but had died before she was born; she had known him only through her grandmother's fragments. "Today is the first time I have seen his life in the historical record," she said, tears welling, and pledged 50,000 ringgit (roughly 82,500 RMB, about US$11,500) to support the cemetery's archival work.
 
 ## Coda: Memory as a Generational Trust
 
@@ -60,6 +60,6 @@ China's ambassador to Malaysia warned against any attempt to glorify aggression 
 
 ## Further reading
 
-- **Nanyang Mechanics (南洋机工)**: The overseas Chinese youth who answered Tan Kah Kee's 1939 call to haul supplies in China; over 3,200 joined and more than 1,000 perished.
+- **Nanyang Jigong (南侨机工)**: The overseas Chinese youth who answered Tan Kah Kee's 1939 call to haul supplies in China; over 3,200 joined and more than 1,000 perished.
 - **KLSCAH (隆雪华堂)**: The Kuala Lumpur and Selangor Chinese Assembly Hall, lead organiser of the revived memorial since 2021.
 - **Burma Road (滇缅公路)**: The Yunnan–Burma supply line of the war, notorious for its peril and casualties, the "Road of Death."

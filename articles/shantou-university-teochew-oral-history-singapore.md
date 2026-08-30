@@ -51,13 +51,13 @@ Zheng stressed that Singapore's Teochew history is precious memory woven from co
 
 ## Twenty leaders: a community's micro-history
 
-The list of twenty interviewees is itself a sociological sample. From association presidents to club chairmen, they are both business and kinship-organisation backbone and "living bridges" linking Singapore with the Teochew heartland in China's Guangdong. The team recorded not only rags-to-riches tales but how these figures sustained dialect, ritual, and mutual-aid traditions abroad, and how they redefined the boundaries of "Teochew" identity as the second and third generations localised.
+The list of twenty interviewees is itself a sociological sample. From association presidents to club chairmen, they are both the backbone of business and kinship organisations and "living bridges" linking Singapore with the Teochew heartland in China's Guangdong. The team recorded not only rags-to-riches tales but how these figures sustained dialect, ritual, and mutual-aid traditions abroad, and how they redefined the boundaries of "Teochew" identity as the second and third generations localised.
 
 Students Wu Weilin and Chen Sitong noted that deep exchanges with the leaders gave them a "more three-dimensional, more genuine" grasp of the Teochew spirit of "love the nation, love the hometown, love the family." This is the hidden pedagogical function of oral history: it restores the textbook "overseas-Chinese spirit" to warm, specific human beings.
 
-## Memory embedded in landmarks: from Chui Huay Lim to Thung Wai
+## Memory embedded in landmarks: from Chui Huay Lim to Thong Chai
 
-Beyond interviews, the team visited three sites carrying Teochew memory. The 180-year-old Chui Huay Lim Club embodies the tradition of neighbours watching over one another; Thung Wai (Tongji) Hospital reflects cross-dialect, cross-ethnic charity; the Teochew Poit Ip Huay Kuan shows the contemporary practice of bonding fellow villagers and serving the community.
+Beyond interviews, the team visited three sites carrying Teochew memory. The 180-year-old Chui Huay Lim Club embodies the tradition of neighbours watching over one another; Thong Chai Medical Institution (Tongji Hospital) reflects cross-dialect, cross-ethnic charity; the Teochew Poit Ip Huay Kuan shows the contemporary practice of bonding fellow villagers and serving the community.
 
 These landmarks are not isolated buildings but a set of "memory infrastructure." When scholars link field research to the lived reality of diaspora associations, theory stops floating. In other words, diaspora history that stays in documents forever lacks that native accent echoing through an association hall.
 

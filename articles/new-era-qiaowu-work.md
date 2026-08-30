@@ -20,7 +20,7 @@
 
 我们最近就见过这套机制。7月29日，菲律宾（Philippines）国防部长特奥多罗把华文教师培训重新框定为安全议题——他借一份 SeaLight 报告，把镜头从巴丹群岛的一场研讨会，拉宽到整个华校网络。他不是在发现什么阴谋，而是在重新打开一个东南亚各国大多在几十年前就已正式封存的问题：一个华人公民的首要忠诚到底在哪里？印尼（Indonesia）在1966年以限制令作答；马来西亚（Malaysia）另建了一套华文独立中学体系；越南在1978年驱逐了华人。把华侨华人"安全化"，从来不能解决忠诚之问，它只是把身份重新拖回政治竞技场。
 
-这正是新版侨务话语所回避的矛盾。"服务侨胞"与"发挥融通中外的桥梁作用"，听起来对称而善意。但在雅加达（Jakarta）或马尼拉（Manila），一个明显更擅长服务同族的China，反而可能印证、而非消解这样一种猜疑：那些同族人是第五纵队。北京越是努力当侨胞的靠山，就越是给当地的民族主义者递上口号。在这里，软实力是有硬天花板的。
+这正是新版侨务话语所回避的矛盾。"服务侨胞"与"发挥融通中外的桥梁作用"，听起来对称而善意。但在雅加达（Jakarta）或马尼拉（Manila），一个明显更擅长服务同族的中国，反而可能印证、而非消解这样一种猜疑：那些同族人是第五纵队。北京越是努力当侨胞的靠山，就越是给当地的民族主义者递上口号。在这里，软实力是有硬天花板的。
 
 ## 润物无声的软实力：文化成为新前沿
 
@@ -88,13 +88,13 @@ Yet the digital turn carries its own risk. Zhang correctly warns that big data a
 
 The expert roundtable is confident about direction but silent on limits. Three questions deserve to travel with the policy.
 
-First, the two-way test. Chen Yiping predicts the next five to ten years will "pay more attention to serving overseas Chinese and protecting their interests, achieving mutual support between national development and the diaspora's own development." Fair enough — but "mutual support" is easy to declare and hard to prove. When a Southeast Asian state suspects a Chinese citizen of divided loyalty, which side does Beijing's "service" actually serve? The diaspora's interest and the sending state's interest coincide far less often than the conference rhetoric assumes.
+First, the two-way test. Chen Yiping predicts the next five to ten years will "pay more attention to serving overseas Chinese and protecting their interests, achieving mutual support between national development and the diaspora's own development." Fair enough — but "mutual support" is easy to declare and hard to prove. When a Southeast Asian state suspects an ethnic-Chinese citizen of divided loyalty, which side does Beijing's "service" actually serve? The diaspora's interest and the sending state's interest coincide far less often than the conference rhetoric assumes.
 
 Second, the institutional question. The "大侨务" (grand qiaowu) framework promises tighter linkage between domestic and external qiaowu work. Tighter linkage at home is welcome. Tighter linkage abroad, where overseas Chinese live as citizens of other states, is precisely what triggers host-country anxiety. The same architecture that delivers service also broadcasts reach.
 
 Third, the generational bet. The entire strategy rests on 华裔新生代 — ethnic-Chinese youth who, Zhang notes, are "gradually becoming an important force" in overseas communities. But these youths are, first, citizens of Thailand, Indonesia, Malaysia, the Philippines. Their "cultural identity" is real but bounded; their political identity is local. Cultivating the former while respecting the latter is a narrow path, and the new discourse has not yet shown it can walk it without slipping into either assimilation-by-proxy or abandonment.
 
-None of this is an argument against serving the diaspora. On the contrary: a qiaowu policy that takes the actual lives of overseas Chinese seriously — their safety, their schooling, their right to be both Chinese and Thai, both Malaysian and ethnic Chinese — is long overdue. The risk is not the turn toward service. It is the unexamined assumption that service, scaled and digitised and fused with soft-power ambition, means the same thing to a migrant in Sydney and a ethnic-Chinese citizen in Surabaya. It does not. Southeast Asia will be the place where the new qiaowu work is either vindicated or exposed.
+None of this is an argument against serving the diaspora. On the contrary: a qiaowu policy that takes the actual lives of overseas Chinese seriously — their safety, their schooling, their right to be both Chinese and Thai, both Malaysian and ethnic Chinese — is long overdue. The risk is not the turn toward service. It is the unexamined assumption that service, scaled and digitised and fused with soft-power ambition, means the same thing to a migrant in Sydney and an ethnic-Chinese citizen in Surabaya. It does not. Southeast Asia will be the place where the new qiaowu work is either vindicated or exposed.
 
 ## Further reading
 

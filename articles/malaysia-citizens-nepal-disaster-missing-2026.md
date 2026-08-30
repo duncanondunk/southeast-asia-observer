@@ -2,7 +2,7 @@
 
 ## 局势：54名马国人仍无音讯
 
-8月27日上午，马来西亚首相安华在脸书发文，语气罕见地沉重："根据外交部提供的消息，目前仍有54名马国人无法取得联系。我对这项消息深感忧虑。"就在几天前，尼泊尔拉苏瓦县（Rasuwa）突发洪水与泥石流，冲毁并淹没整片建筑。截至当日，尼泊尔方面已寻获157具遗体，早前通报的遇难人数亦升至95人；专家推测，这场致命山洪或由冰川崩塌引发。马国驻尼泊尔使馆此前已称"逾50马国人下落不明"，而一家旅行社透露，同场泥石流造成47人失踪，其中包括两名新加坡人——这暗示，失联者中相当部分或许正是赴尼的东南亚旅行与徒步客。
+8月27日上午，马来西亚首相安华在脸书发文，语气罕见地沉重："根据外交部提供的消息，目前仍有54名马国人无法取得联系。我对这项消息深感忧虑。"就在几天前，尼泊尔拉苏瓦县（Rasuwa）突发洪水与泥石流，冲毁并淹没整片建筑。截至当日，尼泊尔方面已寻获157具遗体，遇难人数随之升至157人；专家推测，这场致命山洪或由冰川崩塌引发。马国驻尼泊尔使馆此前已称"逾50马国人下落不明"，而一家旅行社透露，同场泥石流造成47人失踪，其中包括两名新加坡人——这暗示，失联者中相当部分或许正是赴尼的东南亚旅行与徒步客。
 
 ## 缘何拉苏瓦：一条脆弱的跨境走廊
 
@@ -32,7 +32,7 @@
 
 ## The situation: 54 Malaysians still unaccounted
 
-On the morning of 27 August, Malaysian Prime Minister Anwar Ibrahim posted on Facebook with unusual gravity: "Based on information from the Foreign Ministry, 54 Malaysians remain unreachable. I am deeply concerned by this news." Days earlier, a sudden flood and landslide in Nepal's Rasuwa district had swept away and submerged entire buildings. By the day of his post, Nepali authorities had recovered 157 bodies, with the earlier death toll already raised to 95; experts suspect a glacial collapse may have triggered the deadly deluge. Malaysia's embassy in Nepal had already reported "over 50" citizens unaccounted, and a travel agency said the same disaster left 47 people missing, including two Singaporeans — a hint that a fair share of the missing may well be Southeast Asian trekkers and tourists.
+On the morning of 27 August, Malaysian Prime Minister Anwar Ibrahim posted on Facebook with unusual gravity: "Based on information from the Foreign Ministry, 54 Malaysians remain unreachable. I am deeply concerned by this news." Days earlier, a sudden flood and landslide in Nepal's Rasuwa district had swept away and submerged entire buildings. By the day of his post, Nepali authorities had recovered 157 bodies, putting the death toll at 157; experts suspect a glacial collapse may have triggered the deadly deluge. Malaysia's embassy in Nepal had already reported "over 50" citizens unaccounted, and a travel agency said the same disaster left 47 people missing, including two Singaporeans — a hint that a fair share of the missing may well be Southeast Asian trekkers and tourists.
 
 ## Why Rasuwa: a fragile cross-border corridor
 

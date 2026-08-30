@@ -1,6 +1,6 @@
 # 印尼（Indonesia）万人集会要求反腐：资产没收法案能否兑现承诺？
 
-8月27日，印度尼西亚（Indonesia）首都雅加达（Jakarta）、日惹、望加锡等多地爆发反腐败集会，数千名示威者聚集在雅加达国会大厦外，要求国会加快通过"资产没收法案"，并以死刑严惩贪腐分子。这场集会恰逢去年（2025年）致死全国动乱的一周年，警方严阵以待，在雅加达部署1.85万警力。
+8月27日，印度尼西亚（Indonesia）首都雅加达（Jakarta）、日惹、望加锡等多地爆发反腐败集会，上万名示威者聚集在雅加达国会大厦外，要求国会加快通过"资产没收法案"，并以死刑严惩贪腐分子。这场集会恰逢去年（2025年）致死全国动乱的一周年，警方严阵以待，在雅加达部署1.85万警力。
 
 国会副议长苏夫米当天作出罕见让步，向示威代表承诺，延宕多年的资产没收法案最迟将于12月15日通过。但现场气氛高度紧张：部分佩戴头盔、面罩的示威者试图冲撞国会大门、投掷杂物，并与驱赶街头小贩的警察发生推搡。
 
@@ -8,7 +8,7 @@
 
 选择8月27日，本身就是一种表态。示威组织者凯鲁说，去年此时爆发了骚乱与种种事件，如今他们要"表达诉求，而不是引发骚乱"。这话背后，是2025年8至9月那场因民生与政治矛盾升级的全国抗议——最终演变为流血暴乱，造成10人死亡、近7000人被捕。
 
-正因如此，当局如临大敌。警方在国会大厦内外设下重重防线、封锁周边主干道，并在集会前拘留65名涉嫌携带汽油弹、气枪等危险物品的嫌犯。中爪哇巴蒂的"帕蒂团结民众联盟"等民间团体自上周起组织巴士，将支持者送往雅加达。
+正因如此，当局如临大敌。警方在国会大厦内外设下重重防线、封锁周边主干道，并在集会前拘留65名涉嫌携带汽油弹、气枪等危险物品的嫌犯。中爪哇帕蒂的"帕蒂团结民众联盟"等民间团体自上周起组织巴士，将支持者送往雅加达。
 
 ## 资产没收法案：延宕十七年的承诺
 
@@ -42,7 +42,7 @@
 
 # Indonesia's Mass Anti-Corruption Protests: Will the Asset Confiscation Bill Deliver?
 
-On 27 August, thousands rallied across Indonesia — in Jakarta, Yogyakarta and Makassar — gathering outside parliament in the capital to demand that lawmakers fast-track the Asset Confiscation Bill and impose the death penalty for corruption. The rally fell on the first anniversary of last year's (2025) deadly nationwide unrest, and police deployed 18,500 officers in Jakarta alone.
+On 27 August, tens of thousands rallied across Indonesia — in Jakarta, Yogyakarta and Makassar — gathering outside parliament in the capital to demand that lawmakers fast-track the Asset Confiscation Bill and impose the death penalty for corruption. The rally fell on the first anniversary of last year's (2025) deadly nationwide unrest, and police deployed 18,500 officers in Jakarta alone.
 
 Deputy Speaker Sufmi made a rare concession that day, promising demonstrators' representatives that the long-stalled bill would pass by 15 December at the latest. But the scene was tense: some protesters in helmets and masks tried to storm the gates and hurl objects, and clashed with police clearing a street vendor.
 

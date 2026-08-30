@@ -30,7 +30,7 @@
 
 分值的攀升并非凭空而来。普拉博沃上任不到十个月里，中印尼关系在四个维度上密集落子，构成了支撑 6.2 高位的四块基石。
 
-**首访定调。** 2024年11月8日至 10日，普拉博沃将就任后的首次国事访问献给了中国。他在 3月当选后即首访北京（Beijing），正式就职后又一次把中国作为首访国——这种"当选即来、就职再来"的安排，被习近平评价为"充分说明你高度重视发展同中国的关系"。访问期间，两国元首见证签署共同开发、蓝色经济、水利、矿产等领域合作文件，并将原有的政治、经济、人文、海上"四轮驱动"升级为加入安全合作的"五大支柱"。更具标志意义的是，双方发表《关于推进全面战略伙伴关系和中印尼命运共同体建设的联合声明》，明确打造"具有地区和全球影响力的中印尼命运共同体"。中国媒体以"和音"署名评论称，这"进一步丰富了中印尼全面战略伙伴关系的内涵"。普拉博沃在京期间明确表态，印尼坚持独立、不结盟的外交政策，"不会加入任何军事同盟或排他性集团"，并愿在二十国集团等多边框架内同中方加强协调——这番话既是对北京的安抚，也是对世界的姿态。值得注意的是，他离京后即刻转赴华盛顿，开启为期 15 天、横跨美秘巴的世界巡访，"首访中国"与"遍访大国"被刻意安排在同一段行程里，恰恰是印尼"自由积极"外交的典型注脚。
+**首访定调。** 2024年11月8日至 10日，普拉博沃将就任后的首次国事访问献给了中国。他在 3月当选后即首访北京（Beijing），正式就职后又一次把中国作为首访国——这种"当选即来、就职再来"的安排，被习近平评价为"充分说明你高度重视发展同中国的关系"。访问期间，两国元首见证签署共同开发、蓝色经济、水利、矿产等领域合作文件，并将原有的政治、经济、人文、海上"四轮驱动"升级为加入安全合作的"五大支柱"。更具标志意义的是，双方发表《关于推进全面战略伙伴关系和中印尼命运共同体建设的联合声明》，明确打造"具有地区和全球影响力的中印尼命运共同体"。中国媒体以"和音"署名评论称，这"进一步丰富了中印尼全面战略伙伴关系的内涵"。普拉博沃在京期间明确表态，印尼坚持独立、不结盟的外交政策，"不会加入任何军事同盟或排他性集团"，并愿在二十国集团等多边框架内同中方加强协调——这番话既是对北京的安抚，也是对世界的姿态。值得注意的是，他离京后即刻转赴华盛顿，开启为期15天、横跨美秘巴的世界巡访，"首访中国"与"遍访大国"被刻意安排在同一段行程里，恰恰是印尼"自由积极"外交的典型注脚。
 
 **安全破冰。** 2024年12月1日至 7日，中印尼军队举行"和平神鹰-2024"联合演习。这是两国军队首次举行陆海空三军参演的联演，主题为人道主义救援减灾。值得注意的是，中印尼特种部队"利刃"系列演习自 2011年起举行，2015年因纳土纳海域争端中断，此次以"和平神鹰"之名正式恢复。中方参演部队搭乘运-20 运输机直飞雅加达，南部战区组派兵力，科目涵盖伞降投送、核生化防护、海上搜救等。新加坡拉惹勒南国际关系学院（RSIS）的评估指出，这是雅加达"重振与北京防务关系"的明确信号。
 
@@ -46,7 +46,7 @@
 
 中国已连续十余年是印尼最大贸易伙伴。据中国海关数据，2024年中印尼双边贸易额近 1500亿美元（约1.01万亿元人民币），同比增长 8.5%；印尼投资与下游化部统计显示，2024年中国对印尼直接投资达 81亿美元（约547亿元人民币），连续 9年位列印尼前三大投资来源地。2023年印尼更是以约 73亿美元（约493亿元人民币）成为"一带一路（Belt and Road Initiative）"投资最大接受国。这种经济体量，决定了无论雅加达如何表述其"自由积极"外交，北京都不可能被边缘化。
 
-更深层的机遇在于产业链耦合。雅万高铁（Jakarta-Bandung High-Speed Railway）自 2023年10月开通至 2025年2月中旬，已累计运送旅客超 800万人次，把雅加达—万隆的通行时间从 3 小时压缩至 40 分钟，成为"全球南方基础设施升级"的样板。在新能源上游，青山、宁德时代等中资企业深度嵌入苏拉威西与马鲁古的镍冶炼体系，使印尼跃升为全球新能源电池材料核心节点。普拉博沃急需外资为其粮食安全、可再生能源、新首都努山塔拉（Nusantara）建设等优先项目筹资，印尼佩利塔·哈拉潘大学国际关系学者耶马杜直言："要实现这一切，与北京的合作不可或缺。"
+更深层的机遇在于产业链耦合。雅万高铁（Jakarta-Bandung High-Speed Railway）自 2023年10月开通至 2025年2月中旬，已累计运送旅客超 800万人次，把雅加达—万隆的通行时间从3小时压缩至40分钟，成为"全球南方基础设施升级"的样板。在新能源上游，青山、宁德时代等中资企业深度嵌入苏拉威西与马鲁古的镍冶炼体系，使印尼跃升为全球新能源电池材料核心节点。普拉博沃急需外资为其粮食安全、可再生能源、新首都努山塔拉（Nusantara）建设等优先项目筹资，印尼佩利塔·哈拉潘大学国际关系学者耶马杜直言："要实现这一切，与北京的合作不可或缺。"
 
 多边层面的协同同样在深化。2025年1月，印尼正式加入金砖国家（BRICS），成为首个加入该机制的东南亚（Southeast Asia）国家；随后普拉博沃又宣布印尼将加入新开发银行。人民日报海外版以"共绘全球南方合作新图景"为题，将中印尼定位为"南南合作的创新模式"。对追求 8% 年增速的普拉博沃政府而言，金砖与新开发银行意味着绕开西方主导金融机构的新融资渠道。
 
@@ -62,7 +62,7 @@
 
 但 6.2 的高位并非没有张力。恰恰在关系最热络的时刻，几条暗流同步涌动。
 
-**纳土纳的灰犀牛。** 就在普拉博沃就职的第一周，印尼海岸警卫队与海军在北纳土纳海域三次驱离中国海警船——涉事的中国海警 5402 号船干扰了印尼国家石油公司 Pertamina 租用的地震勘探船 MV Geo Coral。路透社报道，这是"普拉博沃接任总统仅数天后"发生的事。2025年7月前后，类似对峙再度出现。纳土纳海域的九段线重叠，是中印尼之间唯一真正可能动摇关系的结构性矛盾。雅加达的应对是"双轨"：一边在海上强硬驱离、公开无人机画面以示主权，一边又与中国海警签署合作谅解备忘录，试图把摩擦纳入可控框架。欧洲亚洲研究中心（CEIAS）警告，这种"为经济合作而在主权上做务实让步"的做法存在长远风险。
+**纳土纳的灰犀牛。** 就在普拉博沃就职的第一周，印尼海岸警卫队与海军在北纳土纳海域三次驱离中国海警船——涉事的中国海警 5402 号船干扰了印尼国家石油公司 Pertamina 租用的地震勘探船 MV Geo Coral。路透社报道，这是"普拉博沃接任总统仅数天后"发生的事。2025年7月前后，类似对峙再度出现。纳土纳海域的九段线重叠，是中印尼之间唯一真正可能动摇关系的结构性矛盾。雅加达的应对是"双轨"：一边在海上强硬驱离、公开无人机画面以示主权，一边又与中国海警签署合作谅解备忘录，试图把摩擦纳入可控框架。中欧亚洲研究所（Central European Institute of Asian Studies, CEIAS）警告，这种"为经济合作而在主权上做务实让步"的做法存在长远风险。
 
 **"共同谅解"的措辞风波。** 2024年11月联合声明中关于两国在重叠海域存在"共同谅解"的表述，一度被外界解读为印尼默认了中国主张。声明发布后，印尼外交部被迫迅速澄清，重申雅加达"不承认中国在南海的单方面主张"。CEIAS 将此称为普拉博沃对华政策的一次"重大外交失误"，认为其模糊措辞不仅可能激怒同为南海声索方的东南亚邻国，也削弱了印尼在东盟（ASEAN）的领导声誉。一个小小的措辞，暴露出高位运行下话语权的脆弱。
 
@@ -148,7 +148,7 @@ Capacity-building and people-to-people bonds have given the phrase "community wi
 
 Yet the 6.2 reading is not without tension. Precisely when the relationship is warmest, several undercurrents are moving in parallel.
 
-**The Natuna grey rhino.** In Prabowo's very first week in office, Indonesia's coast guard and navy drove away Chinese coast guard vessels from the North Natuna Sea on three occasions — the Chinese vessel CCG 5402 had disrupted a seismic survey by the MV Geo Coral, chartered by state energy firm Pertamina. Reuters reported the incidents came "just days after Prabowo Subianto took over Indonesia's presidency." Similar standoffs recurred around July 2025. The nine-dash-line overlap in the Natuna waters is the single structural contradiction that could genuinely shake the relationship. Jakarta's response has been "dual-track": hardline expulsion at sea with public drone footage to assert sovereignty, alongside a coast guard cooperation MOU to bring friction into a manageable frame. The Central Europe Asia Studies institute (CEIAS) warns that "pragmatic trade-offs in favor of economic cooperation" on sovereignty carries long-term risks.
+**The Natuna grey rhino.** In Prabowo's very first week in office, Indonesia's coast guard and navy drove away Chinese coast guard vessels from the North Natuna Sea on three occasions — the Chinese vessel CCG 5402 had disrupted a seismic survey by the MV Geo Coral, chartered by state energy firm Pertamina. Reuters reported the incidents came "just days after Prabowo Subianto took over Indonesia's presidency." Similar standoffs recurred around July 2025. The nine-dash-line overlap in the Natuna waters is the single structural contradiction that could genuinely shake the relationship. Jakarta's response has been "dual-track": hardline expulsion at sea with public drone footage to assert sovereignty, alongside a coast guard cooperation MOU to bring friction into a manageable frame. The Central European Institute of Asian Studies (CEIAS) warns that "pragmatic trade-offs in favor of economic cooperation" on sovereignty carries long-term risks.
 
 **The "common understanding" wording storm.** The November 2024 joint statement's reference to a "common understanding" on overlapping maritime claims was read by some as Indonesia tacitly acknowledging Chinese positions. After the statement, Indonesia's Foreign Ministry was forced to issue a swift clarification, reiterating that Jakarta "does not recognize China's unilateral claims in the South China Sea." CEIAS called it a "major diplomatic blunder" under Prabowo's China policy, arguing the ambiguous wording could anger fellow Southeast Asian claimants and erode Indonesia's ASEAN leadership. A single phrase exposed the fragility of discourse even at peak warmth.
 

@@ -1,6 +1,6 @@
 # 第十二届侨交会落幕：以侨为桥，千企万品"出海"亚太
 
-8月22日，第十二届华人华侨产业交易会暨2026亚太产业合作与出海博览会在深圳会展中心（福田）落下帷幕。三天展期里，305家企业携28394件优选展品集中亮相，累计专业观众3.5万人，意向采购金额27亿元（约3.7亿美元），来自全球50多个国家和地区的境外采购商赴会对接——一场以"侨"为名的亚太经贸盛会，正在从展会偶遇走向常年走动。
+8月22日，第十二届华人华侨产业交易会暨2026亚太产业合作与出海博览会在深圳会展中心（福田）落下帷幕。三天展期里，305家企业携28394件优选展品集中亮相，累计专业观众3.5万人，意向采购金额27亿元，来自全球50多个国家和地区的境外采购商赴会对接——一场以"侨"为名的亚太经贸盛会，正在从展会偶遇走向常年走动。
 
 ## 从"产品出海"到"价值链出海"
 
@@ -23,18 +23,18 @@
 ## 延伸阅读
 
 - **侨交会（Overseas Chinese Entrepreneurs Fair）**：由深圳市侨商智库研究院创办的民间侨界经贸展会，十二年举办23届境外展，定位为链接亚太产业的"超级链接器"。
-- **侨助千企万品出海（Thousands of Firms, Ten Thousands of Products Going Global）**：2026年广东发起的助企出海行动，以侨商网络打通亚太供需对接与合规落地。
+- **侨助千企万品出海（Thousands of Firms, Ten Thousand Products Going Global）**：2026年广东发起的助企出海行动，以侨商网络打通亚太供需对接与合规落地。
 - **APEC（Asia-Pacific Economic Cooperation）**：亚太经合组织；本届侨交会以APEC区域经贸合作为契机，成员经济体采购商占比超七成。
 
 ===EN===
 
-# 12th Overseas Chinese Entrepreneurs Fair Closes: Bridging with the Diaspora, Pushing "Thousands of Firms, Ten Thousands of Products" into Asia-Pacific
+# 12th Overseas Chinese Entrepreneurs Fair Closes: Bridging with the Diaspora, Pushing "Thousands of Firms, Ten Thousand Products" into Asia-Pacific
 
 On 22 August, the 12th Overseas Chinese Entrepreneurs Fair and the 2026 Asia-Pacific Industry Cooperation & Going-Global Expo closed at the Shenzhen Convention and Exhibition Center (Futian). Across three days, 305 enterprises showcased 28,394 selected products, drawing 35,000 professional visitors and intended procurement of 2.7 billion yuan (roughly US$370 million); buyers from over 50 countries and regions came to match supply with demand. A diaspora-named Asia-Pacific trade gathering is shifting from chance encounters at exhibitions toward year-round engagement.
 
 ## From "Products Going Global" to "Value-Chain Going Global"
 
-Under the theme "Linking the Overseas Chinese Worldwide, Shaping the Future Together," the fair featured two flagship zones — international smart technology and international food tech — with leaders such as BYD, Insta360 and Zhiyuan Square exhibiting alongside specialized small-and-medium innovators. Lin Shaohua, executive chair of the International Teochew Entrepreneurs Convention, argued that quality products and industries going global is not simple product export but a re-anchoring of the value chain: a catalyst for local industrial upgrading and a fresh chance to rebuild distribution channels. The remark captures a narrative turn from shipping goods to exporting capability.
+Under the theme "Linking the Overseas Chinese Worldwide, Shaping the Future Together," the fair featured two flagship zones — international smart technology and international food tech — with leaders such as BYD, Insta360 and AI² Robotics exhibiting alongside specialized small-and-medium innovators. Lin Shaohua, executive chair of the Teochew International Federation, argued that quality products and industries going global is not simple product export but a re-anchoring of the value chain: a catalyst for local industrial upgrading and a fresh chance to rebuild distribution channels. The remark captures a narrative turn from shipping goods to exporting capability.
 
 ## The Diaspora Business Network: The Most Trustworthy "Guide"
 
@@ -42,7 +42,7 @@ Gu Runjin, overseas adviser to the All-China Federation of Returned Overseas Chi
 
 ## Two-Way Flow Under the APEC Dividend
 
-The event ran alongside the 2026 "Thousands of Firms, Ten Thousands of Products Going Global" campaign (Guangdong) and the Asia-Pacific economic cooperation push, leveraging APEC regional trade. More than 50 overseas institutions — Malaysia's Digital Economy Corporation, Thailand's Digital Economy Promotion Agency, the Indonesia-China Friendship Association and others — organized buyer delegations; purchasers from APEC economies exceeded 70% of overseas buyers. A Thailand-based buyer living in China came specifically for energy-storage suppliers, noting Thailand is at a critical power and electrification transition — a structural demand gap that has become the most direct entry point for Chinese firms.
+The event ran alongside the 2026 "Thousands of Firms, Ten Thousand Products Going Global" campaign (Guangdong) and the Asia-Pacific economic cooperation push, leveraging APEC regional trade. More than 50 overseas institutions — Malaysia's Digital Economy Corporation, Thailand's Digital Economy Promotion Agency, the Indonesia-China Friendship Association and others — organized buyer delegations; purchasers from APEC economies exceeded 70% of overseas buyers. A Thailand-based buyer living in China came specifically for energy-storage suppliers, noting Thailand is at a critical power and electrification transition — a structural demand gap that has become the most direct entry point for Chinese firms.
 
 ## From Single Exhibitions to Global Layout
 
@@ -53,5 +53,5 @@ Zheng Hanming, chairman of the Shenzhen Qiaoshang Think Tank, said the fair's ov
 ## Further reading
 
 - **Overseas Chinese Entrepreneurs Fair**: a privately run diaspora economic fair founded by the Shenzhen Qiaoshang Think Tank; over 12 years it has held 23 overseas editions, positioning itself as a super-connector for Asia-Pacific industry.
-- **Thousands of Firms, Ten Thousands of Products Going Global**: a 2026 Guangdong campaign using the diaspora network to open Asia-Pacific supply-demand channels and local compliance.
+- **Thousands of Firms, Ten Thousand Products Going Global**: a 2026 Guangdong campaign using the diaspora network to open Asia-Pacific supply-demand channels and local compliance.
 - **APEC (Asia-Pacific Economic Cooperation)**: the fair leveraged APEC regional trade cooperation; buyers from APEC economies made up over 70% of overseas purchasers.

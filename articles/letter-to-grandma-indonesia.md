@@ -19,19 +19,19 @@
 ---
 ## 延伸阅读
 
-**《给阿嬷的情书》（Letter to Grandma）**：一部以华人离散与方言记忆为题的华语电影，近期在印尼首映、泰国潮州会馆专场放映，引发老华侨对母语与祖辈记忆的共鸣。
+**《给阿嬷的情书》（Dear You）**：一部以华人离散与方言记忆为题的华语电影，近期在印尼首映、泰国潮州会馆专场放映，引发老华侨对母语与祖辈记忆的共鸣。
 
 **潮州会馆（Teochew Clan Association）**：东南亚华社按方言与祖籍地结成的宗乡社团，由潮汕裔侨民自发组织，承担文化、互助与“转译”祖籍地符号的功能。文中两场放映即由其主动组织。
 
-*话题参考：中国侨网（chinaqw.com）一周热点《《给阿嬷的情书》印尼首映 印尼老华侨深情告白：终于等到这部电影！》*
+*话题参考：中国侨网（chinaqw.com）一周热点《〈给阿嬷的情书〉印尼首映 印尼老华侨深情告白：终于等到这部电影！》*
 
 ===EN===
 
-# From Screen to Nostalgia: How "Letter to Grandma" Awakened Ancestral Memory among Indonesian Chinese
+# From Screen to Nostalgia: How "Dear You" (Letter to Grandma) Awakened Ancestral Memory among Indonesian Chinese
 
 > A single film reconnected, inside a cinema, languages and feelings separated by generations.
 
-When the Chinese-language film *Letter to Grandma* (*Gei Ama de Qing Shu*) premiered in Indonesia recently, elderly ethnic Chinese viewers were moved to tears. One line — "we'd waited so long, and finally got to see this film" — captured the long, quiet hunger of a diaspora for its mother tongue and the memory of ancestors. Notably, the Teochew Clan Association in Thailand also organized a dedicated screening. Two screenings, one question: in the Southeast Asian Chinese diaspora, how do cultural products become the emotional media that link generations and the ancestral homeland?
+When the Chinese-language film *Dear You* (*Gei Ama de Qing Shu*) premiered in Indonesia recently, elderly ethnic Chinese viewers were moved to tears. One line — "we'd waited so long, and finally got to see this film" — captured the long, quiet hunger of a diaspora for its mother tongue and the memory of ancestors. Notably, the Teochew Clan Association in Thailand also organized a dedicated screening. Two screenings, one question: in the Southeast Asian Chinese diaspora, how do cultural products become the emotional media that link generations and the ancestral homeland?
 
 ## Dialect, Memory, and the Seams of Identity
 

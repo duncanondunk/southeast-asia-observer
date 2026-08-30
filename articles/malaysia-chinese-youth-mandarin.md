@@ -61,4 +61,4 @@ Strip away the geopolitics and what remains is a universal story about language 
 
 **Independent Chinese High Schools (独中)** — Secondary schools run by the ethnic-Chinese community and using Chinese as the main medium of instruction. When some Chinese schools refused state conversion in the 1960s and gave up subsidies, they survived as "independent" schools, today around sixty, coordinated by Dong Zong (the United Chinese School Committees' Association).
 
-*Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "马来西亚华裔青年的中文情结：说好中文是很酷的事"。*
+*Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "马来西亚华裔青年的中文情结：说好中文是很酷的事".*

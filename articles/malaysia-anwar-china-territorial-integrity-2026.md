@@ -12,7 +12,7 @@
 
 ## 反对党的担忧：为何"选边站"在吉隆坡是敏感词
 
-马来西亚伊斯兰党中委、吉打州行政议员海因希曼（Hainurizam）发文告批评，安华的涉台表态是"严重且不必要的外交失误"。反对党的核心关切在于：台湾问题高度敏感，马来西亚长期奉行一个中国政策，但这仅停留在外交承认层面，从未对使用武力的合法或正当性质做出判断；马国更不应卷入大国博弈，损害与中国、台湾、美国多方经贸往来的战略空间。在依赖国际贸易的马来西亚，"选边站"向来是政治禁忌词。
+马来西亚伊斯兰党中委、吉打州行政议员海因希曼（Haim Hilman）发文告批评，安华的涉台表态是"严重且不必要的外交失误"。反对党的核心关切在于：台湾问题高度敏感，马来西亚长期奉行一个中国政策，但这仅停留在外交承认层面，从未对使用武力的合法或正当性质做出判断；马国更不应卷入大国博弈，损害与中国、台湾、美国多方经贸往来的战略空间。在依赖国际贸易的马来西亚，"选边站"向来是政治禁忌词。
 
 ## 更大的棋盘：9月访华与马来西亚的对冲外交
 
@@ -42,7 +42,7 @@ Facing pushback, Anwar's strategy was analogy. He noted that neither China nor t
 
 ## The Opposition's Worry: Why "Taking Sides" Is a Taboo in Kuala Lumpur
 
-Hainurizam, a central committee member of the Islamic Party of Malaysia and executive councillor of Kedah state, issued a statement criticising Anwar's Taiwan remarks as a "serious and unnecessary diplomatic blunder." The opposition's core concern is that the Taiwan question is highly sensitive: Malaysia has long practised the One-China policy, but only at the level of diplomatic recognition, never judging the legality or legitimacy of using force. Malaysia, it argues, should not be drawn into great-power rivalry, risking the strategic space for economic ties with China, Taiwan, and the United States alike. In trade-dependent Malaysia, "taking sides" has long been a political taboo.
+Haim Hilman, a central committee member of the Islamic Party of Malaysia and executive councillor of Kedah state, issued a statement criticising Anwar's Taiwan remarks as a "serious and unnecessary diplomatic blunder." The opposition's core concern is that the Taiwan question is highly sensitive: Malaysia has long practised the One-China policy, but only at the level of diplomatic recognition, never judging the legality or legitimacy of using force. Malaysia, it argues, should not be drawn into great-power rivalry, risking the strategic space for economic ties with China, Taiwan, and the United States alike. In trade-dependent Malaysia, "taking sides" has long been a political taboo.
 
 ## The Larger Board: The September China Visit and Malaysia's Hedging Diplomacy
 
