@@ -612,6 +612,30 @@
       "slugs": [
         "philippines-us-scope-chinese-steel-mindanao-2026"
       ]
+    },
+    "event:上海浦东华侨华人创新创业研修营(2026-08)": {
+      "slugs": [
+        "pudong-overseas-chinese-innovation-camp-2026"
+      ],
+      "first_used": "2026-08-30"
+    },
+    "topic:马来西亚人口老龄化与老年就业(2026-08)": {
+      "slugs": [
+        "malaysia-ageing-over-60-still-working-2026"
+      ],
+      "first_used": "2026-08-30"
+    },
+    "event:谷歌Pixel全线产能迁出中国(2026-08,日经亚洲)": {
+      "slugs": [
+        "google-pixel-exit-china-vietnam-2026"
+      ],
+      "first_used": "2026-08-30"
+    },
+    "event:银河航天灵知09泰国立方星整星出口(2026-08)": {
+      "slugs": [
+        "china-galaxyspace-thailand-cubesat-2026"
+      ],
+      "first_used": "2026-08-30"
     }
   }
 }

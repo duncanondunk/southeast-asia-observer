@@ -1,5 +1,188 @@
 [
   {
+    "slug": "pudong-overseas-chinese-innovation-camp-2026",
+    "title": "张江开营：浦东把「华侨华人」请进科创主舞台",
+    "subtitle": "当侨务工作从联谊接待走向产业赋能，一次研修营能否成为项目落地的真正入口？",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨务政策",
+      "创新创业",
+      "人工智能",
+      "人才"
+    ],
+    "country": "中国",
+    "date": "2026-08-30",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "上海浦东8月26日举办华侨华人创新创业研修营，42名高技术新侨进入张江，覆盖人工智能、生物医药等硬科技赛道。文章认为，地方侨务工作正从联谊接待转向产业赋能，关键不在集训本身，而在能否把「一次性活动」转化为持续可问责的项目落地机制。",
+    "image": "images/articles/pudong-overseas-chinese-innovation-camp-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-08-30",
+    "imageAlt": "一群年轻科创人才围坐长桌、使用笔记本电脑协作，背景是木质墙面与大窗户，喻指浦东侨务工作与张江科创生态的对接。",
+    "references": [
+      {
+        "source": "中国侨网 ChinaQW",
+        "title": "上海浦东举办华侨华人创新创业研修营 近三成学员聚焦人工智能",
+        "url": "https://www.chinaqw.com/qwxs/2026/08-27/410664.shtml",
+        "date": "2026-08-27"
+      }
+    ],
+    "en": {
+      "title": "Zhangjiang Opens Its Doors: Pudong Places Overseas Chinese Center-Stage of Its Innovation Play",
+      "subtitle": "As diaspora affairs shifts from hospitality to industrial enablement, can a training camp become a real gateway for projects to land?",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "On 26 August, Pudong hosted an overseas Chinese innovation and entrepreneurship camp, bringing 42 high-tech diaspora talents into Zhangjiang and covering AI, biomedicine and other hard-tech tracks. The article argues that local diaspora affairs is shifting from networking to industrial enablement; the test is whether the camp becomes an accountable, sustained mechanism for project landing rather than a one-off event.",
+      "imageAlt": "A group of young tech entrepreneurs collaborating at a long table with laptops, wooden walls and large windows behind them, symbolising Pudong's diaspora affairs work plugging into Zhangjiang's innovation ecosystem.",
+      "references": [
+        {
+          "source": "ChinaQW",
+          "title": "Shanghai Pudong hosts overseas Chinese innovation camp, nearly 30% of participants focused on AI",
+          "url": "https://www.chinaqw.com/qwxs/2026/08-27/410664.shtml",
+          "date": "2026-08-27"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "malaysia-ageing-over-60-still-working-2026",
+    "title": "年过六十仍在岗：马来西亚老龄化的劳动力之问",
+    "subtitle": "当法定退休年龄遇上43万仍在缴纳社险的银发劳动者，马来西亚的社保体系能否追上人口真相？",
+    "category": "社会文化",
+    "tags": [
+      "马来西亚",
+      "人口老龄化",
+      "劳动力",
+      "社会保障"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-30",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "马来西亚社险机构数据显示，逾43万名60岁以上劳动者仍在缴纳社险。文章指出，退休年龄不等于劳动终点，社保体系若仍困于传统雇主—雇员模型，将难以覆盖自雇、零工与平台经济中的老龄劳动者；真正的积极老龄化需要制度而非口号。",
+    "image": "images/articles/malaysia-ageing-over-60-still-working-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-08-30",
+    "imageAlt": "吉隆坡唐人街热闹的街道景象，招牌林立、行人熙攘，一辆红色出租车驶过，喻指马来西亚老龄化社会中仍在城市生活里劳作的银发群体。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国迈入老龄化 逾43万人年过60仍工作",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260829-9596477",
+        "date": "2026-08-29"
+      }
+    ],
+    "en": {
+      "title": "Still on the Clock: Malaysia's Ageing Workforce and the Sixty-Year Line",
+      "subtitle": "When the statutory retirement age meets more than 430,000 older workers still paying into Socso, can Malaysia's social-security system keep up with its demographic reality?",
+      "category": "Society & Culture",
+      "country": "Malaysia",
+      "summary": "Malaysian Socso data show that more than 430,000 people over 60 are still contributing as active workers. The article argues that the retirement age is not the end of working life; if social security remains trapped in the traditional employer-employee model, it will fail to cover older workers in self-employment, gig and platform economies. Real active ageing requires institutions, not slogans.",
+      "imageAlt": "A bustling street in Kuala Lumpur's Chinatown, lined with signboards and pedestrians, with a red taxi driving past, evoking Malaysia's older workers still active in urban life.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Malaysia ageing: over 430,000 people past 60 still working",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260829-9596477",
+          "date": "2026-08-29"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "google-pixel-exit-china-vietnam-2026",
+    "title": "谷歌Pixel全线撤离中国：「中国+1」走到分水岭",
+    "subtitle": "从备用产能到主轴线，越南能否接住的不仅是订单，更是整条供应链？",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "供应链",
+      "制造业",
+      "外商直接投资",
+      "电子产业"
+    ],
+    "country": "越南",
+    "date": "2026-08-30",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "日经亚洲报道谷歌计划自2027年起将Pixel全线产能迁出中国，越南与印度为主要承接方。文章认为，这标志「中国+1」从对冲策略转向主轴布局，越南的制造生态、自贸协定与地缘位置使其受益，但核心在于产业链本地化能否真正落地。",
+    "image": "images/articles/google-pixel-exit-china-vietnam-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-08-30",
+    "imageAlt": "电子制造车间内，一名工程师坐在复杂设备与线缆前使用笔记本电脑，喻指越南承接的消费电子产业链转移。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Google to move Pixel production out of China",
+        "url": "https://en.vietnamplus.vn/vietnam-poised-to-benefit-from-new-wave-of-technology-investment-post350968.vnp",
+        "date": "2026-08-28"
+      }
+    ],
+    "en": {
+      "title": "Google Moves Pixel Out of China: Vietnam at the Tipping Point of \"China+1\"",
+      "subtitle": "From backup capacity to the main axis, can Vietnam absorb not only the orders but the whole supply chain?",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Nikkei Asia reports that Google plans to move all Pixel production out of China from 2027, with Vietnam and India as the main recipients. The article argues this marks a shift of \"China+1\" from hedging to the main axis; Vietnam's manufacturing ecosystem, free-trade agreements and geopolitical position give it an edge, but the real test is whether supply-chain localisation can take root.",
+      "imageAlt": "An engineer working on a laptop amid complex machinery and wiring in an electronics manufacturing plant, symbolising Vietnam's take-up of consumer-electronics supply chains.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Google to move Pixel production out of China",
+          "url": "https://en.vietnamplus.vn/vietnam-poised-to-benefit-from-new-wave-of-technology-investment-post350968.vnp",
+          "date": "2026-08-28"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "china-galaxyspace-thailand-cubesat-2026",
+    "title": "一箭七星入轨：银河航天整星出口泰国与商业航天出海的新范式",
+    "subtitle": "当「整星+地面系统+人才培训」打包落地，中国商业航天卖的不只是硬件，更是长期标准影响力。",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "商业航天",
+      "卫星",
+      "一带一路",
+      "科技合作"
+    ],
+    "country": "泰国",
+    "date": "2026-08-30",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "银河航天研制的「灵知09泰国立方星」8月25日随长征六号丙火箭升空，实现中国商业航天首次面向东南亚的整星交付。文章指出，「整星+地面系统+人才培训」模式输出的不只是硬件，更是长期技术依赖与标准影响力。",
+    "image": "images/articles/china-galaxyspace-thailand-cubesat-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-08-30",
+    "imageAlt": "一枚商业火箭在晴朗天空中腾空而起、底部喷出巨大烟云，喻指全球商业航天竞争与中国企业以整星出口方式进入东南亚市场的态势。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "China's commercial space sector expands global footprint with Thailand deal",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-08-28"
+      }
+    ],
+    "en": {
+      "title": "Seven Satellites, One Rocket: GalaxySpace's Full-Satellite Export to Thailand and a New Paradigm for China's Commercial Space Going Global",
+      "subtitle": "When \"full satellite + ground system + training\" is sold as a package, China's commercial space sector is exporting not only hardware but long-term standard-setting influence.",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "GalaxySpace's Lingzhi-09 Thai CubeSat lifted off on a Long March 6C rocket on 25 August, marking China's first full-satellite delivery to Southeast Asia. The article argues that the \"full satellite + ground system + training\" package exports more than hardware: it creates long-term technical dependence and standard-setting influence.",
+      "imageAlt": "A commercial rocket lifting off into a bright sky with a massive plume below, symbolising the global commercial-space race and Chinese firms' entry into Southeast Asian markets through full-satellite exports.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "China's commercial space sector expands global footprint with Thailand deal",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-08-28"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-us-scope-chinese-steel-mindanao-2026",
     "title": "从废钢厂到前沿阵地：棉兰老岛一座中资钢厂如何成为美菲中三方博弈的焦点",
     "subtitle": "一座停产的中资钢厂，为何成了菲美联合军演与海军基地的候选地？",
