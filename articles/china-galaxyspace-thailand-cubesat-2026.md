@@ -1,12 +1,12 @@
 # 一箭七星入轨：银河航天整星出口泰国与商业航天出海的新范式
 
-2026年8月25日11时21分，太原卫星发射中心。长征六号丙遥一运载火箭腾空而起，一箭将7颗卫星送入预定轨道。其中一颗体量不大却分量不轻——银河航天研制的「灵知09泰国立方星」，用户是泰国地理信息与空间技术发展局（GISTDA）。这是中国商业航天企业首次面向东南亚（Southeast Asia）国家完成整星研制、发射及在轨交付，也是银河航天首次实现「整星+地面系统+能力培养」一体化方案在「一带一路」（Belt and Road Initiative）共建国家的落地应用。一颗立方星的入轨，折射出的不仅是技术能力的输出，更是一种新型航天外交的轮廓正在成型。
+2026年8月25日11时21分，太原卫星发射中心。长征六号丙遥一运载火箭腾空而起，一箭将7颗卫星送入预定轨道。其中一颗体量不大却分量不轻——银河航天研制的「灵知09泰国立方星」，用户是泰国地理信息与空间技术发展局（GISTDA）。这是中国商业航天企业首次面向东南亚（Southeast Asia）国家完成整星研制、发射及在轨交付，也是银河航天首次实现「整星+地面系统+能力培养」一体化方案在「一带一路」（Belt and Road Initiative）共建国家的落地应用。一颗立方星入轨，折射出技术能力的输出，更折射出一种新型航天外交正在成型。
 
 ## 从卖卫星到交钥匙：整星出口的范式跃迁
 
 此次交付的核心创新，在于模式本身。传统航天合作多停留在硬件买卖或单项技术服务层面——你买我的卫星，我帮你发射，合同即止。但银河航天为GISTDA提供的是一套「整星+地面系统+能力培养」的一体化解决方案：泰方人员先赴中国接受集中培训，随后银河航天团队赴泰协助地面站建设与调试。用该公司解决方案部总经理张鹏的话说，这次合作让泰方从「使用卫星」走向「理解卫星」。
 
-这一转变的意义不容小觑。过去数十年间，中国在东南亚的基础设施外交以铁路、港口、电站为主轴，其逻辑是「我建你用」。而此次灵知09项目的逻辑则是「我建、我教、你学会自己运维」——从产品交付升级为体系输出。北京理工大学宇航政策与法律研究所副所长杨宽此前指出，中国商业航天企业正从「出口产品」转向「出口服务与生态」，灵知09正是这一转向在东南亚的首个落地案例。
+这一转变的分量，在于被交付的东西本身变了。过去数十年间，中国在东南亚的基础设施外交以铁路、港口、电站为主轴，其逻辑是「我建你用」。而此次灵知09项目的逻辑则是「我建、我教、你学会自己运维」——从产品交付升级为体系输出。北京理工大学宇航政策与法律研究所副所长杨宽此前指出，中国商业航天企业正从「出口产品」转向「出口服务与生态」，灵知09正是这一转向在东南亚的首个落地案例。
 
 ## 遥感立方星的实用逻辑：国土监测与教育双线并行
 
@@ -36,7 +36,7 @@ GISTDA卫星集成测试与发射准备部门负责人奇特查诺·猜春乔布
 
 作为中国首家商业航天独角兽企业——估值超过10亿美元（约71亿元人民币）——银河航天的国际化尝试具有行业标杆意义。该公司迄今已成功发射自主研制的49颗卫星，其中合成孔径雷达（SAR）卫星超过10颗，订单量在商业航天企业中位居前列。公司正筹备A股上市，海外业务扩张是其向资本市场讲述增长故事的重要一章。
 
-但独角兽身份不等于全球竞争力。在发射成本尚未追平SpaceX、国际政治环境日趋复杂的背景下，中国商业航天企业的出海之路注定不会是一条坦途。灵知09的成功证明了中国企业具备全链条交付能力，但能否将单点突破转化为可持续的全球市场份额，取决于三个变量：火箭复用技术的降本进度、目标国对数据主权的敏感程度，以及中国企业在海外运营中能否真正实现「本地化」而非简单的「技术倾销」。这三个问题的答案，将在未来三五年内逐渐清晰。
+但独角兽身份不等于全球竞争力。在发射成本尚未追平SpaceX、国际政治环境日趋复杂的背景下，中国商业航天企业这条出海路不会顺。灵知09的成功证明了中国企业具备全链条交付能力，但能否将单点突破转化为可持续的全球市场份额，取决于三个变量：火箭复用技术的降本进度、目标国对数据主权的敏感程度，以及中国企业在海外运营中能否真正实现「本地化」而非简单的「技术倾销」。这三个问题的答案，将在未来三五年内逐渐清晰。
 
 ## 延伸阅读
 
@@ -52,13 +52,13 @@ GISTDA卫星集成测试与发射准备部门负责人奇特查诺·猜春乔布
 
 # Seven Satellites, One Rocket: GalaxySpace's Full-Satellite Export to Thailand and a New Paradigm for China's Commercial Space Going Global
 
-At 11:21 a.m. Beijing time on 25 August 2026, a Long March 6C rocket lifted off from the Taiyuan Satellite Launch Centre, placing seven satellites into their designated orbits. Among them was a small but consequential payload — the Lingzhi-09 Thailand CubeSat developed by GalaxySpace, commissioned by Thailand's Geo-Informatics and Space Technology Development Agency (GISTDA). This marked the first time a Chinese commercial space company had completed full-satellite development, launch and in-orbit delivery for a Southeast Asian country, and also GalaxySpace's first export of an integrated "satellite plus ground system plus capacity-building" package under the Belt and Road Initiative. The orbital insertion of a single cubesat reveals not merely the export of technical capability, but the emerging contours of a new form of space diplomacy.
+At 11:21 a.m. Beijing time on 25 August 2026, a Long March 6C Y1 rocket lifted off from the Taiyuan Satellite Launch Centre, placing seven satellites into their designated orbits. Among them was a small but consequential payload — the Lingzhi-09 Thailand CubeSat developed by GalaxySpace, commissioned by Thailand's Geo-Informatics and Space Technology Development Agency (GISTDA). This marked the first time a Chinese commercial space company had completed full-satellite development, launch and in-orbit delivery for a Southeast Asian country, and also GalaxySpace's first export of an integrated "satellite plus ground system plus capacity-building" package under the Belt and Road Initiative. The orbital insertion of a single cubesat reveals not merely the export of technical capability, but the emerging contours of a new form of space diplomacy.
 
 ## From selling satellites to turnkey delivery: a paradigm shift in export mode
 
 The core innovation of this delivery lies in the model itself. Traditional space cooperation has largely stopped at hardware sales or standalone technical services — you buy my satellite, I launch it for you, and the contract ends there. But what GalaxySpace delivered to GISTDA was an integrated solution covering "the complete satellite, ground system and talent training": Thai personnel first travelled to China for intensive training, followed by on-site deployment by GalaxySpace engineers who assisted with ground-station construction and commissioning. In the words of Zhang Peng, GalaxySpace's general manager of solutions, this cooperation enabled the Thai side to move from "using satellites" to "understanding satellites."
 
-This shift carries significant weight. Over the past several decades, China's infrastructure diplomacy in Southeast Asia has centred on railways, ports and power stations, following the logic of "I build, you use." The Lingzhi-09 project, by contrast, follows the logic of "I build, I teach, you learn to operate independently" — an upgrade from product delivery to system export. Yang Kuan, deputy director of the Institute of Aerospace Policy and Law at Beijing Institute of Technology, has observed that Chinese commercial space firms are shifting from "exporting products" to "exporting services and ecosystems." Lingzhi-09 is precisely the first such case to land in Southeast Asia.
+What makes this shift consequential is that the thing being delivered has changed. Over the past several decades, China's infrastructure diplomacy in Southeast Asia has centred on railways, ports and power stations, following the logic of "I build, you use." The Lingzhi-09 project, by contrast, follows the logic of "I build, I teach, you learn to operate independently" — an upgrade from product delivery to system export. Yang Kuan, deputy director of the Institute of Aerospace Policy and Law at Beijing Institute of Technology, has observed that Chinese commercial space firms are shifting from "exporting products" to "exporting services and ecosystems." Lingzhi-09 is precisely the first such case to land in Southeast Asia.
 
 ## The practical logic of a remote-sensing cubesat: dual-track land monitoring and education
 
@@ -70,7 +70,7 @@ This dual-track design of "utility plus education" aligns precisely with the rea
 
 Yet the challenges facing China's commercial space sector going overseas are equally clear. The most fundamental one is launch cost. Industry estimates put SpaceX's Falcon 9 launch cost to low Earth orbit at around RMB 18,000 per kilogram (roughly US$2,500), whereas Chinese expendable commercial rockets still operate in the RMB 50,000–150,000 per kilogram range (US$7,000–21,000). In other words, for equivalent payload mass, Chinese launch quotes run approximately three to eight times higher than SpaceX's.
 
-This gap stems from differences in reusable-technology maturity. The Falcon 9 first stage has achieved dozens of reuses, driving marginal per-launch costs to extremely low levels; Chinese private-sector rockets are accelerating their catch-up — LandSpace's Zhuque-3 successfully recovered its first-stage booster on land in 2026 — but moving from a single successful landing to scaled reuse and then to a meaningful downward bend in the cost curve will take time. For satellite manufacturers like GalaxySpace, launch costs account for 30% to 40% of total constellation construction expenditure; upstream cost-reduction stagnation directly compresses price competitiveness in international markets.
+This gap stems from differences in reusable-technology maturity. The Falcon 9 first stage has achieved dozens of reuses, driving marginal per-launch costs to extremely low levels; Chinese private-sector rockets are accelerating their catch-up — LandSpace's Zhuque-3 successfully recovered its first-stage booster on land in 2026 — but moving from a single successful landing to scaled reuse and then to a meaningful downward bend in the cost curve will take time. For satellite manufacturers like GalaxySpace, launch costs account for 30% to 40% of total constellation construction expenditure; if upstream launch costs stay high, their price competitiveness abroad erodes.
 
 ## Southeast Asia's space choices: between Starlink and Chinese offers
 
@@ -80,7 +80,7 @@ Chitchanok Chaichanop, head of GISTDA's satellite integration, test and launch-p
 
 ## Data sovereignty and standards dependence: the deeper politics of capacity building
 
-A deeper question is that the full-chain export of "satellite–ground–talent" may be shaping a long-term dependency relationship rooted in technical standards. Once Thai engineers become accustomed to Chinese satellite operating interfaces, data-processing workflows and spectrum-coordination procedures, the switching cost of migrating to another country's satellite system or ground equipment would be enormous. This resembles a "lock-in effect" at the operating-system level — once an ecosystem takes shape, the barrier to migration far exceeds the initial procurement price differential.
+The deeper question is whether the full-chain export of "satellite–ground–talent" is creating a long-term dependency rooted in technical standards. Once Thai engineers become accustomed to Chinese satellite operating interfaces, data-processing workflows and spectrum-coordination procedures, the switching cost of migrating to another country's satellite system or ground equipment would be enormous. This resembles a "lock-in effect" at the operating-system level — once an ecosystem takes shape, the barrier to migration far exceeds the initial procurement price differential.
 
 Liu Chang, co-founder of GalaxySpace, stated that the company will focus on opening markets in Belt and Road countries and steadily expand its overseas industrial layout. At present, Chinese firms including SpaceSail and Geespace are advancing similar projects in Brazil, Malaysia and Central Asia. If this model replicates across more countries, what Chinese commercial space builds will be not merely an overseas client network but a regional space infrastructure ecosystem whose underlying logic rests on Chinese technical standards.
 

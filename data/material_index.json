@@ -18,7 +18,7 @@
     },
     "film:Dear You (给阿嬷的情书)": {
       "note": "历史遗留冲突：3 篇同素材（letter-to-grandma-indonesia / amah-letter-indonesia / dear-you-qiaopi-indonesia）。grandfathered，今后禁止再发该电影题材。",
-      "exception": null,
+      "exception": "grandfathered",
       "slugs": [
         "letter-to-grandma-indonesia",
         "amah-letter-indonesia",
@@ -617,25 +617,29 @@
       "slugs": [
         "pudong-overseas-chinese-innovation-camp-2026"
       ],
-      "first_used": "2026-08-30"
+      "first_used": "2026-08-30",
+      "note": "与既有条目不重复：既有侨务条目聚焦政策文件、侨乡与侨团，本篇为 2026-08 浦东研修营单一活动，核心素材首次使用。"
     },
     "topic:马来西亚人口老龄化与老年就业(2026-08)": {
       "slugs": [
         "malaysia-ageing-over-60-still-working-2026"
       ],
-      "first_used": "2026-08-30"
+      "first_used": "2026-08-30",
+      "note": "与既有条目不重复：既有马来西亚条目聚焦政党、选举与产业，本篇核心素材为 2026 年 7 月社险机构 60 岁以上活跃缴纳者数据，首次使用。"
     },
     "event:谷歌Pixel全线产能迁出中国(2026-08,日经亚洲)": {
       "slugs": [
         "google-pixel-exit-china-vietnam-2026"
       ],
-      "first_used": "2026-08-30"
+      "first_used": "2026-08-30",
+      "note": "与既有条目不重复：既有供应链条目聚焦苹果、三星与泛化「中国+1」，本篇核心素材为谷歌 Pixel 自 2027 年起整机迁出中国的决定，首次使用。"
     },
     "event:银河航天灵知09泰国立方星整星出口(2026-08)": {
       "slugs": [
         "china-galaxyspace-thailand-cubesat-2026"
       ],
-      "first_used": "2026-08-30"
+      "first_used": "2026-08-30",
+      "note": "与既有条目不重复：既有东南亚太空条目聚焦星链落地与频谱，本篇核心素材为银河航天灵知09对泰国 GISTDA 的整星出口，首次使用。"
     }
   }
 }

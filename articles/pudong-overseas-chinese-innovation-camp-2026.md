@@ -16,7 +16,7 @@
 
 ## 张江作为「侨务—科创」界面：空间、链条与制度
 
-研修营的「参观考察」一节，之所以被安排在张江，而不是陆家嘴或前滩，并非偶然。张江科学城是全国集成电路、生物医药、人工智能三大先导产业最密集的空间之一，集聚了全国约1/3的AI芯片设计企业、1/5的创新药管线。把研修营嵌入张江，等于把侨务工作的物理界面直接接入了中国硬科技最完整的产业链条：学员在这里既能看到真实可触的上下游企业，也能更高效地完成与本地研发机构、临床医院、政府部门的「多边对齐」。从这个意义上看，浦东正在把张江从一个「地理名词」，升级为一个「侨务—科创」的制度性接口。换言之，张江对研修营的意义，已经从「会址」升级为「接口」——它的角色不再是「借个场地」，而是「承担起把侨务流量转化为科创变量的全部制度成本」。
+研修营的「参观考察」一节，之所以被安排在张江，而不是陆家嘴或前滩，并非偶然。张江科学城是全国集成电路、生物医药、人工智能三大先导产业最密集的空间之一，集聚了全国约1/3的AI芯片设计企业、1/5的创新药管线。把研修营嵌入张江，等于把侨务工作的物理界面直接接入了中国硬科技最完整的产业链条：学员在这里既能看到真实可触的上下游企业，也能更高效地完成与本地研发机构、临床医院、政府部门的「多方对接」。从这个意义上看，浦东正在把张江从一个「地理名词」，升级为一个「侨务—科创」的制度性接口。换言之，张江对研修营的意义，已经从「会址」升级为「接口」——它的角色不再是「借个场地」，而是「承担起把侨务流量转化为科创变量的全部制度成本」。
 
 ## 「短期集训 + 长期结对」能否转化为落地项目？
 
@@ -30,13 +30,13 @@
 
 42人、3天、26%、21%、80%——这些数字本身并不算大，但它们背后的结构，却具有样板意义。浦东用一种「小而精」的研修营，把侨务工作从「面上铺开」收拢为「点上突破」：以高学历过滤掉非目标群体，以国际化筛选掉国内可替代的人才，以硬科技限定在能嵌入张江产业链的方向上。当传统的联谊接待式侨务，已经难以在区域产业竞争中证明自己的不可替代性时，这种「精准化、产品化、长期化」的转型，或许正是各地侨务部门都要回答的同一道题。更进一步说，浦东的真正赌注，是把「侨」从一个文化身份，重新编码为一种可被考核、可被比较、可被资本跟进的产业接口——这或许比任何一个「项目落地」都更具长远的样板意义。
 
-*话题参考：「中国侨网 ChinaQW」（chinaqw.com）——「上海浦东举办华侨华人创新创业研修营 近三成学员聚焦人工智能」。*
-
 ## 延伸阅读
 
 - **新侨（Xinqiao / New-Generation Overseas Chinese）**：指改革开放后出国的留学人员、研发人员及在海外完成职业积累的高技术移民，与传统华侨华人社团意义上的「老侨」相对；近年来是中国地方侨务工作的主要服务对象。
 - **创业导师结对（Mentor Pairing for Entrepreneurs）**：研修营在三天集训之外，配套安排的「一位创业导师 + 一位人才服务专员 + 一位学员」长期对接机制，目标是让一次性活动转化为可问责的持续服务。
 - **张江科学城（Zhangjiang Science City）**：位于上海浦东的核心科创集聚区，全国集成电路、生物医药、人工智能三大先导产业最密集的空间之一，本次研修营被嵌入其中，意味着侨务工作正式与张江的产业链条对接。
+
+*话题参考：「中国侨网 ChinaQW」（chinaqw.com）——「上海浦东举办华侨华人创新创业研修营 近三成学员聚焦人工智能」。*
 
 ===EN===
 
@@ -50,11 +50,11 @@ Step back and the longer arc is clear. For more than a decade, local governments
 
 ## Cohort Profile: "Highly Educated, International, Hard-Tech"
 
-Almost every one of the 42 participants has studied or worked in multiple countries — the United Kingdom, the United States, Singapore, Australia among them; 80% hold master's or doctoral degrees, and the average age is around 35. In other words, this is a group that has just completed overseas academic training, is entering its professional prime, and has actively turned its gaze back to the Chinese market. Twenty-six percent work in artificial intelligence, 21% in biomedicine and broader healthcare, with the remaining half spread across electronic information, new energy, and advanced materials — tracks that closely mirror Pudong's flagship industries of "AI Made in Shanghai," "Innovative Drugs," "Future Vehicles," and "Blue Sky Dreams." "Highly educated, international, hard-tech" is not promotional language but a set of structural variables that can be plotted directly onto an industrial map. More importantly, most members of this cohort are bilingual or multilingual, fluent in two regulatory regimes and two capital-markets logics — a "cross-border intermediation advantage" that domestic-only peers do not share. That, more than ceremony, is what makes the cohort a signal.
+Almost every one of the 42 participants has studied or worked in multiple countries — the United Kingdom, the United States, Singapore, Australia among them; 80% hold master's or doctoral degrees, and the average age is around 35. In other words, this is a group that has just completed overseas academic training, is entering its professional prime, and has actively turned its gaze back to the Chinese market. Twenty-six percent work in artificial intelligence, 21% in biomedicine and broader healthcare, with the remaining half spread across electronic information, new energy, and advanced materials — tracks that closely mirror Pudong's flagship industries of "Intelligent Manufacturing," "Innovative Drugs," "Future Vehicles," and "Blue Sky Dreams." "Highly educated, international, hard-tech" is not promotional language but a set of structural variables that can be plotted directly onto an industrial map. More importantly, most members of this cohort are bilingual or multilingual, fluent in two regulatory regimes and two capital-markets logics — a "cross-border intermediation advantage" that domestic-only peers do not share. That, more than ceremony, is what makes the cohort a signal.
 
 ## Three Tracks: AI, Biomedicine, and the China Opportunity in Hard-Tech
 
-Among the 26% working in AI, two sub-tracks are repeatedly named: embodied intelligence robotics and AI-enabled educational hardware. The first has been pushed into mainstream industrial view by flagship products such as Tesla's Optimus ("Qing Tian Zhu") and Unitree, while the second translates large-model capabilities into mass-market consumer goods. Within the 21% in biomedicine and broader health, the standout projects are multi-cancer early-screening kits and synthetic-biology anti-ageing — both "long-cycle, capital-intensive, compliance-heavy" tracks, and precisely the ones most in need of institutional support. Putting these two classes of founder into the same camp betrays Pudong's preference: it wants to back projects that are "asset-heavy, compliance-intensive, and able to occupy key nodes of an industrial chain" — not merely projects that generate headlines. In other words, Pudong is not picking "celebrity founders"; it is picking "founders who, five years out, can plug into the key nodes of Zhangjiang's supply chain." That is a supply-side, chain-oriented selection logic, not a consumer-marketing one.
+Among the 26% working in AI, two sub-tracks are repeatedly named: embodied intelligence robotics and AI-enabled educational hardware. The first has been pushed into mainstream industrial view by flagship products such as Tesla's Optimus and Unitree, while the second translates large-model capabilities into mass-market consumer goods. Within the 21% in biomedicine and broader health, the standout projects are multi-cancer early-screening kits and synthetic-biology anti-ageing — both "long-cycle, capital-intensive, compliance-heavy" tracks, and precisely the ones most in need of institutional support. Putting these two classes of founder into the same camp betrays Pudong's preference: it wants to back projects that are "asset-heavy, compliance-intensive, and able to occupy key nodes of an industrial chain" — not merely projects that generate headlines. In other words, Pudong is not picking "celebrity founders"; it is picking "founders who, five years out, can plug into the key nodes of Zhangjiang's supply chain." That is a supply-side, chain-oriented selection logic, not a consumer-marketing one.
 
 ## Zhangjiang as the Overseas-Chinese / Innovation Interface: Space, Chains, and Institutions
 
@@ -62,7 +62,7 @@ The "on-site visits" module was placed in Zhangjiang rather than in Lujiazui or 
 
 ## Can "Short-Form Training + Long-Form Pairing" Actually Translate into Landed Projects?
 
-The camp's most operational feature is the synchronised mentor-and-staff pairing ceremony, in which each participant is matched with an entrepreneurship mentor and a dedicated talent-services officer, providing a long-tail support framework. In other words, the three-day programme is not the endpoint but the entry point of a longer chain. The short-form bootcamp offers density — 42 people, three days, five modules — packaging policy, industrial, and capital resources into a single window for participants; the long-form pairing offers continuity, converting a one-off event into an accountable service relationship. The real test is whether, after pairing, participants actually register companies in Shanghai, secure their first local round of funding, enter a Zhangjiang incubator or accelerator, and connect with a local clinical hospital or contract manufacturer. These are metrics that can only be verified "six months out." In other words, Pudong's sincerity in "productising" its overseas-Chinese work will ultimately be audited by the six-month conversion rate, not by the warmth of the on-site atmosphere.
+The camp's most operational feature is the synchronised mentor-and-staff pairing ceremony, in which each participant is matched with an entrepreneurship mentor and a dedicated talent-services officer, providing a long-term support framework. In other words, the three-day programme is not the endpoint but the entry point of a longer chain. The short-form bootcamp offers density — 42 people, three days, five modules — packaging policy, industrial, and capital resources into a single window for participants; the long-form pairing offers continuity, converting a one-off event into an accountable service relationship. The real test is whether, after pairing, participants actually register companies in Shanghai, secure their first local round of funding, enter a Zhangjiang incubator or accelerator, and connect with a local clinical hospital or contract manufacturer. These are metrics that can only be verified "six months out." In other words, Pudong's sincerity in "productising" its overseas-Chinese work will ultimately be audited by the six-month conversion rate, not by the warmth of the on-site atmosphere.
 
 ## The Participant's View: Wang Lei's "First-Line Industry" Logic and the Shanghai Calculus
 
