@@ -221,6 +221,17 @@ html[lang="en"] .brand__sub { display: none; }
   background: linear-gradient(135deg, var(--accent), var(--gold));
   display: flex; align-items: center; justify-content: center;
   font-family: var(--serif); font-size: 2.4rem; color: #fff; font-weight: 700;
+  object-fit: cover;
+  object-position: center 22%;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,.08);
+}
+/* 移动端（≤820px）保持 92px 不缩，确保人脸可辨 */
+@media (max-width: 820px) {
+  .author-profile__avatar { width: 88px; height: 88px; }
+}
+@media (max-width: 480px) {
+  .author-profile__avatar { width: 76px; height: 76px; }
 }
 .author-profile__body { flex: 1; }
 .author-profile__name { font-family: var(--serif); font-size: 1.6rem; margin: 0 0 4px; }
