@@ -45,7 +45,7 @@
     '经济': 'Economy', '矿业': 'Mining', '银行': 'Bank', '债券': 'Bond', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '行长': 'Governor', '利率': 'Interest Rate', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
     '日本': 'Japan',
     '小马科斯': 'Marcos Jr.', '普拉博沃': 'Prabowo', '罗兴亚': 'Rohingya', '中菲关系': 'China–Philippines Relations', '中印尼': 'China–Indonesia', '国际关系': 'International Relations', '安全化': 'Securitisation',
-    '侨务工作': 'Diaspora Affairs Work', '侨务政策': 'Diaspora Policy', '中国侨网': 'China Qiaowang', '软实力': 'Soft Power', '妈祖': 'Mazu', '气象预警': 'Weather Early Warning', '早期预警': 'Early Warning', '侨商': 'Overseas Chinese Merchant', '平陆运河': 'Pinglu Canal', '中国—东盟': 'China–ASEAN', '广西': 'Guangxi', '科技合作': 'Science & Technology Cooperation', '卫星': 'Satellite', '商业航天': 'Commercial Space', '电子产业': 'Electronics Industry', '外商直接投资': 'Foreign Direct Investment', '社会保障': 'Social Security', '劳动力': 'Labour Force', '人口老龄化': 'Population Ageing', '人才': 'Talent', '创新创业': 'Innovation & Entrepreneurship'
+    '侨务工作': 'Diaspora Affairs Work', '侨务政策': 'Diaspora Policy', '中国侨网': 'China Qiaowang', '软实力': 'Soft Power', '妈祖': 'Mazu', '气象预警': 'Weather Early Warning', '早期预警': 'Early Warning', '侨商': 'Overseas Chinese Merchant', '平陆运河': 'Pinglu Canal', '中国—东盟': 'China–ASEAN', '广西': 'Guangxi', '科技合作': 'Science & Technology Cooperation', '卫星': 'Satellite', '商业航天': 'Commercial Space', '电子产业': 'Electronics Industry', '外商直接投资': 'Foreign Direct Investment', '社会保障': 'Social Security', '劳动力': 'Labour Force', '人口老龄化': 'Population Ageing', '人才': 'Talent', '创新创业': 'Innovation & Entrepreneurship', '云南': 'Yunnan', '澜湄合作': 'Lancang–Mekong Cooperation'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 
