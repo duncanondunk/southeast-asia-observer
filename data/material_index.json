@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-29",
+  "version": "2026-08-31",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:马来西亚警方瓦解24非法矿场(2026-08)": {
@@ -646,6 +646,27 @@
       "exception": null,
       "slugs": [
         "yunnan-mushroom-spawn-vietnam-export-2026"
+      ]
+    },
+    "event:越南咖啡农改种榴莲(2026-08)": {
+      "note": "全新素材（联合早报/法新社，2026-08-30），角度为小农微观决策、失败案例与单一买家依赖风险；与既有 event:越南对华榴莲出口(2026上半年)（出口额/产业链/印度市场角度）不重复。",
+      "exception": null,
+      "slugs": [
+        "vietnam-coffee-farmers-switch-to-durian-2026"
+      ]
+    },
+    "event:泰新交易所争夺科技上市(2026-08)": {
+      "note": "全新素材（日经亚洲，2026-08-31），SET降上市门槛与SGX全球上市板/存托凭证，科技与AI企业上市争夺主题。",
+      "exception": null,
+      "slugs": [
+        "thailand-singapore-exchanges-tech-listings-2026"
+      ]
+    },
+    "event:马来西亚安华生活成本六项措施(2026-08)": {
+      "note": "全新素材（南华早报，2026-08-30），BUDI95配额回撤、学校拨款、AI订阅、医疗数字化、电子发票豁免、小微融资扩围。",
+      "exception": null,
+      "slugs": [
+        "malaysia-anwar-cost-of-living-measures-2026"
       ]
     }
   }

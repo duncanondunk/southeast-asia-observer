@@ -1,5 +1,148 @@
 [
   {
+    "slug": "vietnam-coffee-farmers-switch-to-durian-2026",
+    "title": "一条田埂上的两种赌注：越南咖啡农改种榴梿之后",
+    "subtitle": "当全球六分之一的咖啡产地改种榴梿，越南小农的致富账与风险账",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "经济产业",
+      "咖啡",
+      "榴莲",
+      "农产品",
+      "贸易",
+      "罗布斯塔"
+    ],
+    "country": "越南",
+    "date": "2026-08-31",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "越南中部高原十年间榴梿种植面积增逾五倍至20万公顷，九成输华。价差让农户致富，也埋下单一市场依赖的风险——成功者的别墅与失败者的退场，是同一场赌注的两面。",
+    "image": "images/articles/vietnam-coffee-farmers-switch-to-durian-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-08-31",
+    "imageAlt": "越南中部高原的榴梿果实，象征小农在单一出口市场下的致富赌注与结构性风险。",
+    "references": [
+      {
+        "source": "联合早报",
+        "title": "迎合中国庞大需求 越南咖啡农改种榴梿致富",
+        "url": "https://www.zaobao.com/news/sea",
+        "date": "2026-08-30"
+      }
+    ],
+    "en": {
+      "title": "Two gambles on one field: what happens after Vietnam's coffee farmers switch to durian",
+      "subtitle": "As one-sixth of the world's coffee belt replants for durian, the gains and the risks land on the same smallholders",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam's central highlands have planted more than five times as much land with durian over the past decade, reaching 200,000 hectares, and nine tenths of the crop goes to China. The price gap makes farmers rich, yet it also locks them into a single buyer. The winner's villa and the failure's exit are two sides of the same wager.",
+      "imageAlt": "Durian fruit from Vietnam's central highlands, symbolising smallholders' get-rich wager and structural risk under a single export market.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Vietnam coffee farmers switch to durian to ride China demand",
+          "url": "https://www.zaobao.com/news/sea",
+          "date": "2026-08-30"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "thailand-singapore-exchanges-tech-listings-2026",
+    "title": "曼谷降门槛、新加坡搭桥：东南亚两家交易所的“上市争夺战”",
+    "subtitle": "当全球融资潮改写资本流向，SET与SGX为何一个做减法、一个做加法",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "新加坡",
+      "经济产业",
+      "资本市场",
+      "首次公开募股",
+      "交易所",
+      "人工智能"
+    ],
+    "country": "新加坡",
+    "date": "2026-08-31",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "2026年上半年，泰国证交所仅1起IPO、募资1040万美元，新加坡5起、募资10.5亿美元。为争夺科技与人工智能企业，曼谷拟降上市门槛，新加坡则搭桥纳斯达克——两家争的其实是定价权。",
+    "image": "images/articles/thailand-singapore-exchanges-tech-listings-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-08-31",
+    "imageAlt": "曼谷黄昏中的摩天楼与写字楼群，象征东南亚资本市场对科技上市资源的争夺。",
+    "references": [
+      {
+        "source": "日经亚洲",
+        "title": "Thailand, Singapore exchanges seek tech listings as AI booms",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-08-31"
+      }
+    ],
+    "en": {
+      "title": "Bangkok lowers the bar, Singapore builds a bridge: Southeast Asia's exchanges chase the listing boom",
+      "subtitle": "As a global fundraising wave redirects capital, why SET subtracts and SGX adds",
+      "category": "Economy & Industry",
+      "country": "Singapore",
+      "summary": "In the first half of 2026 the Stock Exchange of Thailand managed a single IPO raising US$10.4 million, while Singapore's bourse raised US$1.05 billion across five. To court technology and AI issuers, Bangkok plans to lower its listing bar and Singapore is building a bridge to Nasdaq. Both are really competing for pricing power.",
+      "imageAlt": "Bangkok's skyline at twilight with illuminated office towers, symbolising the scramble for tech listings across Southeast Asian capital markets.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Thailand, Singapore exchanges seek tech listings as AI booms",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-08-31"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "malaysia-anwar-cost-of-living-measures-2026",
+    "title": "不等十月：安华在国庆前夕送出的六项措施",
+    "subtitle": "从BUDI95配额回撤到小微融资扩围，一份精准补贴的政治账与长期账",
+    "category": "经济产业",
+    "tags": [
+      "马来西亚",
+      "经济产业",
+      "燃料补贴",
+      "生活成本",
+      "小微融资",
+      "财政"
+    ],
+    "country": "马来西亚",
+    "date": "2026-08-31",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "8月30日晚，安华在国庆献词中宣布六项9月1日生效的措施：BUDI95配额由200升回恢复至300升、学校维修拨款增至15亿令吉、10万青年免费试用AI、医疗数字化、电子发票豁免门槛放宽、小微融资扩至60亿令吉。",
+    "image": "images/articles/malaysia-anwar-cost-of-living-measures-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-08-31",
+    "imageAlt": "吉隆坡街头停放的车辆与城市背景，呼应燃油补贴与民生成本议题。",
+    "references": [
+      {
+        "source": "南华早报",
+        "title": "Malaysia's Anwar unveils cost-of-living measures as opposition rises",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-08-31"
+      }
+    ],
+    "en": {
+      "title": "Not waiting for October: Anwar's six measures on the eve of Merdeka",
+      "subtitle": "From restoring the BUDI95 quota to widening microfinance, a targeted-subsidy political and long account",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "On 30 August Anwar unveiled six measures effective 1 September: the BUDI95 petrol quota restored from 200 to 300 litres, school maintenance funding raised to RM1.5 billion, free AI subscriptions for 100,000 youth, healthcare digitalisation, a higher e-invoicing threshold and microfinance expanded to RM6 billion. It is a textbook targeted-subsidy package and a political retreat.",
+      "imageAlt": "Vehicles parked near buildings on a Kuala Lumpur street, echoing the debate over fuel subsidies and the cost of living.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Malaysia's Anwar unveils cost-of-living measures as opposition rises",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-08-31"
+        }
+      ]
+    }
+  },
+  {
     "slug": "yunnan-mushroom-spawn-vietnam-export-2026",
     "title": "一万余袋菌种跨山越水：云南榆黄菇“出海”越南的生意与算计",
     "subtitle": "一桩地方农业小买卖，如何折射中国—东盟农业连通的产业链逻辑",
