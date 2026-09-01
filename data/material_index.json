@@ -675,6 +675,34 @@
       "slugs": [
         "chinese-martial-arts-south-africa-chafeker-2026"
       ]
+    },
+    "event:马来西亚华总驳斥\"阿嬷\"电影统战说(2026-06)": {
+      "slugs": [
+        "malaysia-huazong-dear-you-united-front-2026"
+      ],
+      "exception": null,
+      "note": "全新素材（中国侨网/中新网，2026-06-27），马来西亚华总总会长林家全驳斥将电影《给阿嬷的情书》与统战挂钩，离散身份政治/双层认同主题；与 film:Dear You、qiaopi-diaspora-letters 区分（本文聚焦华社政治表态而非影片本体或侨批制度）。"
+    },
+    "event:印尼首建航天发射场拟与俄合作(2026-08)": {
+      "slugs": [
+        "indonesia-biak-spaceport-russia-cooperation-2026"
+      ],
+      "exception": null,
+      "note": "全新素材（联合早报，2026-08-31），印尼比亚克岛首座航天发射场+俄Roscosmos初步接触+不结盟/二级制裁背景；与既有印尼条目（镍矿/央行/太阳能/100GW）不重复。"
+    },
+    "event:越南经济规模或超越泰国(2026)": {
+      "slugs": [
+        "vietnam-overtakes-thailand-economy-2026"
+      ],
+      "exception": null,
+      "note": "全新素材（日经亚洲，2026-01起持续发酵），越南名目GDP或于2026-27超越泰国、基建与供应链转移驱动；与既有越南榴莲/外长访缅等条目不重复。"
+    },
+    "event:马来西亚槟城外海非法船对船燃油转运(2026)": {
+      "slugs": [
+        "malaysia-penang-illegal-fuel-transfer-2026"
+      ],
+      "exception": null,
+      "note": "全新素材（南华早报/新海峡时报，2026-04起持续），MMEA在槟城外海拦截非法STS柴油/原油转运、影子船队与制裁规避；与既有马来西亚非法矿场、罗兴亚遣返等条目不重复。"
     }
   }
 }
