@@ -710,6 +710,13 @@
       "slugs": [
         "bangkok-chinese-character-art-festival-2026"
       ]
+    },
+    "event:印尼卫生部长竞选世卫组织总干事(2026-09)": {
+      "note": "全新素材（联合早报，2026-09-01/02），印尼卫生部长布迪在总统普拉博沃授意下参选世卫总干事；与既有中印尼关系、普拉博沃等条目不重复（本文聚焦全球卫生治理/联合国机构领导权争夺）。",
+      "exception": null,
+      "slugs": [
+        "indonesia-who-director-general-bid-2026"
+      ]
     }
   }
 }
