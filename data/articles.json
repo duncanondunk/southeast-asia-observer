@@ -1,5 +1,97 @@
 [
   {
+    "slug": "sea-air-pollution-2050-study-2026",
+    "title": "气候把雾霾\"养肥\"了：研究测算东南亚到2050年恐因空气污染多掏约4.2万亿元人民币",
+    "subtitle": "南洋理工大学领衔研究测算，高位排放下东南亚空气污染损失到2050年将突破1万亿美元，印尼与泰国受损最重。",
+    "category": "气候变化",
+    "tags": [
+      "空气污染",
+      "气候变化",
+      "公共卫生",
+      "印度尼西亚",
+      "泰国",
+      "东南亚",
+      "环境治理"
+    ],
+    "country": "东南亚",
+    "date": "2026-09-02",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "南洋理工大学领衔、发表于《环境国际》的研究测算，在高位排放情景下，东南亚到2050年因空气污染造成的损失将增至约1万亿美元（较2019年增加约5910亿美元），早逝人数上升近一成；印尼与泰国受损最重。研究警示，气候变化正通过改变天气系统放大污染，而薄弱的医保体系进一步放大经济损失。",
+    "image": "images/articles/sea-air-pollution-2050-study-2026.jpg",
+    "imageCredit": "Photo by David Kristianto on Unsplash",
+    "imageAccessed": "2026-09-02",
+    "imageAlt": "东南亚城市被烟霾笼罩的天际线",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Air pollution threatens Southeast Asia with more deaths, skyrocketing losses by 2050: study",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3331125/air-pollution-threatens-southeast-asia-more-deaths-us600-billion-losses-2050-study",
+        "date": "2026-09-01"
+      }
+    ],
+    "en": {
+      "title": "How climate change is feeding Southeast Asia's air-pollution bill: a study puts the 2050 cost at US$1 trillion",
+      "subtitle": "A study led by Nanyang Technological University projects Southeast Asia's air-pollution losses could top US$1 trillion by 2050 under a high-emissions scenario, with Indonesia and Thailand hit hardest.",
+      "category": "Climate Change",
+      "country": "Southeast Asia",
+      "summary": "A study led by Nanyang Technological University and published in Environment International projects that, under a high-emissions scenario, Southeast Asia's economic losses from air pollution will reach US$1.023 trillion by 2050 — a US$591 billion rise from 2019 — with premature deaths up nearly 10 per cent. Indonesia and Thailand are hit hardest. The authors warn that climate change is reshaping weather in ways that worsen pollution, while weak health systems compound the economic toll.",
+      "imageAlt": "Skyline of a Southeast Asian city shrouded in haze",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Air pollution threatens Southeast Asia with more deaths, skyrocketing losses by 2050: study"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "cambodia-thailand-chouk-chey-border-occupation-2026",
+    "title": "铁丝网后的村庄：柬泰停火何以在 Chouk Chey 裂开",
+    "subtitle": "南华早报观察：泰国在争议边境村架网设障，金边斥“吞并”，停火协议再受考验",
+    "category": "地缘政治",
+    "tags": [
+      "柬埔寨",
+      "泰国",
+      "地缘政治",
+      "边境",
+      "东盟"
+    ],
+    "country": "柬埔寨",
+    "date": "2026-09-02",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "泰国在柬泰争议边境的 Chouk Chey 村架设铁丝网与限期撤离通告，金边两度外交抗议并斥为“吞并”。本文梳理事件经过、二〇〇〇年备忘录与停火的法律脉络，以及东盟调停的局限与人道代价。",
+    "image": "images/articles/cambodia-thailand-chouk-chey-border-occupation-2026.jpg",
+    "imageCredit": "Photo by allPhoto Bangkok on Unsplash",
+    "imageAccessed": "2026-09-02",
+    "imageAlt": "柬埔寨吴哥窟石径上行走的游人，象征柬泰边境争端背后的历史与土地情结。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Cambodia accuses Thailand of annexing border village",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-09-02"
+      }
+    ],
+    "en": {
+      "title": "The village behind the wire: how the Cambodia–Thailand ceasefire cracked at Chouk Chey",
+      "subtitle": "South China Morning Post observes: Thai troops fence off a disputed border village as Phnom Penh cries 'annexation,' testing the truce again",
+      "category": "Geopolitics",
+      "country": "Cambodia",
+      "summary": "Thai troops erected wire and 'evacuate-or-face-penalty' notices around the disputed Chouk Chey village on the Cambodia–Thailand border, prompting two Cambodian diplomatic protests and charges of 'annexation.' The piece traces the incident, the legal thread of the 2000 MOU and the ceasefire, and the limits of ASEAN mediation alongside the human cost.",
+      "imageAlt": "Visitors walking a stone path toward Angkor Wat, Cambodia — emblematic of the history and land ties behind the border dispute.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Cambodia accuses Thailand of annexing border village",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-09-02"
+        }
+      ]
+    }
+  },
+  {
     "slug": "sea-ai-datacenter-boom-2026",
     "title": "东南亚AI数据中心淘金热：正在重写区域科技版图",
     "subtitle": "柔佛从新加坡的溢出市场成长为区域AI算力首要扩容地，主权云与超大规模设施双轨并行，而电力正取代土地成为这场淘金热的最终约束。",

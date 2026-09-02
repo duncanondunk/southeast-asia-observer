@@ -724,6 +724,20 @@
       ],
       "exception": null,
       "note": "全新素材：聚焦东南亚AI数据中心实体建设与美中技术栈并行、主权云双轨。"
+    },
+    "event:柬泰边境Chouk Chey村架网争议(2026-09)": {
+      "note": "全新素材（南华早报，2026-09-02），泰军在争议边境Chouk Chey村架设铁丝网与限期撤离通告，金边斥“吞并”，停火协议与二〇〇〇年备忘录法律脉络；与既有阿努廷访泰柬边境、泰南分离主义等条目不重复。",
+      "exception": null,
+      "slugs": [
+        "cambodia-thailand-chouk-chey-border-occupation-2026"
+      ]
+    },
+    "study:东南亚空气污染2050年致死与经济损耗预测研究(NTU/Environment International)": {
+      "note": "全新素材（南华早报，2026-09-02），东南亚区域空气污染的经济与早逝损失2050预测研究；与既有印尼林火/跨境烟霾/人工增雨等事件条目不重复（本篇为学术预测研究，非具体事件）。",
+      "exception": null,
+      "slugs": [
+        "sea-air-pollution-2050-study-2026"
+      ]
     }
   }
 }
