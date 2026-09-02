@@ -738,6 +738,27 @@
       "slugs": [
         "sea-air-pollution-2050-study-2026"
       ]
+    },
+    "event:中印尼双向语言学习热(2026-09)": {
+      "note": "全新素材（中国侨网，2026-09-02），中印尼双向语言热／华文教育／印尼语专业扩招主题；与既有语言、教育、侨务条目不重复。",
+      "exception": null,
+      "slugs": [
+        "china-indonesia-language-learning-boom-2026"
+      ]
+    },
+    "event:印尼接收意大利退役航母加查马达号(2026-09)": {
+      "note": "全新素材（联合早报，2026-09-02），印尼接收意大利退役轻型航母加里波第号／更名加查·马达号／东南亚第二艘航母主题；与既有军备、海上安全条目不重复。",
+      "exception": null,
+      "slugs": [
+        "indonesia-second-aircraft-carrier-gajah-mada-2026"
+      ]
+    },
+    "event:印尼强厄尔尼诺经济冲击(2026-09)": {
+      "note": "全新素材（日经亚洲，2026-09-02），印尼强厄尔尼诺经济冲击／粮食CPI／棕榈油B50／水电主题；与既有气候变化、经济条目不重复。",
+      "exception": null,
+      "slugs": [
+        "indonesia-el-nino-economic-shock-2026"
+      ]
     }
   }
 }

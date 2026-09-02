@@ -1,5 +1,155 @@
 [
   {
+    "slug": "china-indonesia-language-learning-boom-2026",
+    "title": "中印尼\"双向语言热\"：从华校复办到\"中文+职教\"",
+    "subtitle": "中文在千岛之国持续升温，中国高校印尼语专业同步扩招，语言正成为两国全面战略伙伴关系下最柔软也最坚韧的纽带。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "华文教育",
+      "语言",
+      "印尼",
+      "印度尼西亚",
+      "中国",
+      "中印尼关系",
+      "东盟",
+      "东南亚",
+      "经贸合作",
+      "文化认同",
+      "软实力"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-09-02",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "印尼华文教育自一九九八年改革后逐步解禁，华校复办、孔子学院与HSK考点持续扩张；与此同时，中国高校印尼语专业悄然扩招。双向语言热背后是两国经贸回暖与侨社中介的合力，语言正成为中印尼关系最柔软也最坚韧的纽带。",
+    "image": "images/articles/china-indonesia-language-learning-boom-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-02",
+    "imageAlt": "雅加达街心环岛欢迎纪念碑与周边高楼，行人穿行其间。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "中印尼燃起双向语言学习热",
+        "url": "http://www.chinaqw.com/",
+        "date": "2026-09-02"
+      }
+    ],
+    "en": {
+      "title": "China–Indonesia's two-way language boom: from revived Chinese schools to \"Chinese plus vocational training\"",
+      "subtitle": "Chinese is heating up across the archipelago while Indonesian-language programs in China expand in parallel — language is becoming the softest yet toughest tie in the comprehensive strategic partnership.",
+      "category": "Overseas Chinese",
+      "country": "Indonesia",
+      "summary": "Since Indonesia's 1998 reforms, Chinese-language education has revived: Chinese schools reopened, Confucius Institutes and HSK centers expanded. In parallel, Indonesian-language programs in Chinese universities are quietly growing. This two-way language boom, powered by recovering business ties and overseas-Chinese networks, is becoming the softest yet toughest thread in China–Indonesia relations.",
+      "imageAlt": "Jakarta's welcome-monument roundabout with surrounding high-rises and pedestrians.",
+      "references": [
+        {
+          "source": "China News Service (Chinaqw.com)",
+          "title": "China and Indonesia kindle a two-way language-learning boom",
+          "url": "http://www.chinaqw.com/",
+          "date": "2026-09-02"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "indonesia-second-aircraft-carrier-gajah-mada-2026",
+    "title": "印尼迎来\"加查·马达\"号：东南亚第二艘航母的梦想与账单",
+    "subtitle": "意大利退役轻型航母\"加里波第\"号更名\"加查·马达\"号加入印尼海军，雅加达由此成为继曼谷之后东南亚第二个拥有航母的国家，海权雄心与运营账单同时登场。",
+    "category": "地缘政治",
+    "tags": [
+      "地缘政治",
+      "军事合作",
+      "印度尼西亚",
+      "印尼",
+      "海上安全",
+      "军备",
+      "中印尼关系"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-09-02",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "意大利将退役近四十年的轻型航母\"加里波第\"号无偿赠予印尼，更名\"加查·马达\"号，计划九月二十五日入役。印尼由此成为继泰国之后东南亚第二个拥有航母的国家。一艘\"空壳\"老舰折射出雅加达的海权雄心，也留下一道昂贵的运营账单。",
+    "image": "images/articles/indonesia-second-aircraft-carrier-gajah-mada-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-02",
+    "imageAlt": "一艘航空母舰在平静水面上航行（示意图）。",
+    "references": [
+      {
+        "source": "联合早报",
+        "title": "印尼接收意大利退役航母，更名加查·马达号",
+        "url": "https://www.zaobao.com/news/sea",
+        "date": "2026-09-02"
+      }
+    ],
+    "en": {
+      "title": "Indonesia welcomes the \"Gajah Mada\": the dream and the bill of Southeast Asia's second aircraft carrier",
+      "subtitle": "Italy's retired light carrier \"Giuseppe Garibaldi,\" renamed \"Gajah Mada,\" joins the Indonesian navy — making Jakarta the second Southeast Asian capital after Bangkok to operate an aircraft carrier, with naval ambition and an operating bill arriving together.",
+      "category": "Geopolitics",
+      "country": "Indonesia",
+      "summary": "Italy is gifting Indonesia its retired light carrier \"Giuseppe Garibaldi,\" to be renamed \"Gajah Mada\" and commissioned on 25 September. Jakarta thus becomes the second Southeast Asian capital after Bangkok to operate an aircraft carrier. A hollowed-out veteran embodies Indonesia's maritime ambition — and an expensive operating bill.",
+      "imageAlt": "An aircraft carrier sailing on calm water (illustrative).",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Indonesia receives Italy's retired carrier, renaming it 'Gajah Mada'",
+          "url": "https://www.zaobao.com/news/sea",
+          "date": "2026-09-02"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "indonesia-el-nino-economic-shock-2026",
+    "title": "印尼\"超级厄尔尼诺\"的经济账：当干旱烧进 CPI",
+    "subtitle": "ENSO指数升至+1.59，食品占CPI权重22.5%，棕榈油与水电同时承压。野村将印尼列为全球第三大受厄尔尼诺经济冲击暴露的市场，气候异常正变成财政与民生的共同账单。",
+    "category": "经济产业",
+    "tags": [
+      "气候变化",
+      "印度尼西亚",
+      "印尼",
+      "经济",
+      "农业",
+      "能源",
+      "棕榈油"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-09-02",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "厄尔尼诺九月进入印尼峰值，ENSO指数达+1.59。食品占CPI的22.5%，农业雇用27.3%劳动力，干旱沿粮食、棕榈油、水电链条传导。野村将印尼列为全球第三大受冲击市场，气候异常正变成财政与民生的共同账单。",
+    "image": "images/articles/indonesia-el-nino-economic-shock-2026.jpg",
+    "imageCredit": "Unsplash / Maria Maciel",
+    "imageAccessed": "2026-09-02",
+    "imageAlt": "郁郁葱葱的棕榈油种植园，地表覆有绿色植被。",
+    "references": [
+      {
+        "source": "日经亚洲",
+        "title": "印尼强厄尔尼诺冲击粮食、棕榈油与电力",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-02"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's \"super El Niño\" economic bill: when drought burns into the CPI",
+      "subtitle": "With the ENSO index at +1.59 and food at 22.5% of CPI, palm oil and hydropower are squeezed at once. Nomura ranks Indonesia the world's third-most exposed market to El Niño's economic shock — a climate anomaly turned into a fiscal and livelihood bill.",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "El Niño peaks in Indonesia this September with the ENSO index at +1.59. Food is 22.5% of CPI and agriculture employs 27.3% of the labor force, so drought travels through food, palm oil and hydropower. Nomura ranks Indonesia the world's third-most exposed market — a climate anomaly turned into a fiscal and livelihood bill.",
+      "imageAlt": "A dense palm oil plantation with green undergrowth.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia's El Niño shock ripples through food, palm oil and power",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-09-02"
+        }
+      ]
+    }
+  },
+
+  {
     "slug": "sea-air-pollution-2050-study-2026",
     "title": "气候把雾霾\"养肥\"了：研究测算东南亚到2050年恐因空气污染多掏约4.2万亿元人民币",
     "subtitle": "南洋理工大学领衔研究测算，高位排放下东南亚空气污染损失到2050年将突破1万亿美元，印尼与泰国受损最重。",
