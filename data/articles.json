@@ -1,5 +1,55 @@
 [
   {
+    "slug": "sea-ai-datacenter-boom-2026",
+    "title": "东南亚AI数据中心淘金热：正在重写区域科技版图",
+    "subtitle": "柔佛从新加坡的溢出市场成长为区域AI算力首要扩容地，主权云与超大规模设施双轨并行，而电力正取代土地成为这场淘金热的最终约束。",
+    "category": "经济产业",
+    "tags": [
+      "马来西亚",
+      "东南亚",
+      "人工智能",
+      "数据中心",
+      "数字经济",
+      "地缘政治",
+      "中美竞争",
+      "能源",
+      "云计算"
+    ],
+    "country": "马来西亚",
+    "date": "2026-09-02",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "过去两年东南亚成长为全球最快的人工智能算力竞技场之一：新加坡转向战略指挥节点，马来西亚柔佛借溢出效应崛起为主权云与超大规模设施聚集地，而电力而非土地成为最终瓶颈。",
+    "image": "images/articles/sea-ai-datacenter-boom-2026.jpg",
+    "imageCredit": "Unsplash / Albert Stoynov",
+    "imageAccessed": "2026-09-02",
+    "imageAlt": "数据中心机房内整齐排布的服务器机柜与线缆。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Johor emerges as Southeast Asia's AI data-center hub amid Singapore constraints",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-02"
+      }
+    ],
+    "en": {
+      "title": "Southeast Asia's AI data-center gold rush is redrawing the region's tech map",
+      "subtitle": "Johor has grown from Singapore's spillover market into the region's primary AI-compute scale-out site, as sovereign clouds and hyperscaler campuses run in parallel — with power, not land, becoming the ultimate constraint.",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Southeast Asia has become one of the world's fastest-growing AI compute hubs. Singapore has pivoted to a strategic command node, while Malaysia's Johor has absorbed the spillover as a sovereign-cloud and hyperscaler cluster — with power, not land, emerging as the real constraint.",
+      "imageAlt": "Rows of server racks and cables neatly arranged inside a data-center room.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Johor emerges as Southeast Asia's AI data-center hub amid Singapore constraints",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-09-02"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-who-director-general-bid-2026",
     "title": "印尼角逐世卫组织总干事：普拉博沃的“全球南方”棋局",
     "subtitle": "从银行家到全球卫生领袖候选，印尼的第一次联合国机构一把手之梦",

@@ -717,6 +717,13 @@
       "slugs": [
         "indonesia-who-director-general-bid-2026"
       ]
+    },
+    "topic:东南亚AI数据中心建设热潮(美中云角力,2026)": {
+      "slugs": [
+        "sea-ai-datacenter-boom-2026"
+      ],
+      "exception": null,
+      "note": "全新素材：聚焦东南亚AI数据中心实体建设与美中技术栈并行、主权云双轨。"
     }
   }
 }
