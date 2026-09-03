@@ -759,6 +759,30 @@
       "slugs": [
         "indonesia-el-nino-economic-shock-2026"
       ]
+    },
+    "event:广州茶居扩至37国(2026-09)": {
+      "core_material": "event:广州茶居扩至37国(2026-09)",
+      "slugs": [
+        "guangzhou-tea-house-diaspora-network-2026"
+      ]
+    },
+    "event:新泰重启领导人会晤(2026-09)": {
+      "core_material": "event:新泰重启领导人会晤(2026-09)",
+      "slugs": [
+        "singapore-thailand-leaders-retreat-asean-2026"
+      ]
+    },
+    "event:菲律宾比索创历史新低(2026-09)": {
+      "core_material": "event:菲律宾比索创历史新低(2026-09)",
+      "slugs": [
+        "philippine-peso-record-low-oil-shock-2026"
+      ]
+    },
+    "event:敏昂莱访越(2026-09)": {
+      "core_material": "event:敏昂莱访越(2026-09)",
+      "slugs": [
+        "myanmar-president-vietnam-visit-2026"
+      ]
     }
   }
 }
