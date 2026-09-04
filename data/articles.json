@@ -1,5 +1,51 @@
 [
   {
+    "slug": "overseas-chinese-lawyers-going-global-2026",
+    "title": "华语律师与企业出海：一座被忽视的\"法治桥梁\"",
+    "subtitle": "2026年华语律师大会在深圳举行，预示着华侨华人专业人士群体正以更制度化的方式，为中国企业走向海外提供护航。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "企业出海",
+      "东南亚",
+      "软实力",
+      "法律"
+    ],
+    "country": "中国",
+    "date": "2026-09-04",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "2026年华语律师大会在深圳召开，提出为出海企业共筑\"法治桥梁\"。本文指出，华侨华人法律群体正以语言者、文化转译与制度中介三重身份，成为中国对外扩张中低调却关键的柔性基础设施，其中东南亚需求最盛，但桥亦双向、须防浪漫化。",
+    "image": "images/articles/overseas-chinese-lawyers-going-global-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-04",
+    "imageAlt": "金边一场商务会议上多元背景的与会者围坐讨论",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "2026华语律师大会在深圳举办 共筑企业出海\"法治桥梁\"",
+        "url": "https://www.chinaqw.com/qwxs/2026/09-03/410973.shtml",
+        "date": "2026-09-03"
+      }
+    ],
+    "en": {
+      "title": "Overseas Chinese Lawyers and China's \"Going Global\": The Quiet Legal Bridge",
+      "subtitle": "The 2026 Chinese-Speaking Lawyers Conference in Shenzhen signals a more institutionalized role for the diaspora's professional class in steering Chinese firms abroad.",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "The 2026 Chinese-Speaking Lawyers Conference in Shenzhen promoted a 'rule-of-law bridge' for Chinese firms going global. This commentary argues that overseas Chinese legal professionals — acting as linguists, cultural interpreters, and institutional gatekeepers — form an underrated soft infrastructure of China's expansion, busiest in Southeast Asia, yet a bridge that cuts both ways.",
+      "imageAlt": "Diverse participants in discussion at a business conference in Phnom Penh",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "2026 Chinese-Speaking Lawyers Conference held in Shenzhen, building a 'rule-of-law bridge' for going-global firms",
+          "url": "https://www.chinaqw.com/qwxs/2026/09-03/410973.shtml",
+          "date": "2026-09-03"
+        }
+      ]
+    }
+  },
+  {
     "slug": "guangzhou-tea-house-diaspora-network-2026",
     "title": "\"广州茶居\"走向37个国家和地区：侨务网络如何连接故土与住在国",
     "subtitle": "广州侨联共建的\"广州茶居\"已扩至51家、遍布37个国家和地区，以一盏茶为纽带，串起侨牵友谊、商贸、科技、人才与公益的五重网络。",

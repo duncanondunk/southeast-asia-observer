@@ -783,6 +783,13 @@
       "slugs": [
         "myanmar-president-vietnam-visit-2026"
       ]
+    },
+    "event:2026华语律师大会(深圳·企业出海法治桥梁)": {
+      "note": "全新素材（中国侨网/中新社，2026-09-03）：华语律师大会在深圳，华人律师为出海企业构建'法治桥梁'，东南亚为最繁忙渡口。",
+      "exception": null,
+      "slugs": [
+        "overseas-chinese-lawyers-going-global-2026"
+      ]
     }
   }
 }
