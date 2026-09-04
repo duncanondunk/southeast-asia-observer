@@ -1,5 +1,95 @@
 [
   {
+    "slug": "china-singapore-maritime-cooperation-2026-exercise",
+    "title": "中新\"海上合作-2026\"联演在湛江海域举行：小多边默契里的战略信号",
+    "subtitle": "中国国防部9月3日宣布，中新海军9月上旬在湛江附近海空域举行\"海上合作-2026\"联演，科目含实弹射击、海上补给与联合搜救。",
+    "category": "地缘政治",
+    "tags": ["地缘政治","中国","新加坡","军事合作","海上安全","东盟","周边外交"],
+    "country": "新加坡",
+    "date": "2026-09-04",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "中国国防部9月3日宣布，中新海军9月上旬在湛江附近海空域举行\"海上合作-2026\"联演，含实弹射击、海上补给与联合搜救。这场机制化训练，体现两国以低敏感科目管控分歧、把互信做进流程的耐心。",
+    "image": "images/articles/china-singapore-maritime-cooperation-2026-exercise.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-04",
+    "imageAlt": "湛江海域与中新海上联合训练意象",
+    "references": [
+      {"source":"联合早报","title":"中新将举行\"海上合作-2026\"联演","url":"https://www.zaobao.com/news/sea","date":"2026-09-03"}
+    ],
+    "en": {
+      "title": "China and Singapore Launch \"Maritime Cooperation-2026\" in Waters off Zhanjiang",
+      "subtitle": "On 3 September China's defence ministry said the two navies would hold the drill in early September off Zhanjiang, covering live-fire, replenishment and joint search-and-rescue.",
+      "category": "Geopolitics",
+      "country": "Singapore",
+      "summary": "On 3 September China's defence ministry announced the \"Maritime Cooperation-2026\" exercise with Singapore in early September off Zhanjiang, covering live-fire, replenishment and joint search-and-rescue. The institutionalised drill shows how two states of unequal weight manage differences through low-sensitivity subjects.",
+      "imageAlt": "Zhanjiang waters and China–Singapore naval training",
+      "references": [
+        {"source":"Lianhe Zaobao","title":"中新将举行\"海上合作-2026\"联演","url":"https://www.zaobao.com/news/sea","date":"2026-09-03"}
+      ]
+    }
+  },
+  {
+    "slug": "vietnam-record-trade-ai-boom-2026",
+    "title": "越南前8月贸易额冲上7700亿美元：AI浪潮下的\"中国加一\"样本",
+    "subtitle": "越南统计总局9月3日公布，前8个月进出口达7700亿美元创同期纪录，日经亚洲称AI带动的电子产品需求是主要拉动。",
+    "category": "经济产业",
+    "tags": ["经济产业","越南","经济","贸易","人工智能","产业链","供应链","制造业","出口","东南亚","中国—东盟"],
+    "country": "越南",
+    "date": "2026-09-04",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "越南统计总局9月3日公布前8个月贸易达7700亿美元创纪录，日经亚洲指AI带动的电子产品需求是主因。越南借\"中国加一\"十年承接产能，却也暴露加工型经济附加值偏薄与电力瓶颈。",
+    "image": "images/articles/vietnam-record-trade-ai-boom-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-04",
+    "imageAlt": "越南电子制造与出口集装箱意象",
+    "references": [
+      {"source":"日经亚洲","title":"Vietnam's two-track September: AI-fuelled trade hits $770bn record","url":"https://asia.nikkei.com","date":"2026-09-03"}
+    ],
+    "en": {
+      "title": "Vietnam's Eight-Month Trade Hits a Record $770bn: A \"China Plus One\" Tested by the AI Wave",
+      "subtitle": "On 3 September Vietnam's GSO reported eight-month trade of US$770bn, a record; Nikkei Asia attributes the jump to AI-driven electronics demand.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "On 3 September Vietnam's GSO reported eight-month trade of US$770bn, a record; Nikkei Asia pins the jump on AI-driven electronics demand. A decade of China Plus One paid off, but the processing economy still shows thin value-added and power bottlenecks.",
+      "imageAlt": "Vietnamese electronics manufacturing and export containers",
+      "references": [
+        {"source":"Nikkei Asia","title":"Vietnam's two-track September: AI-fuelled trade hits $770bn record","url":"https://asia.nikkei.com","date":"2026-09-03"}
+      ]
+    }
+  },
+  {
+    "slug": "vietnam-china-cross-border-railway-2026",
+    "title": "越南敲定30亿美元跨境铁路对接中国：陆路联通背后的战略提速",
+    "subtitle": "9月2日多家媒体报道越南敲定对接中国铁路网的跨境铁路项目，投资约30亿美元，被视为融入泛亚铁路东线关键一步。",
+    "category": "地缘政治",
+    "tags": ["地缘政治","经济产业","越南","中国—东盟","基础设施","铁路","经贸合作","一带一路","东南亚","投资"],
+    "country": "越南",
+    "date": "2026-09-04",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "9月2日多家媒体报道越南敲定对接中国铁路网的跨境铁路项目，投资约30亿美元。采用标准轨将实现与中国西南直通，融入泛亚铁路东线，为越南制造提供通往欧亚腹地的备份命脉。",
+    "image": "images/articles/vietnam-china-cross-border-railway-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-04",
+    "imageAlt": "越南北部铁路与跨境联通意象",
+    "references": [
+      {"source":"南华早报","title":"越南敲定30亿美元跨境铁路对接中国","url":"https://www.scmp.com/news/asia/southeast-asia","date":"2026-09-02"}
+    ],
+    "en": {
+      "title": "Vietnam Finalises a $3bn Cross-Border Railway Linking to China",
+      "subtitle": "On 2 September outlets reported Hanoi finalised a cross-border railway to China's network at about US$3bn, a key step into the Trans-Asian Railway's eastern corridor.",
+      "category": "Geopolitics",
+      "country": "Vietnam",
+      "summary": "On 2 September outlets reported Vietnam finalised a cross-border railway to China's network at about US$3bn. Standard gauge enables direct through-running to southwest China and the Trans-Asian corridor, giving Vietnamese manufacturing a backup lifeline to Eurasia.",
+      "imageAlt": "Northern Vietnam railway and cross-border connectivity",
+      "references": [
+        {"source":"South China Morning Post","title":"越南敲定30亿美元跨境铁路对接中国","url":"https://www.scmp.com/news/asia/southeast-asia","date":"2026-09-02"}
+      ]
+    }
+  },
+  {
     "slug": "overseas-chinese-lawyers-going-global-2026",
     "title": "华语律师与企业出海：一座被忽视的\"法治桥梁\"",
     "subtitle": "2026年华语律师大会在深圳举行，预示着华侨华人专业人士群体正以更制度化的方式，为中国企业走向海外提供护航。",
