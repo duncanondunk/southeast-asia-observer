@@ -5,17 +5,23 @@
     "event:中新海上合作2026联演(2026-09)": {
       "note": "全新素材（联合早报，2026-09-04），中新海军湛江海域\"海上合作-2026\"联演，地缘政治/军事合作主题；与既有南海、军事合作条目不重复。",
       "exception": null,
-      "slugs": ["china-singapore-maritime-cooperation-2026-exercise"]
+      "slugs": [
+        "china-singapore-maritime-cooperation-2026-exercise"
+      ]
     },
     "event:越南前8月贸易额7700亿创纪录(2026-09)": {
       "note": "全新素材（日经亚洲，2026-09-04），越南前8月贸易7700亿美元创纪录、AI驱动，经济产业/产业链主题。",
       "exception": null,
-      "slugs": ["vietnam-record-trade-ai-boom-2026"]
+      "slugs": [
+        "vietnam-record-trade-ai-boom-2026"
+      ]
     },
     "event:越南30亿美元跨境铁路对接中国(2026-09)": {
       "note": "全新素材（南华早报，2026-09-04），越南敲定约30亿美元跨境铁路对接中国铁路网，地缘政治/基础设施主题。",
       "exception": null,
-      "slugs": ["vietnam-china-cross-border-railway-2026"]
+      "slugs": [
+        "vietnam-china-cross-border-railway-2026"
+      ]
     },
     "event:马来西亚警方瓦解24非法矿场(2026-08)": {
       "note": "全新素材（联合早报，2026-08-28），非法采矿/稀土盗采/跨境灰产主题；与既有稀土、矿场、环境条目不重复。",
@@ -804,6 +810,34 @@
       "exception": null,
       "slugs": [
         "overseas-chinese-lawyers-going-global-2026"
+      ]
+    },
+    "event:中印尼友好故事会深圳(2026-09)": {
+      "note": "全新素材（中国侨网，2026-09-05），深圳中国—印尼友好故事会\"海洋发展的蓝色奇迹\"，华侨华人/文化交流/海洋合作主题。",
+      "exception": null,
+      "slugs": [
+        "china-indonesia-ocean-stories-shenzhen-2026"
+      ]
+    },
+    "event:新加坡泰国领导人retreat(2026-09)": {
+      "note": "全新素材（联合早报，2026-09-05），新泰领导人retreat与\"面向未来战略伙伴\"联合声明，地缘政治/东盟合作主题。",
+      "exception": null,
+      "slugs": [
+        "singapore-thailand-strategic-partnership-2026"
+      ]
+    },
+    "event:东南亚收紧中国EV进口门槛(2026-09)": {
+      "note": "全新素材（日经亚洲，2026-09-05），马来、泰国等收紧中国产纯电进口条件并要求本地生产，经济产业/电动汽车主题。",
+      "exception": null,
+      "slugs": [
+        "southeast-asia-china-ev-barriers-2026"
+      ]
+    },
+    "event:越南用工荒中国挤压论(2026-09)": {
+      "note": "全新素材（南华早报，2026-09-05），越南用工荒与中国技工被争抢，反驳西方\"中国挤压论\"，经济产业/产业链主题。",
+      "exception": null,
+      "slugs": [
+        "vietnam-labor-shortage-china-squeeze-2026"
       ]
     }
   }
