@@ -1,5 +1,206 @@
 [
   {
+    "slug": "china-myanmar-youth-code-bridge-huawen-2026",
+    "title": "缅甸华裔青年用代码架起华文教育的数字桥梁",
+    "subtitle": "当编程成为文化传承的新载体，东南亚华侨华人新生代正以数字手段接棒母语守护。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "华文教育",
+      "缅甸",
+      "青年侨胞",
+      "科技",
+      "中文",
+      "文化传承",
+      "东南亚",
+      "侨务",
+      "教育"
+    ],
+    "country": "缅甸",
+    "date": "2026-09-07",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "缅甸华裔青年杨家迅以编程搭建华文学习平台，折射东南亚华侨华人新生代用数字手段接棒文化传承的趋势。从殖民义学到1965年外侨办学国有化，缅甸华文教育在夹缝中延续；近年随中缅经贸回暖逐步复兴。中国侨务政策以柔性文化投入支撑海外华文教育，而数字化正为这一古老课题提供新解法。",
+    "image": "images/articles/china-myanmar-youth-code-bridge-huawen-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-07",
+    "imageAlt": "一名青年在笔记本电脑上编写华文学习程序的意象",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "缅甸华裔学生杨家迅：用代码架起华文教育的数字桥梁",
+        "url": "https://www.chinaqw.com",
+        "date": "2026-09-07"
+      }
+    ],
+    "en": {
+      "title": "A Myanmar-Born Ethnic Chinese Youth Builds a Digital Bridge for Chinese Education",
+      "subtitle": "As coding becomes a new vehicle for heritage, Southeast Asia's young overseas Chinese are carrying the mother tongue forward with digital tools.",
+      "category": "Overseas Chinese",
+      "country": "Myanmar",
+      "summary": "A Myanmar-born ethnic Chinese student, Yang Jiaxun, has drawn attention for building coding tools that help local Chinese schools teach the language. His case captures a wider shift: Southeast Asia's young overseas Chinese are using digital means to carry forward heritage. As Beijing backs Chinese education abroad through soft cultural programmes, digitisation offers a fresh answer to an old test.",
+      "imageAlt": "A young person writing a Chinese-learning program on a laptop",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Myanmar ethnic Chinese student Yang Jiaxun: coding a digital bridge for Chinese education",
+          "url": "https://www.chinaqw.com",
+          "date": "2026-09-07"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "us-aircraft-carrier-lincoln-thailand-2026",
+    "title": "美军“林肯”号航母停靠泰国芭堤雅，九个月来首次",
+    "subtitle": "一次例行港口访问，折射东南亚作为大国海上竞技场的常态，与美国印太“动态部署”的逻辑。",
+    "category": "地缘政治",
+    "tags": [
+      "地缘政治",
+      "泰国",
+      "美国",
+      "军事",
+      "海上安全",
+      "周边外交",
+      "东南亚",
+      "东盟",
+      "中美竞争"
+    ],
+    "country": "泰国",
+    "date": "2026-09-07",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "美国“林肯”号航母9月初停靠泰国芭堤雅，九个月来再度靠泊。作为美国老牌条约盟友，泰国以“竹子外交”在美中间灵活平衡；航母到访既延续安全惯性，也折射华盛顿在印太前沿的“动态部署”。对东南亚国家而言，大国军舰是安慰也是隐忧——和平不在于没有军舰，而在于各方仍愿把船开进港口。",
+    "image": "images/articles/us-aircraft-carrier-lincoln-thailand-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-07",
+    "imageAlt": "一艘航空母舰在开阔水面上航行的意象",
+    "references": [
+      {
+        "source": "联合早报",
+        "title": "美军“林肯”号航母靠港芭堤雅五天",
+        "url": "https://www.zaobao.com/news/sea",
+        "date": "2026-09-02"
+      }
+    ],
+    "en": {
+      "title": "US Carrier Abraham Lincoln Docks at Pattaya, First Thailand Call in Nine Months",
+      "subtitle": "A routine port visit reveals Southeast Asia's normalcy as a great-power maritime arena and Washington's logic of Indo-Pacific dynamic posture.",
+      "category": "Geopolitics",
+      "country": "Thailand",
+      "summary": "In early September the US carrier Abraham Lincoln docked at Pattaya, its first Thailand call in nine months. As Washington's long-standing treaty ally, Thailand balances between the US and China through “bamboo diplomacy”; the visit reflects America's dynamic Indo-Pacific posture. For regional states, great-power ships are both reassurance and worry—peace lies in rivals still sailing into port rather than at each other.",
+      "imageAlt": "An aircraft carrier sailing on open water",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "US carrier Abraham Lincoln docked at Pattaya for five days",
+          "url": "https://www.zaobao.com/news/sea",
+          "date": "2026-09-02"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "japan-us-philippines-manila-ai-hub-2026",
+    "title": "日美菲将合办马尼拉AI枢纽投资论坛",
+    "subtitle": "菲律宾被推上区域数字基建节点，但电网脆弱令“数据中心红利”存疑。",
+    "category": "经济产业",
+    "tags": [
+      "经济产业",
+      "菲律宾",
+      "人工智能",
+      "数据中心",
+      "数字经济",
+      "美国",
+      "日本",
+      "投资",
+      "半导体",
+      "供应链",
+      "东南亚",
+      "中国—东盟"
+    ],
+    "country": "菲律宾",
+    "date": "2026-09-07",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "日经亚洲报道，日美菲将于9月在马尼拉合办AI枢纽投资论坛。菲律宾凭英语人力与亲美叙事被推上区域数字节点，但电网脆弱、电价高令“数据中心红利”存疑。东南亚数字基建并非中美二选一，而是混合网络；一场论坛标记趋势——数字博弈正以“招商”形式落地，主权与电网才是关键。",
+    "image": "images/articles/japan-us-philippines-manila-ai-hub-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-07",
+    "imageAlt": "数据中心机房中成排服务器机架的意象",
+    "references": [
+      {
+        "source": "日经亚洲",
+        "title": "Japan, US and Philippines to host Manila AI hub investment forum",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-09-07"
+      }
+    ],
+    "en": {
+      "title": "Japan, US and Philippines to Host Manila AI-Hub Investment Forum",
+      "subtitle": "The Philippines is pushed toward a regional digital-infrastructure node, yet a fragile grid casts doubt on the “data-centre dividend.”",
+      "category": "Economy & Industry",
+      "country": "Philippines",
+      "summary": "Nikkei Asia reports Tokyo, Washington and Manila will host an AI-hub investment forum in September. The Philippines, with English labour and a pro-US story, is pushed toward a regional compute node, yet a fragile grid and high prices cast doubt on the “data-centre dividend.” Southeast Asian digital build is a hybrid network, not a China–US choice; the forum marks a trend of digital rivalry landing via investment.",
+      "imageAlt": "Rows of server racks in a data-centre room",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Japan, US and Philippines to host Manila AI-hub investment forum",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-09-07"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "vietnam-ends-drug-trafficking-death-penalty-2026",
+    "title": "越南拟取消化毒品贩运死刑，地区争议再起",
+    "subtitle": "从“以刑吓止”到“以治代刑”，一纸修法折射越南治理思路的转向。",
+    "category": "社会文化",
+    "tags": [
+      "社会文化",
+      "越南",
+      "法律",
+      "社会政策",
+      "东南亚",
+      "东盟"
+    ],
+    "country": "越南",
+    "date": "2026-09-07",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "南华早报报道，越南拟在刑法修订中取消化毒品贩运死刑，若通过将仅保留叛国、谋杀等极少数死刑罪名。支持者称严刑威慑有限、应转向康复与边境治理；反对者忧金三角外缘毒情加剧。东南亚对毒品死刑态度参差，此番松绑折射越南从“以刑吓止”转向“以治代刑”的治理思路。",
+    "image": "images/articles/vietnam-ends-drug-trafficking-death-penalty-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-09-07",
+    "imageAlt": "木槌与法典置于桌面、象征司法修订的意象",
+    "references": [
+      {
+        "source": "南华早报",
+        "title": "Vietnam moves to end executions for drug trafficking",
+        "url": "https://www.scmp.com",
+        "date": "2026-08-29"
+      }
+    ],
+    "en": {
+      "title": "Vietnam Moves to Scrap Death Penalty for Drug Trafficking, Stirring Regional Debate",
+      "subtitle": "From “deter by sentence” to “govern by cure,” one amendment signals a turn in Vietnam's governance thinking.",
+      "category": "Society & Culture",
+      "country": "Vietnam",
+      "summary": "SCMP reports Vietnam may drop the death penalty for drug trafficking in a penal-code revision, leaving capital punishment only for treason, murder and a few grave crimes. Reformers say harsh sentences poorly deter and funds belong in rehabilitation; opponents fear easier transit on the Golden Triangle's edge. The easing reflects Hanoi's shift from deterrence-by-execution to governance-by-cure.",
+      "imageAlt": "A wooden gavel and law book on a table, symbolising judicial reform",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Vietnam moves to end executions for drug trafficking",
+          "url": "https://www.scmp.com",
+          "date": "2026-08-29"
+        }
+      ]
+    }
+  },
+  {
     "slug": "china-myanmar-youth-exchange-paukphaw-2026",
     "title": "中缅青年以技术与文化续写“胞波”情谊",
     "subtitle": "9月3日，仰光外国语大学举办2026年第三季度中缅青年交流活动暨中缅媒体茶话会，约300名青年与媒体代表以语言、技术与媒体交流延续两国友好。",
