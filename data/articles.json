@@ -1,5 +1,66 @@
 [
   {
+    "slug": "singapore-ai-export-barometer-2026",
+    "title": "新加坡经济成了“AI贸易晴雨表”",
+    "subtitle": "贸工部年内二度上调增长预测至4.5%—5.5%，AI相关半导体出口成主引擎；繁荣真实却高度集中，东盟红利并不均沾。",
+    "category": "经济产业",
+    "tags": [
+      "新加坡",
+      "经济",
+      "人工智能",
+      "半导体",
+      "出口",
+      "贸易",
+      "东南亚",
+      "产业链"
+    ],
+    "country": "新加坡",
+    "date": "2026-09-08",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "新加坡贸工部年内二度上调2026年增长预测至4.5%—5.5%，主因全球AI投资热潮拉动半导体出口。本文指出新加坡已成AI贸易周期最灵敏的仪表，但增长高度集中于电子出口，区域红利不均；若AI资本开支退潮，繁荣或迅速逆转。",
+    "image": "images/articles/singapore-ai-export-barometer-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-08",
+    "imageAlt": "新加坡滨海湾天际线，象征其作为全球AI贸易与半导体枢纽的地位",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Malaysia, Singapore exports surge on AI boom, defying Middle East shock",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-05-25"
+      },
+      {
+        "source": "新加坡贸工部 / 彭博",
+        "title": "Singapore raises growth forecast to as high as 5.5% on AI boom",
+        "url": "https://www.theedgesingapore.com/news/singapore-economy/singapore-raises-growth-forecast-high-55-ai-boom",
+        "date": "2026-08-11"
+      }
+    ],
+    "en": {
+      "title": "Singapore's Economy Is Now an AI-Trade Barometer",
+      "subtitle": "A second 2026 upgrade to 4.5%–5.5% puts AI-linked semiconductor exports at the wheel — a real but dangerously concentrated boom.",
+      "category": "Economy & Industry",
+      "country": "Singapore",
+      "summary": "Singapore's trade ministry raised its 2026 growth forecast for the second time this year to 4.5%–5.5%, citing a stronger-than-expected global AI investment boom lifting semiconductor exports. The city-state has become the world's most sensitive gauge of the AI trade cycle, but its gains are dangerously concentrated in electronics, and ASEAN's dividend is uneven; if AI capex recedes, the boom could reverse quickly.",
+      "imageAlt": "Singapore's Marina Bay skyline, symbolising its role as a global AI-trade and semiconductor hub.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Malaysia, Singapore exports surge on AI boom, defying Middle East shock",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-05-25"
+        },
+        {
+          "source": "The Edge Singapore / Bloomberg",
+          "title": "Singapore raises growth forecast to as high as 5.5% on AI boom",
+          "url": "https://www.theedgesingapore.com/news/singapore-economy/singapore-raises-growth-forecast-high-55-ai-boom",
+          "date": "2026-08-11"
+        }
+      ]
+    }
+  },
+  {
     "slug": "tokuyama-polysilicon-vietnam-malaysia-2026",
     "title": "德山在越南、马来西亚扩产多晶硅，日本芯片材料“中国+1”落子东南亚",
     "subtitle": "当人工智能推高超高纯硅需求，日本硅材料巨头把关键产能分散到越南与马来西亚，东南亚悄然卡上半导体价值链上游一环。",
