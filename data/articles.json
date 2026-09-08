@@ -1,53 +1,116 @@
 [
-{
-  "slug": "cambodia-chinese-education-seminar-2026",
-  "title": "柬埔寨首届华文教育研讨会：从“复课兴学”到直面办学痛点",
-  "subtitle": "57所华校、5万学生背后，是三十五年的重建；如今首次行业大会直面人才、师资、经费三道坎。",
-  "category": "华侨华人",
-  "tags": [
-    "柬埔寨",
-    "华文教育",
-    "华侨华人",
-    "东南亚",
-    "教育",
-    "中柬关系",
-    "语言",
-    "侨社"
-  ],
-  "country": "柬埔寨",
-  "date": "2026-09-08",
-  "readingTime": 6,
-  "featured": false,
-  "summary": "首届柬埔寨华文教育研讨会9月5日在金边举行，柬华理事总会与中国使馆直面华校办学痛点：管理人才紧缺、师资薄弱、经费不足。57所华校、5万学生的网络是三十五年重建的成果；从单一华文学校转向中柬双语、培育本土师资，才是可持续的根基。",
-  "image": "images/articles/cambodia-chinese-education-seminar-2026.jpg",
-  "imageCredit": "Pexels",
-  "imageAccessed": "2026-09-08",
-  "imageAlt": "金边夜晚西哈努克雕像旁步行的柬埔寨民众（城市人文意象）",
-  "references": [
-    {
-      "source": "中国侨网",
-      "title": "柬埔寨首届华文教育研讨会在金边举行 直面华校办学痛点",
-      "url": "https://www.chinaqw.com/hwjy/2026/09-07/411079.shtml",
-      "date": "2026-09-07"
-    }
-  ],
-  "en": {
-    "title": "Cambodia's First Chinese-Education Seminar: From Rebuilding Schools to Confronting the Hard Truth",
-    "subtitle": "Behind 57 schools and 50,000 students lies 35 years of rebuilding; the first industry seminar now faces the triple gap of talent, teachers and funding.",
-    "category": "Overseas Chinese",
-    "country": "Cambodia",
-    "summary": "Cambodia's first Chinese-education seminar met in Phnom Penh on Sept 5, co-hosted by the Chinese Embassy and the Cambodian Chinese Association. It squarely faced the sector's pain points — a shortage of management talent, weak teaching staff, insufficient funding. The 57-school, 50,000-student network is the fruit of 35 years of rebuilding after near-erasure. The real fix lies in shifting to Sino-Khmer bilingual schooling and cultivating local teachers, so Chinese education outlives the community's fortunes.",
-    "imageAlt": "Phnom Penh pedestrians by the Norodom Sihanouk statue at night (urban scene)",
+  {
+    "slug": "indonesia-disasters-volcano-fires-relief-2026",
+    "title": "火山灰与泥炭火：印尼\"火环带宿命\"下的治理考题",
+    "subtitle": "喀拉喀托之子火山喷发关闭七座机场，西加里曼丹泥炭火难灭；预算被砍四分之三的印尼，不得不向日本借直升机、把意大利退役航母改作救火平台。",
+    "category": "气候变化",
+    "tags": [
+      "印度尼西亚",
+      "气候变化",
+      "灾害",
+      "烟霾",
+      "东南亚",
+      "日本",
+      "地缘政治",
+      "环境",
+      "军事",
+      "普拉博沃"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-09-08",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "喀拉喀托之子火山喷发关闭七座机场，西加里曼丹泥炭火难灭，印尼同时遭遇双重灾害。预算悖论更令人警惕：国家减灾署经费被砍四分之三，政府却不得不向日本借直升机、把意大利退役航母改作救火平台。灾难可归咎于火环带，但结构性防灾投入不足才是反复受灾的根因。",
+    "image": "images/articles/indonesia-disasters-volcano-fires-relief-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-08",
+    "imageAlt": "喀拉喀托之子火山喷发，灰柱冲天",
     "references": [
       {
-        "source": "China Qiaowang",
-        "title": "Cambodia's First Chinese-Education Seminar Held in Phnom Penh, Confronting School-Running Pain Points",
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "火山大喷发恐再发生 印尼七座机场持续关闭",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260907-9640984",
+        "date": "2026-09-07"
+      },
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "装备水源不足陷苦战 印尼部署日本直升机与退役航母救灾",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260907-9641033",
+        "date": "2026-09-07"
+      }
+    ],
+    "en": {
+      "title": "Ash and Peat Fire: Indonesia's Governance Test on the \"Ring of Fire\"",
+      "subtitle": "Anak Krakatau shut seven Indonesian airports while West Kalimantan peat fires burned on; with its disaster budget cut by three-quarters, Indonesia had to borrow Japanese helicopters and turn an Italian retired carrier into a firefighting base.",
+      "category": "Climate Change",
+      "country": "Indonesia",
+      "summary": "Anak Krakatau shut seven Indonesian airports and West Kalimantan's peat fires raged on, stranding 341,000 passengers. The sharper story is governance: Indonesia cut the national disaster agency's budget by three-quarters, then asked Japan for Chinook helicopters and converted an Italian retired carrier into a firefighting base. Geography explains the risk, but chronic under-investment in prevention explains why the cycle repeats.",
+      "imageAlt": "Anak Krakatau erupting, a column of ash rising into the sky",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Volcano eruption may strike again; seven Indonesian airports stay closed",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260907-9640984",
+          "date": "2026-09-07"
+        },
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Short of gear and water, Indonesia deploys Japanese helicopters and retired carrier for relief",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260907-9641033",
+          "date": "2026-09-07"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "cambodia-chinese-education-seminar-2026",
+    "title": "柬埔寨首届华文教育研讨会：从“复课兴学”到直面办学痛点",
+    "subtitle": "57所华校、5万学生背后，是三十五年的重建；如今首次行业大会直面人才、师资、经费三道坎。",
+    "category": "华侨华人",
+    "tags": [
+      "柬埔寨",
+      "华文教育",
+      "华侨华人",
+      "东南亚",
+      "教育",
+      "中柬关系",
+      "语言",
+      "侨社"
+    ],
+    "country": "柬埔寨",
+    "date": "2026-09-08",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "首届柬埔寨华文教育研讨会9月5日在金边举行，柬华理事总会与中国使馆直面华校办学痛点：管理人才紧缺、师资薄弱、经费不足。57所华校、5万学生的网络是三十五年重建的成果；从单一华文学校转向中柬双语、培育本土师资，才是可持续的根基。",
+    "image": "images/articles/cambodia-chinese-education-seminar-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-08",
+    "imageAlt": "金边夜晚西哈努克雕像旁步行的柬埔寨民众（城市人文意象）",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "柬埔寨首届华文教育研讨会在金边举行 直面华校办学痛点",
         "url": "https://www.chinaqw.com/hwjy/2026/09-07/411079.shtml",
         "date": "2026-09-07"
       }
-    ]
-  }
-},
+    ],
+    "en": {
+      "title": "Cambodia's First Chinese-Education Seminar: From Rebuilding Schools to Confronting the Hard Truth",
+      "subtitle": "Behind 57 schools and 50,000 students lies 35 years of rebuilding; the first industry seminar now faces the triple gap of talent, teachers and funding.",
+      "category": "Overseas Chinese",
+      "country": "Cambodia",
+      "summary": "Cambodia's first Chinese-education seminar met in Phnom Penh on Sept 5, co-hosted by the Chinese Embassy and the Cambodian Chinese Association. It squarely faced the sector's pain points — a shortage of management talent, weak teaching staff, insufficient funding. The 57-school, 50,000-student network is the fruit of 35 years of rebuilding after near-erasure. The real fix lies in shifting to Sino-Khmer bilingual schooling and cultivating local teachers, so Chinese education outlives the community's fortunes.",
+      "imageAlt": "Phnom Penh pedestrians by the Norodom Sihanouk statue at night (urban scene)",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Cambodia's First Chinese-Education Seminar Held in Phnom Penh, Confronting School-Running Pain Points",
+          "url": "https://www.chinaqw.com/hwjy/2026/09-07/411079.shtml",
+          "date": "2026-09-07"
+        }
+      ]
+    }
+  },
   {
     "slug": "china-myanmar-youth-code-bridge-huawen-2026",
     "title": "缅甸华裔青年用代码架起华文教育的数字桥梁",
