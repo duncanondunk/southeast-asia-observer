@@ -1,5 +1,97 @@
 [
   {
+    "slug": "tokuyama-polysilicon-vietnam-malaysia-2026",
+    "title": "德山在越南、马来西亚扩产多晶硅，日本芯片材料“中国+1”落子东南亚",
+    "subtitle": "当人工智能推高超高纯硅需求，日本硅材料巨头把关键产能分散到越南与马来西亚，东南亚悄然卡上半导体价值链上游一环。",
+    "category": "经济产业",
+    "tags": [
+      "半导体",
+      "供应链",
+      "日本",
+      "越南",
+      "马来西亚",
+      "经济产业"
+    ],
+    "country": "越南",
+    "date": "2026-09-08",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "日本硅材料巨头德山将在越南与马来西亚扩产半导体级多晶硅：越南胡志明市后段工厂年产能约4000至4955吨，马来西亚与韩国OCI合资前段厂规划8000至1万吨。两厂令德山总产能提升50%至1.25万吨。在人工智能带动需求下，这是日本芯片材料“中国+1”、把关键产能分散至友好东南亚的落子。",
+    "image": "images/articles/tokuyama-polysilicon-vietnam-malaysia-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-08",
+    "imageAlt": "半导体晶圆与高纯硅材料的意象",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "日本德山将在越南和马来西亚生产关键芯片材料",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-08"
+      }
+    ],
+    "en": {
+      "title": "Tokuyama Spreads Polysilicon Across Vietnam and Malaysia as Japan's Chip-Material China Plus One",
+      "subtitle": "As AI lifts demand for ultra-pure silicon, the Japanese materials giant scatters key capacity to Vietnam and Malaysia, quietly seating Southeast Asia upstream in the chip value chain.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Japanese silicon maker Tokuyama will expand semiconductor-grade polysilicon in Vietnam and Malaysia: a back-end plant in Ho Chi Minh City at 4,000 to 4,955 tonnes a year, and a front-end joint venture with Korea's OCI in Malaysia at 8,000 to 10,000 tonnes. Together they lift Tokuyama's capacity by 50% to 12,500 tonnes. With AI driving demand and chipmakers settling in Japan, this is Japan's chip-material China plus one, spreading key capacity to friendly Southeast Asia.",
+      "imageAlt": "An image evoking semiconductor wafers and ultra-pure silicon",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Japan's Tokuyama to make key chip material in Vietnam, Malaysia",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-08"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "sara-duterte-impeachment-survey-lead-2026",
+    "title": "莎拉·杜特尔特遭弹劾却领跑民调，菲律宾两大家族决战2028",
+    "subtitle": "副总统的保释金与比索的新低，被同一场政治风暴卷起；当司法成为武器，家族政治的剧本又一次在马尼拉上演。",
+    "category": "地缘政治",
+    "tags": [
+      "菲律宾",
+      "政治",
+      "小马科斯",
+      "弹劾"
+    ],
+    "country": "菲律宾",
+    "date": "2026-09-08",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "菲律宾副总统莎拉·杜特尔特9月5日收到史上首张针对在任副总统的逮捕令，她缴纳保释后暂获自由；5月众议院已通过弹劾案，参议院7月开审。她将个人遭遇与民生绑定，民调反而领跑2028年总统选战。马科斯表弟同期因贪腐被捕，清廉叙事受挫。一场弹劾，照见菲律宾家族政治与司法武器化的深层命题。",
+    "image": "images/articles/sara-duterte-impeachment-survey-lead-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-08",
+    "imageAlt": "马尼拉街头与民众的政治意象",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Sara Duterte faces impeachment but leads Philippine presidential survey",
+        "url": "https://www.scmp.com",
+        "date": "2026-09"
+      }
+    ],
+    "en": {
+      "title": "Sara Duterte Impeached Yet Leads Polls as Two Filipino Dynasties Eye 2028",
+      "subtitle": "A vice president's bail and the peso's record low are swept up by the same storm; as justice becomes a weapon, the script of dynasty politics plays out once more in Manila.",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "Philippine Vice President Sara Duterte received the first arrest warrant ever issued against a sitting vice president on September 5 and posted bail; the House impeached her in May and the Senate opened its trial in July. She ties her plight to public hardship and still leads 2028 presidential polls. Marcos cousin was arrested for graft the same week. One impeachment lays bare dynasty politics and the weaponisation of justice.",
+      "imageAlt": "An image evoking Manila streets and public politics",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Sara Duterte faces impeachment but leads Philippine presidential survey",
+          "url": "https://www.scmp.com",
+          "date": "2026-09"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-disasters-volcano-fires-relief-2026",
     "title": "火山灰与泥炭火：印尼\"火环带宿命\"下的治理考题",
     "subtitle": "喀拉喀托之子火山喷发关闭七座机场，西加里曼丹泥炭火难灭；预算被砍四分之三的印尼，不得不向日本借直升机、把意大利退役航母改作救火平台。",

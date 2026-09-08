@@ -40,7 +40,7 @@
     '侨交会': 'Overseas Chinese Entrepreneurs Fair', 'APEC': 'APEC', '亚太': 'Asia-Pacific', '经贸合作': 'Economic & Trade Cooperation', '泰南': 'Southern Thailand', '宵禁': 'Curfew', '分离主义': 'Separatism', '晶片': 'Chips', '安谋': 'Arm Holdings', '华文教育': 'Chinese-Medium Education', '人口贩运': 'Human Trafficking',
     '东南亚': 'Southeast Asia', '东盟': 'ASEAN', '侨社': 'Overseas Chinese Community', '侨团': 'Overseas Chinese Association', '柬华理事总会': 'Cambodian Chinese Association', '印尼华裔总会': 'INTI (Indonesian Chinese Association)', '离散群体': 'Diaspora', '离散': 'Diaspora', '跨境治理': 'Cross-Border Governance',
     '口述史': 'Oral History', '潮籍': 'Teochew Origin', '侨批': 'Qiaopi (Overseas Chinese Remittance Letters)', '下南洋': 'Migration to Nanyang', '华语电影': 'Chinese-Language Cinema', '电影': 'Film', '文化': 'Culture', '文化交流': 'Cultural Exchange', '文化记忆': 'Cultural Memory', '身份认同': 'Identity',
-    '民主行动党': 'Democratic Action Party (DAP)', '政治': 'Politics', '华人': 'Ethnic Chinese', '族群': 'Ethnicity', '选举': 'Elections', '语言': 'Language', '青年': 'Youth', '青年侨胞': 'Young Overseas Chinese', '华裔新生代': 'New Generation of Chinese Descent',
+    '民主行动党': 'Democratic Action Party (DAP)', '政治': 'Politics', '弹劾': 'Impeachment', '华人': 'Ethnic Chinese', '族群': 'Ethnicity', '选举': 'Elections', '语言': 'Language', '青年': 'Youth', '青年侨胞': 'Young Overseas Chinese', '华裔新生代': 'New Generation of Chinese Descent',
     '澳大利亚': 'Australia', '法国': 'France', '稀土': 'Rare Earths', '钕磁铁': 'Neodymium Magnets', '餐饮': 'Food & Beverage', '科技': 'Technology',
     '经济': 'Economy', '矿业': 'Mining', '银行': 'Bank', '债券': 'Bond', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '行长': 'Governor', '利率': 'Interest Rate', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
     '日本': 'Japan',
