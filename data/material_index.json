@@ -1,56 +1,64 @@
 {
   "version": "2026-09-02",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
-    "materials": {
-      "event:缅甸华裔青年杨家迅以代码架起华文教育数字桥梁(2026-09)": {
-        "note": "全新素材（中国侨网，2026-09-07），缅甸华裔青年以编程搭建华文学习平台、数字赋能华文教育，华侨华人/华文教育主题；与既有缅甸、青年、文化交流条目不重复。",
-        "exception": null,
-        "slugs": ["china-myanmar-youth-code-bridge-huawen-2026"]
-      },
-      "event:美军林肯号航母停靠泰国芭堤雅(2026-09)": {
-        "note": "全新素材（联合早报，2026-09-07），美军航母林肯号停靠泰国芭堤雅、九个月来首次，地缘政治/军事存在主题；与既有泰国、军事合作条目不重复。",
-        "exception": null,
-        "slugs": ["us-aircraft-carrier-lincoln-thailand-2026"]
-      },
-      "event:日美菲合办马尼拉AI枢纽投资论坛(2026-09)": {
-        "note": "全新素材（日经亚洲，2026-09-07），日美菲合办马尼拉AI枢纽投资论坛、区域数字基建，经济产业/数字经济主题；与既有菲律宾、AI、投资条目不重复。",
-        "exception": null,
-        "slugs": ["japan-us-philippines-manila-ai-hub-2026"]
-      },
-      "event:越南拟取消化毒品贩运死刑(2026-08)": {
-        "note": "全新素材（南华早报，2026-08-29），越南拟在刑法修订中取消化毒品贩运死刑、地区争议，社会文化/法律主题；与既有越南、法律条目不重复。",
-        "exception": null,
-        "slugs": ["vietnam-ends-drug-trafficking-death-penalty-2026"]
-      },
-      "event:中缅青年交流胞波情谊(2026-09)": {
-        "note": "全新素材（中国侨网，2026-09-06），仰光中缅青年交流活动暨媒体茶话会，华侨华人/民间交流主题；与既有缅甸、青年、文化交流条目不重复。",
-        "exception": null,
-        "slugs": [
-          "china-myanmar-youth-exchange-paukphaw-2026"
-        ]
-      },
-      "event:越南拟购法国阵风战机(2026-09)": {
-        "note": "全新素材（联合早报，2026-09-06），越南与法国谈判采购阵风战机、防务转向西方，地缘政治/军事合作主题；与既有越南、军事合作条目不重复。",
-        "exception": null,
-        "slugs": [
-          "vietnam-rafale-france-shift-west-2026"
-        ]
-      },
-      "event:马来西亚关键矿产中国限制迫近(2026-09)": {
-        "note": "全新素材（日经亚洲，2026-09-06），马来西亚关键矿产引全球关注、中国出口管制迫近，经济产业/供应链主题；与既有稀土、矿业条目不重复。",
-        "exception": null,
-        "slugs": [
-          "malaysia-critical-minerals-china-curbs-2026"
-        ]
-      },
-      "event:平陆运河通航助推东盟货运(2026-09)": {
-        "note": "全新素材（南华早报，2026-09-06），平陆运河通航、西南通江达海助推东盟货运，经济产业/基础设施主题；与既有基础设施、贸易条目不重复。",
-        "exception": null,
-        "slugs": [
-          "pinglu-canal-asean-shipments-2026"
-        ]
-      },
-      "event:中新海上合作2026联演(2026-09)": {
+  "materials": {
+    "event:缅甸华裔青年杨家迅以代码架起华文教育数字桥梁(2026-09)": {
+      "note": "全新素材（中国侨网，2026-09-07），缅甸华裔青年以编程搭建华文学习平台、数字赋能华文教育，华侨华人/华文教育主题；与既有缅甸、青年、文化交流条目不重复。",
+      "exception": null,
+      "slugs": [
+        "china-myanmar-youth-code-bridge-huawen-2026"
+      ]
+    },
+    "event:美军林肯号航母停靠泰国芭堤雅(2026-09)": {
+      "note": "全新素材（联合早报，2026-09-07），美军航母林肯号停靠泰国芭堤雅、九个月来首次，地缘政治/军事存在主题；与既有泰国、军事合作条目不重复。",
+      "exception": null,
+      "slugs": [
+        "us-aircraft-carrier-lincoln-thailand-2026"
+      ]
+    },
+    "event:日美菲合办马尼拉AI枢纽投资论坛(2026-09)": {
+      "note": "全新素材（日经亚洲，2026-09-07），日美菲合办马尼拉AI枢纽投资论坛、区域数字基建，经济产业/数字经济主题；与既有菲律宾、AI、投资条目不重复。",
+      "exception": null,
+      "slugs": [
+        "japan-us-philippines-manila-ai-hub-2026"
+      ]
+    },
+    "event:越南拟取消化毒品贩运死刑(2026-08)": {
+      "note": "全新素材（南华早报，2026-08-29），越南拟在刑法修订中取消化毒品贩运死刑、地区争议，社会文化/法律主题；与既有越南、法律条目不重复。",
+      "exception": null,
+      "slugs": [
+        "vietnam-ends-drug-trafficking-death-penalty-2026"
+      ]
+    },
+    "event:中缅青年交流胞波情谊(2026-09)": {
+      "note": "全新素材（中国侨网，2026-09-06），仰光中缅青年交流活动暨媒体茶话会，华侨华人/民间交流主题；与既有缅甸、青年、文化交流条目不重复。",
+      "exception": null,
+      "slugs": [
+        "china-myanmar-youth-exchange-paukphaw-2026"
+      ]
+    },
+    "event:越南拟购法国阵风战机(2026-09)": {
+      "note": "全新素材（联合早报，2026-09-06），越南与法国谈判采购阵风战机、防务转向西方，地缘政治/军事合作主题；与既有越南、军事合作条目不重复。",
+      "exception": null,
+      "slugs": [
+        "vietnam-rafale-france-shift-west-2026"
+      ]
+    },
+    "event:马来西亚关键矿产中国限制迫近(2026-09)": {
+      "note": "全新素材（日经亚洲，2026-09-06），马来西亚关键矿产引全球关注、中国出口管制迫近，经济产业/供应链主题；与既有稀土、矿业条目不重复。",
+      "exception": null,
+      "slugs": [
+        "malaysia-critical-minerals-china-curbs-2026"
+      ]
+    },
+    "event:平陆运河通航助推东盟货运(2026-09)": {
+      "note": "全新素材（南华早报，2026-09-06），平陆运河通航、西南通江达海助推东盟货运，经济产业/基础设施主题；与既有基础设施、贸易条目不重复。",
+      "exception": null,
+      "slugs": [
+        "pinglu-canal-asean-shipments-2026"
+      ]
+    },
+    "event:中新海上合作2026联演(2026-09)": {
       "note": "全新素材（联合早报，2026-09-04），中新海军湛江海域\"海上合作-2026\"联演，地缘政治/军事合作主题；与既有南海、军事合作条目不重复。",
       "exception": null,
       "slugs": [
@@ -886,6 +894,13 @@
       "exception": null,
       "slugs": [
         "vietnam-labor-shortage-china-squeeze-2026"
+      ]
+    },
+    "event:柬埔寨首届华文教育研讨会(金边·2026-09)": {
+      "note": "全新素材（中国侨网/中新社，2026-09-05/07）。首届柬埔寨华文教育研讨会直面华校办学痛点（人才/师资/经费），与既有 cambodia-xinmin-chinese-school-reopen（单一学校复校事件）及 sea-chinese-education-renewal-2026（泛论守脉向新）区分：本文聚焦首次行业大会及其结构性治理议程。",
+      "exception": null,
+      "slugs": [
+        "cambodia-chinese-education-seminar-2026"
       ]
     }
   }
