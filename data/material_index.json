@@ -930,6 +930,13 @@
       "slugs": [
         "sara-duterte-impeachment-survey-lead-2026"
       ]
+    },
+    "event:印尼首富彭云鹏减持Petrindo应对自由流通股新规(2026-09)": {
+      "note": "全新素材（南华早报，2026-09-08），印尼华裔首富彭云鹏减持Petrindo/Barito以应对15%自由流通股新规，资本市场治理/华商财团主题；与既有印尼条目（央行动向、镍矿、太阳能、林火等）及华侨华人条目不重复。",
+      "exception": null,
+      "slugs": [
+        "indonesia-richest-prajogo-petrindo-free-float-2026"
+      ]
     }
   }
 }
