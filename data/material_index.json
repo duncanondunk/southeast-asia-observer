@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-08",
+  "version": "2026-09-09",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:新加坡二度上调增长预测(AI出口驱动,2026-08)": {
@@ -936,6 +936,27 @@
       "exception": null,
       "slugs": [
         "indonesia-richest-prajogo-petrindo-free-float-2026"
+      ]
+    },
+    "policy:马来西亚拟对网络诈骗犯施鞭刑 (2026-09)": {
+      "note": "全新素材（联合早报，2026-09-09）：马来西亚拟将鞭刑用于网络诈骗罪犯、效法新加坡反诈；与既有马来西亚、法律、数字经济等条目不重复。",
+      "exception": null,
+      "slugs": [
+        "malaysia-caning-online-scammers-2026"
+      ]
+    },
+    "policy:泰国2050清洁能源占比89%目标 (2026-09)": {
+      "note": "全新素材（日经亚洲，2026-09-09）：泰国新版电力发展规划将2050清洁能源发电占比目标抬至近九成；与既有泰国、新能源、气候变化等条目不重复。",
+      "exception": null,
+      "slugs": [
+        "thailand-2050-clean-energy-89-2026"
+      ]
+    },
+    "event:越南2026前八月经济 工业产出七年最强/FDI增55% (2026-09)": {
+      "note": "全新素材（南华早报，2026-09-09）：越南2026年1—8月工业产出增11.9%（七年最强）、注册外资增55%；与既有越南、经济、制造业等条目不重复。",
+      "exception": null,
+      "slugs": [
+        "vietnam-economic-momentum-2026"
       ]
     }
   }

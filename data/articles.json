@@ -1,5 +1,146 @@
 [
   {
+    "slug": "malaysia-caning-online-scammers-2026",
+    "title": "以鞭刑震慑网络诈骗：马来西亚拟效法新加坡，将“鞭子”伸向屏幕后的骗子",
+    "subtitle": "当诈骗从街头走进手机，马来西亚把沿用殖民时代、却长期留作“底牌”的鞭刑，搬上了反诈战场",
+    "category": "社会文化",
+    "tags": [
+      "马来西亚",
+      "法律",
+      "社会政策",
+      "数字经济",
+      "跨境治理",
+      "东南亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-09-09",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "马来西亚拟将长期留作“底牌”的鞭刑用于网络诈骗罪犯，效法新加坡以更强震慑反诈。这道殖民时代刑罚的重启，照见东南亚面对跨境数字犯罪时的力不从心与制度困局。",
+    "image": "images/articles/malaysia-caning-online-scammers-2026.jpg",
+    "imageCredit": "Pexels — photo 27118624 (pexels.com)",
+    "imageAccessed": "2026-09-09",
+    "imageAlt": "吉隆坡城市天际线，象征马来西亚法治与数字治理的交汇",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "Malaysia weighs caning for online-fraud offenders, following Singapore's anti-scam model",
+        "url": "https://www.zaobao.com/news/sea",
+        "date": "2026-09-09"
+      }
+    ],
+    "en": {
+      "title": "Caning the scammers: Malaysia weighs a colonial-era punishment for online fraud",
+      "subtitle": "As scams move from streets into phones, Malaysia is polishing a long-reserved cane to fight fraud behind the screen",
+      "category": "Society & Culture",
+      "country": "Malaysia",
+      "summary": "Malaysia is weighing caning for online-fraud offenders, reviving a colonial-era punishment kept as a last resort and following Singapore's deterrent model. The move lays bare Southeast Asia's struggle against cross-border digital crime.",
+      "imageAlt": "Kuala Lumpur skyline, symbolising the intersection of Malaysian law and digital governance",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Malaysia weighs caning for online-fraud offenders, following Singapore's anti-scam model",
+          "url": "https://www.zaobao.com/news/sea",
+          "date": "2026-09-09"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "thailand-2050-clean-energy-89-2026",
+    "title": "从“气电王国”到清洁能源：泰国2050目标逼出的转型之问",
+    "subtitle": "一份把清洁能源发电占比拉高到接近九成的中期蓝图，照见东盟能源转型的野心与现实裂隙",
+    "category": "气候变化",
+    "tags": [
+      "泰国",
+      "新能源",
+      "气候变化",
+      "能源",
+      "环境",
+      "东南亚"
+    ],
+    "country": "泰国",
+    "date": "2026-09-09",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "泰国新版电力发展规划将2050年清洁能源发电占比目标抬至接近九成，倒逼这个“气电王国”转型。蓝图映出东盟能源转型的野心，也照见电网、资金与电价之间的现实裂隙。",
+    "image": "images/articles/thailand-2050-clean-energy-89-2026.jpg",
+    "imageCredit": "Pexels — photo 35559402 (pexels.com)",
+    "imageAccessed": "2026-09-09",
+    "imageAlt": "曼谷昭披耶河天际线，映照泰国能源转型",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Thailand's revised Power Development Plan targets nearly 90% clean power by 2050",
+        "url": "https://asia.nikkei.com/location/southeast-asia?page=2",
+        "date": "2026-09-09"
+      }
+    ],
+    "en": {
+      "title": "From 'kingdom of gas' to clean power: Thailand's 2050 question",
+      "subtitle": "A mid-century blueprint lifting clean-power share toward nearly 90% reveals ASEAN's renewable ambition and its gaps",
+      "category": "Climate Change",
+      "country": "Thailand",
+      "summary": "Thailand's revised Power Development Plan targets nearly 90% clean power by 2050, forcing the 'kingdom of gas' to transition. The blueprint shows ASEAN's renewable ambition and the grid, funding and tariff gaps beneath it.",
+      "imageAlt": "Bangkok skyline along the Chao Phraya, reflecting Thailand's energy transition",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Thailand's revised Power Development Plan targets nearly 90% clean power by 2050",
+          "url": "https://asia.nikkei.com/location/southeast-asia?page=2",
+          "date": "2026-09-09"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "vietnam-economic-momentum-2026",
+    "title": "工业产出七年最强、外资涌入五成：越南2026增长的“双引擎”与隐忧",
+    "subtitle": "前八月工业产出增11.9%、注册外资增55%，越南在供应链重组中跑出加速度，却也背起通胀与逆差的新包袱",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "经济",
+      "制造业",
+      "出口",
+      "投资",
+      "东南亚"
+    ],
+    "country": "越南",
+    "date": "2026-09-09",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "越南2026年前八月工业产出增11.9%、注册外资增55%，在供应链重组中跑出加速度。亮眼数字也背着贸易逆差扩大与通胀抬头的包袱，考验其把外部红利转为内生韧性的能力。",
+    "image": "images/articles/vietnam-economic-momentum-2026.jpg",
+    "imageCredit": "Pexels — photo 38385774 (pexels.com)",
+    "imageAccessed": "2026-09-09",
+    "imageAlt": "河内西湖天际线，象征越南经济增长势头",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Vietnam's first eight months of 2026: industrial output up 11.9%, registered FDI up 55%",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-09-09"
+      }
+    ],
+    "en": {
+      "title": "Output strongest in 7 years, FDI up 55%: Vietnam's 2026 twin engines and worries",
+      "subtitle": "Eight months in, output rose 11.9% and registered FDI 55% as Vietnam accelerates amid supply-chain realignment—yet carries new baggage of deficit and inflation",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam's first eight months of 2026 saw industrial output up 11.9% and registered FDI up 55%, accelerating amid supply-chain realignment. The bright figures also carry a widening trade deficit and stirring inflation.",
+      "imageAlt": "Hanoi West Lake skyline, symbolising Vietnam's economic momentum",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Vietnam's first eight months of 2026: industrial output up 11.9%, registered FDI up 55%",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-09-09"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-richest-prajogo-petrindo-free-float-2026",
     "title": "印尼首富“松手”：彭云鹏减持佩特里诺，自由流通股新规撬动财阀治理",
     "subtitle": "一道15%自由流通股新规，如何逼印尼华裔首富与财阀家族交出控制权",
