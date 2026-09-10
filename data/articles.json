@@ -1,5 +1,125 @@
 [
   {
+    "slug": "pacquiao-cabinet-anti-poverty-2026",
+    "title": "从拳台到内阁：帕奎奥的“脱贫攻坚战”与菲律宾的贫困顽疾",
+    "subtitle": "47岁的拳王时隔五年重返政坛，出任国家反贫困委员会首席召集人。当一位身家2.2亿美元的拳坛传奇去“扶贫”，映照的是菲律宾1108万贫困人口的结构性难题。",
+    "category": "社会文化",
+    "tags": ["菲律宾","社会政策","贫困","名人政治","社会治理","东南亚"],
+    "country": "菲律宾",
+    "date": "2026-09-10",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "47岁的菲律宾拳王帕奎奥9月8日宣誓就任国家反贫困委员会首席召集人，时隔五年重返内阁。这位从街头纸板少年到八量级世界冠军的传奇，如今要挑战的是1108万贫困人口的结构性顽疾。拳头能击倒对手，却未必击得穿贫富鸿沟。",
+    "image": "images/articles/pacquiao-cabinet-anti-poverty-2026.jpg",
+    "imageCredit": "Pexels — photo 31403621 (pexels.com)",
+    "imageAccessed": "2026-09-10",
+    "imageAlt": "拳击台上的拳手与拳套，象征帕奎奥从拳台到内阁的转身",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "菲拳王重回政坛 入阁打脱贫攻坚战",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260908-9646791",
+        "date": "2026-09-08"
+      }
+    ],
+    "en": {
+      "title": "From the Ring to the Cabinet: Pacquiao's Anti-Poverty Fight and the Philippines' Stubborn Poverty",
+      "subtitle": "At 47, the boxing legend returned to politics after five years, appointed chief convenor of the National Anti-Poverty Commission. A man worth US$220 million taking on poverty lays bare the structural roots of 11 million Filipinos below the line.",
+      "category": "Society & Culture",
+      "country": "Philippines",
+      "summary": "On Sept 8, Manny Pacquiao, 47, was sworn in as chief convenor of the Philippines' National Anti-Poverty Commission — his first cabinet post after a five-year hiatus. The eight-division champion, once a barefoot street kid, now faces a structural foe: 11.08 million Filipinos (9.7%) lived below the poverty line in 2025. His rags-to-riches story is real, but the poverty he vows to fight is systemic — and no punch alone will dismantle it.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Philippine boxing champion Pacquiao returns to politics, joins cabinet to fight poverty",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260908-9646791",
+          "date": "2026-09-08"
+        }
+      ],
+      "imageAlt": "A boxer and gloves in the ring, symbolising Pacquiao's turn from the ring to the cabinet"
+    }
+  },
+  {
+    "slug": "indonesia-japan-32-infra-projects-2026",
+    "title": "32个项目的东京清单：印尼如何把基建做成外交",
+    "subtitle": "8月底雅加达在东京推介32个国企牵头的战略基建项目，总规模约207.64万亿印尼盾。在冲8%增长的目标下，这场招商既是生意，也是外交。",
+    "category": "经济产业",
+    "tags": ["印尼","日本","基础设施","投资","东南亚","外交","国企"],
+    "country": "印度尼西亚",
+    "date": "2026-09-10",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "8月底，印尼在东京推介32个国企牵头战略基建项目，总规模约207.64万亿印尼盾（约合125亿美元）。在2029年冲8%增长的目标下，这场招商既是生意，也是外交——用成熟资产换日本技术、资本与长期伙伴，却也考验落地与主权平衡。",
+    "image": "images/articles/indonesia-japan-32-infra-projects-2026.jpg",
+    "imageCredit": "Pexels — photo 32327756 (pexels.com)",
+    "imageAccessed": "2026-09-10",
+    "imageAlt": "雅加达城市天际线，象征印尼的基建与经济增长雄心",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesia offers Japan 32 strategic infrastructure projects worth about US$12.5bn",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-03"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's Tokyo List of 32 Projects: Turning Infrastructure into Diplomacy",
+      "subtitle": "In late August, Jakarta staged a roadshow in Tokyo, tabling 32 state-led strategic infrastructure projects worth about Rp207.64 trillion (roughly US$12.5 billion). Beneath the 2029 ambition of 8% growth, the pitch is both business and statecraft.",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "In late August, Indonesia tabled 32 state-led strategic infrastructure projects in Tokyo, worth about Rp207.64 trillion (roughly US$12.5 billion). Beneath the 2029 ambition of 8% growth, the roadshow is both business and statecraft — trading proven assets for Japanese technology, capital and a long-term partnership, while testing execution and sovereignty.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia offers Japan 32 strategic infrastructure projects worth about US$12.5bn",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-09-03"
+        }
+      ],
+      "imageAlt": "Jakarta's city skyline, symbolising Indonesia's infrastructure and growth ambitions"
+    }
+  },
+  {
+    "slug": "malaysia-huawei-sovereign-ai-2026",
+    "title": "20亿林吉特的主权AI赌注：马来西亚在美中之间走钢丝",
+    "subtitle": "马来西亚正评估用华为昇腾910C支撑约20亿林吉特的主权AI计划。若落地，将是首个弃用美芯、改选中国加速器的外国政府案例。",
+    "category": "地缘政治",
+    "tags": ["马来西亚","华为","人工智能","美国","技术自主","出口管制","东南亚"],
+    "country": "马来西亚",
+    "date": "2026-09-10",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "马来西亚正评估用华为昇腾910C支撑约20亿林吉特（约4.94亿美元）的主权AI计划。若落地，将是首个弃用美芯、改选中国加速器的外国政府案例。在《云端法案》与美出口管制之间，吉隆坡把数据主权写成一道走钢丝的外交难题。",
+    "image": "images/articles/malaysia-huawei-sovereign-ai-2026.jpg",
+    "imageCredit": "Pexels — photo 17489163 (pexels.com)",
+    "imageAccessed": "2026-09-10",
+    "imageAlt": "数据中心机房中的服务器机架，象征主权AI与算力博弈",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Will Malaysia's potential Huawei AI deal risk clash with US trade pact?",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-09-08"
+      }
+    ],
+    "en": {
+      "title": "A RM2 Billion Sovereign-AI Wager: Malaysia Walks the Tightrope Between Washington and Beijing",
+      "subtitle": "Malaysia is seriously evaluating Huawei's Ascend 910C chips to power a sovereign AI programme budgeted at about RM2 billion (roughly US$494 million). If it goes ahead, it would be the first known case of a foreign government formally choosing Chinese accelerators over American ones.",
+      "category": "Geopolitics",
+      "country": "Malaysia",
+      "summary": "Malaysia is evaluating Huawei's Ascend 910C chips for a sovereign AI programme budgeted at about RM2 billion (roughly US$494 million). If it proceeds, it would be the first known case of a foreign government choosing Chinese accelerators over American ones. Between the US Cloud Act and export controls, Kuala Lumpur is turning data sovereignty into a tightrope act.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Will Malaysia's potential Huawei AI deal risk clash with US trade pact?",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-09-08"
+        }
+      ],
+      "imageAlt": "Server racks in a data-centre room, symbolising sovereign AI and the compute contest"
+    }
+  },
+  {
     "slug": "overseas-chinese-charity-day-2026",
     "title": "当慈善成为一种习惯：中华慈善日里的华侨华人善行",
     "subtitle": "中华慈善日里，海外侨胞的慈善正从偶一为之转为日常习惯：从侨汇到回馈住在国，跨越三大洲的草根善行正在把散居族群织入当地社会。",
