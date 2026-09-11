@@ -1,10 +1,64 @@
 [
   {
+    "slug": "thailand-startup-financing-reform-2026",
+    "title": "泰国拟放宽初创企业融资：松绑能否补上创新短板？",
+    "subtitle": "泰国内阁通过《创业企业促进法案》草案，放宽股权与募资限制，但真正的考验在于资本、人才与区域竞赛。",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "数字经济",
+      "投资",
+      "东盟",
+      "东南亚",
+      "企业出海"
+    ],
+    "country": "泰国",
+    "date": "2026-09-11",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "泰国内阁9月8日通过《创业企业促进法案》草案，拟放宽初创企业融资与股权管理限制，合格企业可享5至10年优惠。本文分析泰国创新经济短板、法案的资本运作松绑、国家创新局“一站式”改革，以及在东盟区域竞赛与中泰数字经济资本接口下的意义，指出松绑仅是补齐创新短板的起步。",
+    "image": "images/articles/thailand-startup-financing-reform-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-11",
+    "imageAlt": "曼谷现代城市天际线，象征泰国的数字经济雄心。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "泰国拟放宽初创企业融资限制",
+        "url": "https://www.chinaqw.com/qwxs/2026/09-09/411188.shtml",
+        "date": "2026-09-09"
+      }
+    ],
+    "en": {
+      "title": "Thailand Moves to Untie Startup Financing — But Can Deregulation Close the Innovation Gap?",
+      "subtitle": "Bangkok's new Startup Enterprise Promotion Act relaxes equity and fundraising rules, yet the real test lies in capital, talent, and regional competition.",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "Thailand's cabinet on 8 September approved a draft Startup Enterprise Promotion Act that would ease fundraising and equity rules for young firms, offering five-to-ten-year incentives. This analysis examines Thailand's innovation gap, the bill's capital-market deregulation, the National Innovation Agency's one-stop role, the regional race with Singapore and Vietnam, and the China dimension of cross-border startup capital — arguing that deregulation is necessary but far from sufficient.",
+      "imageAlt": "A modern Bangkok skyline at dusk, symbolising Thailand's digital-economy ambitions.",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "Thailand to ease startup financing restrictions",
+          "url": "https://www.chinaqw.com/qwxs/2026/09-09/411188.shtml",
+          "date": "2026-09-09"
+        }
+      ]
+    }
+  },
+  {
     "slug": "pacquiao-cabinet-anti-poverty-2026",
     "title": "从拳台到内阁：帕奎奥的“脱贫攻坚战”与菲律宾的贫困顽疾",
     "subtitle": "47岁的拳王时隔五年重返政坛，出任国家反贫困委员会首席召集人。当一位身家2.2亿美元的拳坛传奇去“扶贫”，映照的是菲律宾1108万贫困人口的结构性难题。",
     "category": "社会文化",
-    "tags": ["菲律宾","社会政策","贫困","名人政治","社会治理","东南亚"],
+    "tags": [
+      "菲律宾",
+      "社会政策",
+      "贫困",
+      "名人政治",
+      "社会治理",
+      "东南亚"
+    ],
     "country": "菲律宾",
     "date": "2026-09-10",
     "readingTime": 6,
@@ -44,7 +98,15 @@
     "title": "32个项目的东京清单：印尼如何把基建做成外交",
     "subtitle": "8月底雅加达在东京推介32个国企牵头的战略基建项目，总规模约207.64万亿印尼盾。在冲8%增长的目标下，这场招商既是生意，也是外交。",
     "category": "经济产业",
-    "tags": ["印尼","日本","基础设施","投资","东南亚","外交","国企"],
+    "tags": [
+      "印尼",
+      "日本",
+      "基础设施",
+      "投资",
+      "东南亚",
+      "外交",
+      "国企"
+    ],
     "country": "印度尼西亚",
     "date": "2026-09-10",
     "readingTime": 7,
@@ -84,7 +146,15 @@
     "title": "20亿林吉特的主权AI赌注：马来西亚在美中之间走钢丝",
     "subtitle": "马来西亚正评估用华为昇腾910C支撑约20亿林吉特的主权AI计划。若落地，将是首个弃用美芯、改选中国加速器的外国政府案例。",
     "category": "地缘政治",
-    "tags": ["马来西亚","华为","人工智能","美国","技术自主","出口管制","东南亚"],
+    "tags": [
+      "马来西亚",
+      "华为",
+      "人工智能",
+      "美国",
+      "技术自主",
+      "出口管制",
+      "东南亚"
+    ],
     "country": "马来西亚",
     "date": "2026-09-10",
     "readingTime": 7,
@@ -124,7 +194,16 @@
     "title": "当慈善成为一种习惯：中华慈善日里的华侨华人善行",
     "subtitle": "中华慈善日里，海外侨胞的慈善正从偶一为之转为日常习惯：从侨汇到回馈住在国，跨越三大洲的草根善行正在把散居族群织入当地社会。",
     "category": "华侨华人",
-    "tags": ["华侨华人","侨商","慈善","侨社","软实力","青年侨胞","全球","非洲"],
+    "tags": [
+      "华侨华人",
+      "侨商",
+      "慈善",
+      "侨社",
+      "软实力",
+      "青年侨胞",
+      "全球",
+      "非洲"
+    ],
     "country": "全球",
     "date": "2026-09-10",
     "readingTime": 5,
