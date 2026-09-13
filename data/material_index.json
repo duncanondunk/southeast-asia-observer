@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-11",
+  "version": "2026-09-13",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:菲拳王帕奎奥入阁打扶贫(2026-09)": {
@@ -1020,6 +1020,62 @@
       "exception": null,
       "slugs": [
         "penang-manufacturing-investment-boom-2026"
+      ]
+    },
+    "event:广东国际侨创赛15个优质项目意向落地中山(2026-09)": {
+      "note": "全新素材（中国侨网，2026-09-11）：广东国际侨创赛落幕、15个参赛优质项目意向落地中山，聚焦侨务引智与项目落地机制；与既有侨乡、侨商、创新创业、企业出海条目不重复。",
+      "exception": null,
+      "slugs": [
+        "guangdong-qiaochuang-contest-zhongshan-2026"
+      ]
+    },
+    "event:菲律宾June Aster客轮火灾重大海难(2026-09)": {
+      "note": "全新素材（联合早报，2026-09-12）：菲律宾客轮MV June Aster起火，死亡人数持续上升、数十人失踪，海警称起火前船内有两次爆炸；聚焦群岛国家海上客运安全与应急信息机制；与既有菲律宾政治、天灾条目不重复。",
+      "exception": null,
+      "slugs": [
+        "philippines-ferry-fire-maritime-safety-2026"
+      ]
+    },
+    "policy:泰国BOI战略投资快速通道与BOI-to-IPO机制(2026-09)": {
+      "note": "全新素材（日经亚洲/Kao Hoon，2026-09-12）：泰国BOI为约36.6亿美元战略产业投资开审批快速通道，并联合SEC、SET推出BOI to IPO；聚焦投资促进制度与本土资本市场衔接；与既有泰国初创融资改革、汽车产业条目不重复。",
+      "exception": null,
+      "slugs": [
+        "thailand-boi-fast-track-investment-2026"
+      ]
+    },
+    "event:马来西亚金砖外交与中间道路表述(2026-09)": {
+      "note": "全新素材（南华早报/联合早报，2026-09-12）：安华出席新德里金砖峰会并与普京会晤，官方强调伙伴关系拓宽贸易但坚持中间道路；聚焦中小国家多边对冲；与既有安华涉台表态、生活成本措施条目不重复。",
+      "exception": null,
+      "slugs": [
+        "malaysia-brics-middle-path-2026"
+      ]
+    },
+    "event:南宁借服贸会搭建中国—东盟数字合作桥梁(2026-09)": {
+      "note": "全新素材（中国侨网，2026-09-11）：广西南宁借服贸会平台推动中国—东盟数字合作，涉及跨境电商、算力、数据跨境流动；聚焦互联互通从硬件走向规则；与既有东博会签约、平陆运河、澜湄条目不重复。",
+      "exception": null,
+      "slugs": [
+        "nanning-china-asean-digital-bridge-2026"
+      ]
+    },
+    "event:缅甸驻联合国代表觉莫吞遭军政府撤职(2026-09)": {
+      "note": "全新素材（联合早报，2026-09-13）：缅甸军政府以涉非法活动为由撤掉驻联合国代表觉莫吞，其2021年政变后拒绝承认军政府；聚焦联合国全权证书之争与代表权合法性；与既有缅甸、罗兴亚条目不重复。",
+      "exception": null,
+      "slugs": [
+        "myanmar-un-envoy-dismissed-2026"
+      ]
+    },
+    "topic:AI热潮推高新加坡PC整机价格(2026-09)": {
+      "note": "全新素材（Borneo Bulletin，2026-09-13）：AI数据中心扩张挤占内存与零部件产能，推高新加坡消费级PC价格；聚焦AI资本开支向消费端的价格外溢；与既有新加坡AI出口增长预期、东南亚AI数据中心条目不重复。",
+      "exception": null,
+      "slugs": [
+        "singapore-pc-prices-ai-boom-2026"
+      ]
+    },
+    "topic:社交媒体成七成马来西亚民众主要新闻来源(2026-09)": {
+      "note": "全新素材（联合早报，2026-09-13）：调查显示社交媒体超越传统媒体，成为约70%马来西亚民众主要新闻来源；聚焦媒介碎片化、算法与族群政治；与既有马来西亚鞭刑、社媒诈骗条目不重复。",
+      "exception": null,
+      "slugs": [
+        "malaysia-social-media-news-source-2026"
       ]
     }
   }
