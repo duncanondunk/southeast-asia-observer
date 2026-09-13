@@ -58,9 +58,9 @@
 
 ## 延伸阅读
 
-- **雇员公积金（Employees Provident Fund, EPF）**：马来西亚强制性退休储蓄计划，雇主与雇员按月缴费，是多数受雇者退休收入的主要来源。
-- **老龄化国家（Ageing Nation）**：按照联合国标准，65岁及以上人口占比超过7%（或60岁及以上超过10%）即可称为老龄化社会；马来西亚统计局采用60岁及以上超过15%作为本国老龄化国家门槛。
-- **积极老龄化（Active Ageing）**：世界卫生组织提出的政策框架，强调通过健康、参与和保障，延长老年人的社会与经济参与年限。
+**雇员公积金（Employees Provident Fund, EPF）**：马来西亚强制性退休储蓄计划，雇主与雇员按月缴费，是多数受雇者退休收入的主要来源。
+**老龄化国家（Ageing Nation）**：按照联合国标准，65岁及以上人口占比超过7%（或60岁及以上超过10%）即可称为老龄化社会；马来西亚统计局采用60岁及以上超过15%作为本国老龄化国家门槛。
+**积极老龄化（Active Ageing）**：世界卫生组织提出的政策框架，强调通过健康、参与和保障，延长老年人的社会与经济参与年限。
 
 *话题参考：「联合早报 Lianhe Zaobao」(zaobao.com) — 「马国迈入老龄化 逾43万人年过60仍工作」。*
 
@@ -126,8 +126,8 @@ The 433,563 older workers still contributing to Socso are a preview of that adju
 
 ## Further reading
 
-- **Employees Provident Fund (EPF)**: Malaysia’s mandatory retirement-savings scheme, financed by monthly contributions from employers and employees, and the main income source for most formal-sector retirees.
-- **Ageing nation**: The United Nations conventionally classifies a society as ageing when people aged 65 and above exceed 7 per cent of the population, or when those aged 60 and above exceed 10 per cent; Malaysia’s Department of Statistics uses a national threshold of 15 per cent aged 60 and above.
-- **Active ageing**: The World Health Organisation framework that promotes health, participation and security to extend older people’s social and economic engagement.
+**Employees Provident Fund (EPF)**: Malaysia’s mandatory retirement-savings scheme, financed by monthly contributions from employers and employees, and the main income source for most formal-sector retirees.
+**Ageing nation**: The United Nations conventionally classifies a society as ageing when people aged 65 and above exceed 7 per cent of the population, or when those aged 60 and above exceed 10 per cent; Malaysia’s Department of Statistics uses a national threshold of 15 per cent aged 60 and above.
+**Active ageing**: The World Health Organisation framework that promotes health, participation and security to extend older people’s social and economic engagement.
 
 *Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "马国迈入老龄化 逾43万人年过60仍工作".*

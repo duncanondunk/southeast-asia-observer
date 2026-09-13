@@ -1,30 +1,30 @@
-# 第十二届侨交会落幕：以侨为桥，千企万品"出海"亚太
+# 第十二届侨交会落幕：以侨为桥，千企万品“出海”亚太
 
-8月22日，第十二届华人华侨产业交易会暨2026亚太产业合作与出海博览会在深圳会展中心（福田）落下帷幕。三天展期里，305家企业携28394件优选展品集中亮相，累计专业观众3.5万人，意向采购金额27亿元，来自全球50多个国家和地区的境外采购商赴会对接——一场以"侨"为名的亚太经贸盛会，正在从展会偶遇走向常年走动。
+8月22日，第十二届华人华侨产业交易会暨2026亚太产业合作与出海博览会在深圳会展中心（福田）落下帷幕。三天展期里，305家企业携28394件优选展品集中亮相，累计专业观众3.5万人，意向采购金额27亿元，来自全球50多个国家和地区的境外采购商赴会对接——一场以“侨”为名的亚太经贸盛会，正在从展会偶遇走向常年走动。
 
-## 从"产品出海"到"价值链出海"
+## 从“产品出海”到“价值链出海”
 
-本届侨交会以"侨联全球，共塑未来"为主题，设置国际智能科技、国际美食科技两大主题展区，比亚迪、影石创新、智平方等龙头与专精特新企业同台。国际潮团总会执行主席林少华指出，优质产品与产业出海不是简单的产品出口，而是价值链的重新锚定：对当地市场是产业升级的催化剂，也是本地商户渠道重构的新机遇。这一判断，恰好点中了"出海"叙事从货物输出迈向能力输出的转向。
+本届侨交会以“侨联全球，共塑未来”为主题，设置国际智能科技、国际美食科技两大主题展区，比亚迪、影石创新、智平方等龙头与专精特新企业同台。国际潮团总会执行主席林少华指出，优质产品与产业出海不是简单的产品出口，而是价值链的重新锚定：对当地市场是产业升级的催化剂，也是本地商户渠道重构的新机遇。这一判断，恰好点中了“出海”叙事从货物输出迈向能力输出的转向。
 
-## 侨商网络：最可信赖的"引路人"
+## 侨商网络：最可信赖的“引路人”
 
-中国侨联海外顾问、广东省侨商投资企业协会会长古润金说得直白：侨商网络最大的优势，是既熟悉中国产业、又了解当地市场，可担当粤企出海最可信赖的"引路人"。泰国深圳总商会会长谢崇通谈到，泰国制造业配套尚有缺口、消费升级潜力巨大，广东优势产业落地可补齐新能源与智能家居短板；越南中国总商会广东企业联合会会长曹高锋则希望借侨交会搭建"广东产业端—越南市场端"的精准通道。侨的融通中外，在这里被翻译成可落地的订单。
+中国侨联海外顾问、广东省侨商投资企业协会会长古润金说得直白：侨商网络最大的优势，是既熟悉中国产业、又了解当地市场，可担当粤企出海最可信赖的“引路人”。泰国深圳总商会会长谢崇通谈到，泰国制造业配套尚有缺口、消费升级潜力巨大，广东优势产业落地可补齐新能源与智能家居短板；越南中国总商会广东企业联合会会长曹高锋则希望借侨交会搭建“广东产业端—越南市场端”的精准通道。侨的融通中外，在这里被翻译成可落地的订单。
 
 ## APEC红利下的双向奔赴
 
-本届展会也是2026"侨助千企万品出海"行动（广东）暨亚太经贸合作交流推进活动的同期展览，以APEC区域经贸合作为契机。马来西亚数字经济发展机构、泰国数字经济促进署、印尼中国友好协会等50余家境外机构组织采购团到场，APEC成员经济体采购商占比超七成。一位在华多年的泰国采购商专程寻找储能供应商，坦言泰国正处于电力与电动化转型关键期——需求侧的结构性缺口，正成为中企出海最直接的切入点。
+本届展会也是2026“侨助千企万品出海”行动（广东）暨亚太经贸合作交流推进活动的同期展览，以APEC区域经贸合作为契机。马来西亚数字经济发展机构、泰国数字经济促进署、印尼中国友好协会等50余家境外机构组织采购团到场，APEC成员经济体采购商占比超七成。一位在华多年的泰国采购商专程寻找储能供应商，坦言泰国正处于电力与电动化转型关键期——需求侧的结构性缺口，正成为中企出海最直接的切入点。
 
 ## 从单次参展到全球化布局
 
-深圳市侨商智库研究院理事长郑汉明表示，侨交会海外展矩阵将持续发力，9月走进哈萨克斯坦阿拉木图与越南，10月在印度尼西亚办展，着力推动国内优质制造企业出海深耕亚太。历经十二年，侨交会已举办23届境外展，服务海内外企业超7500家。企业代表闫科的感受很有代表性：借助平台，企业从"卖一单算一单"的单次交易，升级为"扎根当地、融入本地"的长期生态布局。
+深圳市侨商智库研究院理事长郑汉明表示，侨交会海外展矩阵将持续发力，9月走进哈萨克斯坦阿拉木图与越南，10月在印度尼西亚办展，着力推动国内优质制造企业出海深耕亚太。历经十二年，侨交会已举办23届境外展，服务海内外企业超7500家。企业代表闫科的感受很有代表性：借助平台，企业从“卖一单算一单”的单次交易，升级为“扎根当地、融入本地”的长期生态布局。
 
-*话题参考：中国侨网（来源：中新网）"第十二届侨交会启幕 以侨为桥搭建亚太经贸合作桥梁"。*
+*话题参考：中国侨网（来源：中新网）“第十二届侨交会启幕 以侨为桥搭建亚太经贸合作桥梁”。*
 
 ## 延伸阅读
 
-- **侨交会（Overseas Chinese Entrepreneurs Fair）**：由深圳市侨商智库研究院创办的民间侨界经贸展会，十二年举办23届境外展，定位为链接亚太产业的"超级链接器"。
-- **侨助千企万品出海（Thousands of Firms, Ten Thousand Products Going Global）**：2026年广东发起的助企出海行动，以侨商网络打通亚太供需对接与合规落地。
-- **APEC（Asia-Pacific Economic Cooperation）**：亚太经合组织；本届侨交会以APEC区域经贸合作为契机，成员经济体采购商占比超七成。
+**侨交会（Overseas Chinese Entrepreneurs Fair）**：由深圳市侨商智库研究院创办的民间侨界经贸展会，十二年举办23届境外展，定位为链接亚太产业的“超级链接器”。
+**侨助千企万品出海（Thousands of Firms, Ten Thousand Products Going Global）**：2026年广东发起的助企出海行动，以侨商网络打通亚太供需对接与合规落地。
+**APEC（Asia-Pacific Economic Cooperation）**：亚太经合组织；本届侨交会以APEC区域经贸合作为契机，成员经济体采购商占比超七成。
 
 ===EN===
 
@@ -52,6 +52,6 @@ Zheng Hanming, chairman of the Shenzhen Qiaoshang Think Tank, said the fair's ov
 
 ## Further reading
 
-- **Overseas Chinese Entrepreneurs Fair**: a privately run diaspora economic fair founded by the Shenzhen Qiaoshang Think Tank; over 12 years it has held 23 overseas editions, positioning itself as a super-connector for Asia-Pacific industry.
-- **Thousands of Firms, Ten Thousand Products Going Global**: a 2026 Guangdong campaign using the diaspora network to open Asia-Pacific supply-demand channels and local compliance.
-- **APEC (Asia-Pacific Economic Cooperation)**: the fair leveraged APEC regional trade cooperation; buyers from APEC economies made up over 70% of overseas purchasers.
+**Overseas Chinese Entrepreneurs Fair**: a privately run diaspora economic fair founded by the Shenzhen Qiaoshang Think Tank; over 12 years it has held 23 overseas editions, positioning itself as a super-connector for Asia-Pacific industry.
+**Thousands of Firms, Ten Thousand Products Going Global**: a 2026 Guangdong campaign using the diaspora network to open Asia-Pacific supply-demand channels and local compliance.
+**APEC (Asia-Pacific Economic Cooperation)**: the fair leveraged APEC regional trade cooperation; buyers from APEC economies made up over 70% of overseas purchasers.

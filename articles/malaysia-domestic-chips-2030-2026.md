@@ -1,10 +1,10 @@
 # 马来西亚放眼2030年量产本土晶片：从封装测试迈向设计与制造
 
-马来西亚政府把"本土造芯"写进了时间表。经济部长阿克马纳斯鲁拉8月21日表示，借助与英国晶片设计巨头安谋控股（Arm Holdings）的技术授权，马国力争最迟在2030年量产"本土设计与制造"的晶片，用于国内半导体供应链。从长期扮演全球封测角色，到尝试掌握设计与制造的两端，马来西亚的半导体野心，正踩在全球供应链重构与地缘博弈的双重节拍上。
+马来西亚政府把“本土造芯”写进了时间表。经济部长阿克马纳斯鲁拉8月21日表示，借助与英国晶片设计巨头安谋控股（Arm Holdings）的技术授权，马国力争最迟在2030年量产“本土设计与制造”的晶片，用于国内半导体供应链。从长期扮演全球封测角色，到尝试掌握设计与制造的两端，马来西亚的半导体野心，正踩在全球供应链重构与地缘博弈的双重节拍上。
 
-## 从"封测王国"到"晶片设计国"
+## 从“封测王国”到“晶片设计国”
 
-马来西亚是全球第六大半导体出口国，占全球半导体组装、测试和封装市场约13%，并贡献全球7%的半导体产量，美国约23%的晶片在马国生产。但这一优势长期集中在产业链中下游的封测环节，设计与制造的高附加值部分仍掌握在美欧与东亚手中。阿克马纳斯鲁拉口中的目标，正是让马来西亚从"测试和组装"升级为"更高档次和价值的半导体设计与生产国"——这一定位转变，才是2030计划真正的野心所在。
+马来西亚是全球第六大半导体出口国，占全球半导体组装、测试和封装市场约13%，并贡献全球7%的半导体产量，美国约23%的晶片在马国生产。但这一优势长期集中在产业链中下游的封测环节，设计与制造的高附加值部分仍掌握在美欧与东亚手中。阿克马纳斯鲁拉口中的目标，正是让马来西亚从“测试和组装”升级为“更高档次和价值的半导体设计与生产国”——这一定位转变，才是2030计划真正的野心所在。
 
 ## 安谋授权：三年设计、七年量产的时间表
 
@@ -12,19 +12,19 @@
 
 ## 十年2.5亿美元：买来的技术主权
 
-为换取这一系列能力，马国将在未来十年向安谋支付2亿5000万美元（约18亿元人民币），获得半导体相关设备与技术的知识产权，并提供给本国企业使用；费用涵盖七个高端晶片设计蓝图，以及培训约1万名工程师。马国还计划在未来五至十年自行生产图形处理器（GPU）晶片，搭建本土晶片设计与制造的生态系统。可以说，这是一笔以真金白银换"技术主权"的长期下注。
+为换取这一系列能力，马国将在未来十年向安谋支付2亿5000万美元（约18亿元人民币），获得半导体相关设备与技术的知识产权，并提供给本国企业使用；费用涵盖七个高端晶片设计蓝图，以及培训约1万名工程师。马国还计划在未来五至十年自行生产图形处理器（GPU）晶片，搭建本土晶片设计与制造的生态系统。可以说，这是一笔以真金白银换“技术主权”的长期下注。
 
 ## 地缘政治下的筹码：马来西亚的半导体野心
 
-马国把这项投资与出口目标绑定：力争2030年实现1.2万亿令吉（约1.9万亿元人民币）的半导体出口。在美中科技脱钩、产能分散化的背景下，马来西亚凭借既有封测基础、英语人才与中立地缘位置，正成为供应链"中国+1"与"友岸外包"的受惠者。但若要从授权走向自主，仍须跨过生态薄弱、人才缺口与"客户黏性"等门槛。2030能否如期点亮第一颗"马来西亚设计、马来西亚制造"的晶片，将检验这场野心成色。
+马国把这项投资与出口目标绑定：力争2030年实现1.2万亿令吉（约1.9万亿元人民币）的半导体出口。在美中科技脱钩、产能分散化的背景下，马来西亚凭借既有封测基础、英语人才与中立地缘位置，正成为供应链“中国+1”与“友岸外包”的受惠者。但若要从授权走向自主，仍须跨过生态薄弱、人才缺口与“客户黏性”等门槛。2030能否如期点亮第一颗“马来西亚设计、马来西亚制造”的晶片，将检验这场野心成色。
 
-*话题参考：联合早报（zaobao.com）东南亚新闻"马国放眼2030年生产本土晶片"。*
+*话题参考：联合早报（zaobao.com）东南亚新闻“马国放眼2030年生产本土晶片”。*
 
 ## 延伸阅读
 
-- **安谋（Arm Holdings）**：英国晶片设计巨头，以指令集架构授权模式著称；马国借其授权切入高阶晶片设计，绕开自主架构的漫长积累。
-- **半导体（Semiconductor）**：现代电子产业的核心；马国长期主导封测环节，正试图向设计与制造两端上移。
-- **友岸外包（Friend-shoring）**：美中脱钩下产能分散化趋势，马来西亚凭中立位置与封测基础成为受惠节点。
+**安谋（Arm Holdings）**：英国晶片设计巨头，以指令集架构授权模式著称；马国借其授权切入高阶晶片设计，绕开自主架构的漫长积累。
+**半导体（Semiconductor）**：现代电子产业的核心；马国长期主导封测环节，正试图向设计与制造两端上移。
+**友岸外包（Friend-shoring）**：美中脱钩下产能分散化趋势，马来西亚凭中立位置与封测基础成为受惠节点。
 
 ===EN===
 
@@ -52,6 +52,6 @@ Malaysia ties the investment to an export goal: reaching 1.2 trillion ringgit (a
 
 ## Further reading
 
-- **Arm Holdings**: a British chip-design giant known for its instruction-set licensing model; Malaysia uses its license to enter high-end design, bypassing the long haul of building its own architecture.
-- **Semiconductor**: the core of modern electronics; Malaysia has long dominated packaging and is now pushing upstream into design and fabrication.
-- **Friend-shoring**: the capacity-dispersion trend under U.S.–China decoupling; Malaysia's neutral position and packaging base make it a beneficiary node.
+**Arm Holdings**: a British chip-design giant known for its instruction-set licensing model; Malaysia uses its license to enter high-end design, bypassing the long haul of building its own architecture.
+**Semiconductor**: the core of modern electronics; Malaysia has long dominated packaging and is now pushing upstream into design and fabrication.
+**Friend-shoring**: the capacity-dispersion trend under U.S.–China decoupling; Malaysia's neutral position and packaging base make it a beneficiary node.

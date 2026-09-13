@@ -8,7 +8,7 @@
 
 ## 技术能唤来雨，却唤不来云
 
-专家质疑，在野火最猛的旱季作业，效果存疑。印尼茂物农业大学（IPB University）水文气候学讲师桑蒂卡亚萨指出："由于缺乏云层，人工增雨能取得的效果将非常有限。"人们也对碘化银的潜在危害与高成本提出疑问。印尼气象、气候和地球物理局天气改良主任布迪承认，人工增雨只是缓解措施，而非永久方案。
+专家质疑，在野火最猛的旱季作业，效果存疑。印尼茂物农业大学（IPB University）水文气候学讲师桑蒂卡亚萨指出：“由于缺乏云层，人工增雨能取得的效果将非常有限。”人们也对碘化银的潜在危害与高成本提出疑问。印尼气象、气候和地球物理局天气改良主任布迪承认，人工增雨只是缓解措施，而非永久方案。
 
 ## 根子在土地，不在天空
 
@@ -16,7 +16,7 @@
 
 ## 城市的肺也要修
 
-持续山火与无雨天气令雅加达（Jakarta）空气质量恶化，居民反映呼吸不适。这座城市的绿地仅占5%，90%的土地被混凝土覆盖；环境论坛认为，旱季极端高温正源于这种环境失衡。协调员穆罕默德说，人工增雨不能成为唯一方案，"我们需要的是城市结构的重组"。
+持续山火与无雨天气令雅加达（Jakarta）空气质量恶化，居民反映呼吸不适。这座城市的绿地仅占5%，90%的土地被混凝土覆盖；环境论坛认为，旱季极端高温正源于这种环境失衡。协调员穆罕默德说，人工增雨不能成为唯一方案，“我们需要的是城市结构的重组”。
 
 ## 跨境烟霾的老问题
 
@@ -26,9 +26,9 @@
 
 ## 延伸阅读
 
-- **人工增雨（Cloud Seeding）**：向云中播撒碘化银、干冰、盐粉等催化剂以提高降水效率的技术，印尼用于缓解林火旱情。
-- **泥炭地（Peatland）**：富含碳的湿地土壤，一旦排干焚烧会释放巨量温室气体，是东南亚跨境烟霾的主要来源。
-- **东盟跨境烟霾污染协定（ASEAN Agreement on Transboundary Haze Pollution）**：2002年签署的区域协定，旨在遏制林火烟霾越境，但执行长期受诟病。
+**人工增雨（Cloud Seeding）**：向云中播撒碘化银、干冰、盐粉等催化剂以提高降水效率的技术，印尼用于缓解林火旱情。
+**泥炭地（Peatland）**：富含碳的湿地土壤，一旦排干焚烧会释放巨量温室气体，是东南亚跨境烟霾的主要来源。
+**东盟跨境烟霾污染协定（ASEAN Agreement on Transboundary Haze Pollution）**：2002年签署的区域协定，旨在遏制林火烟霾越境，但执行长期受诟病。
 
 ===EN===
 
@@ -60,6 +60,6 @@ Fire haze routinely spills into Singapore, Malaysia and other neighbours, implic
 
 ## Further reading
 
-- **Cloud Seeding**: A technique that scatters silver iodide, dry ice or salt powder into clouds to raise precipitation efficiency; Indonesia uses it to ease fire-driven drought.
-- **Peatland**: Carbon-rich wetland soil that, once drained and burned, releases vast greenhouse-gas emissions and is the main source of transboundary haze in Southeast Asia.
-- **ASEAN Agreement on Transboundary Haze Pollution**: A 2002 regional pact aimed at curbing cross-border fire haze, whose enforcement has long been criticised as weak.
+**Cloud Seeding**: A technique that scatters silver iodide, dry ice or salt powder into clouds to raise precipitation efficiency; Indonesia uses it to ease fire-driven drought.
+**Peatland**: Carbon-rich wetland soil that, once drained and burned, releases vast greenhouse-gas emissions and is the main source of transboundary haze in Southeast Asia.
+**ASEAN Agreement on Transboundary Haze Pollution**: A 2002 regional pact aimed at curbing cross-border fire haze, whose enforcement has long been criticised as weak.

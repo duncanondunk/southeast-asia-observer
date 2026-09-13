@@ -6,21 +6,21 @@
 
 ## 五天十州：史上最大规模打击
 
-把这次行动放回近年脉络，方能看清其分量。马来西亚非法采矿屡禁不止，尤其稀土矿点，几乎成了"打而不绝"的顽疾。过去数年，吉打、霹雳、森美兰等多州都曾查获非法稀土矿场，并多次逮捕包括中国公民在内的外籍人员。
+把这次行动放回近年脉络，方能看清其分量。马来西亚非法采矿屡禁不止，尤其稀土矿点，几乎成了“打而不绝”的顽疾。过去数年，吉打、霹雳、森美兰等多州都曾查获非法稀土矿场，并多次逮捕包括中国公民在内的外籍人员。
 
 此番警方一口气在10州扫荡45个矿场，且由武吉阿曼警察总部内部安全及公共秩序部直接统筹，动员层级与跨州范围均属罕见。总监尤斯里说，业者并非初学者——一些人长期浸淫采矿行业，对矿藏分布与勘探颇有经验，非法盗采已持续三至五年。
 
 ## 稀土灰产：3.3万吨高岭土与跨境专家
 
-更值得警惕的，是盗采的技术化与跨境化。警方调查发现，一些非法采矿团伙疑聘外国地质专家协助勘探，其中包括来自中国的地质学者。稀土勘探本需专业地质研判，外籍专家的介入，意味着这条灰色产业链已超出"土法上马"的层级。
+更值得警惕的，是盗采的技术化与跨境化。警方调查发现，一些非法采矿团伙疑聘外国地质专家协助勘探，其中包括来自中国的地质学者。稀土勘探本需专业地质研判，外籍专家的介入，意味着这条灰色产业链已超出“土法上马”的层级。
 
 起获的3.3万吨高岭土是关键线索。高岭土虽常见于陶瓷与造纸，但部分矿点富含可提炼稀土的元素，正是非法稀土产业的上游原料。警方正追查整个犯罪链，包括背后人员与资金流向，不排除存在境外幕后主脑。
 
-## 八成稀土"黑"流中国：结构性失血
+## 八成稀土“黑”流中国：结构性失血
 
 稀土外流的方向，是这次行动无法回避的结构性问题。时任环境部长聂纳兹米2024年3月在国会答询时曾披露，马国2023年共有约1.9万吨稀土氧化物流入中国，其中仅约3000吨为合法出口，其余约1.6万吨属非法开采与出口——换言之，超过84%的稀土氧化物经非法管道流入中国，造成马国数亿令吉财政损失。
 
-一边是本土稀土资源以"黑市"方式外流，另一边是合法产业因审批与环保门槛迟迟难成规模。马国坐拥稀土禀赋，却长期未能将之转化为可控的战略收益，反而在执法与走私的拉锯中持续失血。
+一边是本土稀土资源以“黑市”方式外流，另一边是合法产业因审批与环保门槛迟迟难成规模。马国坐拥稀土禀赋，却长期未能将之转化为可控的战略收益，反而在执法与走私的拉锯中持续失血。
 
 ## 执法之外：产业与治理的两难
 
@@ -36,7 +36,7 @@
 
 **令吉（Ringgit）**：马来西亚货币；文中涉案估值以令吉计，跨境对比常换算为新元或人民币。
 
-*话题参考："联合早报" (zaobao.com) 东南亚新闻 ——《马国警方五天跨10州 瓦解24非法矿场》。*
+*话题参考：“联合早报” (zaobao.com) 东南亚新闻 ——《马国警方五天跨10州 瓦解24非法矿场》。*
 
 ===EN===
 
@@ -76,6 +76,6 @@ Otherwise, today 24 mines are shut; tomorrow 24 more may surface in another stat
 
 **Kaolin**: An aluminium-silicate clay; some deposits are rich in rare-earth-bearing elements, forming the bulk of this seizure and the upstream feedstock of the illegal rare-earth chain.
 
-**Ringgit**: Malaysia's currency; the seized values here are denominated in ringgit, typically converted to Singapore or Chinese yuan for cross-border comparison.
+**Ringgit**: Malaysia's currency; the seized values here are denominated in ringgit, typically converted to Singapore dollars or Chinese yuan for cross-border comparison.
 
 *Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "Malaysian police bust 24 illegal mines across 10 states in five days".*

@@ -4,25 +4,25 @@
 
 ## 季风增压：邦板牙省十八地涝渍围城
 
-本轮灾情的核心在邦板牙省。位于吕宋岛中央平原的邦板牙河三角洲地势低洼，历来是马尼拉都会区以北的"蓄水盆"。西南季风带来的强降雨使河水漫堤，省内十九个市镇有十八个报告洪涝，部分地段积水深约一点二米，底层住户与沿街商铺首当其冲。阿帕利特等城镇的主干道变成河道，居民出行只能依赖渔船或涉水通行，日常秩序被彻底打乱。
+本轮灾情的核心在邦板牙省。位于吕宋岛中央平原的邦板牙河三角洲地势低洼，历来是马尼拉都会区以北的“蓄水盆”。西南季风带来的强降雨使河水漫堤，省内十九个市镇有十八个报告洪涝，部分地段积水深约一点二米，底层住户与沿街商铺首当其冲。阿帕利特等城镇的主干道变成河道，居民出行只能依赖渔船或涉水通行，日常秩序被彻底打乱。
 
 ## 泽国实录：272村受困，近万人转移
 
-据《马尼拉时报》援引路透社报道，截至8月20日（周四），菲律宾全国已有二百七十二个村庄遭遇严重洪灾，多栋房屋和车辆被淹。在邦板牙省，共有九十一个受灾村庄、九千八百三十九人被安置在各地一百六十七个疏散中心。转移规模虽大，但官方暂时未通报有人员伤亡，说明预警与疏散动员在一定程度上减轻了直接生命损失——然而"零伤亡"的背后，是数以万计家庭生计中断的现实。
+据《马尼拉时报》援引路透社报道，截至8月20日（周四），菲律宾全国已有二百七十二个村庄遭遇严重洪灾，多栋房屋和车辆被淹。在邦板牙省，共有九十一个受灾村庄、九千八百三十九人被安置在各地一百六十七个疏散中心。转移规模虽大，但官方暂时未通报有人员伤亡，说明预警与疏散动员在一定程度上减轻了直接生命损失——然而“零伤亡”的背后，是数以万计家庭生计中断的现实。
 
 ## 无人伤亡背后的排涝与预警短板
 
-菲律宾地处台风与西南季风的交汇带，季节性洪涝几乎年年上演，但城市排涝系统长期跟不上城市化速度。排水管网老化、河道被违建与垃圾占用、低洼地带无序扩张，使同等量级的降雨造成越来越严重的内涝。本轮邦板牙十八地齐涝，正说明单纯依靠"灾来即撤"的应急逻辑已难以为继；提升河道行洪能力、硬化预警"最后一公里"，才是降低反复受灾的根本之道。
+菲律宾地处台风与西南季风的交汇带，季节性洪涝几乎年年上演，但城市排涝系统长期跟不上城市化速度。排水管网老化、河道被违建与垃圾占用、低洼地带无序扩张，使同等量级的降雨造成越来越严重的内涝。本轮邦板牙十八地齐涝，正说明单纯依靠“灾来即撤”的应急逻辑已难以为继；提升河道行洪能力、硬化预警“最后一公里”，才是降低反复受灾的根本之道。
 
 ## 季风常态下的菲律宾减灾考题
 
-对菲律宾而言，季风与台风不是偶发意外，而是每年必须作答的常态考题。气候变化使极端降雨更频繁、更集中，传统经验式的防灾安排愈显吃力。如何从"灾后抢险"转向"事前减损"，涉及城市规划、财政支出与跨区域协同等多重维度。邦板牙省的泽国景象提醒人们：在季风常态下，真正的韧性不在于灾时反应多快，而在于平日把堤坝、管网与预警筑得有多牢。
+对菲律宾而言，季风与台风不是偶发意外，而是每年必须作答的常态考题。气候变化使极端降雨更频繁、更集中，传统经验式的防灾安排愈显吃力。如何从“灾后抢险”转向“事前减损”，涉及城市规划、财政支出与跨区域协同等多重维度。邦板牙省的泽国景象提醒人们：在季风常态下，真正的韧性不在于灾时反应多快，而在于平日把堤坝、管网与预警筑得有多牢。
 
 ## 延伸阅读
 
-- **西南季风（Southwest Monsoon）**：每年夏季自西南方向吹向亚洲东南部的湿润气流，是菲律宾雨季与季风性暴雨的主要成因。
-- **邦板牙省（Pampanga）**：菲律宾吕宋岛中部省份，地处中央平原河三角洲，地势低洼，历来易遭洪涝侵袭。
-- **灾害风险管理（Disaster Risk Management）**：通过预警、疏散、基建与城市规划等手段降低自然灾害社会损失的系统性治理框架。
+**西南季风（Southwest Monsoon）**：每年夏季自西南方向吹向亚洲东南部的湿润气流，是菲律宾雨季与季风性暴雨的主要成因。
+**邦板牙省（Pampanga）**：菲律宾吕宋岛中部省份，地处中央平原河三角洲，地势低洼，历来易遭洪涝侵袭。
+**灾害风险管理（Disaster Risk Management）**：通过预警、疏散、基建与城市规划等手段降低自然灾害社会损失的系统性治理框架。
 
 *话题参考：联合早报《菲律宾暴雨成灾 数百村庄变泽国》（2026-08-20，来源：路透社）。*
 
@@ -50,8 +50,8 @@ For the Philippines, monsoons and typhoons are not occasional accidents but an a
 
 ## Further reading
 
-- **Southwest Monsoon**: the moist airflow blowing from the southwest toward Southeast Asia each summer, the main driver of the Philippines' rainy season and monsoon floods.
-- **Pampanga**: a province in Central Luzon, Philippines, located on a low-lying river delta and historically prone to flooding.
-- **Disaster Risk Management**: a systematic governance framework that reduces the social cost of natural hazards through early warning, evacuation, infrastructure, and urban planning.
+**Southwest Monsoon**: the moist airflow blowing from the southwest toward Southeast Asia each summer, the main driver of the Philippines' rainy season and monsoon floods.
+**Pampanga**: a province in Central Luzon, Philippines, located on a low-lying river delta and historically prone to flooding.
+**Disaster Risk Management**: a systematic governance framework that reduces the social cost of natural hazards through early warning, evacuation, infrastructure, and urban planning.
 
 *Topic reference: Lianhe Zaobao, "Philippines Floods Submerge Hundreds of Villages" (2026-08-20, via Reuters).*

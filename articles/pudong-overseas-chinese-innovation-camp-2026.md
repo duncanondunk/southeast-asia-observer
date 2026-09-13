@@ -32,9 +32,9 @@
 
 ## 延伸阅读
 
-- **新侨（Xinqiao / New-Generation Overseas Chinese）**：指改革开放后出国的留学人员、研发人员及在海外完成职业积累的高技术移民，与传统华侨华人社团意义上的「老侨」相对；近年来是中国地方侨务工作的主要服务对象。
-- **创业导师结对（Mentor Pairing for Entrepreneurs）**：研修营在三天集训之外，配套安排的「一位创业导师 + 一位人才服务专员 + 一位学员」长期对接机制，目标是让一次性活动转化为可问责的持续服务。
-- **张江科学城（Zhangjiang Science City）**：位于上海浦东的核心科创集聚区，全国集成电路、生物医药、人工智能三大先导产业最密集的空间之一，本次研修营被嵌入其中，意味着侨务工作正式与张江的产业链条对接。
+**新侨（Xinqiao / New-Generation Overseas Chinese）**：指改革开放后出国的留学人员、研发人员及在海外完成职业积累的高技术移民，与传统华侨华人社团意义上的「老侨」相对；近年来是中国地方侨务工作的主要服务对象。
+**创业导师结对（Mentor Pairing for Entrepreneurs）**：研修营在三天集训之外，配套安排的「一位创业导师 + 一位人才服务专员 + 一位学员」长期对接机制，目标是让一次性活动转化为可问责的持续服务。
+**张江科学城（Zhangjiang Science City）**：位于上海浦东的核心科创集聚区，全国集成电路、生物医药、人工智能三大先导产业最密集的空间之一，本次研修营被嵌入其中，意味着侨务工作正式与张江的产业链条对接。
 
 *话题参考：「中国侨网 ChinaQW」（chinaqw.com）——「上海浦东举办华侨华人创新创业研修营 近三成学员聚焦人工智能」。*
 
@@ -76,6 +76,6 @@ Forty-two people, three days, 26%, 21%, 80% — the numbers are not large in the
 
 ## Further reading
 
-- **Xinqiao (New-Generation Overseas Chinese)**: refers to students, researchers, and high-skill migrants who went abroad after reform and opening-up, and to overseas Chinese who have completed their professional accumulation abroad; distinguished from the "old diaspora" tied to traditional hometown associations, and now the principal client group of local diaspora work in China.
-- **Mentor Pairing for Entrepreneurs**: the camp's companion scheme, in which each participant is matched with one entrepreneurship mentor and one talent-services officer, intended to convert a one-off event into an accountable, long-running service relationship.
-- **Zhangjiang Science City**: a core innovation cluster in Pudong, Shanghai, and one of the densest concentrations in China of integrated circuits, biomedicine, and AI; the camp is deliberately embedded within it, signalling that diaspora work has been formally tied to Zhangjiang's industrial chain.
+**Xinqiao (New-Generation Overseas Chinese)**: refers to students, researchers, and high-skill migrants who went abroad after reform and opening-up, and to overseas Chinese who have completed their professional accumulation abroad; distinguished from the "old diaspora" tied to traditional hometown associations, and now the principal client group of local diaspora work in China.
+**Mentor Pairing for Entrepreneurs**: the camp's companion scheme, in which each participant is matched with one entrepreneurship mentor and one talent-services officer, intended to convert a one-off event into an accountable, long-running service relationship.
+**Zhangjiang Science City**: a core innovation cluster in Pudong, Shanghai, and one of the densest concentrations in China of integrated circuits, biomedicine, and AI; the camp is deliberately embedded within it, signalling that diaspora work has been formally tied to Zhangjiang's industrial chain.

@@ -175,10 +175,17 @@
       var v = el.getAttribute('data-' + LANG) || el.getAttribute('data-zh') || '';
       if (/<[a-z!/]/i.test(v)) el.innerHTML = v; else el.textContent = v;
     });
-    // placeholder 双语（form 输入提示）：data-zh-placeholder / data-en-placeholder
-    $$('[data-zh-placeholder]').forEach(function (el) {
-      var v = el.getAttribute('data-' + LANG + '-placeholder') || el.getAttribute('data-zh-placeholder') || '';
-      el.setAttribute('placeholder', v);
+    // 属性级双语（placeholder / aria-label / alt / title 等）：
+    // 任意 data-zh-<attr> 均按当前语言写入同名属性，如 data-zh-aria-label → aria-label
+    $$('*').forEach(function (el) {
+      if (!el || !el.attributes) return;
+      for (var i = 0; i < el.attributes.length; i++) {
+        var m = /^data-zh-([a-z-]+)$/.exec(el.attributes[i].name);
+        if (!m) continue;
+        var attr = m[1];
+        var v = el.getAttribute('data-' + LANG + '-' + attr) || el.getAttribute('data-zh-' + attr) || '';
+        if (v) el.setAttribute(attr, v);
+      }
     });
     $$('.lang-switch button').forEach(function (b) {
       b.classList.toggle('is-active', b.dataset.lang === LANG);

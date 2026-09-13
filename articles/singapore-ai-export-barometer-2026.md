@@ -1,4 +1,4 @@
-# 新加坡经济成了"AI贸易晴雨表"
+# 新加坡经济成了“AI贸易晴雨表”
 
 新加坡贸易部在八月做了一件不寻常的事：年内第二次上调2026年经济增长预测，把区间提高到4.5%—5.5%，原因是第二季度国内生产总值同比增长5.9%。官方把原因说得很直白——全球人工智能投资热潮强于预期，拉动了半导体需求、出口与制造业。对于一个几乎不消费自产、只出口所造的城邦而言，信号再清楚不过：新加坡已悄然成为全球AI贸易周期最灵敏的仪表。
 
@@ -6,7 +6,7 @@
 
 这次上调幅度惊人。新加坡贸工部年初的预测还只是1%—3%增长；二月提到2%—4%；八月再提到4.5%—5.5%。上半年国内生产总值同比增长6.1%。第二季度制造业增长12.5%、批发贸易增长8.3%，电子、精密工程与机械是领跑板块。非石油国内出口在当季跃升27.4%。新加坡生产全球约一成芯片、两成半导体制造设备，因此当全球AI资本开支加速，这座岛最先感知。
 
-## 新加坡为何成了"AI贸易晴雨表"
+## 新加坡为何成了“AI贸易晴雨表”
 
 新加坡恰好卡在AI资金转化为实物出货的咽喉位置：它是半导体设计、先进封装，以及采购芯片的云与数据中心运营商的枢纽。据日经亚洲（Nikkei Asia）今年五月报道，即便中东冲突扰乱供应链，AI热潮仍把新马电子出货推上历史高位——这说明AI相关需求比几乎所有其他出口品类都更能抵御地缘冲击。城邦深厚的人才池与亲商体制，使其成为超大规模云商与AI开发商天然的落脚地。结果便是：经济荣枯如今与硅谷的资本开支计划同频共振。
 
@@ -16,7 +16,7 @@
 
 ## 区域读数：东盟的AI红利并不均沾
 
-新加坡的暴利不能读作东南亚的暴利。马来西亚借其在芯片组装与测试中的角色同样乘风，政府已推出国家AI计划，推动本土企业向价值链上游攀升。但经济学家警告，区域的收益或许只是"短期脉冲"而非长期趋势。东南亚大量供给的是配套而非尖端半导体，以及数据中心耗用的电力与水——这些活动易被商品化，没有哪个国家能长期保持持久优势。人口老龄化与人才流向新加坡和西方，恐将马来西亚等中等收入经济体锁在低价值生产。泰国与越南正吸引数据中心与云投资，但电网可靠性、缺水等基建短板限制了扩张速度。
+新加坡的暴利不能读作东南亚的暴利。马来西亚借其在芯片组装与测试中的角色同样乘风，政府已推出国家AI计划，推动本土企业向价值链上游攀升。但经济学家警告，区域的收益或许只是“短期脉冲”而非长期趋势。东南亚大量供给的是配套而非尖端半导体，以及数据中心耗用的电力与水——这些活动易被商品化，没有哪个国家能长期保持持久优势。人口老龄化与人才流向新加坡和西方，恐将马来西亚等中等收入经济体锁在低价值生产。泰国与越南正吸引数据中心与云投资，但电网可靠性、缺水等基建短板限制了扩张速度。
 
 ## 风险情景：当AI资本开支退潮
 
@@ -28,11 +28,11 @@
 
 ## 延伸阅读
 
-- **AI资本开支（AI capital expenditure）**：超大规模云商与芯片厂商在数据中心、图形处理器与晶圆厂上的全球支出，是新加坡近期出口与国内生产总值飙升的主因。
-- **东盟+3宏观经济研究办公室（AMRO / ASEAN+3 Macroeconomic Research Office）**：区域监测机构，上文中建模了AI资本开支放缓的下行情景。
-- **后端半导体（Back-end semiconductor）**：芯片的组装、测试与封装环节，马来西亚与东南亚多处于此，价值低于设计与制造、更易商品化。
+**AI资本开支（AI capital expenditure）**：超大规模云商与芯片厂商在数据中心、图形处理器与晶圆厂上的全球支出，是新加坡近期出口与国内生产总值飙升的主因。
+**东盟+3宏观经济研究办公室（AMRO / ASEAN+3 Macroeconomic Research Office）**：区域监测机构，上文中建模了AI资本开支放缓的下行情景。
+**后端半导体（Back-end semiconductor）**：芯片的组装、测试与封装环节，马来西亚与东南亚多处于此，价值低于设计与制造、更易商品化。
 
-*Topic reference: "Nikkei Asia" (asia.nikkei.com) Southeast Asia — "Malaysia, Singapore exports surge on AI boom, defying Middle East shock".*
+*话题参考：日经亚洲（Nikkei Asia, asia.nikkei.com）东南亚报道《马来西亚与新加坡出口因AI热潮激增，未受中东冲击拖累》。*
 
 ===EN===
 
@@ -66,8 +66,8 @@ Singapore's second upgrade is a genuine achievement, not mere optimism — the u
 
 ## Further reading
 
-- **AI capital expenditure**: Global spending by hyperscalers and chipmakers on data centres, GPUs and fabs; the primary driver of Singapore's recent export and GDP surge.
-- **AMRO (ASEAN+3 Macroeconomic Research Office)**: The regional surveillance unit that modelled the AI-capex-slowdown downside scenario cited above.
-- **Back-end semiconductor**: Assembly, testing and packaging of chips, where Malaysia and much of Southeast Asia sit in the global value chain — lower-value, more commoditised than design and fabrication.
+**AI capital expenditure**: Global spending by hyperscalers and chipmakers on data centres, GPUs and fabs; the primary driver of Singapore's recent export and GDP surge.
+**AMRO (ASEAN+3 Macroeconomic Research Office)**: The regional surveillance unit that modelled the AI-capex-slowdown downside scenario cited above.
+**Back-end semiconductor**: Assembly, testing and packaging of chips, where Malaysia and much of Southeast Asia sit in the global value chain — lower-value, more commoditised than design and fabrication.
 
 *Topic reference: "Nikkei Asia" (asia.nikkei.com) Southeast Asia — "Malaysia, Singapore exports surge on AI boom, defying Middle East shock".*

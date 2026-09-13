@@ -36,9 +36,11 @@
 
 ## 延伸阅读
 
-- **侨乡（Qiaoxiang）**：中国南方侨民祖籍地，历史上靠侨汇与宗亲网络维系与海外社群的联系。
-- **离散软实力（Diaspora soft power）**：移民社群借由文化、慈善与日常存在所发挥的非正式影响，而非国家政策的延伸。
-- **侨团（Overseas Chinese association）**：侨居地的自愿性社区组织——商会、宗亲与同乡会、妇女联合会等——是散居生活的锚点。
+**侨乡（Qiaoxiang）**：中国南方侨民祖籍地，历史上靠侨汇与宗亲网络维系与海外社群的联系。
+**离散软实力（Diaspora soft power）**：移民社群借由文化、慈善与日常存在所发挥的非正式影响，而非国家政策的延伸。
+**侨团（overseas Chinese association）**：侨居地的自愿性社区组织——商会、宗亲与同乡会、妇女联合会等——是散居生活的锚点。
+
+*话题参考：中国侨网（chinaqw.com）每周热点——《中华慈善日：华侨华人善行不辍 将慈善融入日常》。*
 
 ===EN===
 
@@ -80,8 +82,8 @@ On a single day set aside for charity, the lesson from these communities is mode
 
 ## Further reading
 
-- **Qiaoxiang (侨乡)**: The emigrant hometowns of southern China whose ties to overseas communities were historically sustained by remittances and clan networks.
-- **Diaspora soft power (离散软实力)**: The informal influence a migrant community exerts through culture, charity, and everyday presence rather than state policy.
-- **Overseas Chinese associations (侨团)**: Voluntary community organisations — chambers of commerce, surname and hometown clubs, women's federations — that anchor diaspora life abroad.
+**Qiaoxiang (侨乡)**: The emigrant hometowns of southern China whose ties to overseas communities were historically sustained by remittances and clan networks.
+**Diaspora soft power (离散软实力)**: The informal influence a migrant community exerts through culture, charity, and everyday presence rather than state policy.
+**Overseas Chinese associations (侨团)**: Voluntary community organisations — chambers of commerce, surname and hometown clubs, women's federations — that anchor diaspora life abroad.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "中华慈善日：华侨华人善行不辍 将慈善融入日常".*

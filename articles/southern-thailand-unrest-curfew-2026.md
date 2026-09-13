@@ -8,23 +8,23 @@
 
 ## 宵禁与戒备：当局的即时应对
 
-那拉提瓦特别特遣部队宣布，自星期六晚10时15分至星期日早6时实施宵禁，以加强管控。军方与警方同步封锁现场、展开调查，并提升周边地区安全等级。这种"宵禁+封锁+呼吁警惕"的组合，是泰国历次应对南部边境突发事件的标准动作，目的在于压缩袭击者的活动窗口、恢复地方秩序。但宵禁本身也折射出治理的被动——当日常秩序需要靠限时禁足来维持，说明隐患早已潜伏在日常之下。
+那拉提瓦特别特遣部队宣布，自星期六晚10时15分至星期日早6时实施宵禁，以加强管控。军方与警方同步封锁现场、展开调查，并提升周边地区安全等级。这种“宵禁+封锁+呼吁警惕”的组合，是泰国历次应对南部边境突发事件的标准动作，目的在于压缩袭击者的活动窗口、恢复地方秩序。但宵禁本身也折射出治理的被动——当日常秩序需要靠限时禁足来维持，说明隐患早已潜伏在日常之下。
 
 ## 分离主义的幽灵：泰南为何长期不稳
 
-泰南三府（那拉提瓦、也拉、北大年，外加宋卡部分区域）聚居着以马来裔穆斯林为主的当地人口，与泰国主体佛教社会在历史、语言、宗教上长期存在张力。自上世纪初并入泰国以来，零星叛乱（insurgency）与分离主义诉求反复浮现，曾造成数十年低烈度冲突。近年大规模暴力虽趋缓，但纵火、炸弹与象征性袭击从未绝迹。此次连环事件虽未造成重大死伤，却精准踩在"宗教场所周边"与"行政中枢"两类敏感坐标上，释放出挑衅与存在感的信号。
+泰南三府（那拉提瓦、也拉、北大年，外加宋卡部分区域）聚居着以马来裔穆斯林为主的当地人口，与泰国主体佛教社会在历史、语言、宗教上长期存在张力。自上世纪初并入泰国以来，零星叛乱（insurgency）与分离主义诉求反复浮现，曾造成数十年低烈度冲突。近年大规模暴力虽趋缓，但纵火、炸弹与象征性袭击从未绝迹。此次连环事件虽未造成重大死伤，却精准踩在“宗教场所周边”与“行政中枢”两类敏感坐标上，释放出挑衅与存在感的信号。
 
 ## 安全与发展：两难中的泰国政府
 
 对泰国政府而言，泰南是一道长期两难题：强硬镇压易激化对立，怀柔纾困又难断暴力根脉。历届政府都试图以经济发展、双语教育与地方自治换取安宁，但成效有限。当前泰国政局正处于转型与重组期，边陲的稳定更易被内外势力视作可资利用的杠杆。三府一夜骚乱提醒曼谷：在把目光投向大国博弈与区域经济之前，先要稳住自己南端那道始终未愈的伤口。
 
-*话题参考：联合早报（zaobao.com）东南亚新闻"泰南三府发生一连串骚乱事件 当局实施宵禁管控局势"。*
+*话题参考：联合早报（zaobao.com）东南亚新闻“泰南三府发生一连串骚乱事件 当局实施宵禁管控局势”。*
 
 ## 延伸阅读
 
-- **泰南三府（Southern Thailand Provinces）**：那拉提瓦、也拉、北大年三府及宋卡部分地区，聚居马来裔穆斯林，长期存在与泰国主体社会的张力。
-- **分离主义（Separatism）**：泰南叛乱（insurgency）源于历史、宗教与族群张力，近年以低烈度纵火、爆炸等象征性袭击为主。
-- **宵禁（Curfew）**：当局在骚乱后常用的临时管控手段，通过限时禁足压缩袭击者活动窗口、恢复地方秩序。
+**泰南三府（Southern Thailand Provinces）**：那拉提瓦、也拉、北大年三府及宋卡部分地区，聚居马来裔穆斯林，长期存在与泰国主体社会的张力。
+**分离主义（Separatism）**：泰南叛乱（insurgency）源于历史、宗教与族群张力，近年以低烈度纵火、爆炸等象征性袭击为主。
+**宵禁（Curfew）**：当局在骚乱后常用的临时管控手段，通过限时禁足压缩袭击者活动窗口、恢复地方秩序。
 
 ===EN===
 
@@ -52,6 +52,6 @@ For any Thai government, the South is a long-standing dilemma: hard repression r
 
 ## Further reading
 
-- **Southern Thailand Provinces**: Narathiwat, Yala and Pattani, plus parts of Songkhla, are home mainly to ethnic Malay Muslims and long carry tension with Thailand's majority society.
-- **Separatism**: the southern insurgency stems from historical, religious and ethnic strain; recent years have favoured low-intensity arson, bombs and symbolic attacks.
-- **Curfew**: a standard temporary control after unrest, using timed confinement to shrink attackers' window and restore local order.
+**Southern Thailand Provinces**: Narathiwat, Yala and Pattani, plus parts of Songkhla, are home mainly to ethnic Malay Muslims and long carry tension with Thailand's majority society.
+**Separatism**: the southern insurgency stems from historical, religious and ethnic strain; recent years have favoured low-intensity arson, bombs and symbolic attacks.
+**Curfew**: a standard temporary control after unrest, using timed confinement to shrink attackers' window and restore local order.

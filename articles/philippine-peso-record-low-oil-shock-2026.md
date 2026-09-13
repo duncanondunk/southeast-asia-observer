@@ -6,7 +6,7 @@
 
 9月2日的交易中，比索一度跌至62.652，此前一个交易日（9月1日）收于62.4，已是当时的历史新低；而8月28日它还停留在62.265。短短一周内连续刷新低点，显示贬值并非偶然波动。与此同时，菲律宾证券交易所指数约跌1%，区域内风险偏好急剧恶化。
 
-马来亚银行（Maybank）的分析师点出问题核心：比索承受压力，源于"不利的外部头寸与偏低的实质利率"，而高油价与资本财进口增加的预期，会持续拖累货币。更具警示意味的是，传统上靠海外劳工汇款（OFW remittances）来稳定汇率的"缓冲垫"，如今提供的支撑正在减弱。
+马来亚银行（Maybank）的分析师点出问题核心：比索承受压力，源于“不利的外部头寸与偏低的实质利率”，而高油价与资本财进口增加的预期，会持续拖累货币。更具警示意味的是，传统上靠海外劳工汇款（OFW remittances）来稳定汇率的“缓冲垫”，如今提供的支撑正在减弱。
 
 ## 传导：油价如何击穿新兴市场
 
@@ -16,7 +16,7 @@
 
 ## 侨汇：传统稳定器正在失灵
 
-菲律宾经济最常被称道的"稳定器"，是约千万海外劳工的汇款。长期以来，侨汇被视为比索的压舱石——无论经济如何波动，汇款流入都能提供源源不断的外汇供给。但这一次，这块压舱石出现了松动。
+菲律宾经济最常被称道的“稳定器”，是约千万海外劳工的汇款。长期以来，侨汇被视为比索的压舱石——无论经济如何波动，汇款流入都能提供源源不断的外汇供给。但这一次，这块压舱石出现了松动。
 
 马来亚银行（Maybank）指出，来自主要来源地（尤其是美国与受冲突影响的中东）的汇款增速，已显疲态甚至放缓。中东恰恰是菲律宾海外劳工高度集中的区域，局势不稳直接削弱了其汇款能力。当最大的外汇稳定来源开始减速，比索便失去了最重要的防线。这也提示一个结构性事实：菲律宾的对外韧性，正越来越受制于地缘冲突的远端传导。
 
@@ -30,13 +30,13 @@
 
 比索的疲弱，在债市已有更刺眼的预演。据伦敦证券交易所集团（LSEG）数据，年初至今，印尼与菲律宾10年期国债的价格损失分别达7.6%与23.6%——菲律宾债市的跌幅在区域内尤为惊人。债券价格的下跌，反映外资正在撤离长期本币资产，是比索卖压的前瞻信号。
 
-当美债收益率走高，持有菲律宾国债的相对吸引力下降，外资减持便成趋势。一旦资本外流与货币贬值形成自我强化的循环，央行干预的成本将急剧上升。分析师提到，若菲律宾央行（BSP）出手干预，或能暂时为比索弱势"盖上盖子"，但无法消除根因。
+当美债收益率走高，持有菲律宾国债的相对吸引力下降，外资减持便成趋势。一旦资本外流与货币贬值形成自我强化的循环，央行干预的成本将急剧上升。分析师提到，若菲律宾央行（BSP）出手干预，或能暂时为比索弱势“盖上盖子”，但无法消除根因。
 
 ## 对比：区域内的分化
 
-在同一轮冲击中，亚洲货币并非整齐下跌。韩元逆势小幅走强，印尼盾与台币各跌约0.3%，泰铢跌0.1%后触及近一个月低位。菲律宾比索的"领跌"，凸显其外部脆弱性在区域内相对突出。
+在同一轮冲击中，亚洲货币并非整齐下跌。韩元逆势小幅走强，印尼盾与台币各跌约0.3%，泰铢跌0.1%后触及近一个月低位。菲律宾比索的“领跌”，凸显其外部脆弱性在区域内相对突出。
 
-这种分化背后是基本面的差异：拥有较大经常账户盈余或外汇储备的经济体，抗压能力更强；而菲律宾长期存在贸易逆差，又高度依赖能源与资本财进口，对外部冲击的传导更快、更深。比索的表现，因此更像一份"外部头寸体检报告"，而非孤立的行情事件。
+这种分化背后是基本面的差异：拥有较大经常账户盈余或外汇储备的经济体，抗压能力更强；而菲律宾长期存在贸易逆差，又高度依赖能源与资本财进口，对外部冲击的传导更快、更深。比索的表现，因此更像一份“外部头寸体检报告”，而非孤立的行情事件。
 
 ## 冷思考：比索弱势的结构根源
 
@@ -58,7 +58,7 @@
 
 # The Philippine Peso Breaks Its Record Low: Triple Squeeze from Oil, US Bonds and Fading Remittances
 
-On September 2, the Philippine peso touched an intraday record low of 62.652 per US dollar, leading Asian currencies lower. The moment came as fresh US strikes on Iran sent oil prices higher and pushed global bond yields to multi-year highs — Brent crude briefly approached US$95 (about RMB 685) a barrel, safe-haven flows rushed to the dollar, and emerging-market assets were sold off across the board. On the surface, this was a technical breakdown under external shock; beneath it lay the long-standing fragility of the Philippines' external position.
+On September 2, the Philippine peso touched an intraday record low of 62.652 per US dollar, leading Asian currencies lower. The moment came as fresh US strikes on Iran sent oil prices higher and pushed global bond yields to multi-year highs — Brent crude briefly approached US$95 a barrel, safe-haven flows rushed to the dollar, and emerging-market assets were sold off across the board. On the surface, this was a technical breakdown under external shock; beneath it lay the long-standing fragility of the Philippines' external position.
 
 ## The phenomenon: the peso's 62.652 record
 
@@ -68,7 +68,7 @@ Maybank analysts pinpointed the core problem: the peso is pressured by an "unfav
 
 ## Transmission: how oil pierces emerging markets
 
-The shock originated in the sudden Middle East escalation. After US strikes on Iranian targets, crude surged over two sessions, with Brent above US$95 (about RMB 685) and WTI above US$90 (about RMB 650). For an economy as energy-import-dependent as the Philippines, dearer oil directly enlarges the import bill, lifts dollar demand and pressures the peso.
+The shock originated in the sudden Middle East escalation. After US strikes on Iranian targets, crude surged over two sessions, with Brent above US$95 and WTI above US$90. For an economy as energy-import-dependent as the Philippines, dearer oil directly enlarges the import bill, lifts dollar demand and pressures the peso.
 
 At the same time, global bond yields rose in tandem. The US 10-year Treasury yield reached a near-three-year high, and Japan's 10-year government bond yield broke 3% for the first time since 1996. As dollar-asset returns climb and emerging-market appeal fades, capital exits local bonds and equities, adding a second layer of peso selling. The MSCI emerging-market currency index fell about 0.2% that day, ending a 10-session winning streak.
 
