@@ -20,7 +20,12 @@
     "imageAccessed": "2026-09-13",
     "imageAlt": "数据中心机房中成排的服务器机柜，象征中国—东盟数字合作背后的算力基础设施",
     "references": [
-      "https://www.chinaqw.com/jjkj/2026/09-11/411343.shtml"
+      {
+        "source": "中国侨网",
+        "title": "广西南宁借服贸会平台 推动搭建中国—东盟数字合作桥梁",
+        "url": "https://www.chinaqw.com/jjkj/2026/09-11/411343.shtml",
+        "date": "2026-09-11"
+      }
     ],
     "en": {
       "title": "Nanning's Digital Bridge at CIFTIS: From Hardware to Rules in China–ASEAN Connectivity",
@@ -30,7 +35,12 @@
       "summary": "Nanning leverages CIFTIS to build a China–ASEAN digital bridge across e-commerce, computing power and cross-border data, signalling connectivity moving from hardware to rules.",
       "imageAlt": "Rows of server racks in a data centre, symbolising the computing infrastructure behind China–ASEAN digital cooperation.",
       "references": [
-        "https://www.chinaqw.com/jjkj/2026/09-11/411343.shtml"
+        {
+          "source": "中国侨网",
+          "title": "广西南宁借服贸会平台 推动搭建中国—东盟数字合作桥梁",
+          "url": "https://www.chinaqw.com/jjkj/2026/09-11/411343.shtml",
+          "date": "2026-09-11"
+        }
       ]
     }
   },
@@ -55,7 +65,12 @@
     "imageAccessed": "2026-09-13",
     "imageAlt": "日内瓦联合国办事处前会员国国旗列阵，象征围绕缅甸驻联合国代表权的争夺",
     "references": [
-      "https://www.zaobao.com.sg/news/sea/story20260913-9668941"
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "缅甸：缅驻联合国代表觉莫吞涉“非法活动” 遭撤职",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260913-9668941",
+        "date": "2026-09-13"
+      }
     ],
     "en": {
       "title": "Kyaw Moe Tun's Dismissal: The Seat Fight Is an Extension of the Legitimacy Fight",
@@ -65,7 +80,12 @@
       "summary": "Myanmar's junta dismissed UN envoy Kyaw Moe Tun, but the Credentials Committee mechanism renders the order near-powerless, exposing the representation fight over Myanmar's legitimacy.",
       "imageAlt": "Flags of member states lining the approach to the United Nations Office at Geneva, symbolising the contest over Myanmar’s representation at the UN.",
       "references": [
-        "https://www.zaobao.com.sg/news/sea/story20260913-9668941"
+        {
+          "source": "联合早报 Lianhe Zaobao",
+          "title": "缅甸：缅驻联合国代表觉莫吞涉“非法活动” 遭撤职",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260913-9668941",
+          "date": "2026-09-13"
+        }
       ]
     }
   },
@@ -90,8 +110,12 @@
     "imageAccessed": "2026-09-13",
     "imageAlt": "电子产品卖场中陈列的笔记本电脑，象征AI算力需求向消费端价格的外溢",
     "references": [
-      "https://legacy.asiaone.com/singapore/singapore-pc-prices-surge-growing-ai-infrastructure-competes-components",
-      "https://www.malaymail.com/amp/news/singapore/2026/09/13/singapore-pc-prices-jump-up-to-40pc-as-ai-boom-squeezes-supply/235020"
+      {
+        "source": "新华网 Xinhua",
+        "title": "十大行业中报观察丨AI硬件成消费电子零部件行业新兴赛道",
+        "url": "https://news.cn/20260907/793f598160404246b7c3a83160f50867/c.html",
+        "date": "2026-09-07"
+      }
     ],
     "en": {
       "title": "AI Boom Sends Singapore PC Prices Soaring: When Compute Steals Consumers' Memory",
@@ -101,8 +125,12 @@
       "summary": "As AI data-centre expansion crowds out DRAM and graphics-card capacity, Singapore's average PC prices rose by as much as 40% year-on-year, per IDC. The surge exposes an unequal distribution of the AI dividend—compute owners capture the gains while end users absorb the costs.",
       "imageAlt": "Laptops on display in an electronics store, symbolising how demand for AI computing capacity spills over into consumer prices.",
       "references": [
-        "https://legacy.asiaone.com/singapore/singapore-pc-prices-surge-growing-ai-infrastructure-competes-components",
-        "https://www.malaymail.com/amp/news/singapore/2026/09/13/singapore-pc-prices-jump-up-to-40pc-as-ai-boom-squeezes-supply/235020"
+        {
+          "source": "新华网 Xinhua",
+          "title": "十大行业中报观察丨AI硬件成消费电子零部件行业新兴赛道",
+          "url": "https://news.cn/20260907/793f598160404246b7c3a83160f50867/c.html",
+          "date": "2026-09-07"
+        }
       ]
     }
   },
@@ -127,7 +155,12 @@
     "imageAccessed": "2026-09-13",
     "imageAlt": "户外使用智能手机的手部特写，象征社交媒体成为主要新闻入口",
     "references": [
-      "https://www.zaobao.com.sg/news/sea/story20260913-9669440"
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "社媒已超越传统媒体 成70%马国民众主要新闻来源",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260913-9669440",
+        "date": "2026-09-13"
+      }
     ],
     "en": {
       "title": "Social Media Overtakes Traditional News for 70% of Malaysians: When Legacy Media Recedes",
@@ -137,7 +170,12 @@
       "summary": "Reuters Institute data show nearly 70% of Malaysians now get news from social media, overtaking TV and news sites. As legacy media recedes and algorithmic echo chambers grow, Malaysia's fragmented, multilingual public sphere is being remade.",
       "imageAlt": "A hand using a smartphone outdoors, symbolising social media as the primary gateway to news.",
       "references": [
-        "https://www.zaobao.com.sg/news/sea/story20260913-9669440"
+        {
+          "source": "联合早报 Lianhe Zaobao",
+          "title": "社媒已超越传统媒体 成70%马国民众主要新闻来源",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260913-9669440",
+          "date": "2026-09-13"
+        }
       ]
     }
   },
@@ -162,7 +200,12 @@
     "imageAccessed": "2026-09-12",
     "imageAlt": "白板前讲解创业计划的创业者，象征侨创赛以赛引才的机制",
     "references": [
-      "https://www.chinaqw.com/qwxs/2026/09-11/411310.shtml"
+      {
+        "source": "中国侨网",
+        "title": "广东国际侨创赛落下帷幕 15个参赛优质项目意向落地中山",
+        "url": "https://www.chinaqw.com/qwxs/2026/09-11/411310.shtml",
+        "date": "2026-09-11"
+      }
     ],
     "en": {
       "title": "From “Donations” to “Projects on the Ground”: Guangdong’s Institutionalised Talent Drive via Startup Competitions",
@@ -172,7 +215,12 @@
       "summary": "Guangdong’s 2026 Overseas Chinese Innovation Contest closed with 15 quality projects intending to settle in Zhongshan and three open-call projects signed—a record. It signals a shift in diaspora policy from capital donations to talent-and-project returns, and raises questions about conversion rates, local competition and the modernisation of diaspora governance.",
       "imageAlt": "An entrepreneur presenting a startup plan at a whiteboard, symbolising the contest-based model through which overseas Chinese innovation competitions attract talent.",
       "references": [
-        "https://www.chinaqw.com/qwxs/2026/09-11/411310.shtml"
+        {
+          "source": "中国侨网",
+          "title": "广东国际侨创赛落下帷幕 15个参赛优质项目意向落地中山",
+          "url": "https://www.chinaqw.com/qwxs/2026/09-11/411310.shtml",
+          "date": "2026-09-11"
+        }
       ]
     }
   },
@@ -197,7 +245,12 @@
     "imageAccessed": "2026-09-12",
     "imageAlt": "开阔海面上执行救援作业的救生艇与救援人员，远处有直升机，象征群岛国家海上客运安全的监管缺口",
     "references": [
-      "https://www.zaobao.com.sg/news/sea/story20260912-9667546"
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "客轮爆燃数秒陷火海 菲海难致76死",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260912-9667546",
+        "date": "2026-09-12"
+      }
     ],
     "en": {
       "title": "Engulfed in Seconds: The Philippines Ferry Disaster and an Archipelago’s Maritime-Safety Debt",
@@ -207,7 +260,12 @@
       "summary": "A passenger vessel caught fire off Palawan’s Coron, killing 76 and leaving 13 missing. The disaster exposes deep gaps in the Philippines’ ferry regulation and emergency response, and speaks to a regional pattern across Southeast Asian archipelagos: maritime-safety modernisation lags far behind the travel demand of island populations.",
       "imageAlt": "Rescue workers in a lifeboat with a helicopter on the open sea, symbolising the regulatory gaps in archipelagic maritime passenger safety.",
       "references": [
-        "https://www.zaobao.com.sg/news/sea/story20260912-9667546"
+        {
+          "source": "联合早报 Lianhe Zaobao",
+          "title": "客轮爆燃数秒陷火海 菲海难致76死",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260912-9667546",
+          "date": "2026-09-12"
+        }
       ]
     }
   },
@@ -232,7 +290,12 @@
     "imageAccessed": "2026-09-12",
     "imageAlt": "曼谷城市天际线航拍，摩天楼群连绵展开，象征泰国以审批提速争夺产业链投资的努力",
     "references": [
-      "https://www.kaohooninternational.com/markets/590587"
+      {
+        "source": "新华网 Xinhua",
+        "title": "Thailand fast-tracks strategic investments, unveils tax breaks to drive tech IPOs",
+        "url": "https://english.news.cn/20260911/0b7aa6c7482544eb869411098071243d/c.html",
+        "date": "2026-09-11"
+      }
     ],
     "en": {
       "title": "Faster Approvals, A Listing Channel: Thailand's Institutional Sprint in the Relocation Window",
@@ -242,7 +305,12 @@
       "summary": "Thailand's BOI opened a fast track for about US$3.66bn in strategic investment and launched 'BOI to IPO' with the SEC and SET to channel promoted firms to local listings. Faster approvals plus a listing pipeline show smaller economies racing on institutional supply to capture relocating supply chains.",
       "imageAlt": "Aerial view of the Bangkok skyline with its cluster of high-rise towers, symbolising Thailand’s bid to compete for industrial investment through faster approvals.",
       "references": [
-        "https://www.kaohooninternational.com/markets/590587"
+        {
+          "source": "新华网 Xinhua",
+          "title": "Thailand fast-tracks strategic investments, unveils tax breaks to drive tech IPOs",
+          "url": "https://english.news.cn/20260911/0b7aa6c7482544eb869411098071243d/c.html",
+          "date": "2026-09-11"
+        }
       ]
     }
   },
@@ -267,7 +335,12 @@
     "imageAccessed": "2026-09-12",
     "imageAlt": "马来西亚吉隆坡城市天际线，吉隆坡塔与双子塔矗立其间，象征中等强国的多边对冲外交",
     "references": [
-      "https://www.zaobao.com.sg/news/sea/story20260912-9667348"
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "安华与普京新德里会晤 探讨设特别机制加快落实合作协议",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260912-9667348",
+        "date": "2026-09-12"
+      }
     ],
     "en": {
       "title": "The Middle Path and a Special Mechanism: Malaysia's Multilateral Hedging Within BRICS",
@@ -277,7 +350,12 @@
       "summary": "At the New Delhi BRICS summit, Anwar proposed a Malaysia–Russia special mechanism and J-KOM stressed a 'middle path'. Expanding palm-oil exports and semiconductor intent widen Kuala Lumpur's options, showing that a smaller state's multilateral hedging is about buying options, not choosing sides.",
       "imageAlt": "The Kuala Lumpur skyline with the KL Tower and Petronas Towers, symbolising a middle power’s strategy of multi-alignment.",
       "references": [
-        "https://www.zaobao.com.sg/news/sea/story20260912-9667348"
+        {
+          "source": "联合早报 Lianhe Zaobao",
+          "title": "安华与普京新德里会晤 探讨设特别机制加快落实合作协议",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260912-9667348",
+          "date": "2026-09-12"
+        }
       ]
     }
   },
