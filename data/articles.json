@@ -1,5 +1,140 @@
 [
   {
+    "slug": "bangsamoro-first-election-2026",
+    "title": "菲南邦萨摩洛自治区首次选举：和平进程的关键一跃",
+    "subtitle": "十三党角逐八十席，从\"临时自治\"走向\"常态治理\"",
+    "category": "地缘政治",
+    "tags": [
+      "地缘政治",
+      "菲律宾",
+      "选举",
+      "东盟"
+    ],
+    "country": "菲律宾",
+    "date": "2026-09-14",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "菲律宾南部邦萨摩洛自治区将迎来史上首次议会选举，十三党角逐八十席。这场从\"临时自治\"迈向\"常态治理\"的选举，标志着摩洛和平进程从枪声走向选票。文章梳理其从分离主义冲突到政治自治的脉络，并指出贫困、宗族政治与极端主义仍是未竟答卷，为东盟族群—宗教张力提供可对照样本。",
+    "image": "images/articles/bangsamoro-first-election-2026.jpg",
+    "imageCredit": "Pexels — photo 28808515",
+    "imageAccessed": "2026-09-14",
+    "imageAlt": "挥舞菲律宾国旗的户外庆祝人群，象征邦萨摩洛自治区首次议会选举的和平进程。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "菲南邦萨摩洛自治区首次选举 13政党角逐80议席",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260914-9675554",
+        "date": "2026-09-14"
+      }
+    ],
+    "en": {
+      "title": "Bangsamoro's First Election: A Critical Leap for the Peace Process",
+      "subtitle": "13 parties contest 80 seats as interim autonomy moves toward institutional governance",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "The Bangsamoro Autonomous Region in Muslim Mindanao is holding its first-ever parliamentary election, with 13 parties contesting 80 seats. The vote moves the Moro peace process from interim autonomy to institutional governance—ballots replacing gunfire. The article traces the arc from separatist conflict to political autonomy, and argues that poverty, clan politics and extremism remain unfinished business, offering a template for ASEAN's other ethnic-religious fault lines.",
+      "imageAlt": "Crowd celebrating outdoors with Philippine flags, symbolising the peaceful turn of the Bangsamoro region's first parliamentary election.",
+      "references": [
+        {
+          "source": "联合早报 Lianhe Zaobao",
+          "title": "菲南邦萨摩洛自治区首次选举 13政党角逐80议席",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260914-9675554",
+          "date": "2026-09-14"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "southeast-asia-growth-slowdown-world-bank-2026",
+    "title": "世界银行预警：2026年东南亚增长普遍放缓",
+    "subtitle": "外部冲击叠加，区域增速从5.0%回落至4.2%，分化加剧",
+    "category": "经济产业",
+    "tags": [
+      "经济产业",
+      "东南亚",
+      "东盟",
+      "贸易"
+    ],
+    "country": "东南亚",
+    "date": "2026-09-14",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "世界银行最新报告预计，受中东能源冲击与美国关税不确定性叠加影响，东亚与太平洋地区2026年经济增长放缓至4.2%，低于上年5.0%。东南亚普遍回撤，越南受创最重、泰国仅约1.3%，人工智能相关出口成少数亮点。报告强调，冲击烈度取决于各国政策空间，多数经济体料2027年回升，但能源扰动非暂时冲击。",
+    "image": "images/articles/southeast-asia-growth-slowdown-world-bank-2026.jpg",
+    "imageCredit": "Pexels — photo 32327756",
+    "imageAccessed": "2026-09-14",
+    "imageAlt": "雅加达现代摩天大楼构成的城市天际线，象征东南亚经济与增长的区域读数。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Southeast Asian Economies' Growth to Slow in 2026, World Bank Says",
+        "url": "https://buff.ly/woZvTj0",
+        "date": "2026-09-13"
+      }
+    ],
+    "en": {
+      "title": "World Bank Warns: Southeast Asia's Growth to Slow Across the Board in 2026",
+      "subtitle": "Stacked external shocks pull regional growth from 5.0% to 4.2%, widening divergence",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "The World Bank's latest update projects East Asia and Pacific growth to slow to 4.2% in 2026 from 5.0%, citing stacked Middle East energy and US tariff shocks. Southeast Asia pulls back broadly—Vietnam hardest hit, Thailand near stall—while AI-related exports shine. The Bank says intensity hinges on policy space, with most economies rebounding in 2027, yet warns the energy disruption is no temporary shock.",
+      "imageAlt": "Jakarta's skyline of modern skyscrapers, a symbol of Southeast Asia's economic and growth readings.",
+      "references": [
+        {
+          "source": "日经亚洲 Nikkei Asia",
+          "title": "Southeast Asian Economies' Growth to Slow in 2026, World Bank Says",
+          "url": "https://buff.ly/woZvTj0",
+          "date": "2026-09-13"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "southeast-asia-extreme-heat-outdoor-workers-2026",
+    "title": "热浪下的露天劳动者：东南亚社保网的一道裂缝",
+    "subtitle": "以柔佛油棕小园主为例，极端高温暴露劳动保护缺口",
+    "category": "气候变化",
+    "tags": [
+      "气候变化",
+      "社会政策",
+      "劳动力",
+      "马来西亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-09-14",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "南华早报以马来西亚柔佛州油棕小园主为例，揭示东南亚极端高温下露天劳动者的社会保障缺口：许多人将重活移向晨昏，但受雇者往往无此余裕。报告指区域多城缺乏高温风险评估、防护规则薄弱。建筑、环卫、外卖与农人等最庞大也最沉默的露天群体最为脆弱，修补之道在于可执行的高温劳动标准与职业病认定。",
+    "image": "images/articles/southeast-asia-extreme-heat-outdoor-workers-2026.jpg",
+    "imageCredit": "Pexels — photo 38127105",
+    "imageAccessed": "2026-09-14",
+    "imageAlt": "马来西亚柔佛州连绵的油棕种植园航拍，象征露天劳动者面对极端高温的工作场景。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asia's extreme heat exposes holes in safety net for outdoor workers",
+        "url": "https://liplyn.com/en/global/wire/southeast-asia-s-extreme-heat-exposes-holes-in-safety-net-for-outdoor-workers",
+        "date": "2026-09-05"
+      }
+    ],
+    "en": {
+      "title": "Southeast Asia's Extreme Heat Exposes Holes in the Safety Net for Outdoor Workers",
+      "subtitle": "A Johor oil-palm smallholder illustrates the labour-protection gap under extreme heat",
+      "category": "Climate Change",
+      "country": "Malaysia",
+      "summary": "South China Morning Post, via a Johor oil-palm smallholder, reveals Southeast Asia's social-safety-net gap for outdoor workers under extreme heat: many shift heavy work to dawn and dusk, but the employed often lack that latitude. A report finds regional cities lack heat-risk assessments and enforcement. Construction, sanitation, delivery and farm workers are most exposed; the fix lies in enforceable heat-labour standards and occupational-disease recognition.",
+      "imageAlt": "Aerial view of a continuous oil-palm plantation in Johor, Malaysia, symbolising the outdoor work scene under extreme heat.",
+      "references": [
+        {
+          "source": "南华早报 South China Morning Post",
+          "title": "Southeast Asia's extreme heat exposes holes in safety net for outdoor workers",
+          "url": "https://liplyn.com/en/global/wire/southeast-asia-s-extreme-heat-exposes-holes-in-safety-net-for-outdoor-workers",
+          "date": "2026-09-05"
+        }
+      ]
+    }
+  },
+  {
     "slug": "nanning-china-asean-digital-bridge-2026",
     "title": "南宁借服贸会搭数字桥：互联互通从硬件走向规则",
     "subtitle": "南宁借服贸会平台推动中国—东盟数字合作，折射区域连接从港口铁路迈向数据规则的深层转向。",
