@@ -1,52 +1,99 @@
 [
-{
-  "slug": "pinglu-canal-opens-china-asean-2026",
-  "title": "平陆运河今日通航：凿通西南向海新通道，重塑中国—东盟物流版图",
-  "subtitle": "据《日经亚洲》报道，这条纵贯广西的人工运河将西南与北部湾直连，为中国产能南移与区域制造一体化凿通新航道",
-  "category": "经济产业",
-  "tags": [
-    "平陆运河",
-    "中国—东盟",
-    "基础设施",
-    "产业链",
-    "贸易",
-    "广西",
-    "供应链"
-  ],
-  "country": "中国",
-  "date": "2026-09-16",
-  "readingTime": 8,
-  "featured": false,
-  "summary": "2026年9月16日，平陆运河正式通航。据《日经亚洲》9月12日报道，这条纵贯广西的人工运河将西南与北部湾直连，缩短至东盟港口约560公里、降本18%—30%，并为中国产能南移与区域制造一体化凿通新航道。",
-  "image": "images/articles/pinglu-canal-opens-china-asean-2026.jpg",
-  "imageCredit": "Pexels — photo 11161254",
-  "imageAccessed": "2026-09-16",
-  "imageAlt": "城市运河中停泊的船只，象征平陆运河连通西南与海洋的新通道",
-  "references": [
-    {
-      "source": "日经亚洲 Nikkei Asia",
-      "title": "China's Pinglu Canal opens, tightening trade ties with Southeast Asia",
-      "url": "https://asia.nikkei.com",
-      "date": "2026-09-12"
-    }
-  ],
-  "en": {
-    "title": "China's Pinglu Canal opens, redrawing the southwest's trade route to Southeast Asia",
-    "subtitle": "As Nikkei Asia reports, the Guangxi waterway links China's southwest directly to the Beibu Gulf, carving a new channel for the relocation of Chinese supply chains toward Southeast Asia.",
-    "category": "Economy & Industry",
-    "country": "China",
-    "summary": "On 16 September 2026 the Pinglu Canal opens, linking Guangxi's Xijiang to the Beibu Gulf and cutting some 560 km off routes to ASEAN ports while lowering logistics costs 18–30%, as Nikkei Asia reported on 12 September. The waterway also strengthens the connective tissue of a regional manufacturing system absorbing China's shifting supply chains.",
-    "imageAlt": "Boats moored on an urban canal, symbolising the new waterway linking China's southwest to the sea",
+  {
+    "slug": "indonesia-nusantara-wildfire-2026",
+    "title": "火围新都：印尼“智慧森林城”撞上自己烧着的泥炭地",
+    "subtitle": "林火逼近努山塔拉，迁都工程的生态账先糊了一半",
+    "category": "气候变化",
+    "tags": [
+      "印度尼西亚",
+      "气候变化",
+      "环境",
+      "烟霾",
+      "新首都",
+      "普拉博沃"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-09-16",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "印尼正经历十一年来最猛林火季，火点已逼近在建新首都努山塔拉。总统普拉博沃下令调无人机与意赠航母灭火。文章指出，新都选址泥炭地这一“易燃地基”埋下隐患，烧荒与厄尔尼诺叠加，水弹难灭地下阴燃，迁都工程的生态账恐须重算。",
+    "image": "images/articles/indonesia-nusantara-wildfire-2026.jpg",
+    "imageCredit": "Pexels — photo 28811873",
+    "imageAccessed": "2026-09-16",
+    "imageAlt": "烧焦的森林地表，印尼泥炭地林火后的景象",
     "references": [
       {
-        "source": "Nikkei Asia",
+        "source": "南华早报 South China Morning Post",
+        "title": "Wildfires threaten Indonesia's new capital as carrier ordered in",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3367063/wildfires-threaten-indonesias-new-capital-carrier-ordered",
+        "date": "2026-09-10"
+      }
+    ],
+    "en": {
+      "title": "Wildfires at the Gates of Nusantara: Indonesia's 'Smart Forest City' Meets Its Own Burning Peatland",
+      "subtitle": "Fires close in on the unfinished capital as a carrier is sent to fight the blaze",
+      "category": "Climate Change",
+      "country": "Indonesia",
+      "summary": "Indonesia is battling its worst wildfire season in 11 years, with fires now reaching land earmarked for the new capital Nusantara. President Prabowo has deployed drones and the Italian-donated carrier Garibaldi. The article argues the city's peatland site is a flammable foundation, that El Niño meets arson, and that water bombing cannot douse underground smoulder — forcing a rethink of the relocation's ecological ledger.",
+      "imageAlt": "Scorched forest ground after peatland wildfire in Indonesia",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Wildfires threaten Indonesia's new capital as carrier ordered in",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3367063/wildfires-threaten-indonesias-new-capital-carrier-ordered",
+          "date": "2026-09-10"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "pinglu-canal-opens-china-asean-2026",
+    "title": "平陆运河今日通航：凿通西南向海新通道，重塑中国—东盟物流版图",
+    "subtitle": "据《日经亚洲》报道，这条纵贯广西的人工运河将西南与北部湾直连，为中国产能南移与区域制造一体化凿通新航道",
+    "category": "经济产业",
+    "tags": [
+      "平陆运河",
+      "中国—东盟",
+      "基础设施",
+      "产业链",
+      "贸易",
+      "广西",
+      "供应链"
+    ],
+    "country": "中国",
+    "date": "2026-09-16",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "2026年9月16日，平陆运河正式通航。据《日经亚洲》9月12日报道，这条纵贯广西的人工运河将西南与北部湾直连，缩短至东盟港口约560公里、降本18%—30%，并为中国产能南移与区域制造一体化凿通新航道。",
+    "image": "images/articles/pinglu-canal-opens-china-asean-2026.jpg",
+    "imageCredit": "Pexels — photo 11161254",
+    "imageAccessed": "2026-09-16",
+    "imageAlt": "城市运河中停泊的船只，象征平陆运河连通西南与海洋的新通道",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
         "title": "China's Pinglu Canal opens, tightening trade ties with Southeast Asia",
         "url": "https://asia.nikkei.com",
         "date": "2026-09-12"
       }
-    ]
-  }
-},
+    ],
+    "en": {
+      "title": "China's Pinglu Canal opens, redrawing the southwest's trade route to Southeast Asia",
+      "subtitle": "As Nikkei Asia reports, the Guangxi waterway links China's southwest directly to the Beibu Gulf, carving a new channel for the relocation of Chinese supply chains toward Southeast Asia.",
+      "category": "Economy & Industry",
+      "country": "China",
+      "summary": "On 16 September 2026 the Pinglu Canal opens, linking Guangxi's Xijiang to the Beibu Gulf and cutting some 560 km off routes to ASEAN ports while lowering logistics costs 18–30%, as Nikkei Asia reported on 12 September. The waterway also strengthens the connective tissue of a regional manufacturing system absorbing China's shifting supply chains.",
+      "imageAlt": "Boats moored on an urban canal, symbolising the new waterway linking China's southwest to the sea",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "China's Pinglu Canal opens, tightening trade ties with Southeast Asia",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-09-12"
+        }
+      ]
+    }
+  },
   {
     "slug": "indonesia-yawan-hsr-debt-restructure-2026",
     "title": "印尼接管雅万高铁股权重组债务：拆了违约的弹，债却留给了子孙",
