@@ -1,4 +1,52 @@
 [
+{
+  "slug": "pinglu-canal-opens-china-asean-2026",
+  "title": "平陆运河今日通航：凿通西南向海新通道，重塑中国—东盟物流版图",
+  "subtitle": "据《日经亚洲》报道，这条纵贯广西的人工运河将西南与北部湾直连，为中国产能南移与区域制造一体化凿通新航道",
+  "category": "经济产业",
+  "tags": [
+    "平陆运河",
+    "中国—东盟",
+    "基础设施",
+    "产业链",
+    "贸易",
+    "广西",
+    "供应链"
+  ],
+  "country": "中国",
+  "date": "2026-09-16",
+  "readingTime": 8,
+  "featured": false,
+  "summary": "2026年9月16日，平陆运河正式通航。据《日经亚洲》9月12日报道，这条纵贯广西的人工运河将西南与北部湾直连，缩短至东盟港口约560公里、降本18%—30%，并为中国产能南移与区域制造一体化凿通新航道。",
+  "image": "images/articles/pinglu-canal-opens-china-asean-2026.jpg",
+  "imageCredit": "Pexels — photo 11161254",
+  "imageAccessed": "2026-09-16",
+  "imageAlt": "城市运河中停泊的船只，象征平陆运河连通西南与海洋的新通道",
+  "references": [
+    {
+      "source": "日经亚洲 Nikkei Asia",
+      "title": "China's Pinglu Canal opens, tightening trade ties with Southeast Asia",
+      "url": "https://asia.nikkei.com",
+      "date": "2026-09-12"
+    }
+  ],
+  "en": {
+    "title": "China's Pinglu Canal opens, redrawing the southwest's trade route to Southeast Asia",
+    "subtitle": "As Nikkei Asia reports, the Guangxi waterway links China's southwest directly to the Beibu Gulf, carving a new channel for the relocation of Chinese supply chains toward Southeast Asia.",
+    "category": "Economy & Industry",
+    "country": "China",
+    "summary": "On 16 September 2026 the Pinglu Canal opens, linking Guangxi's Xijiang to the Beibu Gulf and cutting some 560 km off routes to ASEAN ports while lowering logistics costs 18–30%, as Nikkei Asia reported on 12 September. The waterway also strengthens the connective tissue of a regional manufacturing system absorbing China's shifting supply chains.",
+    "imageAlt": "Boats moored on an urban canal, symbolising the new waterway linking China's southwest to the sea",
+    "references": [
+      {
+        "source": "Nikkei Asia",
+        "title": "China's Pinglu Canal opens, tightening trade ties with Southeast Asia",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-09-12"
+      }
+    ]
+  }
+},
   {
     "slug": "indonesia-yawan-hsr-debt-restructure-2026",
     "title": "印尼接管雅万高铁股权重组债务：拆了违约的弹，债却留给了子孙",

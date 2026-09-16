@@ -87,10 +87,11 @@
       ]
     },
     "event:平陆运河通航助推东盟货运(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-06），平陆运河通航、西南通江达海助推东盟货运，经济产业/基础设施主题；与既有基础设施、贸易条目不重复。",
+      "note": "平陆运河通航(2026-09-16) 系列。首篇 pinglu-canal-asean-shipments-2026 聚焦东盟货物北上通道与RCEP/广西枢纽框架（南华早报来源）。本篇 pinglu-canal-opens-china-asean-2026 为第二篇、视角不同（日经亚洲来源）：聚焦运河在中国产能向东南亚迁移叙事中的角色、孙中山1920《实业计划》百年设想落地、工程自主化与成本账对比巴拿马，区别于首篇的贸易流量/RCEP框架。",
       "exception": null,
       "slugs": [
-        "pinglu-canal-asean-shipments-2026"
+        "pinglu-canal-asean-shipments-2026",
+        "pinglu-canal-opens-china-asean-2026"
       ]
     },
     "event:中新海上合作2026联演(2026-09)": {
