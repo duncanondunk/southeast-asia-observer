@@ -40,7 +40,7 @@
 
 **达南塔拉（Danantara）**：印度尼西亚主权财富基金，统管多家国有企业股权，在雅万高铁股权重组中扮演协调角色。
 
-*Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "印尼政府接管雅万高铁股权重组债务 违约风险缓解但债留子孙"。*
+*话题参考："联合早报"（zaobao.com）东南亚新闻——"印尼政府接管雅万高铁股权重组债务 违约风险缓解但债留子孙"。*
 
 ===EN===
 
