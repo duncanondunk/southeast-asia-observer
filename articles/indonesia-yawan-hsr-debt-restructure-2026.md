@@ -28,6 +28,10 @@
 
 普拉博沃政府有意将高铁向东延伸约700公里至东爪哇省省会泗水。西瓦格警告，考虑到既有路段成本已大幅超出最初估算，延伸线恐导致超支与债务风险暴增，须先做可行性研究、可靠的需求预测，并明确建设与商业风险分配。若盈利模式不先理顺，延伸不过是把今天的难题放大到明天的版图上。雅万高铁的经验恰恰说明：互联互通的政治红利易得，财务的可持续却难求。
 
+## 写在最后：通车易，算账难
+
+雅万高铁的故事，给基础设施建设热提供了一面镜子。项目本身无疑提振了印尼的互联互通与区域自信，但债务重组暴露的，是政治工程与财务可持续之间的永恒张力。对中方而言，最大债权方的身份意味着风险与话语权同步上升——既要维护资产安全，又须避免"债务陷阱"叙事被坐实。对印尼而言，真正的考题不是能否建成高铁，而是能否让这条铁路在八十年摊还期内持续产生现金流。基础设施的荣景，终究要回到最朴素的财政常识：借来的繁荣，迟早要还。
+
 ## 延伸阅读
 
 **雅万高铁（Whoosh）**：东南亚首条高速铁路，2023年10月通车，全长142公里，将雅加达至万隆逾三小时车程压缩至约40分钟，由中国与印尼合资建设和运营。
@@ -69,6 +73,10 @@ Stretching the 40-year schedule to 80 years eases annual pressure on paper, but 
 ## Extending to Surabaya: a bigger bet
 
 The Prabowo government intends to extend the line roughly 700 kilometres east to Surabaya, capital of East Java. Siwage warns that, given the existing section already cost far more than first estimated, the extension could trigger cost overruns and a surge in debt risk; it must first undergo feasibility studies, reliable demand forecasts and a clear allocation of construction and commercial risk. If the profit model is not fixed first, the extension merely enlarges today's problem onto tomorrow's map. The Whoosh experience shows precisely this: the political dividend of connectivity is easy to reap, but financial sustainability is hard to earn.
+
+## In the end: easy to build, hard to balance the books
+
+The Whoosh saga holds up a mirror to the infrastructure boom. The railway has plainly lifted Indonesia's connectivity and regional confidence, yet the debt restructuring lays bare the perennial tension between political prestige and financial sustainability. For China, as the largest creditor, risk and leverage rise together — it must protect its assets while avoiding confirmation of the "debt-trap" narrative. For Indonesia, the real test is not whether it can build a high-speed line, but whether the line can generate cash flow across an eighty-year amortisation. The glow of infrastructure, in the end, always returns to the simplest fiscal truth: borrowed prosperity is eventually repaid.
 
 ## Further reading
 

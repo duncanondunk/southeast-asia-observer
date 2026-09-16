@@ -2,52 +2,317 @@
   {
     "slug": "indonesia-yawan-hsr-debt-restructure-2026",
     "title": "印尼接管雅万高铁股权重组债务：拆了违约的弹，债却留给了子孙",
-    "subtitle": "国家信用兜底下的“以时间换空间”，与普拉博沃延伸泗水的更大赌注",
+    "subtitle": "印尼将雅万高铁印尼方股权与债务移交国家专项机构，以主权信用置换企业信用避免违约；债务并未消失，只是沿时间轴后移，被批'债留子孙'。",
     "category": "经济产业",
     "tags": [
-      "印度尼西亚",
+      "印尼",
       "雅万高铁",
       "债务",
-      "债务重组",
-      "一带一路",
-      "基础设施",
-      "国企",
-      "普拉博沃",
-      "中印尼关系"
+      "债务重组"
     ],
-    "country": "印度尼西亚",
-    "date": "2026-09-16",
-    "readingTime": 7,
+    "country": "印尼",
+    "date": "2026-09-15",
+    "readingTime": 6,
     "featured": false,
-    "summary": "印尼政府9月15日宣布由财政部专项机构接管雅万高铁印尼方股权与债务，将国开行45.5亿美元贷款的摊还期由40年延至80年、每年偿还1万亿印尼盾。重组以国家信用置换企业信用，短期缓解违约风险，却把债务连同利息成本转嫁后代，且普拉博沃拟延伸泗水恐放大风险。",
-    "en": {
-      "title": "Indonesia Takes Over Jakarta–Bandung HSR Equity to Restructure Debt: Defusing Default, Passing the Bill to the Next Generation",
-      "subtitle": "Sovereign backstop buys time, while Prabowo's Surabaya extension raises a bigger bet",
-      "category": "Economy & Industry",
-      "country": "Indonesia",
-      "summary": "On 15 September Indonesia announced that a Finance Ministry agency will take over the Indonesian side's equity and debt in the Jakarta–Bandung high-speed railway, extending China Development Bank's US$4.55 billion loan repayment from 40 to 80 years at 1 trillion rupiah (about US$61 million) a year. The restructuring swaps corporate for sovereign credit, easing near-term default risk but shifting the burden—and added interest—onto future generations, while Prabowo's planned Surabaya extension could amplify the risk.",
-      "imageAlt": "Jakarta–Bandung high-speed railway (Whoosh) train at a station",
-      "references": [
-        {
-          "source": "Lianhe Zaobao (zaobao.com)",
-          "title": "印尼政府接管雅万高铁股权重组债务 违约风险缓解但债留子孙",
-          "url": "https://www.zaobao.com.sg/news/sea/story20260915-9681313",
-          "date": "2026-09-15"
-        }
-      ]
-    },
+    "summary": "印尼将雅万高铁印尼方股权与债务移交国家专项机构，用主权信用置换企业信用避免违约，却把偿债压力沿时间轴后移，被批'债留子孙'。",
     "image": "images/articles/indonesia-yawan-hsr-debt-restructure-2026.jpg",
-    "imageCredit": "Pexels — photo 32119302",
+    "imageCredit": "Pexels — photo 7221989",
     "imageAccessed": "2026-09-16",
-    "imageAlt": "雅加达—万隆高铁（Whoosh）车站列车",
+    "imageAlt": "印尼雅加达—万隆高铁（Whoosh）的列车与车站设施，标志这条东南亚首条高铁的运营与债务重构。",
     "references": [
       {
         "source": "联合早报 Lianhe Zaobao",
         "title": "印尼政府接管雅万高铁股权重组债务 违约风险缓解但债留子孙",
-        "url": "https://www.zaobao.com.sg/news/sea/story20260915-9681313",
+        "url": "https://www.zaobao.com/news/sea",
         "date": "2026-09-15"
       }
-    ]
+    ],
+    "en": {
+      "title": "Indonesia Takes Over Jakarta–Bandung HSR Stake in Debt Restructuring: Defusing Default, Passing the Bill to Heirs",
+      "subtitle": "Indonesia has moved the Indonesian stake and debt of the Jakarta–Bandung high-speed rail (Whoosh) into a state vehicle, swapping corporate credit for sovereign backing to avert default — but the burden is shifted forward in time, drawing 'debt left to descendants' criticism.",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "Indonesia has placed its stake in the Jakarta–Bandung high-speed rail (Whoosh) and related debt under a state vehicle, using sovereign credit to avert default. The restructuring eases an immediate cash crunch but shifts the burden forward: longer maturities mean higher lifetime interest, and future budgets absorb the cost. Critics call it 'debt left to descendants.' China, the largest creditor via CDB, trades short-term default risk for prolonged uncertainty.",
+      "imageAlt": "The Jakarta–Bandung high-speed rail (Whoosh) trains and station facilities, marking the operation and debt restructuring of Southeast Asia's first high-speed line.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Indonesia Takes Over Jakarta–Bandung HSR Stake in Debt Restructuring",
+          "url": "https://www.zaobao.com/news/sea",
+          "date": "2026-09-15"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "vietnam-semiconductor-strategy-2026",
+    "title": "越南半导体战略崛起：从'世界工厂'到'芯片玩家'的赌注",
+    "subtitle": "越南更新国家半导体战略，欲借三星、安靠封测与Viettel自研从组装跃迁为芯片玩家，却受人才、生态与稀土短板掣肘，并在美中之间走钢丝。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "半导体",
+      "供应链",
+      "稀土"
+    ],
+    "country": "越南",
+    "date": "2026-09-15",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "越南更新国家半导体战略，目标2030年前建成至少10座芯片封测厂、跃升为'芯片玩家'；借三星、安靠与Viettel自研切入分工，却受人才、生态与稀土短板掣肘，并在美中之间走钢丝。",
+    "image": "images/articles/vietnam-semiconductor-strategy-2026.jpg",
+    "imageCredit": "Pexels — photo 29289936",
+    "imageAccessed": "2026-09-16",
+    "imageAlt": "越南平阳省工业园区鸟瞰，象征其从劳动密集型制造向半导体封测升级的产业跃迁。",
+    "references": [
+      {
+        "source": "Nikkei Asia",
+        "title": "Vietnam's Semiconductor Strategy: From Assembly Hub to Chip Player",
+        "url": "https://asia.nikkei.com/",
+        "date": "2026-09"
+      }
+    ],
+    "en": {
+      "title": "Vietnam's Semiconductor Ambition: Betting on a Leap from 'World Factory' to 'Chip Player'",
+      "subtitle": "Vietnam's updated semiconductor strategy aims to move from assembly hub to chip player via Samsung and Amkor packaging and Viettel's own fabs, yet is constrained by talent, ecosystem and rare-earth gaps while walking a tightrope between the US and China.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam's updated semiconductor strategy targets at least 10 OSAT plants by 2030, seeking to move from assembly hub to chip player. Foreign investment from Samsung and Amkor and Viettel's own fab provide footholds, but weak talent, a thin ecosystem and extraction gaps constrain the leap. A rare-earth export ban seeks to feed domestic industry. Hanoi's 'bamboo diplomacy' balances US friend-shoring against China as the key equipment source.",
+      "imageAlt": "Aerial view of an industrial park in Binh Duong, Vietnam, symbolising the country's shift from labour-intensive manufacturing to semiconductor packaging.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Vietnam's Semiconductor Strategy: From Assembly Hub to Chip Player",
+          "url": "https://asia.nikkei.com/",
+          "date": "2026-09"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "malaysia-negeri-sembilan-royal-crisis-2026",
+    "title": "马来西亚森美兰王室危机加深：一桩'不忠'指控引发的宪制风波",
+    "subtitle": "森美兰特有的选举君主制下，继承人'严重不忠'指控使继承争议外溢为联邦议题，亦是对安华政府克制治理的考验。",
+    "category": "地缘政治",
+    "tags": [
+      "马来西亚",
+      "王室",
+      "君主立宪",
+      "政治"
+    ],
+    "country": "马来西亚",
+    "date": "2026-09-15",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "马来西亚森美兰州因继承人'严重不忠'指控陷入公开王室危机；其独有的选举君主制使继承争议外溢为联邦议题，亦考验安华政府克制的治理姿态。",
+    "image": "images/articles/malaysia-negeri-sembilan-royal-crisis-2026.jpg",
+    "imageCredit": "Pexels — photo 38260912",
+    "imageAccessed": "2026-09-16",
+    "imageAlt": "吉隆坡国家皇宫（Istana Negara）的建筑立面，象征马来西亚君主立宪体制下的王权与礼制。",
+    "references": [
+      {
+        "source": "South China Morning Post",
+        "title": "Malaysia's Negeri Sembilan royal crisis deepens amid claims of grave disloyalty",
+        "url": "https://www.scmp.com/week-asia",
+        "date": "2026-09"
+      }
+    ],
+    "en": {
+      "title": "Malaysia's Negeri Sembilan Royal Crisis Deepens: A Constitutional Storm Over 'Grave Disloyalty'",
+      "subtitle": "Under Negeri Sembilan's unique elective monarchy, allegations of 'grave disloyalty' against an heir have turned a succession dispute into a federal matter, testing Prime Minister Anwar's restrained governance.",
+      "category": "Geopolitics",
+      "country": "Malaysia",
+      "summary": "Malaysia's Negeri Sembilan royal household is gripped by a rare public crisis after allegations of 'grave disloyalty' against an appointed heir. The state's unique elective monarchy — rulers chosen by territorial chiefs — turns a succession dispute into a multi-level contest among chiefs, state and federal palace. The fallout tests Prime Minister Anwar's careful stance of non-interference and strains the monarchy's symbolic aura. The episode also loosens the tacit taboo on discussing royal affairs in Malaysian public life.",
+      "imageAlt": "The facade of Istana Negara, the national palace in Kuala Lumpur, symbolising royal authority and protocol under Malaysia's constitutional monarchy.",
+      "references": [
+        {
+          "source": "South China Morning Post (SCMP)",
+          "title": "Malaysia's Negeri Sembilan royal crisis deepens amid claims of grave disloyalty",
+          "url": "https://www.scmp.com/week-asia",
+          "date": "2026-09"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "macau-mazut-cultural-festival-2026",
+    "title": "澳门妈祖文化旅游节将启：一座城的海洋信俗如何变成文旅名片",
+    "subtitle": "澳门将妈祖信俗包装为城市级文旅IP，借'地名源于妈阁'的唯一性与大湾区文化协同，把海洋信俗转化为华侨华人的情感与文化名片。",
+    "category": "华侨华人",
+    "tags": [
+      "澳门",
+      "妈祖",
+      "文旅",
+      "文化遗产"
+    ],
+    "country": "澳门",
+    "date": "2026-09-16",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "澳门将妈祖信俗包装为城市级文旅IP，借'地名源于妈阁'的唯一性与大湾区文化协同，把跨越海域的海洋信俗转化为华侨华人的情感与文化名片。",
+    "image": "images/articles/macau-mazut-cultural-festival-2026.jpg",
+    "imageCredit": "Pexels — photo 32325198",
+    "imageAccessed": "2026-09-16",
+    "imageAlt": "澳门街头一座传统中式庙宇，香火缭绕，呼应妈祖信俗作为华侨华人海洋文化纽带的主题。",
+    "references": [
+      {
+        "source": "中国侨网 China Qiaowang",
+        "title": "澳门妈祖文化旅游节将于10月举行",
+        "url": "https://www.chinaqw.com/",
+        "date": "2026-09"
+      }
+    ],
+    "en": {
+      "title": "Macau's Mazu Cultural Tourism Festival: How an Oceanic Folk Belief Becomes a City Brand",
+      "subtitle": "Macau is recasting the Mazu belief as a city-level cultural-tourism IP, leveraging its singular claim that 'Macau' derives from 'A-Ma' and Greater Bay Area synergy to turn a maritime folk faith into a diaspora emblem.",
+      "category": "Overseas Chinese",
+      "country": "Macau",
+      "summary": "Macau will stage a Mazu cultural tourism festival in October, recasting a centuries-old maritime folk belief as a city-level cultural brand. The territory's singular claim — 'Macau' derives from 'A-Ma' — and its dense temple network give it a unique narrative anchor. By linking ancestral temples across Fujian, Taiwan and Southeast Asia, the festival targets diaspora pilgrimage and Greater Bay Area synergy. The challenge is converting devotion into sustainable tourism without commercialising the ritual's core.",
+      "imageAlt": "A traditional Chinese temple on a Macau street with drifting incense smoke, echoing Mazu belief as a maritime cultural tie among overseas Chinese.",
+      "references": [
+        {
+          "source": "China Qiaowang (chinaqw.com)",
+          "title": "Macau Mazu Cultural Tourism Festival to Be Held in October",
+          "url": "https://www.chinaqw.com/",
+          "date": "2026-09"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "thai-cambodia-maritime-mediation-2026",
+    "title": "泰柬启动海上争端国际调解：陆地硝烟未散，海界谈判开场",
+    "subtitle": "陆地摩擦持续之际，泰柬启动海上争端国际调解，试图以重叠EEZ划界谈判为陆地紧张降温，亦是对东盟方式与区域海洋秩序的再检验。",
+    "category": "地缘政治",
+    "tags": [
+      "泰国",
+      "柬埔寨",
+      "海洋",
+      "东盟"
+    ],
+    "country": "泰国",
+    "date": "2026-09-16",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "陆地硝烟未散，泰柬启动海上争端国际调解，试图以重叠EEZ划界谈判为陆地紧张降温，亦是对'东盟方式'与区域海洋秩序的再检验。",
+    "image": "images/articles/thai-cambodia-maritime-mediation-2026.jpg",
+    "imageCredit": "Pexels — photo 28544989",
+    "imageAccessed": "2026-09-16",
+    "imageAlt": "泰国海域上一艘传统长尾船行驶于碧蓝海面，象征泰柬围绕泰国湾重叠声索海域的海上划界议题。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "针锋相对仍盼重建信任 泰柬启动海上争端国际调解",
+        "url": "https://www.zaobao.com/news/sea",
+        "date": "2026-09-15"
+      }
+    ],
+    "en": {
+      "title": "Thailand and Cambodia Launch International Mediation on Maritime Dispute: Land Tensions Uncooled, Sea Talks Begin",
+      "subtitle": "Amid continuing land-border friction, Thailand and Cambodia have launched international mediation over overlapping maritime claims, seeking to ease land tensions through sea-line delimitation and retesting the 'ASEAN Way' and regional maritime order.",
+      "category": "Geopolitics",
+      "country": "Thailand",
+      "summary": "As their land-border tensions persist, Thailand and Cambodia have launched international mediation over overlapping maritime claims in the Gulf of Thailand. The move seeks to cap escalation by pulling the harder sea-line dispute onto a rules-based track, while quietly using progress at sea to ease pressure on land. It tests the 'ASEAN Way' of consensus and bilateralism, and any joint-development model could set a precedent for neighbours with overlapping EEZs in a region watched by external powers.",
+      "imageAlt": "A traditional longtail boat sailing on the turquoise waters of Thailand's sea, symbolising the maritime delimitation issue between Thailand and Cambodia over overlapping Gulf of Thailand claims.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Rivals Yet Hoping to Rebuild Trust, Thailand and Cambodia Launch International Mediation on Maritime Dispute",
+          "url": "https://www.zaobao.com/news/sea",
+          "date": "2026-09-15"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "thailand-china-fdi-ev-overtakes-japan-2026",
+    "title": "泰国中资EV投资首超日本：东南亚产业链重组的一个刻度",
+    "subtitle": "泰国BOI上半年数据显示，中资申请额首超日本，集中押注EV与动力电池等增量赛道；日资守旧利润池陷被动，'多极投资'图景加速浮现。",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "电动汽车",
+      "投资",
+      "产业链"
+    ],
+    "country": "泰国",
+    "date": "2026-09-16",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "泰国BOI上半年数据显示，中资申请额首超日本，集中押注EV与动力电池等增量赛道；日资守旧利润池陷被动，东南亚产业链'多极投资'图景加速浮现。",
+    "image": "images/articles/thailand-china-fdi-ev-overtakes-japan-2026.jpg",
+    "imageCredit": "Pexels — photo 19233057",
+    "imageAccessed": "2026-09-16",
+    "imageAlt": "汽车制造车间内机械臂与装配线协同作业，呼应中国电动车产业链在泰国投资赶超日本的产业重构。",
+    "references": [
+      {
+        "source": "Nikkei Asia",
+        "title": "Chinese FDI in Thailand's EV Sector Overtakes Japan",
+        "url": "https://asia.nikkei.com/",
+        "date": "2026-09"
+      }
+    ],
+    "en": {
+      "title": "Chinese FDI in Thailand's EV Sector Overtakes Japan: A Mark of Southeast Asia's Supply-Chain Reordering",
+      "subtitle": "Thailand's BOI data for the first half of 2026 shows Chinese applicants' investment value surpassing Japan's for the first time, concentrated in EVs and batteries, while Japanese firms defending old profit pools fall on the back foot.",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "Thailand's BOI data for the first half of 2026 shows Chinese applicants' investment value overtaking Japan's for the first time — concentrated in EVs, batteries, PCBs and data centres rather than Japan's mature combustion-engine supply chain. Japanese firms are defending old profit pools by retrofitting hybrid lines. The shift signals a broader Southeast Asian reordering: Chinese capital is moving from cost arbitrage to ecosystem embedding, while ASEAN states weigh opportunity against dependency.",
+      "imageAlt": "Robotic arms and assembly lines working in an automotive manufacturing plant, reflecting the industrial restructuring as Chinese EV supply chains overtake Japan in Thailand.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Chinese FDI in Thailand's EV Sector Overtakes Japan",
+          "url": "https://asia.nikkei.com/",
+          "date": "2026-09"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "singapore-defence-minister-china-visit-2026",
+    "title": "新加坡防长访华出席香山论坛：小国大外交里的一处平衡支点",
+    "subtitle": "新加坡防长陈振声访华出席北京香山论坛，在中美战略竞争加剧下重申'不选边'的平衡外交，以持续对话为小国自主争取最大回旋。",
+    "category": "地缘政治",
+    "tags": [
+      "新加坡",
+      "防务",
+      "外交",
+      "中美竞争"
+    ],
+    "country": "新加坡",
+    "date": "2026-09-16",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "新加坡防长陈振声访华出席北京香山论坛，在中美战略竞争加剧下重申'不选边'的平衡外交，以持续对话为小国自主争取最大回旋空间。",
+    "image": "images/articles/singapore-defence-minister-china-visit-2026.jpg",
+    "imageCredit": "Pexels — photo 17613827",
+    "imageAccessed": "2026-09-16",
+    "imageAlt": "新加坡武装部队直升机悬挂国旗飞越滨海湾，象征这个城市国家在大国之间维持防务联系与平衡外交。",
+    "references": [
+      {
+        "source": "South China Morning Post",
+        "title": "Singapore's Chan Chun Sing to visit China, speak at defence forum",
+        "url": "https://www.scmp.com/week-asia",
+        "date": "2026-09-14"
+      }
+    ],
+    "en": {
+      "title": "Singapore Defence Minister Visits China for Xiangshan Forum: A Pivot of Balance in Small-State Diplomacy",
+      "subtitle": "Singapore Defence Minister Chan Chun Sing visited China to attend the Beijing Xiangshan Forum, reaffirming a 'non-aligned' hedging amid intensifying US–China rivalry and using constant dialogue to maximise room for small-state autonomy.",
+      "category": "Geopolitics",
+      "country": "Singapore",
+      "summary": "Singapore Defence Minister Chan Chun Sing visited China in mid-September to attend the 13th Beijing Xiangshan Forum, reaffirming the city-state's non-aligned hedging amid intensifying US–China rivalry. Singapore keeps deep defence ties with Washington while maintaining steady, candid channels with Beijing; its strategy treats presence at the table as an asset. The visit shows how small states use constant dialogue to preserve autonomy and stabilise a region under bloc pressure.",
+      "imageAlt": "Singapore Armed Forces helicopters flying with the national flag over Marina Bay, symbolising the city-state's defence links and balancing diplomacy between major powers.",
+      "references": [
+        {
+          "source": "South China Morning Post (SCMP)",
+          "title": "Singapore's Chan Chun Sing to visit China, speak at defence forum",
+          "url": "https://www.scmp.com/week-asia",
+          "date": "2026-09-14"
+        }
+      ]
+    }
   },
   {
     "slug": "thailand-first-tv-mid-autumn-bangkok-2026",
@@ -64,7 +329,7 @@
       "文化认同"
     ],
     "country": "泰国",
-    "date": "2026-09-16",
+    "date": "2026-09-15",
     "readingTime": 5,
     "featured": false,
     "summary": "泰国首届电视中秋晚会9月13日在曼谷泰国第五电视台录制，由中华总商会、潮州会馆与第五台联办，泰中文联担纲演出，并将于中秋夜播出。文章认为，这台晚会把华侨华人的传统节日从宗亲会馆推向国家主流荧屏，是中华文化在泰国落地、中泰民间相知相亲的生动切片。",

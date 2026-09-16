@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-14",
+  "version": "2026-09-16",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:菲拳王帕奎奥入阁打扶贫(2026-09)": {
@@ -1113,11 +1113,39 @@
         "thailand-first-tv-mid-autumn-bangkok-2026"
       ]
     },
-    "event:印尼政府接管雅万高铁股权重组债务(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-15/16）：印尼政府由财政部专项机构接管雅万高铁印尼方股权与债务，国开行45.5亿美元贷款摊还期由40年延至80年、每年还1万亿印尼盾；聚焦中国融资海外高铁的债务可持续性与主权兜底模式；与既有中印尼关系、普拉博沃、印尼基建等条目不重复。",
-      "exception": null,
+    "event:印尼接管雅万高铁股权与债务重组(2026-09)": {
       "slugs": [
         "indonesia-yawan-hsr-debt-restructure-2026"
+      ]
+    },
+    "event:越南国家半导体战略升级(2026-09)": {
+      "slugs": [
+        "vietnam-semiconductor-strategy-2026"
+      ]
+    },
+    "event:马来西亚森美兰王室危机(2026-09)": {
+      "slugs": [
+        "malaysia-negeri-sembilan-royal-crisis-2026"
+      ]
+    },
+    "event:澳门妈祖文化旅游节(2026-09)": {
+      "slugs": [
+        "macau-mazut-cultural-festival-2026"
+      ]
+    },
+    "event:泰柬海上争端国际调解(2026-09)": {
+      "slugs": [
+        "thai-cambodia-maritime-mediation-2026"
+      ]
+    },
+    "event:泰国中资EV投资首超日本(2026-09)": {
+      "slugs": [
+        "thailand-china-fdi-ev-overtakes-japan-2026"
+      ]
+    },
+    "event:新加坡防长访华出席香山论坛(2026-09)": {
+      "slugs": [
+        "singapore-defence-minister-china-visit-2026"
       ]
     }
   }
