@@ -24,7 +24,7 @@
 
   // 标签中英映射
   var TAG_I18N = {
-    '中秋': 'Mid-Autumn Festival', '高铁': 'High-Speed Rail', '王室': 'Monarchy', '澳门': 'Macau', '文旅': 'Culture & Tourism', '海洋': 'Maritime', '电动汽车': 'Electric Vehicle', '防务': 'Defence',
+    '中秋': 'Mid-Autumn Festival', '高铁': 'High-Speed Rail', '王室': 'Monarchy', '澳门': 'Macau', '文旅': 'Culture & Tourism', '海洋': 'Maritime', '电动汽车': 'Electric Vehicle', '防务': 'Defence', '君主立宪': 'Constitutional Monarchy', '竹子外交': 'Bamboo Diplomacy',
     '经济产业': 'Economy & Industry', '国家观察': 'Country Watch', '供应链': 'Supply Chain', '量化指数': 'Quantitative Index', '城市': 'Urban', '旅游业': 'Tourism', '产业链': 'Industrial Chain',
     '地缘政治': 'Geopolitics', '新能源': 'New Energy', '气候变化': 'Climate Change', '俄罗斯': 'Russia', '军事合作': 'Military Cooperation', '边境': 'Border', '领土争端': 'Territorial Dispute', '阿努廷': 'Anutin',
     '水资源': 'Water Resources', '南海': 'South China Sea', '华侨华人': 'Overseas Chinese', '侨务': 'Diaspora Affairs', '华商': 'Overseas Chinese Business', '离散叙事': 'Diaspora Narrative', '中餐出海': 'Chinese Cuisine Going Global', '文牧野': 'Wen Muye', '移民': 'Migration', '历史': 'History', '全球': 'Worldwide', '华南': 'South China',
@@ -43,7 +43,7 @@
     '口述史': 'Oral History', '潮籍': 'Teochew Origin', '侨批': 'Qiaopi (Overseas Chinese Remittance Letters)', '下南洋': 'Migration to Nanyang', '华语电影': 'Chinese-Language Cinema', '电影': 'Film', '文化': 'Culture', '文化交流': 'Cultural Exchange', '文化记忆': 'Cultural Memory', '身份认同': 'Identity',
     '民主行动党': 'Democratic Action Party (DAP)', '政治': 'Politics', '弹劾': 'Impeachment', '华人': 'Ethnic Chinese', '族群': 'Ethnicity', '选举': 'Elections', '语言': 'Language', '青年': 'Youth', '青年侨胞': 'Young Overseas Chinese', '华裔新生代': 'New Generation of Chinese Descent',
     '澳大利亚': 'Australia', '法国': 'France', '稀土': 'Rare Earths', '钕磁铁': 'Neodymium Magnets', '餐饮': 'Food & Beverage', '科技': 'Technology',
-    '经济': 'Economy', '矿业': 'Mining', '银行': 'Bank', '债券': 'Bond', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '行长': 'Governor', '利率': 'Interest Rate', '印尼盾': 'Indonesian Rupiah', '货币政策': 'Monetary Policy',
+    '经济': 'Economy', '矿业': 'Mining', '银行': 'Bank', '债券': 'Bond', '债务': 'Debt', '财政': 'Fiscal Policy', '央行': 'Central Bank', '行长': 'Governor', '利率': 'Interest Rate', '印尼盾': 'Indonesian Rupiah', '雅万高铁': 'Jakarta–Bandung HSR (Whoosh)', '债务重组': 'Debt Restructuring', '主权财富基金': 'Sovereign Wealth Fund', '货币政策': 'Monetary Policy',
     '日本': 'Japan',
     '小马科斯': 'Marcos Jr.', '普拉博沃': 'Prabowo', '罗兴亚': 'Rohingya', '中菲关系': 'China–Philippines Relations', '中印尼': 'China–Indonesia', '国际关系': 'International Relations', '安全化': 'Securitisation',
     '侨务工作': 'Diaspora Affairs Work', '侨务政策': 'Diaspora Policy', '中国侨网': 'China Qiaowang', '软实力': 'Soft Power', '妈祖': 'Mazu', '气象预警': 'Weather Early Warning', '早期预警': 'Early Warning', '侨商': 'Overseas Chinese Merchant', '平陆运河': 'Pinglu Canal', '中国—东盟': 'China–ASEAN', '广西': 'Guangxi', '科技合作': 'Science & Technology Cooperation', '卫星': 'Satellite', '商业航天': 'Commercial Space', '电子产业': 'Electronics Industry', '外商直接投资': 'Foreign Direct Investment', '社会保障': 'Social Security', '劳动力': 'Labour Force', '人口老龄化': 'Population Ageing', '人才': 'Talent', '创新创业': 'Innovation & Entrepreneurship',     '云南': 'Yunnan', '澜湄合作': 'Lancang–Mekong Cooperation',
