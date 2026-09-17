@@ -1,5 +1,60 @@
 [
   {
+    "slug": "thailand-us-submarine-cable-thus-2026",
+    "title": "绕开南中国海：一条美资海底光缆如何重绘东南亚数字版图",
+    "subtitle": "美国贸易发展署资助泰美海底光缆系统（THUS）可行性研究，全长约1.85万公里、绕开南中国海、连接泰国与五个东盟国家，被解读为华盛顿在印太海底圈地、把中美数字竞争压向海床的杠杆。",
+    "category": "地缘政治",
+    "tags": [
+      "海底光缆",
+      "数字基础设施",
+      "地缘政治",
+      "中美竞争",
+      "东南亚",
+      "数字主权"
+    ],
+    "country": "泰国",
+    "date": "2026-09-17",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "美国贸易发展署资助泰美海底光缆系统（THUS）可行性研究，全长约1.85万公里、绕开南中国海、连接泰国与五个东盟国家。这不仅是替代老旧线路的通信基建，更是华盛顿以低投入高杠杆在印太海底圈地、把中美数字竞争压向海床的一步棋，也实质压缩了东盟“不选边”的腾挪空间。",
+    "image": "images/articles/thailand-us-submarine-cable-thus-2026.jpg",
+    "imageCredit": "Pexels — photo 4373998",
+    "imageAccessed": "2026-09-17",
+    "imageAlt": "光纤设备与密集连接线缆的特写，象征承载全球互联网流量的海底光缆与区域数字基础设施竞争。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "绕道南中国海连通六亚细安国家 美资助研究建设跨太平洋新光缆",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260915-9680892",
+        "date": "2026-09-15"
+      }
+    ],
+    "en": {
+      "title": "Bypassing the South China Sea: How a US-Backed Submarine Cable Redraws Southeast Asia's Digital Map",
+      "subtitle": "The USTDA is funding a feasibility study for THUS, an 18,500 km trans-Pacific cable that bypasses the South China Sea and links Thailand with five other ASEAN states — read as Washington's play to claim the Indo-Pacific seabed and push the US–China digital rivalry onto the ocean floor.",
+      "category": "Geopolitics",
+      "country": "Thailand",
+      "summary": "The USTDA is funding a feasibility study for THUS, an 18,500 km trans-Pacific cable that bypasses the South China Sea and links Thailand with five other ASEAN states. Presented as infrastructure, it is Washington's low-cost, high-leverage move to bind Southeast Asia into a US-standard secure network and push the US–China tech rivalry onto the seabed — narrowing ASEAN's room to hedge.",
+      "imageAlt": "A close-up of a fibre-optic device with densely connected cables, symbolising the submarine cables carrying the world's internet traffic and the contest over regional digital infrastructure.",
+      "tags": [
+        "Submarine Cable",
+        "Digital Infrastructure",
+        "Geopolitics",
+        "US–China Competition",
+        "Southeast Asia",
+        "Digital Sovereignty"
+      ],
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "US backs study for trans-Pacific subsea cable bypassing the South China Sea to connect six ASEAN states",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260915-9680892",
+          "date": "2026-09-15"
+        }
+      ]
+    }
+  },
+  {
     "slug": "dhanin-chearavanont-step-down-cocea-2026",
     "title": "谢国民交棒：中国侨商联合会易帅透出的信号",
     "subtitle": "一位泰国对华裔耆老卸任，一位马来西亚对华裔少帅接印——离散资本与北京开放叙事的代际接力",
