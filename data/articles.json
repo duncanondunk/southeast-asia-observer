@@ -1,4 +1,78 @@
 [
+{
+  "slug": "sea-data-center-backlash-2026",
+  "title": "当机房撞上社区：东南亚数据中心热遭遇“社会许可证”危机",
+  "subtitle": "《日经亚洲》称“红火热”数据中心建设潮正引发亚洲公众反弹；柔佛 5.8 吉瓦豪赌撞上水与电的硬约束，泰国 49 个停建、117 个冻结，马来西亚改推“记分卡”招商，东南亚的人工智能基建正从抢跑被逼向算账。",
+  "category": "经济产业",
+  "tags": [
+    "数据中心",
+    "水资源",
+    "能源",
+    "环境",
+    "马来西亚",
+    "泰国",
+    "东南亚",
+    "人工智能",
+    "社区"
+  ],
+  "country": "马来西亚",
+  "date": "2026-09-17",
+  "readingTime": 6,
+  "featured": false,
+  "summary": "《日经亚洲》称“红火热”数据中心建设潮引发亚洲公众反弹。柔佛 5.8 吉瓦容量撞上水与电硬约束，泰国 49 个停建、117 个冻结，马来西亚改推“记分卡”招商。东南亚人工智能基建从抢跑被逼向算账，能否补齐社会许可证与电网决定其成色。",
+  "image": "images/articles/sea-data-center-backlash-2026.jpg",
+  "imageCredit": "Pexels — photo 17489151",
+  "imageAccessed": "2026-09-17",
+  "imageAlt": "数据中心机房内密集的服务器机柜与连接线缆，象征东盟人工智能基建热潮与社区、资源之间的张力。",
+  "references": [
+    {
+      "source": "日经亚洲 Nikkei Asia",
+      "title": "Red-hot data center boom fuels public backlash across Asia",
+      "url": "https://asia.nikkei.com/location/southeast-asia",
+      "date": "2026-09-02"
+    },
+    {
+      "source": "The Edge Malaysia",
+      "title": "My Say: For sustainable data centre growth, upgrade state capacity",
+      "url": "https://theedgemalaysia.com/node/817949",
+      "date": "2026-09-14"
+    }
+  ],
+  "en": {
+    "title": "When Server Farms Hit the Neighbourhood: Southeast Asia's Data-Center Boom Runs Into a 'Social Licence' Crisis",
+    "subtitle": "Nikkei Asia says the 'red-hot' data-center buildout is fuelling public backlash across Asia. Johor's 5.8-GW gamble hits hard water and power limits; Thailand halted 49 and froze 117; Malaysia switched to a 'scorecard'. Southeast Asia's AI infrastructure is dragged from a sprint into an audit.",
+    "category": "Economy & Industry",
+    "country": "Malaysia",
+    "summary": "Nikkei Asia reports the 'red-hot' data-center boom is fuelling public backlash across Asia. Johor's 5.8-GW capacity hits hard water and power limits, Thailand halted 49 and froze 117 projects, and Malaysia shifted to a 'scorecard' for approvals. Southeast Asia's AI buildout is dragged from a sprint into an audit; replenishing the social licence and the grid decides who truly holds the AI card.",
+    "imageAlt": "Dense server racks and cabling inside a data-center hall, symbolising the tension between ASEAN's AI infrastructure boom and communities and resources.",
+    "tags": [
+      "Data Centre",
+      "Water Resources",
+      "Energy",
+      "Environment",
+      "Malaysia",
+      "Thailand",
+      "Southeast Asia",
+      "Artificial Intelligence",
+      "Community"
+    ],
+    "references": [
+      {
+        "source": "Nikkei Asia (asia.nikkei.com)",
+        "title": "Red-hot data center boom fuels public backlash across Asia",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-02"
+      },
+      {
+        "source": "The Edge Malaysia",
+        "title": "My Say: For sustainable data centre growth, upgrade state capacity",
+        "url": "https://theedgemalaysia.com/node/817949",
+        "date": "2026-09-14"
+      }
+    ]
+  }
+},
+
   {
     "slug": "thailand-us-submarine-cable-thus-2026",
     "title": "绕开南中国海：一条美资海底光缆如何重绘东南亚数字版图",

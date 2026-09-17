@@ -1169,6 +1169,13 @@
       "slugs": [
         "thailand-us-submarine-cable-thus-2026"
       ]
+    },
+    "topic:东南亚数据中心热引发公众反弹(水电气社区许可,2026-09)": {
+      "note": "全新素材（日经亚洲，2026-09-02《Red-hot data center boom fuels public backlash across Asia》）。聚焦东南亚人工智能数据中心热潮遭遇的社区/公众反弹——水资源压力、电力瓶颈、用地与‘社会许可证’缺失，及马来西亚‘记分卡’、泰国 49 停建/117 冻结等治理回摆；与既有 sea-ai-datacenter-boom-2026（聚焦实体建设与美中技术栈并行）区分：本文聚焦社会许可与资源硬约束下的反弹，非建设本身。",
+      "exception": null,
+      "slugs": [
+        "sea-data-center-backlash-2026"
+      ]
     }
   }
 }
