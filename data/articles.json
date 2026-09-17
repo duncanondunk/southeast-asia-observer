@@ -1,64 +1,111 @@
 [
-{
-  "slug": "sea-data-center-backlash-2026",
-  "title": "当机房撞上社区：东南亚数据中心热遭遇“社会许可证”危机",
-  "subtitle": "《日经亚洲》称“红火热”数据中心建设潮正引发亚洲公众反弹；柔佛 5.8 吉瓦豪赌撞上水与电的硬约束，泰国 49 个停建、117 个冻结，马来西亚改推“记分卡”招商，东南亚的人工智能基建正从抢跑被逼向算账。",
-  "category": "经济产业",
-  "tags": [
-    "数据中心",
-    "水资源",
-    "能源",
-    "环境",
-    "马来西亚",
-    "泰国",
-    "东南亚",
-    "人工智能",
-    "社区"
-  ],
-  "country": "马来西亚",
-  "date": "2026-09-17",
-  "readingTime": 6,
-  "featured": false,
-  "summary": "《日经亚洲》称“红火热”数据中心建设潮引发亚洲公众反弹。柔佛 5.8 吉瓦容量撞上水与电硬约束，泰国 49 个停建、117 个冻结，马来西亚改推“记分卡”招商。东南亚人工智能基建从抢跑被逼向算账，能否补齐社会许可证与电网决定其成色。",
-  "image": "images/articles/sea-data-center-backlash-2026.jpg",
-  "imageCredit": "Pexels — photo 17489151",
-  "imageAccessed": "2026-09-17",
-  "imageAlt": "数据中心机房内密集的服务器机柜与连接线缆，象征东盟人工智能基建热潮与社区、资源之间的张力。",
-  "references": [
-    {
-      "source": "日经亚洲 Nikkei Asia",
-      "title": "Red-hot data center boom fuels public backlash across Asia",
-      "url": "https://asia.nikkei.com/location/southeast-asia",
-      "date": "2026-09-02"
-    },
-    {
-      "source": "The Edge Malaysia",
-      "title": "My Say: For sustainable data centre growth, upgrade state capacity",
-      "url": "https://theedgemalaysia.com/node/817949",
-      "date": "2026-09-14"
-    }
-  ],
-  "en": {
-    "title": "When Server Farms Hit the Neighbourhood: Southeast Asia's Data-Center Boom Runs Into a 'Social Licence' Crisis",
-    "subtitle": "Nikkei Asia says the 'red-hot' data-center buildout is fuelling public backlash across Asia. Johor's 5.8-GW gamble hits hard water and power limits; Thailand halted 49 and froze 117; Malaysia switched to a 'scorecard'. Southeast Asia's AI infrastructure is dragged from a sprint into an audit.",
-    "category": "Economy & Industry",
-    "country": "Malaysia",
-    "summary": "Nikkei Asia reports the 'red-hot' data-center boom is fuelling public backlash across Asia. Johor's 5.8-GW capacity hits hard water and power limits, Thailand halted 49 and froze 117 projects, and Malaysia shifted to a 'scorecard' for approvals. Southeast Asia's AI buildout is dragged from a sprint into an audit; replenishing the social licence and the grid decides who truly holds the AI card.",
-    "imageAlt": "Dense server racks and cabling inside a data-center hall, symbolising the tension between ASEAN's AI infrastructure boom and communities and resources.",
+  {
+    "slug": "philippines-record-education-budget-2026",
+    "title": "菲律宾史上最大教育账单：1.37万亿比索，能填平“功能性文盲”的坑吗？",
+    "subtitle": "参议院通过创纪录的1.37万亿比索（约23亿美元，约合164亿元人民币）教育拨款，却撞上1800万“功能性文盲”的冷现实。",
+    "category": "社会文化",
     "tags": [
-      "Data Centre",
-      "Water Resources",
-      "Energy",
-      "Environment",
-      "Malaysia",
-      "Thailand",
-      "Southeast Asia",
-      "Artificial Intelligence",
-      "Community"
+      "菲律宾",
+      "教育",
+      "社会文化",
+      "东南亚",
+      "财政",
+      "学习危机"
     ],
+    "country": "菲律宾",
+    "date": "2026-09-17",
+    "readingTime": 11,
+    "featured": false,
+    "summary": "菲律宾2026年教育预算达1.37万亿比索（约164亿元人民币），史上最高，首次达到联合国占国内生产总值4%—6%的建议线。但1800万青年“功能性文盲”、16.5万间教室缺口与腐败隐忧，让这笔钱能否落地成疑。",
+    "image": "images/articles/philippines-record-education-budget-2026.jpg",
+    "imageCredit": "Pexels — photo 37898351",
+    "imageAccessed": "2026-09-17",
+    "imageAlt": "菲律宾教室里穿着校服的学生，象征此次创纪录教育预算所指向的基础教育现实。",
     "references": [
       {
-        "source": "Nikkei Asia (asia.nikkei.com)",
+        "source": "南华早报 South China Morning Post",
+        "title": "Philippines' US$23 billion education budget is highest ever but will it make the grade?",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-09-17"
+      },
+      {
+        "source": "菲律宾第二届国会教育委员会 EDCOM 2",
+        "title": "Gatchalian: 2026 education budget 'highest in country's history', meets UN recommendation",
+        "url": "https://edcom2.gov.ph/?p=5650",
+        "date": "2026-09"
+      },
+      {
+        "source": "菲律宾新闻社 Philippine News Agency",
+        "title": "DepEd eyes more teachers, 24K classrooms under 'historic' 2026 budget",
+        "url": "https://www.pna.gov.ph/articles/1266272",
+        "date": "2026"
+      }
+    ],
+    "en": {
+      "title": "Philippines' largest-ever education budget: can ₱1.37 trillion fix a learning crisis?",
+      "subtitle": "The Senate passed a record ₱1.37 trillion (US$23 billion) education outlay — the largest in history — yet it collides with the cold reality of 18 million 'functionally illiterate' youth.",
+      "category": "Society & Culture",
+      "country": "Philippines",
+      "summary": "The Philippines' 2026 education budget reaches ₱1.37 trillion (US$23 billion), the largest ever and the first to meet the UN's 4–6% of GDP guideline. But with 18 million youth 'functionally illiterate,' a 165,000-classroom shortfall and corruption fears, whether the money will translate into learning remains an open question.",
+      "imageAlt": "Students in school uniforms inside a classroom in the Philippines, symbolising the basic-education reality this record budget targets.",
+      "tags": [
+        "Philippines",
+        "Education",
+        "Society & Culture",
+        "Southeast Asia",
+        "Fiscal Policy",
+        "Learning Crisis"
+      ],
+      "references": [
+        {
+          "source": "South China Morning Post (scmp.com)",
+          "title": "Philippines' US$23 billion education budget is highest ever but will it make the grade?",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-09-17"
+        },
+        {
+          "source": "EDCOM 2 (Second Congressional Commission on Education)",
+          "title": "Gatchalian: 2026 education budget 'highest in country's history', meets UN recommendation",
+          "url": "https://edcom2.gov.ph/?p=5650",
+          "date": "2026-09"
+        },
+        {
+          "source": "Philippine News Agency (PNA)",
+          "title": "DepEd eyes more teachers, 24K classrooms under 'historic' 2026 budget",
+          "url": "https://www.pna.gov.ph/articles/1266272",
+          "date": "2026"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "sea-data-center-backlash-2026",
+    "title": "当机房撞上社区：东南亚数据中心热遭遇“社会许可证”危机",
+    "subtitle": "《日经亚洲》称“红火热”数据中心建设潮正引发亚洲公众反弹；柔佛 5.8 吉瓦豪赌撞上水与电的硬约束，泰国 49 个停建、117 个冻结，马来西亚改推“记分卡”招商，东南亚的人工智能基建正从抢跑被逼向算账。",
+    "category": "经济产业",
+    "tags": [
+      "数据中心",
+      "水资源",
+      "能源",
+      "环境",
+      "马来西亚",
+      "泰国",
+      "东南亚",
+      "人工智能",
+      "社区"
+    ],
+    "country": "马来西亚",
+    "date": "2026-09-17",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "《日经亚洲》称“红火热”数据中心建设潮引发亚洲公众反弹。柔佛 5.8 吉瓦容量撞上水与电硬约束，泰国 49 个停建、117 个冻结，马来西亚改推“记分卡”招商。东南亚人工智能基建从抢跑被逼向算账，能否补齐社会许可证与电网决定其成色。",
+    "image": "images/articles/sea-data-center-backlash-2026.jpg",
+    "imageCredit": "Pexels — photo 17489151",
+    "imageAccessed": "2026-09-17",
+    "imageAlt": "数据中心机房内密集的服务器机柜与连接线缆，象征东盟人工智能基建热潮与社区、资源之间的张力。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
         "title": "Red-hot data center boom fuels public backlash across Asia",
         "url": "https://asia.nikkei.com/location/southeast-asia",
         "date": "2026-09-02"
@@ -69,10 +116,41 @@
         "url": "https://theedgemalaysia.com/node/817949",
         "date": "2026-09-14"
       }
-    ]
-  }
-},
-
+    ],
+    "en": {
+      "title": "When Server Farms Hit the Neighbourhood: Southeast Asia's Data-Center Boom Runs Into a 'Social Licence' Crisis",
+      "subtitle": "Nikkei Asia says the 'red-hot' data-center buildout is fuelling public backlash across Asia. Johor's 5.8-GW gamble hits hard water and power limits; Thailand halted 49 and froze 117; Malaysia switched to a 'scorecard'. Southeast Asia's AI infrastructure is dragged from a sprint into an audit.",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Nikkei Asia reports the 'red-hot' data-center boom is fuelling public backlash across Asia. Johor's 5.8-GW capacity hits hard water and power limits, Thailand halted 49 and froze 117 projects, and Malaysia shifted to a 'scorecard' for approvals. Southeast Asia's AI buildout is dragged from a sprint into an audit; replenishing the social licence and the grid decides who truly holds the AI card.",
+      "imageAlt": "Dense server racks and cabling inside a data-center hall, symbolising the tension between ASEAN's AI infrastructure boom and communities and resources.",
+      "tags": [
+        "Data Centre",
+        "Water Resources",
+        "Energy",
+        "Environment",
+        "Malaysia",
+        "Thailand",
+        "Southeast Asia",
+        "Artificial Intelligence",
+        "Community"
+      ],
+      "references": [
+        {
+          "source": "Nikkei Asia (asia.nikkei.com)",
+          "title": "Red-hot data center boom fuels public backlash across Asia",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-09-02"
+        },
+        {
+          "source": "The Edge Malaysia",
+          "title": "My Say: For sustainable data centre growth, upgrade state capacity",
+          "url": "https://theedgemalaysia.com/node/817949",
+          "date": "2026-09-14"
+        }
+      ]
+    }
+  },
   {
     "slug": "thailand-us-submarine-cable-thus-2026",
     "title": "绕开南中国海：一条美资海底光缆如何重绘东南亚数字版图",
