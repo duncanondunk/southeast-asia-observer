@@ -38,7 +38,7 @@ Atome 意为"Available to me"，是新加坡金融科技公司 Advance Intellige
 
 **数字银行（Digital Bank）**：指持牌经营的虚拟银行，不设实体网点，依托手机应用提供存贷与支付服务。Grab 已在新加坡、马来西亚与印尼持有数字银行或数字借贷牌照。
 
-*话题参考：联合早报（zaobao.com.sg）2026年9月15日财经报道"Grab斥资15亿美元 收购先买后付平台Atome多数股权"；综合 Grab 提交美国证券交易委员会（SEC）的 6-K 公告及路透社报道。*
+*话题参考：联合早报（Lianhe Zaobao）（zaobao.com.sg）2026年9月15日财经报道"Grab斥资15亿美元 收购先买后付平台Atome多数股权"；综合 Grab 提交美国证券交易委员会（SEC）的 6-K 公告及路透社报道。*
 
 ===EN===
 
