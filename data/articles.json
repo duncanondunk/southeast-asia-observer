@@ -1,5 +1,60 @@
 [
   {
+    "slug": "vietnam-northern-floods-2026",
+    "title": "越南北部暴雨成灾：在洪灾与旱情之间，越南的气候脆弱性无处遁形",
+    "subtitle": "越南北部9月中旬暴雨成灾，3人遇难、逾1.6万间房屋被淹。本文指出，在厄尔尼诺由涝转旱的气候鞭击下，越南红河三角洲的结构性脆弱暴露无遗，抢险式治理亟待转向气候韧性。",
+    "category": "气候变化",
+    "tags": [
+      "越南",
+      "气候变化",
+      "灾害",
+      "厄尔尼诺",
+      "东南亚",
+      "水资源"
+    ],
+    "country": "越南",
+    "date": "2026-09-18",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "越南北部9月中旬暴雨成灾，3人遇难、逾1.6万间房屋被淹。本文指出，在厄尔尼诺由涝转旱的气候鞭击下，越南红河三角洲的结构性脆弱暴露无遗，抢险式治理亟待转向气候韧性。",
+    "image": "images/articles/vietnam-northern-floods-2026.jpg",
+    "imageCredit": "Pexels — photo 34959187",
+    "imageAccessed": "2026-09-18",
+    "imageAlt": "一名男子在越南的洪水中跋涉，身后是被淹没的街道与房屋，喻指越南北部近期的极端降雨灾害。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "越南北部暴雨成灾 三人死逾1万6000房屋被淹",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260918-9696111",
+        "date": "2026-09-18"
+      }
+    ],
+    "en": {
+      "title": "Between Flood and Drought: Vietnam's Climate Vulnerability Laid Bare by the Northern Deluge",
+      "subtitle": "Mid-September floods killed three and submerged more than 16,000 homes in northern Vietnam. The piece argues that, caught in an El Niño-driven whiplash from deluge to drought, the Red River Delta's structural fragility is laid bare — and rescue-led governance must turn to climate resilience.",
+      "category": "Climate Change",
+      "country": "Vietnam",
+      "summary": "Northern Vietnam was hit by mid-September floods that killed three and submerged more than 16,000 homes. The piece argues that, caught in an El Niño-driven whiplash from deluge to drought, the Red River Delta's structural fragility is laid bare — and that rescue-led governance must give way to climate resilience.",
+      "imageAlt": "A man wades through floodwater in Vietnam, with submerged streets and homes behind him, evoking the extreme rainfall that struck northern Vietnam.",
+      "tags": [
+        "Vietnam",
+        "Climate Change",
+        "Disaster",
+        "El Niño",
+        "Southeast Asia",
+        "Water Resources"
+      ],
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Northern Vietnam floods kill three, submerge over 16,000 homes",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260918-9696111",
+          "date": "2026-09-18"
+        }
+      ]
+    }
+  },
+  {
     "slug": "beijing-youth-nanyang-history-2026",
     "title": "当北京的青少年走进“南洋”：中国如何把华侨记忆重铸成桥",
     "subtitle": "北京市侨联以“侨心传史·丝路连心”活动，让新市民儿童与马来西亚留学生共读下南洋与南侨机工历史，折射中国对华侨离散记忆的重新编排。",
