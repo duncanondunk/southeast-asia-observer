@@ -1,5 +1,68 @@
 [
   {
+    "slug": "beijing-youth-nanyang-history-2026",
+    "title": "当北京的青少年走进“南洋”：中国如何把华侨记忆重铸成桥",
+    "subtitle": "北京市侨联以“侨心传史·丝路连心”活动，让新市民儿童与马来西亚留学生共读下南洋与南侨机工历史，折射中国对华侨离散记忆的重新编排。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "马来西亚",
+      "南洋",
+      "下南洋",
+      "华文教育",
+      "侨批",
+      "离散记忆",
+      "文化传承",
+      "青年",
+      "历史"
+    ],
+    "country": "马来西亚",
+    "date": "2026-09-18",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "北京市侨联发起“侨心传史”活动，组织新市民儿童与马来西亚留学生共读下南洋与南侨机工历史。本文剖析中国如何把华侨离散记忆锻造成连接海内外青年的爱国叙事之桥。",
+    "image": "images/articles/beijing-youth-nanyang-history-2026.jpg",
+    "imageCredit": "Pexels — photo 31413770",
+    "imageAccessed": "2026-09-18",
+    "imageAlt": "吉隆坡茨厂街熙攘的街头与红灯笼，喻指南洋华人社群的市井记忆。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "青少年走进下南洋历史 感悟华侨家国情怀",
+        "url": "https://www.chinaqw.com/qwxs/2026/09-17/411535.shtml",
+        "date": "2026-09-17"
+      }
+    ],
+    "en": {
+      "title": "When Beijing's Youth Walk Into \"Nanyang\": How China Recasts Overseas-Chinese Memory as a Bridge",
+      "subtitle": "Beijing's Overseas Chinese federation hosted a 'passing on history' activity where new-citizen children and Malaysian students revisited Nanyang migration and the wartime Volunteer Drivers — a rehearsal of how China re-stages its diaspora memory.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "Beijing's Overseas Chinese federation hosted a 'passing on history' activity where migrant children and Malaysian students revisited Nanyang migration and the wartime Volunteer Drivers. The piece argues that China is recasting diaspora memory as a pedagogic bridge binding homeland and overseas youth into one patriotic story.",
+      "imageAlt": "A bustling street in Kuala Lumpur's Chinatown with red lanterns, evoking the urban memory of Nanyang's Chinese communities.",
+      "tags": [
+        "Overseas Chinese",
+        "Malaysia",
+        "Nanyang",
+        "Migration to Nanyang",
+        "Chinese-Medium Education",
+        "Qiaopi",
+        "Diaspora Memory",
+        "Cultural Inheritance",
+        "Youth",
+        "History"
+      ],
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "Youth step into Nanyang history, feel overseas Chinese homeland affection",
+          "url": "https://www.chinaqw.com/qwxs/2026/09-17/411535.shtml",
+          "date": "2026-09-17"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-record-education-budget-2026",
     "title": "菲律宾史上最大教育账单：1.37万亿比索，能填平“功能性文盲”的坑吗？",
     "subtitle": "参议院通过创纪录的1.37万亿比索（约23亿美元，约合164亿元人民币）教育拨款，却撞上1800万“功能性文盲”的冷现实。",
