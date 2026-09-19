@@ -51,7 +51,8 @@
     '南非': 'South Africa', '武术': 'Martial Arts', '中南关系': 'China–South Africa Relations', '文化走出去': 'Cultural Going-Out', '中医': 'Traditional Chinese Medicine', '慈善': 'Charity', '非洲': 'Africa',
     '世卫组织': 'WHO', '全球南方': 'Global South', '多边主义': 'Multilateralism', '东南亚外交': 'Southeast Asian Diplomacy', '联合国': 'United Nations', '中美竞争': 'US–China Competition', '云计算': 'Cloud Computing', '技术': 'Technology',
     '贫困': 'Poverty', '名人政治': 'Celebrity Politics', '社会治理': 'Social Governance', '外交': 'Diplomacy', '国企': 'State-Owned Enterprise', '华为': 'Huawei', '技术自主': 'Technological Autonomy', '出口管制': 'Export Control', '海底光缆': 'Submarine Cable', '数字基础设施': 'Digital Infrastructure', '数字主权': 'Digital Sovereignty', '社区': 'Community', '厄尔尼诺': 'El Niño',
-    '高温': 'Extreme Heat', '劳工': 'Labour', '热浪': 'Heatwave', '职业健康': 'Occupational Health'
+    '高温': 'Extreme Heat', '劳工': 'Labour', '热浪': 'Heatwave', '职业健康': 'Occupational Health',
+    '香港': 'Hong Kong', '商业地产': 'Commercial Property', '资本流动': 'Capital Flows'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 

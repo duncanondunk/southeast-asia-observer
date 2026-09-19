@@ -1,5 +1,65 @@
 [
   {
+    "slug": "southeast-asian-capital-hong-kong-property-2026",
+    "title": "东南亚资本“抄底”香港：新加坡领衔，成为商业地产最大非本地买家",
+    "subtitle": "第一太平戴维斯数据显示，2026年迄今东南亚资本以33.7亿港元登顶香港商业地产非本地买家，新加坡枢纽背后的华人家族办公室与上市企业趁价格腰斩入场",
+    "category": "经济产业",
+    "tags": [
+      "新加坡",
+      "香港",
+      "商业地产",
+      "资本流动",
+      "经济产业",
+      "东南亚",
+      "华侨华人"
+    ],
+    "country": "东南亚",
+    "date": "2026-09-19",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/southeast-asian-capital-hong-kong-property-2026.jpg",
+    "imageCredit": "Pexels — photo 26970225",
+    "imageAccessed": "2026-09-19",
+    "imageAlt": "香港中环摩天楼群天际线，映照东南亚资本涌入商业地产",
+    "summary": "据第一太平戴维斯数据，2026年迄今东南亚资本以33.7亿港元（约30.7亿元人民币）登顶香港商业地产非本地买家，由新加坡领衔；中资与西方基金退场、价格腰斩，区域资本在周期低点接盘核心资产。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asian buyers emerge as top non-local investors in Hong Kong commercial property",
+        "url": "https://www.scmp.com/business",
+        "date": "2026-09-16"
+      },
+      {
+        "source": "VnExpress International（引述南华早报）",
+        "title": "Southeast Asian investors become biggest foreign buyers of Hong Kong commercial property",
+        "url": "https://e.vnexpress.net/news/business/property/southeast-asian-investors-become-biggest-foreign-buyers-of-hong-kong-commercial-property-5121045.html",
+        "date": "2026-09-17"
+      }
+    ],
+    "en": {
+      "title": "Singapore-led Southeast Asian capital moves into Hong Kong's repriced property market",
+      "subtitle": "Savills data show Southeast Asian investors have become Hong Kong's top non-local commercial-property buyers in 2026, led by Singapore-based capital as prices halve.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "Savills data show Southeast Asian investors have become Hong Kong's top non-local commercial-property buyers in 2026, led by Singapore-based capital, as mainland and Western funds retreat and prices halve. The shift reflects Asia's internal capital reallocation at the cycle's low.",
+      "imageAlt": "Hong Kong Central skyline of skyscrapers, reflecting Southeast Asian capital flowing into commercial property",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Southeast Asian buyers emerge as top non-local investors in Hong Kong commercial property",
+          "url": "https://www.scmp.com/business",
+          "date": "2026-09-16"
+        },
+        {
+          "source": "VnExpress International (citing SCMP)",
+          "title": "Southeast Asian investors become biggest foreign buyers of Hong Kong commercial property",
+          "url": "https://e.vnexpress.net/news/business/property/southeast-asian-investors-become-biggest-foreign-buyers-of-hong-kong-commercial-property-5121045.html",
+          "date": "2026-09-17"
+        }
+      ]
+    }
+  },
+  {
     "slug": "chinese-culture-grand-park-medan-2026",
     "title": "棉兰一期夏令营，与北京对印尼华人离散群体的耐心赌注",
     "subtitle": "一场看似寻常的华裔青少年文化营，实则是省级渠道递送、低成本高认同的离散文化外交缩影",
