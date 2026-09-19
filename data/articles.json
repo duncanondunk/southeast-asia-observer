@@ -1,5 +1,54 @@
 [
   {
+    "slug": "cambodia-thai-goods-boycott-2026",
+    "title": "柬埔寨“拒泰货”浪潮：一场边境冲突如何烧进老百姓的菜篮子",
+    "subtitle": "据《日经亚洲》报道，自7月柬泰边境冲突以来，柬埔寨消费者发起抵制泰货，泰进口前七月跌37%、国货份额升至约30%；“柬埔寨制造”运动助推本土品牌，却也伴生伪国货套利。",
+    "category": "地缘政治",
+    "tags": [
+      "柬埔寨",
+      "泰国",
+      "经济产业",
+      "贸易",
+      "民族主义",
+      "消费",
+      "东南亚",
+      "地缘政治"
+    ],
+    "country": "柬埔寨",
+    "date": "2026-09-19",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/cambodia-thai-goods-boycott-2026.jpg",
+    "imageCredit": "Pexels — photo 38002098",
+    "imageAccessed": "2026-09-19",
+    "imageAlt": "金边中央市场内熙攘的货架与顾客，象征柬埔寨消费者抵制泰货、转向本土品牌的浪潮",
+    "summary": "据《日经亚洲》报道，自7月柬泰边境冲突以来，柬埔寨消费者抵制泰货，泰进口前七月跌37%，国货份额升至约30%，本土品牌借“柬埔寨制造”运动扩张，却也伴生伪国货套利。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Cambodian consumer companies cash in on Thai goods boycott",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-09-08"
+      }
+    ],
+    "en": {
+      "title": "Cambodia's Thai-goods boycott: how a border clash spilled into the shopping cart",
+      "subtitle": "Nikkei Asia reports that since the July Cambodia–Thailand border clash, Cambodian consumers have boycotted Thai goods: Thai imports fell 37% in the first seven months of 2026 while local products' share jumped to about 30%, as a state-backed \"Made in Cambodia\" campaign boosts domestic brands — but counterfeits and third-country imports expose the fragile underside.",
+      "category": "Geopolitics",
+      "country": "Cambodia",
+      "summary": "Nikkei Asia reports that since the July Cambodia–Thailand border clash, Cambodian consumers have boycotted Thai goods: Thai imports fell 37% in the first seven months of 2026 while local products' domestic market share jumped to about 30%. Domestic brands ride a state-backed \"Made in Cambodia\" campaign, but counterfeit relabelling and third-country imports expose the boycott's fragile, arbitrage-prone underside.",
+      "imageAlt": "Shoppers and shelves inside Phnom Penh's Central Market, symbolising Cambodian consumers' shift from Thai to local brands",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Cambodian consumer companies cash in on Thai goods boycott",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-09-08"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-yellow-shirts-street-politics-2026",
     "title": "黄衫军元老林明达再上街：泰国街头政治会否重燃？",
     "subtitle": "78岁的传媒大亨、保皇派\"黄衫军\"发起人林明达近日发起\"夺回泰国\"运动，借民生、腐败与外资灰产之怨向阿努廷政府施压；9月28日宪法法院对大选选票条码的裁决，正成为新一轮街头政治的潜在导火索。",
