@@ -1,5 +1,65 @@
 [
   {
+    "slug": "cambodia-e-waste-management-plan-2026",
+    "title": "柬埔寨3000万美元电子垃圾计划：循环经济的口号与硬约束",
+    "subtitle": "一笔五年3000万美元的赌注，能否让后发的柬埔寨跳出\"洋垃圾\"循环？",
+    "category": "经济产业",
+    "tags": [
+      "柬埔寨",
+      "电子垃圾",
+      "循环经济",
+      "环境政策",
+      "全球环境基金",
+      "联合国开发计划署",
+      "东南亚"
+    ],
+    "country": "柬埔寨",
+    "date": "2026-09-20",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/cambodia-e-waste-management-plan-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-20",
+    "imageAlt": "成堆等待处理的废弃电子产品",
+    "summary": "柬埔寨9月19日公布五年3000万美元电子垃圾治理计划，配2600万美元政企出资与400万美元全球环境基金赠款，目标减排2.7万吨、护20万人。6月起已禁电子垃圾进口。文章认为其读对区域教训，但仅约9%可经济回收，3000万美元难弥技术与执法鸿沟，成败在港口执法与监察。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "柬埔寨将投资3000万美元在五年内减少电子垃圾",
+        "url": "https://www.zaobao.com/news/sea/story20260919-9703666",
+        "date": "2026-09-19"
+      },
+      {
+        "source": "新华社 Xinhua",
+        "title": "Cambodia launches 30-mln-USD initiative to reduce e-waste in 5 years",
+        "url": "https://english.news.cn/asiapacific/20260919/1fe100184a5d433db02b081b2a777bd2/c.html",
+        "date": "2026-09-19"
+      }
+    ],
+    "en": {
+      "title": "Cambodia's US$30 Million E-Waste Plan: Circular Rhetoric, Hard Realities",
+      "subtitle": "A five-year, US$30 million wager on whether a latecomer can break the 'foreign garbage' cycle.",
+      "category": "Economy & Industry",
+      "country": "Cambodia",
+      "summary": "On 19 September Cambodia unveiled a five-year, US$30 million e-waste plan — US$26 million in co-financing plus a US$4 million GEF grant — after banning e-waste imports in June. The analysis argues Phnom Penh reads the regional lesson correctly, but with only ~9% of e-waste economically recyclable, the money alone cannot close the technology and enforcement gap; success hinges on port enforcement.",
+      "imageAlt": "A pile of discarded electronic waste awaiting processing",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Cambodia to invest US$30 million over five years to cut e-waste",
+          "url": "https://www.zaobao.com/news/sea/story20260919-9703666",
+          "date": "2026-09-19"
+        },
+        {
+          "source": "Xinhua",
+          "title": "Cambodia launches 30-mln-USD initiative to reduce e-waste in 5 years",
+          "url": "https://english.news.cn/asiapacific/20260919/1fe100184a5d433db02b081b2a777bd2/c.html",
+          "date": "2026-09-19"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-glp1-weight-loss-pens-black-market-2026",
     "title": "一纸“处方药”令：泰国为何堵不住减肥针黑市",
     "subtitle": "泰国将减肥针列为“特别管制药品”，试图堵住由短视频网红与“以瘦为美”审美催生的假药黑市——但一道没有稽查的政令，恐怕堵不住这道由价格鸿沟凿开的漏洞。",
