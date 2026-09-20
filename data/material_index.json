@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19",
+  "version": "2026-09-20",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:Grab以15亿美元控股Atome(2026-09)": {
@@ -1266,6 +1266,13 @@
       "exception": null,
       "slugs": [
         "cambodia-thai-goods-boycott-2026"
+      ]
+    },
+    "event:中国驻马来西亚使馆开放日(2026-09)": {
+      "note": "全新素材（中国侨网/中新网，2026-09-17）。中国驻马来西亚使馆以中秋为名举办开放日，邀约八十名马来西亚青年学生走进使馆，体验汉服、月饼、灯笼与科大讯飞AI产品；聚焦使馆公共外交/侨务 outreach 与中马青年人文交流，与既有马来西亚条目（安华、槟城、鞭刑、罗兴亚等）不重复。",
+      "exception": null,
+      "slugs": [
+        "china-embassy-malaysia-open-day-2026"
       ]
     }
   }
