@@ -1,5 +1,66 @@
 [
   {
+    "slug": "thailand-high-income-2037-worldbank-2026",
+    "title": "泰国能否在2037年跨入高收入国家行列？世界银行的一份路线图与三重隐忧",
+    "subtitle": "世界银行为泰国规划高收入路线图，但中等收入陷阱、人口老化与落地难成三道关",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "经济",
+      "中等收入陷阱",
+      "世界银行",
+      "产业升级",
+      "制造业",
+      "人口老龄化",
+      "电动汽车",
+      "中国—东盟",
+      "东南亚"
+    ],
+    "country": "泰国",
+    "date": "2026-09-20",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/thailand-high-income-2037-worldbank-2026.jpg",
+    "imageCredit": "Pexels — photo 32658709 (Bangkok business district)",
+    "imageAccessed": "2026-09-20",
+    "imageAlt": "曼谷城市天际线与湄南河",
+    "summary": "据《日经亚洲》报道，世界银行9月3日发布《建设泰国未来》报告，为泰国规划2037年跻身高收入国家的路线图：需将人均GDP年均增速提至5.4%。但泰国潜在增速已回落至2.7%，人口加速老龄化，且产业升级落地乏力。蓝图易画、行路难——泰国能否跳出中等收入陷阱，关键在于改革执行力而非文件本身。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "World Bank: Thailand could become high-income country by 2037",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-07"
+      },
+      {
+        "source": "世界银行 World Bank",
+        "title": "建设泰国未来（Building Thailand's Future Today）",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/09/03/world-bank-group-report-identifies-new-engines-for-thailands-next-phase-of-growth",
+        "date": "2026-09-03"
+      }
+    ],
+    "en": {
+      "title": "Can Thailand Reach High-Income Status by 2037?",
+      "subtitle": "The World Bank sketches a high-income roadmap for Thailand, but the middle-income trap, ageing, and weak execution stand in the way",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "The World Bank's \"Building Thailand's Future Today\" report lays out a roadmap for Thailand to reach high-income status by 2037, requiring 5.4% annual per-capita GDP growth. Yet Thailand's potential growth has fallen to 2.7%, its population is ageing rapidly, and past industrial plans have stalled in implementation. Whether Thailand escapes the middle-income trap hinges less on blueprints than on execution.",
+      "imageAlt": "Bangkok skyline along the Chao Phraya River",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "World Bank: Thailand could become high-income country by 2037",
+          "url": "https://asia.nikkei.com/location/southeast-asia"
+        },
+        {
+          "source": "World Bank",
+          "title": "Building Thailand's Future Today",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/09/03/world-bank-group-report-identifies-new-engines-for-thailands-next-phase-of-growth"
+        }
+      ]
+    }
+  },
+  {
     "slug": "cambodia-e-waste-management-plan-2026",
     "title": "柬埔寨3000万美元电子垃圾计划：循环经济的口号与硬约束",
     "subtitle": "一笔五年3000万美元的赌注，能否让后发的柬埔寨跳出\"洋垃圾\"循环？",
