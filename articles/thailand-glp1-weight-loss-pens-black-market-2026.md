@@ -44,7 +44,7 @@
 
 **泰国食品药品监督管理局（Thai FDA）**：泰国负责药品与食品安全的监管机构；二〇二六年九月将减肥针列为"特别管制药品"，要求凭处方购买并推行全程追溯系统。
 
-*话题参考：南华早报（scmp.com）东南亚 — "Thailand makes weight-loss pens prescription-only to counter glut of illegal medicines"。*
+*话题参考：南华早报（South China Morning Post）（scmp.com）东南亚 — "Thailand makes weight-loss pens prescription-only to counter glut of illegal medicines"。*
 
 ===EN===
 
