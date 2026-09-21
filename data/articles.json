@@ -1,5 +1,65 @@
 [
   {
+    "slug": "philippines-school-shooting-dark-web-2026",
+    "title": "当少年持枪走进教室：菲律宾校园枪击暴露的安全与网络之困",
+    "subtitle": "联合早报连续报道显示，菲律宾南哥打巴托邦加镇高中一名16岁优等生深陷暗网与暴力群组、蓄谋数周后在校园开枪，三死七伤；教育部坦承安保“准备不足”。这是菲今年第三起校园枪击。",
+    "category": "社会文化",
+    "tags": [
+      "菲律宾",
+      "社会文化",
+      "青年",
+      "教育",
+      "社交媒体",
+      "安全",
+      "心理健康"
+    ],
+    "country": "菲律宾",
+    "date": "2026-09-21",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/philippines-school-shooting-dark-web-2026.jpg",
+    "imageCredit": "Pexels — photo 34162713 (classroom students)",
+    "imageAccessed": "2026-09-21",
+    "imageAlt": "一间普通教室里专注学习的学生，象征校园安全与青少年心理健康议题",
+    "summary": "2026年9月18日，菲律宾南哥打巴托邦加镇高中一名16岁优等生持枪行凶，三死七伤。调查显示他深陷暗网与暴力群组、蓄谋已久；教育部坦承校园安保“准备不足”。这是菲今年第三起校园枪击，暴露网络安全与青少年心理健康的双重盲区。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "菲南校园枪击案枪手 疑遭暗网蛊惑",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260919-9702255",
+        "date": "2026-09-19"
+      },
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "菲律宾校园枪手蓄谋已久 官员反思准备不足",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260920-9706272",
+        "date": "2026-09-20"
+      }
+    ],
+    "en": {
+      "title": "When a teenager walked into class with a gun: the security and cyber blind spots exposed by the Philippines school shooting",
+      "subtitle": "Consecutive Lianhe Zaobao reports show a 16-year-old honors student in Banga, South Cotabato, immersed in the dark web and violent groups, opened fire at his high school after weeks of planning, killing three and wounding seven; the education secretary admitted schools were 'underprepared.' It is the third such shooting in the Philippines this year.",
+      "category": "Society & Culture",
+      "country": "Philippines",
+      "summary": "On 18 September 2026, a 16-year-old honors student opened fire at a high school in Banga, South Cotabato, killing three and wounding seven. Police found he was radicalized via the dark web and had planned the attack for weeks; the education secretary admitted schools were 'underprepared.' As the third such shooting in the Philippines this year, it exposes a double blind spot in cyber safety and youth mental health.",
+      "imageAlt": "Students concentrating on their studies in an ordinary classroom, symbolising the debate over campus safety and youth mental health",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Southern Philippines school gunman suspected of dark-web indoctrination",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260919-9702255",
+          "date": "2026-09-19"
+        },
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Philippines school gunman planned attack for weeks; officials admit poor preparedness",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260920-9706272",
+          "date": "2026-09-20"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-financial-center-pfii-bali-2026",
     "title": "印尼的280亿美元赌注：雅加达与巴厘岛能否从新加坡手中撬走财富管理？",
     "subtitle": "据《日经亚洲》报道，印尼2026年7月通过《国际金融中心法》，拟在雅加达与巴厘岛打造对标迪拜的PFII，吸引300万亿至500万亿印尼盾外资，正面挑战新加坡的财富管理霸主地位。",

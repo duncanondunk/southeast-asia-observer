@@ -54,7 +54,8 @@
     '高温': 'Extreme Heat', '劳工': 'Labour', '热浪': 'Heatwave', '职业健康': 'Occupational Health',
     '香港': 'Hong Kong', '商业地产': 'Commercial Property', '资本流动': 'Capital Flows', '民族主义': 'Nationalism', '消费': 'Consumption',
     '药物监管': 'Drug Regulation', '社交媒体': 'Social Media',
-    '电子垃圾': 'E-waste', '循环经济': 'Circular Economy', '环境政策': 'Environmental Policy', '世界银行': 'World Bank', '中等收入陷阱': 'Middle-Income Trap', '产业升级': 'Industrial Upgrading', '金融': 'Finance', '全球环境基金': 'Global Environment Facility', '联合国开发计划署': 'UNDP'
+    '电子垃圾': 'E-waste', '循环经济': 'Circular Economy', '环境政策': 'Environmental Policy', '世界银行': 'World Bank', '中等收入陷阱': 'Middle-Income Trap', '产业升级': 'Industrial Upgrading', '金融': 'Finance', '全球环境基金': 'Global Environment Fund', '联合国开发计划署': 'UNDP',
+    '安全': 'Security', '心理健康': 'Mental Health'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 
