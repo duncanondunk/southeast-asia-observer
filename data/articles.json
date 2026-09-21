@@ -1,5 +1,78 @@
 [
   {
+    "slug": "indonesia-financial-center-pfii-bali-2026",
+    "title": "印尼的280亿美元赌注：雅加达与巴厘岛能否从新加坡手中撬走财富管理？",
+    "subtitle": "据《日经亚洲》报道，印尼2026年7月通过《国际金融中心法》，拟在雅加达与巴厘岛打造对标迪拜的PFII，吸引300万亿至500万亿印尼盾外资，正面挑战新加坡的财富管理霸主地位。",
+    "category": "经济产业",
+    "tags": [
+      "印度尼西亚",
+      "经济",
+      "金融",
+      "投资",
+      "新加坡",
+      "中印尼关系",
+      "数字经济",
+      "东南亚"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-09-21",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/indonesia-financial-center-pfii-bali-2026.jpg",
+    "imageCredit": "Pexels — photo 32327756 (Jakarta skyline)",
+    "imageAccessed": "2026-09-21",
+    "imageAlt": "雅加达现代摩天大楼组成的城市天际线，象征印尼打造区域金融中心的雄心",
+    "summary": "2026年7月印尼国会通过《国际金融中心法》，拟在雅加达与巴厘岛打造对标迪拜的PFII，吸引300万亿至500万亿印尼盾外资，正面挑战新加坡的财富管理霸主地位。本文指出，法律易立、信用难建，监管独立性与全球最低税兼容性才是落地关键。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesia's $28bn bet on Jakarta and Bali International Financial Centers",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-21"
+      },
+      {
+        "source": "中国新闻网",
+        "title": "印尼通过国际金融中心法 推进国际金融中心建设",
+        "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663535.shtml",
+        "date": "2026-07-21"
+      },
+      {
+        "source": "印度尼西亚共和国广播电台(RRI)",
+        "title": "IIFC Expected to Launch in 3 Years",
+        "url": "https://rri.co.id/en/business/2595215/iifc-expected-to-launch-in-3-years",
+        "date": "2026-07-23"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's $28bn gamble: can Jakarta and Bali prise wealth management from Singapore?",
+      "subtitle": "Nikkei Asia reports that Indonesia passed its International Financial Center (PFII) law in July 2026, planning Dubai-style hubs in Jakarta and Bali to attract up to US$27.8 billion in foreign capital and challenge Singapore's wealth-management dominance.",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "Indonesia's parliament passed the PFII law in July 2026, planning Dubai-style financial hubs in Jakarta and Bali to attract up to US$27.8 billion in foreign capital and challenge Singapore's wealth-management dominance. This analysis argues that legislation is the easy part; regulatory credibility, political insulation and compatibility with the 15% global minimum tax will decide whether Jakarta can actually prise capital from Singapore.",
+      "imageAlt": "Jakarta's modern skyscraper skyline, symbolising Indonesia's ambition to build a regional financial center",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia's $28bn bet on Jakarta and Bali International Financial Centers",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-09-21"
+        },
+        {
+          "source": "The Jakarta Post",
+          "title": "Indonesia passes bill to set up international financial center",
+          "url": "https://www.thejakartapost.com/business/2026/07/21/indonesia-passes-bill-to-set-up-international-financial-center",
+          "date": "2026-07-21"
+        },
+        {
+          "source": "RRI",
+          "title": "IIFC Expected to Launch in 3 Years",
+          "url": "https://rri.co.id/en/business/2595215/iifc-expected-to-launch-in-3-years",
+          "date": "2026-07-23"
+        }
+      ]
+    }
+  },
+  {
     "slug": "china-malaysia-traditional-costumes-malacca-2026",
     "title": "衣冠为媒：汉服与娘惹可峇雅在马六甲同台，民间文旅再升温",
     "subtitle": "2026马来西亚礼乐大会暨中马传统服饰交流活动9月19日在马六甲鸡场街开幕，汉服、娘惹可峇雅与马来各族服饰同台展演，是观察中马民间文旅与华人离散文化的一扇窗口。",
