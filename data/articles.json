@@ -1,5 +1,65 @@
 [
   {
+    "slug": "indonesia-citizens-tricked-fight-russia-ukraine-2026",
+    "title": "从“高薪文职”到乌克兰战壕：印尼人为何成了大国战争的炮灰",
+    "subtitle": "据《南华早报》报道，乌克兰情报机构8月27日披露，8名印尼公民被以“待遇优厚的民用岗位”为饵诱骗，最终为俄方在乌克兰作战；分析人士警告这仅是冰山一角，东南亚既有的诈骗与人口贩运网络正被俄方招募者当成“狩猎场”。",
+    "category": "地缘政治",
+    "tags": [
+      "印度尼西亚",
+      "地缘政治",
+      "俄罗斯",
+      "人口贩运",
+      "劳工",
+      "跨境治理",
+      "乌克兰"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-09-21",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/indonesia-citizens-tricked-fight-russia-ukraine-2026.jpg",
+    "imageCredit": "Pexels — photo 34659022 (portrait of a young man)",
+    "imageAccessed": "2026-09-21",
+    "imageAlt": "低光下神情凝重的青年肖像，象征被诱骗赴乌作战的东南亚劳务移民的脆弱处境",
+    "summary": "8名印尼公民被以“高薪文职”诱骗赴乌为俄作战，揭示东南亚劳务移民在诈骗与征兵网络交织下的脆弱。本文指出现有跨境治理与东盟领事保护机制失灵，大国战争正将炮灰需求伸向全球南方。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "'Cannon fodder' Asians tricked to fight for Russia spur calls for intervention",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-09-14"
+      },
+      {
+        "source": "Channel NewsAsia",
+        "title": "Eight Indonesians allegedly duped into becoming Russian soldiers",
+        "url": "https://www.channelnewsasia.com/asia/eight-indonesians-recruited-russia-military-war-ukraine-6357061",
+        "date": "2026-09-14"
+      }
+    ],
+    "en": {
+      "title": "From \"well-paid office jobs\" to Ukrainian trenches: how Indonesians became cannon fodder for a great-power war",
+      "subtitle": "SCMP reports that Ukraine's intelligence agency revealed on 27 August that eight Indonesian citizens were lured with promises of \"well-paid civilian jobs\" and ended up fighting for Russia in Ukraine; analysts warn this is the tip of an iceberg, with Southeast Asia's entrenched scam networks becoming a hunting ground for Russian recruiters.",
+      "category": "Geopolitics",
+      "country": "Indonesia",
+      "summary": "Eight Indonesian citizens were lured by fake \"well-paid civilian jobs\" and ended up fighting for Russia in Ukraine. The case exposes how Southeast Asia's labour migrants — already prey to scam and trafficking networks — are now being funneled into a great-power war. This analysis argues that weak cross-border governance and absent ASEAN-level consular protection let the cannon-fodder demand of a distant conflict reach into the region's vulnerable populations.",
+      "imageAlt": "A solemn young man's portrait in low light, symbolising the vulnerability of Southeast Asian labour migrants deceived into fighting in Ukraine",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "'Cannon fodder' Asians tricked to fight for Russia spur calls for intervention",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-09-14"
+        },
+        {
+          "source": "Channel NewsAsia",
+          "title": "Eight Indonesians allegedly duped into becoming Russian soldiers",
+          "url": "https://www.channelnewsasia.com/asia/eight-indonesians-recruited-russia-military-war-ukraine-6357061",
+          "date": "2026-09-14"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-school-shooting-dark-web-2026",
     "title": "当少年持枪走进教室：菲律宾校园枪击暴露的安全与网络之困",
     "subtitle": "联合早报连续报道显示，菲律宾南哥打巴托邦加镇高中一名16岁优等生深陷暗网与暴力群组、蓄谋数周后在校园开枪，三死七伤；教育部坦承安保“准备不足”。这是菲今年第三起校园枪击。",
