@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-21",
+  "version": "2026-09-22",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:Grab以15亿美元控股Atome(2026-09)": {
@@ -1322,6 +1322,13 @@
       "exception": null,
       "slugs": [
         "indonesia-citizens-tricked-fight-russia-ukraine-2026"
+      ]
+    },
+    "event:柬埔寨中国商会首届运动节(金边·2026-09)": {
+      "note": "全新素材（中国侨网/中新社，2026-09-20）。柬埔寨中国商会第一届运动节在金边举办，约300人参与；聚焦在柬华商群体制度化「共同家园」与商会作为平行于外交系统的民间基础设施；与既有柬埔寨条目（华校复校、华文教育研讨会、网诈整治、抵泰货、泰柬边境/海上争端等）不重复，本文聚焦华商商会社群凝聚力与形象管理。",
+      "exception": null,
+      "slugs": [
+        "cambodia-chinese-chamber-sports-festival-2026"
       ]
     }
   }
