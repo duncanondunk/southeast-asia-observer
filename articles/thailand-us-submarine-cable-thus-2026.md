@@ -58,6 +58,8 @@
 
 **数字丝绸之路（Digital Silk Road）**：中国“一带一路”在数字经济领域的延伸，包括海底光缆、数据中心与通信网络建设，重点投向亚洲、非洲、中东与拉美。
 
+*话题参考："联合早报"（zaobao.com）东南亚新闻 — "绕道南中国海连通六亚细安国家 美资助研究建设跨太平洋新光缆"。*
+
 ===EN===
 
 # Bypassing the South China Sea: How a US-Backed Submarine Cable Redraws Southeast Asia's Digital Map

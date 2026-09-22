@@ -26,6 +26,12 @@
 
 一个普遍命题浮现于此：中等收入不是终点，而是一道筛子。它奖励那些把外部红利转化为内生能力的国家，也冷落那些停在舒适区里的玩家。越南与菲律宾刚刚跨过第一道门槛，真正的比赛，才刚刚鸣枪。
 
+## 延伸阅读
+
+- **中高收入（Upper-middle income）**：世界银行按人均国民总收入划分的国家收入组别，2026年门槛约为4636美元；越南与菲律宾于2026年首次跨入。
+- **中等收入陷阱（Middle-income trap）**：指一国在迈入中高收入后，因未能升级产业、陷入增长停滞的现象；泰国与印尼被视为前车之鉴。
+- **半导体（Semiconductor）**：成为越南、菲律宾出口与产业升级核心的电子设备基础元件，也是两国跃升中高收入的关键推力。
+
 *话题参考：联合早报《受半导体业发展推动 越南菲律宾成中高收入国家》（2026-08-18）*
 
 ===EN===
@@ -57,5 +63,11 @@ Malaysia tells a different story: after entering the upper-middle-income group i
 Whether Vietnam overtakes Thailand around 2037 and reaches high-income near 2040 depends on whether it can upgrade "assembly" into "creation." The Philippines' Pax Silica bet is both an opportunity and a warning: the security narrative of supply chains ultimately lands on indigenous capability.
 
 A broader proposition emerges: middle income is not a destination but a sieve. It rewards those who convert external dividends into endogenous capacity, and sidelines those who settle in the comfort zone. Vietnam and the Philippines have just cleared the first threshold; the real race is only starting.
+
+## Further reading
+
+- **Upper-middle income**: a World Bank country-income group classified by gross national income per capita; the 2026 threshold was about US$4,636, which Vietnam and the Philippines crossed for the first time in 2026.
+- **Middle-income trap**: the phenomenon in which a country, after reaching upper-middle income, stagnates because it fails to upgrade its industries; Thailand and Indonesia are cited as cautionary cases.
+- **Semiconductor**: the foundational electronic component that became central to Vietnam's and the Philippines' exports and industrial upgrading, and the key driver of their leap into upper-middle income.
 
 *Topic reference: Lianhe Zaobao, "Vietnam and Philippines become upper-middle-income on semiconductor drive" (2026-08-18)*

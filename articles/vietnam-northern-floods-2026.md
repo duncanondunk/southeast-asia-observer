@@ -58,7 +58,7 @@
 
 **气候鞭击（Climate Whiplash）**：指同一地区在短期内从极端湿润骤转为极端干旱的现象，近年因气候变化而更频繁，对农业灌溉、水库调度与粮食安全构成连续冲击。
 
-*Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "越南北部暴雨成灾 三人死逾1万6000房屋被淹"。*
+*话题参考："联合早报"（zaobao.com）东南亚新闻 — "越南北部暴雨成灾 三人死逾1万6000房屋被淹"。*
 
 ===EN===
 

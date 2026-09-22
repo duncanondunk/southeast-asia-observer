@@ -40,7 +40,7 @@
 
 **海外中资企业商会（Chinese enterprises' chambers abroad）**：从东南亚到非洲，中资企业商会正从互助组织演变为兼具侨务服务、利益协调与形象管理的民间基础设施。
 
-*Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "柬埔寨中国商会第一届运动节在金边成功举办".*
+*话题参考："中国侨网"（chinaqw.com）每周热点 — "柬埔寨中国商会第一届运动节在金边成功举办"。*
 
 ===EN===
 

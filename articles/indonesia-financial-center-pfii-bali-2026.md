@@ -52,6 +52,8 @@
 
 **金融部门发展与强化法（P2SK法）**：印尼2026年6月生效的金融基本法，为PFII的设立与立法时限提供了法律母本。
 
+*话题参考："日经亚洲"（asia.nikkei.com）东南亚 — "印尼豪掷280亿美元押注雅加达与巴厘岛国际金融中心"。*
+
 ===EN===
 
 # Indonesia's $28bn gamble: can Jakarta and Bali prise wealth management from Singapore?

@@ -38,6 +38,8 @@
 - **软实力（Soft Power）**：由约瑟夫·奈提出，指以吸引与同化而非强制取胜的能力；本文体现为文化与科技两条线的运用。
 - **马来西亚华裔（Ethnic Chinese in Malaysia）**：约占人口两成三的少数族裔，长期充当马来西亚与中国之间经济与文化联系的桥梁，也是公共外交的关键受众。
 
+*话题参考："中国侨网"（chinaqw.com）每周热点 — "中国驻马来西亚使馆举办使馆开放日活动"。*
+
 ===EN===
 
 # When an Embassy Opens Its Doors: Beijing's Quiet Bid for Southeast Asia's Next Generation

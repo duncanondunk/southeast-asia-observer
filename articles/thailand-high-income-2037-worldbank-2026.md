@@ -88,7 +88,7 @@ summary: 据《日经亚洲》报道，世界银行9月3日发布《建设泰国
 
 **人均国民总收入（GNI per Capita）**：世界银行划分高/中/低收入的核心指标，2025年高收入门槛约为1.4万美元（约10万元人民币）。
 
-*Topic reference: "Nikkei Asia" (asia.nikkei.com) Southeast Asia — "World Bank: Thailand could become high-income country by 2037".*
+*话题参考："日经亚洲"（asia.nikkei.com）东南亚 — "世界银行：泰国或于2037年迈入高收入国家"。*
 
 ===EN===
 

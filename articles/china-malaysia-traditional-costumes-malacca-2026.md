@@ -40,6 +40,8 @@
 - **海上丝绸之路（Maritime Silk Road）**：古代中国与东南亚、南亚、阿拉伯世界海上贸易与文明交往的通道，马六甲因其扼守海峡而成为关键枢纽。
 - **公共外交（Public Diplomacy）**：国家以文化与信息手段塑造外国公众认知的实践，区别于传统的国家间外交，本文所述民间文旅即其一端。
 
+*话题参考："中国侨网"（chinaqw.com）每周热点 — "中马传统服饰亮相马六甲 助力两国民间文旅深度交流"。*
+
 ===EN===
 
 # Costumes as Common Ground: Hanfu and the Nyonya Kebaya Meet in Malacca

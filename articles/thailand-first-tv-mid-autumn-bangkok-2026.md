@@ -42,7 +42,7 @@
 
 **潮籍移民（Teochew diaspora in Thailand）**：指祖籍广东潮汕地区的泰国华侨华人；潮籍裔在泰国华社中占多数，深刻影响了泰国的商业、饮食与方言生态。
 
-*Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "泰国首届电视中秋晚会在曼谷举办".*
+*话题参考："中国侨网"（chinaqw.com）每周热点 — "泰国首届电视中秋晚会在曼谷举办"。*
 
 ===EN===
 

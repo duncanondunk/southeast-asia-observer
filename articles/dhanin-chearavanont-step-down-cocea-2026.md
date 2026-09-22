@@ -48,6 +48,8 @@
 
 **郭鹤年与嘉里集团（Robert Kuok / Kerry Group）：** 马来西亚对华裔商界家族，旗下涵盖嘉里控股、香格里拉酒店及庞大的中国地产与农业版图；郭孔华即郭鹤年之子。
 
+*话题参考："中国侨网"（chinaqw.com）每周热点 — "谢国民卸任中国侨商联合会会长，郭孔华当选新任会长"。*
+
 ===EN===
 
 # Dhanin's Baton: What the Leadership Handover of China's Overseas Chinese Entrepreneurs Signals

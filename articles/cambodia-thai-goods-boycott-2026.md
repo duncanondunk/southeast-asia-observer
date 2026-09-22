@@ -28,7 +28,7 @@
 
 **柬泰关系（Cambodia–Thailand Relations）**：两国共享边界、语言与湄公河水系，亦长期存在边境划界与主权争议；2026年的冲突外溢至民间消费领域，是双边关系脆弱性的又一侧影。
 
-*Topic reference: "Nikkei Asia" (asia.nikkei.com) Southeast Asia — "Cambodian consumer companies cash in on Thai goods boycott".*
+*话题参考："日经亚洲"（asia.nikkei.com）东南亚 — "柬埔寨消费企业借泰货抵制潮获利"。*
 
 ===EN===
 
