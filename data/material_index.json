@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-22",
+  "version": "2026-09-23",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:Grab以15亿美元控股Atome(2026-09)": {
@@ -1329,6 +1329,13 @@
       "exception": null,
       "slugs": [
         "cambodia-chinese-chamber-sports-festival-2026"
+      ]
+    },
+    "event:约150名华商侨领聚云南(2026-09)": {
+      "note": "全新素材（中国侨网/中新网，2026-09-22）。2026华商聚云南活动在昆明开幕，30多国约150名华商侨领聚焦云南自贸试验区、文旅与绿电；与 event:东南亚侨领赴滇研习活动(2026-07)（7月研习，不同事件）及 广西侨商侨领对接平陆运河+东盟产供链(2026-08) 不重复，聚焦边疆省份借侨力与区位重写中国—东盟门户剧本。",
+      "exception": null,
+      "slugs": [
+        "overseas-chinese-business-leaders-yunnan-2026"
       ]
     }
   }
