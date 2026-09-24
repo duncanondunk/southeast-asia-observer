@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-23",
+  "version": "2026-09-24",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:Grab以15亿美元控股Atome(2026-09)": {
@@ -1336,6 +1336,13 @@
       "exception": null,
       "slugs": [
         "overseas-chinese-business-leaders-yunnan-2026"
+      ]
+    },
+    "event:中国驻印尼使馆纪念孙中山诞辰160周年(2026-09)": {
+      "note": "全新素材（中国侨网/中新网，2026-09-22）。中国驻印尼使馆雅加达座谈会纪念孙中山诞辰160周年，华侨华人/南洋革命史/中印尼侨务公共外交主题；与既有 relation:中印尼关系(普拉博沃)、event:中国印尼全面战略对话机制首次会议(2026-08)、event:中印尼友好故事会深圳(2026-09)、event:中印尼双向语言学习热(2026-09) 等不重复（本文聚焦纪念仪式作为离散治理与软实力注脚，非关系文件或语言交流复述）。",
+      "exception": null,
+      "slugs": [
+        "sun-yat-sen-indonesia-commemoration-2026"
       ]
     }
   }

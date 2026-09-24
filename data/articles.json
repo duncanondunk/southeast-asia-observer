@@ -1,5 +1,52 @@
 [
   {
+    "slug": "sun-yat-sen-indonesia-commemoration-2026",
+    "title": "孙中山诞辰160周年：雅加达的纪念与南洋侨胞的百年回响",
+    "subtitle": "中国驻印尼使馆纪念孙中山诞辰160周年，折射北京面向东南亚华侨华人的侨务公共外交逻辑",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "印度尼西亚",
+      "中印尼关系",
+      "南洋",
+      "历史",
+      "孙中山"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-09-24",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/sun-yat-sen-indonesia-commemoration-2026.jpg",
+    "imageCredit": "Pexels — photo 37964762 (Jakarta skyline with National Monument)",
+    "imageAccessed": "2026-09-24",
+    "imageAlt": "雅加达城市天际线与民族纪念碑，印尼华裔社群的聚居地之一",
+    "summary": "中国驻印尼使馆纪念孙中山诞辰160周年，凸显南洋侨胞对近代民族革命的出资者角色。北京借此类纪念，在东南亚华侨华人中铺设低成本、低敏感度的文化认同“软连接”。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "中国驻印尼使馆举办纪念孙中山先生诞辰160周年座谈会",
+        "url": "https://www.chinaqw.com/hdfw/2026/09-22/411795.shtml",
+        "date": "2026-09-22"
+      }
+    ],
+    "en": {
+      "title": "When Jakarta commemorates Sun Yat-sen at 160",
+      "subtitle": "The Chinese embassy in Indonesia marks Sun Yat-sen's 160th birth anniversary — a window into Beijing's diaspora public diplomacy toward Southeast Asian Chinese.",
+      "category": "Overseas Chinese",
+      "country": "Indonesia",
+      "summary": "As the Chinese embassy in Jakarta marks Sun Yat-sen's 160th birth anniversary, the event spotlights Nanyang overseas Chinese as financiers of modern China's revolution — and Beijing's use of such commemorations as low-cost, low-sensitivity cultural diplomacy toward Southeast Asia's diaspora.",
+      "imageAlt": "Jakarta skyline with the National Monument, home to one of Southeast Asia's largest ethnic Chinese communities",
+      "references": [
+        {
+          "source": "China Qiao Wang (chinaqw.com)",
+          "title": "Chinese embassy in Indonesia holds symposium marking the 160th anniversary of Sun Yat-sen's birth",
+          "url": "https://www.chinaqw.com/hdfw/2026/09-22/411795.shtml",
+          "date": "2026-09-22"
+        }
+      ]
+    }
+  },
+  {
     "slug": "overseas-chinese-business-leaders-yunnan-2026",
     "title": "150名华商侨领聚云南：边疆省份如何重写\"侨力\"剧本",
     "subtitle": "9月21日，约150名华商侨领聚首昆明，围绕云南自贸试验区、文旅与绿电寻新机。本文分析云南借侨力与区位将边疆改写为中国—东盟门户的战略逻辑，并点出项目落地率与对少数华商巨头的依赖两大隐忧。",
