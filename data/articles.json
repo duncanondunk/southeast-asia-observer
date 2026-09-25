@@ -1,5 +1,76 @@
 [
   {
+    "slug": "laos-power-export-blackouts-2026",
+    "title": "卖电给邻居，自己却在黑暗中摇扇子：老挝\"东南亚蓄电池\"悖论",
+    "subtitle": "约八成电力出口换汇，老化电网与旱季短缺却让本国频繁断电",
+    "category": "经济产业",
+    "tags": [
+      "老挝",
+      "湄公河流域",
+      "能源",
+      "水电",
+      "地缘政治",
+      "基础设施"
+    ],
+    "country": "老挝",
+    "date": "2026-09-25",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/laos-power-export-blackouts-2026.jpg",
+    "imageCredit": "Pexels (photo by Donovan Kelly, pexels.com)",
+    "imageAccessed": "2026-09-25",
+    "imageAlt": "横版大型水电大坝与水库，象征老挝以水电出口支撑区域经济",
+    "summary": "老挝被称为\"东南亚蓄电池\"，却将约八成电力出口换汇，自身电网老化、旱季短缺而频繁断电。专线直供与照付不议合同使发电与本国用电脱节，越南借购电对冲中国影响力。出口创收是成就，但民生可靠性须写入能源战略。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "老挝八成电力供出口 自身反而频频断电",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260923-9675789",
+        "date": "2026-09-23"
+      },
+      {
+        "source": "Mekong Eye",
+        "title": "Laos powers the region, but its own homes struggle to stay cool",
+        "url": "https://www.mekongeye.com/2026/05/04/laos-power-cool",
+        "date": "2026-05-04"
+      },
+      {
+        "source": "Lowy Institute",
+        "title": "Laos electricity imports in drought year 2023 (est. US$240m)",
+        "url": "https://www.lowyinstitute.org/",
+        "date": "2026"
+      }
+    ],
+    "en": {
+      "title": "Powering the Neighbors, Left in the Dark: Laos and the \"Battery of Southeast Asia\" Paradox",
+      "subtitle": "Roughly 80% of power exported for foreign exchange, yet an aging grid and dry-season shortfalls leave the country in the dark",
+      "category": "Economy & Industry",
+      "country": "Laos",
+      "summary": "Branded the \"Battery of Southeast Asia,\" Laos exports roughly 80% of its power for foreign exchange while an aging grid and dry-season shortfalls leave homes and hospitals in the dark. Dedicated lines and take-or-pay contracts disconnect generation from local use; Vietnam's purchases double as a hedge against Chinese influence. Export earnings are real, but household reliability must enter the energy strategy.",
+      "imageAlt": "A wide horizontal hydroelectric dam and reservoir, symbolising Laos's hydropower-led regional power exports",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Laos exports 80% of power but suffers frequent blackouts at home",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260923-9675789",
+          "date": "2026-09-23"
+        },
+        {
+          "source": "Mekong Eye",
+          "title": "Laos powers the region, but its own homes struggle to stay cool",
+          "url": "https://www.mekongeye.com/2026/05/04/laos-power-cool",
+          "date": "2026-05-04"
+        },
+        {
+          "source": "Lowy Institute",
+          "title": "Laos electricity imports in drought year 2023 (est. US$240m)",
+          "url": "https://www.lowyinstitute.org/",
+          "date": "2026"
+        }
+      ]
+    }
+  },
+  {
     "slug": "cambodia-china-mid-autumn-gala-phnom-penh-2026",
     "title": "同月共圆：中柬中秋联欢晚会为何落在金边",
     "subtitle": "2026中柬中秋联欢晚会由云南、中国使馆与柬方部委合办，一个华人节庆如何成为两国柔性外交载体",
