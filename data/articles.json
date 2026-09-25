@@ -1,5 +1,65 @@
 [
   {
+    "slug": "southeast-asia-multilateralism-survey-2026",
+    "title": "不想站队：一份民调里的东南亚\"中间地带\"定力",
+    "subtitle": "洛克菲勒基金会民调显示，东南亚民众支持多边合作，同时对美国或中国主导地区秩序保持警惕",
+    "category": "地缘政治",
+    "tags": [
+      "东南亚",
+      "东盟",
+      "多边主义",
+      "地缘政治",
+      "中美竞争",
+      "全球南方",
+      "国际关系"
+    ],
+    "country": "东南亚",
+    "date": "2026-09-25",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/southeast-asia-multilateralism-survey-2026.jpg",
+    "imageCredit": "Pexels (photo by Maksim Romashkin, pexels.com)",
+    "imageAccessed": "2026-09-25",
+    "imageAlt": "横版东南亚城市与寺庙屋顶天际线，象征区域在传统与现代之间寻找自主空间",
+    "summary": "洛克菲勒基金会民调显示，东南亚民众坚定支持多边合作，同时对美国或中国主导地区秩序心存戒备。这种\"不想站队\"取向并非反美反华，而是中小国家拒绝对外托付战略主权的生存本能。在阵营压力加剧之际，东盟中心地位仍是地区最珍视的护栏。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asia supports multilateralism, wary of US or China leadership: survey",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-09-21"
+      },
+      {
+        "source": "东盟 ASEAN",
+        "title": "ASEAN Outlook on the Indo-Pacific",
+        "url": "https://asean.org/asean-outlook-on-the-indo-pacific/",
+        "date": "2019-06-23"
+      }
+    ],
+    "en": {
+      "title": "No Sides to Pick: What a Regional Survey Reveals About Southeast Asia's Resolve to Stay in the Middle",
+      "subtitle": "A Rockefeller Foundation survey shows Southeast Asian publics support multilateral cooperation while remaining wary of either US or Chinese dominance",
+      "category": "Geopolitics",
+      "country": "Southeast Asia",
+      "summary": "A Rockefeller Foundation survey reported by SCMP finds Southeast Asian publics strongly support multilateral cooperation while wary of leadership by either the US or China. This is not anti-American or anti-Chinese sentiment; it is smaller states refusing to outsource strategic sovereignty. In an era of intensifying bloc pressure, ASEAN Centrality remains the region's most valued guardrail.",
+      "imageAlt": "A wide horizontal view of a Southeast Asian city with temple rooftops, symbolising the region's search for autonomy between tradition and modernity",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Southeast Asia supports multilateralism, wary of US or China leadership: survey",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-09-21"
+        },
+        {
+          "source": "ASEAN",
+          "title": "ASEAN Outlook on the Indo-Pacific",
+          "url": "https://asean.org/asean-outlook-on-the-indo-pacific/",
+          "date": "2019-06-23"
+        }
+      ]
+    }
+  },
+  {
     "slug": "ho-chi-minh-low-emission-zone-delay-2026",
     "title": "胡志明市低排放区推迟半年：绿色转型“慢半拍”，千万摩托车的绿色账单",
     "subtitle": "新胡志明市（1400万人口）将低排放区落地延后半年，PM2.5超世卫限值6倍，千万摩托车与电车焦虑拷问绿色转型的公平",
