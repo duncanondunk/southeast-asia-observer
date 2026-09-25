@@ -1,5 +1,78 @@
 [
   {
+    "slug": "ho-chi-minh-low-emission-zone-delay-2026",
+    "title": "胡志明市低排放区推迟半年：绿色转型“慢半拍”，千万摩托车的绿色账单",
+    "subtitle": "新胡志明市（1400万人口）将低排放区落地延后半年，PM2.5超世卫限值6倍，千万摩托车与电车焦虑拷问绿色转型的公平",
+    "category": "气候变化",
+    "tags": [
+      "越南",
+      "气候变化",
+      "城市",
+      "空气污染",
+      "电动汽车",
+      "新能源",
+      "东南亚",
+      "环境"
+    ],
+    "country": "越南",
+    "date": "2026-09-25",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/ho-chi-minh-low-emission-zone-delay-2026.jpg",
+    "imageCredit": "Pexels (photo by The Journey of Frames, pexels.com)",
+    "imageAccessed": "2026-09-25",
+    "imageAlt": "横版胡志明市繁忙街道与摩托车流，象征城市交通排放治理难题",
+    "summary": "胡志明市（人口1400万）将低排放区落地推迟半年。全市730万辆摩托与逾百万汽车贡献近九成交通排放，PM2.5超世卫限值6倍、污染致死已超交通事故。规划以2032为底线分阶段限行，丰田游说混动入区，河内已抢先禁燃油网约车摩托。绿色转型难处不在划禁行线，而在让最脆弱骑手不为全城空气买单。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Ho Chi Minh City delays low-emission zone rollout by 6 months",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-06"
+      },
+      {
+        "source": "Tuoi Tre News",
+        "title": "Ho Chi Minh City aims to establish low emission zones from 2026",
+        "url": "https://news.tuoitre.vn/ho-chi-minh-city-aims-to-establish-low-emission-zones-from-2026-103251007180832031.htm",
+        "date": "2026-08-26"
+      },
+      {
+        "source": "越南建设部 Ministry of Construction (Vietnam)",
+        "title": "HCM City to roll out low-emission zones from 2026",
+        "url": "https://moc.gov.vn/en/news/88686/hcm-city-to-roll-out-low-emission-zones-from-2026.aspx",
+        "date": "2026-08"
+      }
+    ],
+    "en": {
+      "title": "Ho Chi Minh City Hits Pause on Low-Emission Zones: A Six-Month Delay in the Green Transition, and the Dilemma of Millions of Motorbikes",
+      "subtitle": "The enlarged 14-million-strong city has pushed its LEZ rollout back by half a year; with PM2.5 six times the WHO limit, millions of motorbikes and \"EV anxiety\" test the fairness of the green shift.",
+      "category": "Climate Change",
+      "country": "Vietnam",
+      "summary": "Ho Chi Minh City has delayed its low-emission zone by six months. With 7.3 million motorbikes and over a million cars, transport drives nearly 90% of the city's emissions; PM2.5 runs six times the WHO limit and pollution now kills more than traffic accidents. The city plans a phased 2026–2032 restriction, Toyota lobbies to include hybrids, and Hanoi has already moved first. The hard part of the green shift is not drawing the line but ensuring the most vulnerable riders do not pay for the city's air.",
+      "imageAlt": "A wide horizontal view of busy Ho Chi Minh City streets and motorcycle traffic, symbolising the urban transport-emission challenge",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Ho Chi Minh City delays low-emission zone rollout by 6 months",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-09-06"
+        },
+        {
+          "source": "Tuoi Tre News",
+          "title": "Ho Chi Minh City aims to establish low emission zones from 2026",
+          "url": "https://news.tuoitre.vn/ho-chi-minh-city-aims-to-establish-low-emission-zones-from-2026-103251007180832031.htm",
+          "date": "2026-08-26"
+        },
+        {
+          "source": "Ministry of Construction (Vietnam)",
+          "title": "HCM City to roll out low-emission zones from 2026",
+          "url": "https://moc.gov.vn/en/news/88686/hcm-city-to-roll-out-low-emission-zones-from-2026.aspx",
+          "date": "2026-08"
+        }
+      ]
+    }
+  },
+  {
     "slug": "laos-power-export-blackouts-2026",
     "title": "卖电给邻居，自己却在黑暗中摇扇子：老挝\"东南亚蓄电池\"悖论",
     "subtitle": "约八成电力出口换汇，老化电网与旱季短缺却让本国频繁断电",
