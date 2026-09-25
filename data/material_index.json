@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-24",
+  "version": "2026-09-25",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:Grab以15亿美元控股Atome(2026-09)": {
@@ -1343,6 +1343,13 @@
       "exception": null,
       "slugs": [
         "sun-yat-sen-indonesia-commemoration-2026"
+      ]
+    },
+    "event:2026中柬中秋联欢晚会(金边·2026-09)": {
+      "note": "全新素材（中国侨网/中新网，2026-09-24）。2026中柬中秋联欢晚会9月23日金边举办，云南、中国使馆与柬旅游部/新闻部合办；聚焦华人民间节庆转为两国柔性外交载体、在柬华人认同的国家背书与云南文旅自下而上渗透；与既有 thailand-first-tv-mid-autumn-bangkok-2026（泰国电视中秋晚会，不同国家不同事件）不重复。",
+      "exception": null,
+      "slugs": [
+        "cambodia-china-mid-autumn-gala-phnom-penh-2026"
       ]
     }
   }
