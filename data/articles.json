@@ -1,5 +1,65 @@
 [
   {
+    "slug": "philippines-pax-silica-new-clark-hub-2026",
+    "title": "两年的时钟：菲律宾能否在政局生变前把“硅晶计划”落地",
+    "subtitle": "美方主导的 Pax Silica 正以不到两年为限，抢在菲美两国政局生变前落成新克拉克城枢纽——但电力、用水与主权争议才是真正的关卡。",
+    "category": "经济产业",
+    "tags": [
+      "菲律宾",
+      "半导体",
+      "经济产业",
+      "供应链",
+      "关键矿产",
+      "东南亚",
+      "美国"
+    ],
+    "country": "菲律宾",
+    "date": "2026-09-26",
+    "readingTime": 9,
+    "featured": false,
+    "image": "images/articles/philippines-pax-silica-new-clark-hub-2026.jpg",
+    "imageCredit": "Pexels — photo 33076681 (Eggsy Outis)",
+    "imageAccessed": "2026-09-26",
+    "imageAlt": "马尼拉街头熙来攘往的人群与城市景观，象征菲律宾承接半导体与人工智能产业枢纽的地利与人力。",
+    "summary": "菲律宾正以不到两年为限，抢在菲美政局生变前把美方主导的「硅晶计划」落成新克拉克城半导体与关键矿产枢纽。文章指真瓶颈是电力、用水与主权争议；其更可能落地为中低端封装节点，而非全栈人工智能制造中心。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Philippines races to realise Pax Silica dreams as political changes loom",
+        "url": "https://www.scmp.com/week-asia/economics/article/3368411/philippines-races-turn-pax-silica-reality-political-changes-derail-dreams",
+        "date": "2026-09-22"
+      },
+      {
+        "source": "菲律宾通讯社 Philippine News Agency",
+        "title": "Pax Silica hub to boost PH role in global AI value chain",
+        "url": "https://www.pna.gov.ph/articles/1280396",
+        "date": "2026-07-27"
+      }
+    ],
+    "en": {
+      "title": "Pax Silica in the Philippines: a two-year sprint against the political clock",
+      "subtitle": "Washington's Pax Silica has less than two years to become a real hub in New Clark City before political windows in Manila and Washington close — yet power, water and sovereignty disputes are the real gatekeepers.",
+      "category": "Economy & Industry",
+      "country": "Philippines",
+      "summary": "The Philippines has under two years to turn the US-led Pax Silica into a real hub in New Clark City before political windows close. The real bottlenecks are power, water and sovereignty disputes, not land or intent; the project is likelier to land as a mid-tier packaging and minerals node than the full-stack AI foundry its backers envision.",
+      "imageAlt": "A bustling Manila street scene with crowds and cityscape, symbolising the Philippines' geographic and labour advantage in hosting a semiconductor and AI hub.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Philippines races to realise Pax Silica dreams as political changes loom",
+          "url": "https://www.scmp.com/week-asia/economics/article/3368411/philippines-races-turn-pax-silica-reality-political-changes-derail-dreams",
+          "date": "2026-09-22"
+        },
+        {
+          "source": "Philippine News Agency",
+          "title": "Pax Silica hub to boost PH role in global AI value chain",
+          "url": "https://www.pna.gov.ph/articles/1280396",
+          "date": "2026-07-27"
+        }
+      ]
+    }
+  },
+  {
     "slug": "asean-young-chinese-businessmen-huizhou-2026",
     "title": "东盟青年华商走进惠州：当\"侨\"成为出海的桥",
     "subtitle": "第三届\"侨兴南粤·惠贸东盟\"活动落幕，43名东盟青年华商携9项初步合作意向归乡",
