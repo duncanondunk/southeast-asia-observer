@@ -1,5 +1,64 @@
 [
   {
+    "slug": "thailand-anutin-chinese-capital-upgrading-2026",
+    "title": "阿努廷执政周年：泰国转向中国资本求解增长焦虑",
+    "subtitle": "从丰田到小米：两代外资接力背后，是泰国产业升级的焦虑与算计",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "中国",
+      "外商直接投资",
+      "产业升级",
+      "人工智能",
+      "经济"
+    ],
+    "country": "泰国",
+    "date": "2026-09-26",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "泰国二季度增速仅1.9%，在东南亚主要经济体中垫底。阿努廷政府将复苏希望押在中国资本上，借中资升级产业；但技术转移的本地化难题未解，且需在美中之间两面下注。",
+    "image": "images/articles/thailand-anutin-chinese-capital-upgrading-2026.jpg",
+    "imageCredit": "Pexels — photo 36538433",
+    "imageAccessed": "2026-09-26",
+    "imageAlt": "曼谷城市天际线与繁忙街道，象征泰国在产业升级与中国资本之间的转向",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth",
+        "url": "https://roll.sohu.com/a/1073357494_114911",
+        "date": "2026-09-07"
+      },
+      {
+        "source": "Jiji Press / The Nation",
+        "title": "PM Anutin says Japanese firms will keep investing in Thailand",
+        "url": "https://jen-f.jiji.com/jc/eng_agt?g=nation&k=20260921NATION-40071292",
+        "date": "2026-09-21"
+      }
+    ],
+    "en": {
+      "title": "Anutin's first anniversary: Thailand turns to Chinese capital to cure its growth anxiety",
+      "subtitle": "From Toyota to Xiaomi: behind the relay of two generations of foreign capital lies Thailand's anxiety and calculation over industrial upgrading",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "With Q2 growth at just 1.9% — the weakest among Southeast Asia's major economies — Thailand is betting its recovery on Chinese capital to upgrade industry. Yet the old problem of localisation and technology transfer remains unsolved, and Bangkok must hedge between Washington and Beijing.",
+      "imageAlt": "Bangkok skyline and busy streets, symbolising Thailand's pivot toward Chinese capital amid industrial upgrading",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth",
+          "url": "https://roll.sohu.com/a/1073357494_114911",
+          "date": "2026-09-07"
+        },
+        {
+          "source": "Jiji Press",
+          "title": "PM Anutin says Japanese firms will keep investing in Thailand",
+          "url": "https://jen-f.jiji.com/jc/eng_agt?g=nation&k=20260921NATION-40071292",
+          "date": "2026-09-21"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-transboundary-haze-law-2026",
     "title": "借鉴新加坡立法：马来西亚拟向跨境烟霾“动真格”",
     "subtitle": "马来西亚环境部研究参照新加坡2014年《跨境烟霾污染法令》制定专门法律，域外追责触碰东盟不干涉内政红线",
