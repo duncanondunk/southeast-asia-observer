@@ -1,5 +1,66 @@
 [
   {
+    "slug": "malaysia-transboundary-haze-law-2026",
+    "title": "借鉴新加坡立法：马来西亚拟向跨境烟霾“动真格”",
+    "subtitle": "马来西亚环境部研究参照新加坡2014年《跨境烟霾污染法令》制定专门法律，域外追责触碰东盟不干涉内政红线",
+    "category": "气候变化",
+    "tags": [
+      "马来西亚",
+      "烟霾",
+      "跨境治理",
+      "环境政策",
+      "新加坡",
+      "东盟",
+      "气候变化",
+      "印度尼西亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-09-26",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "马来西亚环境部研究参照新加坡2014年《跨境烟霾污染法令》立法应对印尼烟霾，域外追责触碰东盟“不干涉内政”红线；马国2023年底曾停起草。此次还推永续烟霾基金与数据共享，难点仍在印尼执法与企业追责；季风将至，吉隆坡也须管好本土露天焚烧。",
+    "image": "images/articles/malaysia-transboundary-haze-law-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-26",
+    "imageAlt": "烟霾笼罩下的吉隆坡城市天际线",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "借鉴新加坡法令 马国拟制定跨境烟霾法应对印尼烟霾",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260925-9735544",
+        "date": "2026-09-25"
+      },
+      {
+        "source": "星洲日报 Sin Chew Daily",
+        "title": "环境部研究制定应对跨境烟霾专门法令",
+        "url": "https://www.sinchew.com.my",
+        "date": "2026-09-24"
+      }
+    ],
+    "en": {
+      "title": "Borrowing Singapore's Law: Why Malaysia Is Finally Tackling Transboundary Haze",
+      "subtitle": "Malaysia's environment ministry is studying a dedicated law modelled on Singapore's 2014 Transboundary Haze Pollution Act, where extraterritorial liability collides with ASEAN's non-interference norm",
+      "category": "Climate Change",
+      "country": "Malaysia",
+      "summary": "Malaysia's environment ministry is drafting a dedicated law against transboundary haze, explicitly modelling it on Singapore's 2014 Transboundary Haze Pollution Act with its extraterritorial reach. Kuala Lumpur halted a similar bill in late 2023 not for technical reasons but political ones: holding foreign firms liable collides with ASEAN's non-interference norm. This round also pushes a sustainable haze fund and real-time data sharing, yet the real test remains ground enforcement and corporate accountability in Indonesia. With the monsoon near, Malaysia must also curb its own open burning.",
+      "imageAlt": "Kuala Lumpur skyline shrouded in haze",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (Singapore)",
+          "title": "Malaysia to model transboundary haze law on Singapore's framework",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260925-9735544",
+          "date": "2026-09-25"
+        },
+        {
+          "source": "Sin Chew Daily (Malaysia)",
+          "title": "Environment ministry studying dedicated transboundary haze law",
+          "url": "https://www.sinchew.com.my",
+          "date": "2026-09-24"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-pax-silica-new-clark-hub-2026",
     "title": "两年的时钟：菲律宾能否在政局生变前把“硅晶计划”落地",
     "subtitle": "美方主导的 Pax Silica 正以不到两年为限，抢在菲美两国政局生变前落成新克拉克城枢纽——但电力、用水与主权争议才是真正的关卡。",
