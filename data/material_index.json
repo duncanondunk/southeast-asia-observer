@@ -1421,6 +1421,13 @@
       "slugs": [
         "nippn-vietnam-factory-2026"
       ]
+    },
+    "topic:中国借侨力促经济(对比印度,2026-09)": {
+      "note": "全新素材（南华早报，2026-09-23，Ravi Kant 评论）：中印两大侨民群体经济用法对照——中国借制度把侨胞接回本土建长期能力，印度靠汇款维持短期体面；华侨华人/侨务政策/引才主题。与既有 topic:保护海外华侨权益、topic:新时代侨务工作、event:谢国民卸任中国侨商联合会会长、event:东盟青年华商走进惠州、topic:六千万海外侨民 等不重复（本文聚焦宏观比较侨力经济杠杆，非单一事件或活动）。",
+      "exception": null,
+      "slugs": [
+        "china-diaspora-economic-leverage-india-2026"
+      ]
     }
   }
 }
