@@ -1,5 +1,79 @@
 [
   {
+    "slug": "nippn-vietnam-factory-2026",
+    "title": "日清制粉落子越南：外资重估“工厂+市场”双枢纽",
+    "subtitle": "据日经亚洲报道，日本食品巨头日清制粉将在越南建预拌粉工厂，这桩小投资折射出外资对越南角色的重新定价",
+    "category": "经济产业",
+    "tags": [
+      "日本",
+      "越南",
+      "经济",
+      "供应链",
+      "制造业",
+      "投资",
+      "东盟",
+      "食品工业",
+      "外商直接投资"
+    ],
+    "country": "越南",
+    "date": "2026-09-27",
+    "readingTime": 8,
+    "featured": false,
+    "image": "images/articles/nippn-vietnam-factory-2026.jpg",
+    "imageCredit": "Pexels — photo 29289936",
+    "imageAccessed": "2026-09-27",
+    "imageAlt": "越南同奈省工业园航拍，象征日企在越南布局的制造与供应链节点",
+    "summary": "据日经亚洲报道，日本食品巨头日清制粉将在越南建预拌粉工厂。这桩小投资折射出外资对越南的重新定价：从廉价出口工厂，转向“工厂+市场”双枢纽，日本食品资本正整建制涌入。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Japanese flour producer Nippn eyes Vietnam factory",
+        "url": "https://asia.nikkei.com",
+        "date": "2026"
+      },
+      {
+        "source": "食品産業新聞社（日本）",
+        "title": "ニップンがベトナム進出、「ASEAN域内での供給体制を盤石に」",
+        "url": "https://www.ssnp.co.jp/rice/557196/",
+        "date": "2024-07-24"
+      },
+      {
+        "source": "日本食糧新聞",
+        "title": "昭和産業、ベトナムの新工場竣工",
+        "url": "https://news.nissyoku.co.jp/flash/1255675",
+        "date": "2026-01-21"
+      }
+    ],
+    "en": {
+      "title": "Japanese food maker Nippn bets on Vietnam: a small plant, a dual 'factory-plus-market' wager",
+      "subtitle": "Reporting by Nikkei Asia says Nippn will build a premix plant in Vietnam — a modest outlay that signals how foreign capital is repricing the country as both a workshop and a marketplace",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "imageAlt": "Aerial view of an industrial park in Dong Nai, Vietnam, symbolising Japanese manufacturers' supply-chain footprint",
+      "summary": "Reporting by Nikkei Asia says Japan's food group Nippn will build a premix plant in Vietnam. The modest outlay signals how foreign capital is repricing the country — from a cheap export workshop into a dual hub of factory and marketplace, as Japanese food firms relocate mature-market playbooks wholesale into ASEAN.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Japanese flour producer Nippn eyes Vietnam factory",
+          "url": "https://asia.nikkei.com",
+          "date": "2026"
+        },
+        {
+          "source": "Food Industry Newspaper (Japan)",
+          "title": "Nippn enters Vietnam, 'solidifying supply within ASEAN'",
+          "url": "https://www.ssnp.co.jp/rice/557196/",
+          "date": "2024-07-24"
+        },
+        {
+          "source": "The Nisshoku Shimbun (Japan)",
+          "title": "Showa Sangyo completes new Vietnam plant",
+          "url": "https://news.nissyoku.co.jp/flash/1255675",
+          "date": "2026-01-21"
+        }
+      ]
+    }
+  },
+  {
     "slug": "asean-us-china-policy-space-2026",
     "title": "中美竞争挤压东盟政策空间 不选边站要靠经济多元化",
     "subtitle": "奥尔森在慧眼中国环球论坛警示，中美双重加压令东盟平衡术愈发艰难，出路在于经贸多元化",
