@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-27",
+  "version": "2026-09-28",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:Grab以15亿美元控股Atome(2026-09)": {
@@ -1427,6 +1427,13 @@
       "exception": null,
       "slugs": [
         "china-diaspora-economic-leverage-india-2026"
+      ]
+    },
+    "project:马来西亚华人青年AI云端寻根(江靖琳·2026-09)": {
+      "note": "全新素材（中国侨网/人民日报海外版，2026-09-26）：马来西亚第四代华人江靖琳（复旦新闻学院研究生）搭建AI云端寻根平台RootLink，带四位长辈回福建安溪认祖归宗；与既有马来西亚条目（使馆开放日/马六甲传统服饰/中秋文化交流/华人归侨肖思明等）不重复，聚焦离散新生代数字寻根与回国求学创业双向往返。",
+      "exception": null,
+      "slugs": [
+        "malaysian-chinese-ai-roots-seeking-rootlink-2026"
       ]
     }
   }

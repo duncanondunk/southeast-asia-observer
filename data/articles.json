@@ -1,5 +1,52 @@
 [
   {
+    "slug": "malaysian-chinese-ai-roots-seeking-rootlink-2026",
+    "title": "马来西亚华人青年的\"数字归乡\"：一个AI寻根平台如何连接南洋与故土",
+    "subtitle": "江靖琳与寻根平台（RootLink）的故事，以及它背后东南亚离散新生代的返乡潮。",
+    "category": "华侨华人",
+    "tags": [
+      "马来西亚",
+      "华人",
+      "寻根",
+      "人工智能",
+      "侨乡",
+      "青年"
+    ],
+    "country": "马来西亚",
+    "date": "2026-09-28",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/malaysian-chinese-ai-roots-seeking-rootlink-2026.jpg",
+    "imageCredit": "Pexels — photo 34673875",
+    "imageAccessed": "2026-09-28",
+    "imageAlt": "中国传统村落建筑，象征海外华人回归的祖籍家园。",
+    "summary": "马来西亚第四代华人江靖琳借助人工智能寻根平台带长辈回福建安溪认祖归宗。文章分析数字族谱如何把离散群体的\"根\"系统化，并指出东南亚华人新生代正将求学创业目的地选在祖籍国，离散叙事由向外漂泊转向双向往返。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "一位马来西亚华人的归家团圆之旅——云端寻根平台，架起团圆之桥",
+        "url": "https://www.chinaqw.com/qwxs/2026/09-26/412040.shtml",
+        "date": "2026-09-26"
+      }
+    ],
+    "en": {
+      "title": "A Malaysian Chinese Millennial's \"Digital Homecoming\": How an AI Roots Platform Reconnected Nanyang and the Ancestral Village",
+      "subtitle": "The story of Jiang Jinglin and RootLink, and the returning diaspora youth behind it.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "A Malaysian fourth-generation Chinese built an AI roots-seeking platform and took four elders back to their ancestral village in Fujian. The piece examines how digitized genealogies turn the diaspora's 'roots' into a scalable public good, and argues that Southeast Asia's young ethnic Chinese are increasingly choosing the ancestral country for study and enterprise, shifting the diaspora narrative from outward drift to two-way return.",
+      "imageAlt": "Traditional Chinese village architecture, symbolizing the ancestral home overseas Chinese return to.",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "A Malaysian Chinese's Homecoming Journey — A Cloud-Based Roots Platform Bridges the Reunion",
+          "url": "https://www.chinaqw.com/qwxs/2026/09-26/412040.shtml",
+          "date": "2026-09-26"
+        }
+      ]
+    }
+  },
+  {
     "slug": "china-diaspora-economic-leverage-india-2026",
     "title": "把侨胞当\"经济延伸\"：中国借力海外华侨华人的打法，印度为何学不像",
     "subtitle": "南华早报一篇评论把中印两大侨民群体的经济用法摆在一起对照——一个把侨胞接回本土建能力，一个靠汇款维持体面。差距不在人数，而在制度。",
