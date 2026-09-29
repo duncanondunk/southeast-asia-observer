@@ -18,7 +18,7 @@
 
 ## 2027预算的走钢丝
 
-换帅发生在一个关键节点：政府正在编制2027年国家预算。普拉博沃自8月14日起在国会反复强调两个要求——既要更高的经济增长，又要维护财政健康。2027年的目标颇具张力：经济增长6%，赤字却要降至GDP的2.40%（低于2026年的2.68%）；国家支出计划约4097.2万亿印尼盾，收入约3426万亿印尼盾。用苏阿希勒的话说，这意味着每一盾支出都要产生乘数效应——不是简单削减开支，而是让有限的资金产出最大效益。
+换帅发生在一个关键节点：政府正在编制2027年国家预算。普拉博沃自8月14日起在国会反复强调两个要求——既要更高的经济增长，又要维护财政健康。2027年的目标颇具张力：经济增长6%，赤字却要降至GDP的2.40%（低于2026年的2.68%）；国家支出计划约4097.2万亿印尼盾（约1.8万亿元人民币），收入约3426万亿印尼盾（约1.5万亿元人民币）。用苏阿希勒的话说，这意味着每一盾支出都要产生乘数效应——不是简单削减开支，而是让有限的资金产出最大效益。
 
 ## 总统的指令：健康且可信
 
@@ -62,7 +62,7 @@ The backdrop is mounting market anxiety. The rupiah weakened markedly during Pur
 
 ## The 2027 budget on a tightrope
 
-The sacking lands at a critical moment: the government is drafting the 2027 budget. Since 14 August, Prabowo has pressed parliament with two demands at once — higher growth and fiscal health. The 2027 targets are deliberately tense: 6 per cent growth with the deficit falling to 2.40 per cent of GDP (from 2.68 per cent in 2026), on planned spending of about Rp4,097.2 trillion against Rp3,426 trillion in revenue. In Suahasil's phrasing, every rupiah must generate a multiplier — not simply cutting spending, but extracting maximum value from limited funds.
+The sacking lands at a critical moment: the government is drafting the 2027 budget. Since 14 August, Prabowo has pressed parliament with two demands at once — higher growth and fiscal health. The 2027 targets are deliberately tense: 6 per cent growth with the deficit falling to 2.40 per cent of GDP (from 2.68 per cent in 2026), on planned spending of about Rp4,097.2 trillion (~US$256 billion) against Rp3,426 trillion (~US$214 billion) in revenue. In Suahasil's phrasing, every rupiah must generate a multiplier — not simply cutting spending, but extracting maximum value from limited funds.
 
 ## The President's instruction: healthy and credible
 

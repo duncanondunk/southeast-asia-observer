@@ -24,9 +24,9 @@
 
 ## 延伸阅读
 
-- **华商（Overseas Chinese Business）**：长期居中协调中国—东盟贸易与投资的东南亚族群企业。
-- **侨贸（Qiaomao）**：借华侨华人与侨乡纽带开展的跨境商贸实践。
-- **企业出海（Chinese Firms Going Global）**：中国推动本土企业拓展海外市场的整体布局，华侨华人被视作可信的中间人。
+**华商（Overseas Chinese Business）**：长期居中协调中国—东盟贸易与投资的东南亚族群企业。
+**侨贸（Qiaomao）**：借华侨华人与侨乡纽带开展的跨境商贸实践。
+**企业出海（Chinese Firms Going Global）**：中国推动本土企业拓展海外市场的整体布局，华侨华人被视作可信的中间人。
 
 *话题参考："中国侨网"（China Qiao Wang）一周热点——"东盟青年华商走进惠州 共话合作新蓝图"。*
 
@@ -58,8 +58,8 @@ Still, the commentary should not be starry-eyed. Nine "preliminary intentions" i
 
 ## Further reading
 
-- **Overseas Chinese business (华商)**: Ethnic-Chinese enterprises across Southeast Asia that have long mediated China–ASEAN trade and investment.
-- **Qiaomao (侨贸)**: The practice of channelling cross-border commerce through overseas-Chinese networks and hometown ties.
-- **Chinese firms going global (企业出海)**: Beijing's broad push for domestic companies to expand into overseas markets, with the diaspora cast as a trusted intermediary.
+**Overseas Chinese business (华商)**: Ethnic-Chinese enterprises across Southeast Asia that have long mediated China–ASEAN trade and investment.
+**Qiaomao (侨贸)**: The practice of channelling cross-border commerce through overseas-Chinese networks and hometown ties.
+**Chinese firms going global (企业出海)**: Beijing's broad push for domestic companies to expand into overseas markets, with the diaspora cast as a trusted intermediary.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "东盟青年华商走进惠州 共话合作新蓝图".*

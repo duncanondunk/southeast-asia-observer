@@ -1,6 +1,6 @@
 # 衣冠为媒：汉服与娘惹可峇雅在马六甲同台，民间文旅再升温
 
-2026年9月19日，一场名为"2026马来西亚礼乐大会暨中马传统服饰交流活动"的展演，在世界文化遗产地马六甲鸡场街拉开帷幕。活动由马六甲鸡场街工委会、马中民俗文旅总商会与福建汉服天下联合主办，吸引来自中国、加拿大、法国、希腊等海内外三十余家文化团体参与，海丝文化会馆也同期落地启用。现场，华夏汉服、娘惹可峇雅（Nyonya kebaya）与马来西亚各族传统服饰同台展演，开幕式服饰秀《华裳启序》将华夏礼乐意象与南洋衣冠美学熔于一炉。这看似一场轻柔的文旅秀，却恰是观察中马关系"软地基"的一扇窗口。
+2026年9月19日，一场名为"2026马来西亚礼乐大会暨中马传统服饰交流活动"的展演，在世界文化遗产地马六甲鸡场街拉开帷幕。活动由马六甲鸡场街工委会、马中民俗文旅总商会与福建汉服天下联合主办，吸引来自中国、加拿大、法国、希腊等海内外30余家文化团体参与，海丝文化会馆也同期落地启用。现场，华夏汉服、娘惹可峇雅（Nyonya kebaya）与马来西亚各族传统服饰同台展演，开幕式服饰秀《华裳启序》将华夏礼乐意象与南洋衣冠美学熔于一炉。这看似一场轻柔的文旅秀，却恰是观察中马关系"软地基"的一扇窗口。
 
 ## 以服为媒：一场文明互鉴的展演
 
@@ -36,9 +36,9 @@
 
 ## 延伸阅读
 
-- **峇峇娘惹（Baba-Nyonya / Peranakan）**：明清以来南下南洋的华人与马来、印尼原住民族通婚形成的土生华人社群，其衣冠、饮食与语言均为中西文化交融的产物，是华人离散在地化的典型样本。
-- **海上丝绸之路（Maritime Silk Road）**：古代中国与东南亚、南亚、阿拉伯世界海上贸易与文明交往的通道，马六甲因其扼守海峡而成为关键枢纽。
-- **公共外交（Public Diplomacy）**：国家以文化与信息手段塑造外国公众认知的实践，区别于传统的国家间外交，本文所述民间文旅即其一端。
+**峇峇娘惹（Baba-Nyonya / Peranakan）**：明清以来南下南洋的华人与马来、印尼原住民族通婚形成的土生华人社群，其衣冠、饮食与语言均为中西文化交融的产物，是华人离散在地化的典型样本。
+**海上丝绸之路（Maritime Silk Road）**：古代中国与东南亚、南亚、阿拉伯世界海上贸易与文明交往的通道，马六甲因其扼守海峡而成为关键枢纽。
+**公共外交（Public Diplomacy）**：国家以文化与信息手段塑造外国公众认知的实践，区别于传统的国家间外交，本文所述民间文旅即其一端。
 
 *话题参考："中国侨网"（chinaqw.com）每周热点 — "中马传统服饰亮相马六甲 助力两国民间文旅深度交流"。*
 
@@ -82,8 +82,8 @@ Of course, we must resist romanticising. No amount of popular exchange can subst
 
 ## Further reading
 
-- **Baba-Nyonya / Peranakan**: Creole communities descended from Chinese migrants who settled in the Nanyang from the Ming–Qing era and intermarried with Malay and Indonesian populations; their dress, cuisine and language are products of Chinese–local fusion, a classic specimen of diaspora localisation.
-- **Maritime Silk Road**: The ancient sea corridor linking China with Southeast Asia, South Asia and the Arab world for trade and civilisational exchange; Malacca became a key hub by virtue of its command of the strait.
-- **Public diplomacy**: A state's use of cultural and informational means to shape foreign publics' perceptions, distinct from traditional state-to-state diplomacy; the people-to-people cultural tourism described here is one expression of it.
+**Baba-Nyonya / Peranakan**: Creole communities descended from Chinese migrants who settled in the Nanyang from the Ming–Qing era and intermarried with Malay and Indonesian populations; their dress, cuisine and language are products of Chinese–local fusion, a classic specimen of diaspora localisation.
+**Maritime Silk Road**: The ancient sea corridor linking China with Southeast Asia, South Asia and the Arab world for trade and civilisational exchange; Malacca became a key hub by virtue of its command of the strait.
+**Public diplomacy**: A state's use of cultural and informational means to shape foreign publics' perceptions, distinct from traditional state-to-state diplomacy; the people-to-people cultural tourism described here is one expression of it.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "中马传统服饰亮相马六甲 助力两国民间文旅深度交流".*

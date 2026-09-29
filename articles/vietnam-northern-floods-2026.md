@@ -34,7 +34,7 @@
 
 ## 经济损失账：减少84.9%的悖论
 
-据联合早报援引彭博社，越南今年迄今因自然灾害死亡或失踪63人，经济损失约22万亿越南盾（约61亿元人民币；原报道另以约1亿零790万新元折算，约合5.8亿元人民币），但较去年同期经济损失减少了84.9%。
+据联合早报援引彭博社，越南今年迄今因自然灾害死亡或失踪63人，经济损失约2.2万亿越南盾（约合5.8亿元人民币；原报道另以约1.079亿新元折算），但较去年同期经济损失减少了84.9%。
 
 这个数字看似喜人，却暗藏悖论。84.9%的降幅，更多源于今年前三季度极端事件相对温和，而非防灾能力质的飞跃；一旦遇上类似2024年的超强台风或流域性大洪，损失曲线随时可能反弹。把"损失同比下降"当作安全感的来源，恰恰是最危险的自我安慰——它掩盖了结构性风险的存量。
 
@@ -98,7 +98,7 @@ But improvement is not a pass. Vietnam's disaster governance remains "rescue-led
 
 ## The economic ledger: the paradox of an 84.9% drop
 
-Zaobao, citing Bloomberg, reported that Vietnam has seen 63 dead or missing from natural disasters this year, with economic losses of about 22 trillion dong (roughly S$108 million, ~US$84 million) — yet that loss is down 84.9 per cent from the same period last year.
+Zaobao, citing Bloomberg, reported that Vietnam has seen 63 dead or missing from natural disasters this year, with economic losses of about 2.2 trillion dong (roughly S$108 million, ~US$84.6 million) — yet that loss is down 84.9 per cent from the same period last year.
 
 The number looks reassuring, but hides a paradox. The 84.9 per cent fall owes more to a relatively mild run of extreme events in the first three quarters than to a qualitative leap in preparedness; once a super-typhoon or basin-wide flood like 2024 returns, the loss curve can snap back at any time. Treating "year-on-year loss reduction" as a source of security is the most dangerous complacency of all — it masks the stock of structural risk.
 

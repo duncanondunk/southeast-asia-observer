@@ -4,19 +4,19 @@
 
 ## 数字：两份不一样的"侨力账本"
 
-先看账本。印度二〇二四年收到侨汇约一千二百九十亿美元（约九千二百亿元人民币），相当于其国内生产总值的百分之三以上；中国同年收到约四百八十亿美元（约三千四百亿元人民币），占国内生产总值不足百分之零点二。单比"汇回来的钱"，印度完胜。可换一个口径，故事就反过来了：中国出国留学人员的归国比例在二〇一三至二〇一八年间升到约八成；一项二〇二三年的研究指出，署名中国机构、有归国学者参与的论文占到中国地址论文的约百分之三十八，而在美国机构中、华裔出生的研究者参与的论文占美国地址论文的约百分之二十七。也就是说，中国把"人"接了回来，印度把"钱"留了下来。
+先看账本。印度2024年收到侨汇约一1290亿美元（约9200亿元人民币），相当于其国内生产总值的3%以上；中国同年收到约480亿美元（约3400亿元人民币），占国内生产总值不足0.2%。单比"汇回来的钱"，印度完胜。可换一个口径，故事就反过来了：中国出国留学人员的归国比例在二〇一三至2018年间升到约八成；一项2023年的研究指出，署名中国机构、有归国学者参与的论文占到中国地址论文的约38%，而在美国机构中、华裔出生的研究者参与的论文占美国地址论文的约27%。也就是说，中国把"人"接了回来，印度把"钱"留了下来。
 
 ## 中国打法：从"送出去"到"引回来"
 
-中国的打法有清晰的时间线。一九七八年，邓小平拍板每年送三千名学生出国，把留学当成国策；待二〇〇一年加入世界贸易组织后，微软、英特尔、甲骨文等跨国公司在华设立研发中枢，高薪岗位把海外华人学者往回吸；二〇〇八年的"千人计划"更是明码标价地全球抢人。结果是中关村长出了足以与硅谷掰手腕的科创生态——月之暗面创始人杨植麟二〇一九年从美国回来创办公司，就是这条链路上的最新注脚。一句话：中国把当年送出去培养的成本，连本带利收了回来。
+中国的打法有清晰的时间线。1978年，邓小平拍板每年送3000名学生出国，把留学当成国策；待2001年加入世界贸易组织后，微软、英特尔、甲骨文等跨国公司在华设立研发中枢，高薪岗位把海外华人学者往回吸；2008年的"千人计划"更是明码标价地全球抢人。结果是中关村长出了足以与硅谷掰手腕的科创生态——月之暗面创始人杨植麟2019年从美国回来创办公司，就是这条链路上的最新注脚。一句话：中国把当年送出去培养的成本，连本带利收了回来。
 
 ## 制度底座：一台专门的"侨务机器"
 
-光有意愿不够，得有抓手。中国有一套专门服务侨务的行政与社团体系——从国务院侨务机构到各级归国华侨联合会，再到遍布世界的华商社团，把"引资、引智、引才"做成了一套常态化机制。反观印度，二〇〇四年才设立专管海外印度人的部门，二〇一六年又并回外交部，重心长期放在领事保护与"自豪感"叙事上，各邦参与极不均衡。换句话说，一个把侨务写进了发展规划的章节，一个把侨务塞进了外交部的抽屉。
+光有意愿不够，得有抓手。中国有一套专门服务侨务的行政与社团体系——从国务院侨务机构到各级归国华侨联合会，再到遍布世界的华商社团，把"引资、引智、引才"做成了一套常态化机制。反观印度，2004年才设立专管海外印度人的部门，2016年又并回外交部，重心长期放在领事保护与"自豪感"叙事上，各邦参与极不均衡。换句话说，一个把侨务写进了发展规划的章节，一个把侨务塞进了外交部的抽屉。
 
 ## 印度的路子：汇款与"人才外流"的遗产
 
-印度的路径带着历史包袱。一九九一年经济改革之前，向外移民长期被视作"人才外流"的遗憾；改革之后，政府才把侨民包装成通往资本、技术与全球市场的桥梁。可现实是，印度侨民对经济的贡献仍高度集中在侨汇和熟练劳工，真正能把前沿技术、风险资本与创新网络接回本土的机制始终单薄。每年上千亿美元的侨汇撑起了家庭消费与外汇存量，却很少转化成产业升级的发动机。
+印度的路径带着历史包袱。1991年经济改革之前，向外移民长期被视作"人才外流"的遗憾；改革之后，政府才把侨民包装成通往资本、技术与全球市场的桥梁。可现实是，印度侨民对经济的贡献仍高度集中在侨汇和熟练劳工，真正能把前沿技术、风险资本与创新网络接回本土的机制始终单薄。每年上千亿美元的侨汇撑起了家庭消费与外汇存量，却很少转化成产业升级的发动机。
 
 ## 关键差异：要"回流的人"还是"汇回的钱"
 
@@ -32,9 +32,9 @@
 
 ## 延伸阅读
 
-**侨务政策（Diaspora Policy）**：一国为联系、服务并动员海外侨民而建立的制度总和；中国的特点是有专门行政体系与常态化"引资引智"机制，印度则长期由外交部统筹、偏重领事与象征维度。
-**千人计划（Thousand Talents Program）**：中国二〇〇八年启动的全球高层次人才引进计划，以优厚待遇吸引海外学者回国，是中国"引才回流"战略的标志性工程。
-**侨汇（Remittances）**：海外劳工或侨民向母国的汇款；印度二〇二四年侨汇约占国内生产总值百分之三以上，是两国侨民经济贡献结构差异的核心指标。
+**侨务政策（diaspora policy）**：一国为联系、服务并动员海外侨民而建立的制度总和；中国的特点是有专门行政体系与常态化"引资引智"机制，印度则长期由外交部统筹、偏重领事与象征维度。
+**千人计划（Thousand Talents Program）**：中国2008年启动的全球高层次人才引进计划，以优厚待遇吸引海外学者回国，是中国"引才回流"战略的标志性工程。
+**侨汇（Remittances）**：海外劳工或侨民向母国的汇款；印度2024年侨汇约占国内生产总值3%以上，是两国侨民经济贡献结构差异的核心指标。
 
 *话题参考："南华早报"（South China Morning Post，scmp.com）东南亚板块报道《China is leveraging its diaspora to boost the economy, unlike India》。*
 
@@ -74,7 +74,7 @@ Zoom in on Southeast Asia, home to the world's largest ethnic-Chinese diaspora a
 
 ## Further reading
 
-**Diaspora Policy**: The ensemble of institutions a state builds to connect with, serve and mobilise its emigrants. China's distinctive feature is a dedicated administrative system and a routinised "attract investment and talent" mechanism, whereas India has long run diaspora affairs through the foreign ministry with an emphasis on consular and symbolic dimensions.
+**diaspora policy**: The ensemble of institutions a state builds to connect with, serve and mobilise its emigrants. China's distinctive feature is a dedicated administrative system and a routinised "attract investment and talent" mechanism, whereas India has long run diaspora affairs through the foreign ministry with an emphasis on consular and symbolic dimensions.
 **Thousand Talents Program**: China's global high-level talent recruitment scheme launched in 2008, which lured overseas scholars home with generous terms and became the flagship project of the country's "talent-return" strategy.
 **Remittances**: Funds sent home by overseas workers or emigrants. India's 2024 remittances amounted to over 3 per cent of GDP, the core indicator of the structural difference between the two countries' diaspora economies.
 

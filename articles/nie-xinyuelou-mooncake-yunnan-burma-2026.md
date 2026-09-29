@@ -32,6 +32,8 @@
 
 **缅甸腊戍华人社区（Lashio Chinese communities）**：上缅甸历史悠久的华人聚居地，长期以亲缘、商贸与饮食与云南相连。
 
+*话题参考：中国侨网（chinaqw.com）每周热点——《“侨味”月饼香跨滇缅 融合风味承载团圆印记》。*
+
 ===EN===
 
 # A Border Town's Mooncake Carries a Burmese-Chinese Family's Four Generations Home

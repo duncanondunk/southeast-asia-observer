@@ -60,7 +60,7 @@ The shift is not unprovoked. Over the past two years, pulled by global demand fo
 
 ## A set of numbers: 42 projects, 750 billion baht of "compute inflow" in three years
 
-Data from the Board of Investment (BOI) shows that between 2024 and 2026, 42 data-centre projects received promotion, with a combined IT load of about 3,400 megawatts and total investment of around 750 billion baht (roughly 22.7 billion U.S. dollars). The capital does not concentrate in a single country: 15 Thai firms, 10 Chinese, 5 American, with the rest from the UAE, Japan, Malaysia, Hong Kong, Singapore, India, Australia and France.
+Data from the Board of Investment (BOI) shows that between 2024 and 2026, 42 data-centre projects received promotion, with a combined IT load of about 3,400 megawatts and total investment of around 750 billion baht (~US$22.7 billion). The capital does not concentrate in a single country: 15 Thai firms, 10 Chinese, 5 American, with the rest from the UAE, Japan, Malaysia, Hong Kong, Singapore, India, Australia and France.
 
 The bigger wave is still coming. In the first quarter of 2026 alone, BOI received applications worth about 1 trillion baht, of which data centres and cloud services accounted for 48 projects totalling some 873.7 billion baht (around 26.6 billion U.S. dollars) — nearly 90 per cent of all applications. Investors came mainly from Singapore, Japan, Britain and Malaysia. The Eastern Economic Corridor (EEC) has become a key landing zone for regional data-centre deployment. In short, Thailand stands at the crest of a "compute inflow" whose scale has outgrown the old regulatory frame.
 

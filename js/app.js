@@ -193,9 +193,32 @@
         if (v) el.setAttribute(attr, v);
       }
     });
+    // SEO 元信息双语：meta[name="description"] 与 og:* 的 content 随语言切换
+    $$('meta[name="description"], meta[property^="og:"]').forEach(function (meta) {
+      var v = meta.getAttribute('data-' + LANG) || meta.getAttribute('data-zh') || '';
+      if (v) meta.setAttribute('content', v);
+    });
     $$('.lang-switch button').forEach(function (b) {
       b.classList.toggle('is-active', b.dataset.lang === LANG);
     });
+  }
+
+  /* ---------- SEO：canonical / og:url / og:image ----------
+     站点同时部署在多个域（CloudStudio 沙箱 + Vercel），且沙箱域名可能被平台轮换，
+     因此改为运行时按当前访问地址自指生成，避免硬编码 canonical 指向失效或他人的站点。 */
+  function initSeoMeta() {
+    // 含 query：article.html?slug=xxx 的 canonical 应指向具体文章，而非列表页
+    var base = location.origin + location.pathname + location.search;
+    var link = document.createElement('link');
+    link.setAttribute('rel', 'canonical');
+    link.setAttribute('href', base);
+    document.head.appendChild(link);
+
+    var ogUrl = $('meta[property="og:url"]');
+    if (ogUrl) ogUrl.setAttribute('content', base);
+
+    var ogImg = $('meta[property="og:image"]');
+    if (ogImg) ogImg.setAttribute('content', location.origin + '/images/singapore-marina-bay.jpg');
   }
   function initLangSwitch() {
     var box = $('#langSwitch');
@@ -436,8 +459,18 @@
         if (idx < 0) throw new Error('Article not found: ' + slug);
         var a = list[idx];
         document.title = af(a, 'title') + ' · ' + (LANG === 'en' ? 'Southeast Asia Watch' : '东南亚观察');
+        var summaryText = af(a, 'summary') || af(a, 'subtitle') || '';
         var descMeta = document.querySelector('meta[name="description"]');
-        if (descMeta) descMeta.setAttribute('content', af(a, 'summary') || af(a, 'subtitle') || '');
+        if (descMeta) descMeta.setAttribute('content', summaryText);
+        // 社交分享卡片同步为该文章标题/摘要/配图
+        var ogTitle = document.querySelector('meta[property="og:title"]');
+        if (ogTitle) ogTitle.setAttribute('content', af(a, 'title'));
+        var ogDesc = document.querySelector('meta[property="og:description"]');
+        if (ogDesc) ogDesc.setAttribute('content', summaryText);
+        if (a.image) {
+          var ogImg = document.querySelector('meta[property="og:image"]');
+          if (ogImg) ogImg.setAttribute('content', location.origin + '/' + String(a.image).replace(/^\/+/, ''));
+        }
 
         $('#articleCat').textContent = categoryLabel(a);
         $('#articleTitle').textContent = af(a, 'title');
@@ -1114,6 +1147,7 @@
 
   ready(function () {
     applyLang();
+    initSeoMeta();
     initLangSwitch();
     initNavToggle();
     initSubscribe();

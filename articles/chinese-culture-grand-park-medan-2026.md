@@ -16,7 +16,7 @@
 开营仪式很说明问题。当地学生自己表演了舞龙舞狮；中国老师则献上歌曲、武术与民乐。换言之，营地强化的是社群本来就持有的文化，而非植入一种外来文化。对于首先是印尼公民的华裔青年而言，这一区分至关重要。风险所在——也是东道国政府之所以留意——在于「文化传承」与「忠诚归属」可能模糊。雅加达的容忍，取决于营地读起来是文化、而非政治。
 
 ## 算算这期营地的真实分量
-规模让戏剧性降温。「中华文化大乐园」项目每年在数十个国家办数十期此类营地，但每一期只触达几十到数百名青少年。印尼华人的规模约在二百万至三百万之间。所以这并非大规模的思想灌输；它是关系性与象征性的——一面横幅、一份情谊、一位被记住的老师。对北京而言，其价值是累积性的：一代对中华文化怀有温热私人联结的离散青年，是任何未来影响力角逐中一笔耐久的资产。
+规模让戏剧性降温。「中华文化大乐园」项目每年在数十个国家办数十期此类营地，但每一期只触达几十到数百名青少年。印尼华人的规模约在200万至300万之间。所以这并非大规模的思想灌输；它是关系性与象征性的——一面横幅、一份情谊、一位被记住的老师。对北京而言，其价值是累积性的：一代对中华文化怀有温热私人联结的离散青年，是任何未来影响力角逐中一笔耐久的资产。
 
 ## 软实力还是文化传承：雅加达的红线画在哪里
 区域内的批评者警告这是「长臂」文化伸手；辩护者则称这是渴望寻根的离散青年应有的正当遗产。真相两者皆是，而那条线是被谈判出来的，并非固定。印尼历届政府总体上容许此类活动，只要它们停留在文化层面、不侵蚀国家认同。北京方面则刻意把营地框定为「中华文化」而非「中国政治」——这是一个让它留有余地的慎重选择。
@@ -25,9 +25,9 @@
 放眼东南亚——马来西亚、泰国、菲律宾皆有类似营地——棉兰这期只是更大幅织锦中的一针。随着大国竞争加剧，北京正悄悄地把本区域华裔社群，从需要撇清的包袱，重新视为一道耐久、亲和的人桥。棉兰一所校园里的两周营地，改变不了任何力量均势。但把它乘以年头、乘以省份、乘以一份份情谊，便成了一套战略：耐心、廉价，且极难反制。
 
 ## 延伸阅读
-- **中华文化大乐园（Chinese Culture Grand Park）**：北京面向海外华裔青少年的旗舰短期文化营项目，由省级海外联谊会与结对高校承办。
-- **改革时期（Reformasi）**：印尼1998年的政治转折，解除了苏哈托时代对华语、华校与公开文化表达的禁令。
-- **棉中中小学（Zhong Hua School）**：棉兰的历史性华文学校，禁令前时代的存续机构，也是离散文化项目的天然承办方。
+**中华文化大乐园（Chinese Culture Grand Park）**：北京面向海外华裔青少年的旗舰短期文化营项目，由省级海外联谊会与结对高校承办。
+**改革时期（Reformasi）**：印尼1998年的政治转折，解除了苏哈托时代对华语、华校与公开文化表达的禁令。
+**棉中中小学（Zhong Hua School）**：棉兰的历史性华文学校，禁令前时代的存续机构，也是离散文化项目的天然承办方。
 
 *话题参考：「中国侨网（China Qiao Wang）」（chinaqw.com）一周热点——「2026"中华文化大乐园"印尼棉兰营开营」。*
 
@@ -60,8 +60,8 @@ Critics in the region warn of a "long-arm" cultural reach; defenders call it leg
 Seen across Southeast Asia — similar camps run in Malaysia, Thailand and the Philippines — the Medan programme is one stitch in a wider tapestry. As great-power competition intensifies, Beijing is quietly recasting the region's ethnic Chinese communities from a liability to be disavowed into a durable, affinitive bridge. A two-week camp in a Medan schoolyard will not shift any balance of power. But multiply it by years, by provinces, by friendships, and you have a strategy: patient, inexpensive, and remarkably hard to counter.
 
 ## Further reading
-- **Chinese Culture Grand Park (中华文化大乐园)**: Beijing's flagship short-term cultural camp programme for ethnic Chinese youth abroad, run through provincial overseas-friendship associations and partner universities.
-- **Reformasi (改革时期)**: Indonesia's 1998 political transition that lifted the Suharto-era bans on Chinese language, schools and public cultural expression.
-- **Zhong Hua School (棉中中小学)**: Medan's historic Chinese-medium school, a surviving institution from the pre-ban era and a natural host for diaspora cultural programmes.
+**Chinese Culture Grand Park (中华文化大乐园)**: Beijing's flagship short-term cultural camp programme for ethnic Chinese youth abroad, run through provincial overseas-friendship associations and partner universities.
+**Reformasi (改革时期)**: Indonesia's 1998 political transition that lifted the Suharto-era bans on Chinese language, schools and public cultural expression.
+**Zhong Hua School (棉中中小学)**: Medan's historic Chinese-medium school, a surviving institution from the pre-ban era and a natural host for diaspora cultural programmes.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "2026"中华文化大乐园"印尼棉兰营开营".*

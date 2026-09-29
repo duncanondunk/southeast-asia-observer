@@ -1,6 +1,6 @@
 # 柬埔寨3000万美元电子垃圾计划：循环经济的口号与硬约束
 
-9月19日，柬埔寨环境部公布了一项为期五年、耗资3000万美元（约2.13亿元人民币；另据报道合约3900万新元，约合2.14亿元人民币）的电子垃圾治理计划。资金由两部分组成：柬埔寨政府与企业伙伴联合出资2600万美元（约18.5亿元人民币），全球环境基金另提供400万美元（约2.85亿元人民币）赠款；项目由联合国开发计划署合作执行。官方给出的目标相当具体：减少2万7000吨温室气体排放，控制汞与持久性有机污染物等有毒物质，阻止超过2万吨污染物进入土壤、水体和大气，并直接保护逾20万人的健康与安全。更关键的是，柬埔寨自今年6月起已全面禁止进口电子垃圾，明确表态"不让本国成为他国废弃电子产品的填埋场"。从纸面上看，这是一个后发国家赶在问题恶化前主动出手的好故事；可细节里藏着更硬的骨头。
+9月19日，柬埔寨环境部公布了一项为期五年、耗资3000万美元（约2.13亿元人民币；另据报道合约3900万新元，约合2.14亿元人民币）的电子垃圾治理计划。资金由两部分组成：柬埔寨政府与企业伙伴联合出资2600万美元（约1.87亿元人民币），全球环境基金另提供400万美元（约2880万元人民币）赠款；项目由联合国开发计划署合作执行。官方给出的目标相当具体：减少2万7000吨温室气体排放，控制汞与持久性有机污染物等有毒物质，阻止超过2万吨污染物进入土壤、水体和大气，并直接保护逾20万人的健康与安全。更关键的是，柬埔寨自今年6月起已全面禁止进口电子垃圾，明确表态"不让本国成为他国废弃电子产品的填埋场"。从纸面上看，这是一个后发国家赶在问题恶化前主动出手的好故事；可细节里藏着更硬的骨头。
 
 ## 数字：一笔为期五年、3000万美元的赌注
 
@@ -30,9 +30,9 @@
 
 ## 延伸阅读
 
-- **《巴塞尔公约》(Basel Convention)**：1989年联合国条约，管控危险废弃物越境转移；2019年修正案进一步限制发达国家向贫穷国家出口电子垃圾。
-- **"洋垃圾"禁令(中国国门利剑)**：中国2018年禁止进口可回收物，促使全球废弃物贸易改道东南亚。
-- **循环经济(Circular economy)**：通过再利用、维修与回收让资源持续流转的经济模式，取代"获取—制造—废弃"的线性路径。
+**《巴塞尔公约》(Basel Convention)**：1989年联合国条约，管控危险废弃物越境转移；2019年修正案进一步限制发达国家向贫穷国家出口电子垃圾。
+**"洋垃圾"禁令(中国国门利剑)**：中国2018年禁止进口可回收物，促使全球废弃物贸易改道东南亚。
+**循环经济(Circular economy)**：通过再利用、维修与回收让资源持续流转的经济模式，取代"获取—制造—废弃"的线性路径。
 
 *话题参考：联合早报（Lianhe Zaobao）（zaobao.com）东南亚新闻——《柬埔寨将投资3000万美元在五年内减少电子垃圾》。*
 
@@ -70,8 +70,8 @@ Cambodia's e-waste plan is, in the end, a small but serious wager. It reads the 
 
 ## Further reading
 
-- **Basel Convention**: The 1989 UN treaty controlling transboundary movements of hazardous waste, tightened in 2019 to restrict exports of e-waste from rich to poor countries.
-- **National Sword policy**: China's 2018 ban on imported recyclables that redirected the global waste trade toward Southeast Asia.
-- **Circular economy**: An economic model that keeps resources in use through reuse, repair, and recycling, replacing the linear "take-make-dispose" pattern.
+**Basel Convention**: The 1989 UN treaty controlling transboundary movements of hazardous waste, tightened in 2019 to restrict exports of e-waste from rich to poor countries.
+**National Sword policy**: China's 2018 ban on imported recyclables that redirected the global waste trade toward Southeast Asia.
+**Circular economy**: An economic model that keeps resources in use through reuse, repair, and recycling, replacing the linear "take-make-dispose" pattern.
 
 *Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "柬埔寨将投资3000万美元在五年内减少电子垃圾".*

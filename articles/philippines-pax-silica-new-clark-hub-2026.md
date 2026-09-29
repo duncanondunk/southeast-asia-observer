@@ -30,9 +30,9 @@
 
 ## 延伸阅读
 
-- **友岸外包（Friend-shoring）**：华盛顿把关键供应链从单纯讲求成本，转向迁往政治立场一致伙伴国的策略。
-- **吕宋经济走廊（Luzon Economic Corridor）**：菲美日三方基础设施倡议，串联苏比克、克拉克、马尼拉与八打雁，强化互联互通与清洁能源。
-- **芯片后端封装（Back-end packaging）**：半导体制造中的封装、测试与组装环节，恰是菲律宾已有的区域强项。
+**友岸外包（Friend-shoring）**：华盛顿把关键供应链从单纯讲求成本，转向迁往政治立场一致伙伴国的策略。
+**吕宋经济走廊（Luzon Economic Corridor）**：菲美日三方基础设施倡议，串联苏比克、克拉克、马尼拉与八打雁，强化互联互通与清洁能源。
+**芯片后端封装（Back-end packaging）**：半导体制造中的封装、测试与组装环节，恰是菲律宾已有的区域强项。
 
 *话题参考：南华早报（South China Morning Post）东南亚 — 《菲律宾抢在政局生变前，要把"硅晶计划"变成现实》。*
 
@@ -70,8 +70,8 @@ Pax Silica will almost certainly survive as an idea — the BCDA has a track rec
 
 ## Further reading
 
-- **Friend-shoring**: Washington's strategy of relocating critical supply chains to politically aligned partners rather than optimising purely for cost.
-- **Luzon Economic Corridor**: A Philippines–US–Japan infrastructure initiative linking Subic, Clark, Manila and Batangas to strengthen connectivity and clean energy.
-- **Back-end chip packaging**: The assembly, testing and packaging stage of semiconductor manufacturing, where the Philippines already holds regional strength.
+**Friend-shoring**: Washington's strategy of relocating critical supply chains to politically aligned partners rather than optimising purely for cost.
+**Luzon Economic Corridor**: A Philippines–US–Japan infrastructure initiative linking Subic, Clark, Manila and Batangas to strengthen connectivity and clean energy.
+**Back-end chip packaging**: The assembly, testing and packaging stage of semiconductor manufacturing, where the Philippines already holds regional strength.
 
 *Topic reference: "South China Morning Post" (scmp.com) Southeast Asia — "Philippines races to realise Pax Silica dreams as political changes loom".*

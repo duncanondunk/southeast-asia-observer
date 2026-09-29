@@ -46,7 +46,7 @@
 
 ## A ranking rewritten
 
-A dataset rewrote the固化 impression of Thai manufacturing. Per Thailand's Board of Investment (BOI) for the first half of 2026, Chinese applications surpassed Japan for the first time: 321 Chinese projects worth about 45.8 billion baht (~RMB 9.2 billion) against 123 Japanese projects at about 32.8 billion baht (~RMB 6.6 billion). Japan's cumulative FDI stock in Thailand remains top, but the order of new flows has inverted. For observers who welded the "Japanese-car kingdom" label onto Thailand, this is a belated reminder: shifts in industrial structure often begin with increments, not stocks.
+A dataset rewrote the固化 impression of Thai manufacturing. Per Thailand's Board of Investment (BOI) for the first half of 2026, Chinese applications surpassed Japan for the first time: 321 Chinese projects worth about 45.8 billion baht (~US$1.4 billion) against 123 Japanese projects at about 32.8 billion baht (~RMB 6.6 billion). Japan's cumulative FDI stock in Thailand remains top, but the order of new flows has inverted. For observers who welded the "Japanese-car kingdom" label onto Thailand, this is a belated reminder: shifts in industrial structure often begin with increments, not stocks.
 
 ## Where Chinese capital bets
 

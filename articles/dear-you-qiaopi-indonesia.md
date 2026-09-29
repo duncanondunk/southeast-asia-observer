@@ -36,7 +36,7 @@
 
 # When "silver letters" echo in Jakarta: why a Teochew-dialect film moves Indonesia's Chinese
 
-On 7 August 2026, the Teochew-dialect film Dear You (《给阿嬷的情书》) officially premiered in Indonesia. Multiple Indonesian Chinese associations, chambers of commerce, overseas-Chinese organizations and Chinese-invested enterprises organized charitable group screenings; ethnic Chinese, students and Chinese-company staff revisited the "going to Nanyang" (down-south-sea) past in familiar dialect and hometown sentiment. Why would a film about 1940s Teochew migrants in Thailand move today's Indonesian Chinese to tears? The answer lies in two characters: qiaopi.
+On 7 August 2026, the Teochew-dialect film *Dear You* officially premiered in Indonesia. Multiple Indonesian Chinese associations, chambers of commerce, overseas-Chinese organizations and Chinese-invested enterprises organized charitable group screenings; ethnic Chinese, students and Chinese-company staff revisited the "going to Nanyang" (down-south-sea) past in familiar dialect and hometown sentiment. Why would a film about 1940s Teochew migrants in Thailand move today's Indonesian Chinese to tears? The answer lies in two characters: qiaopi.
 
 ## A "love letter" delayed by decades
 
@@ -64,6 +64,6 @@ This resonates intriguingly with the "taking root locally" identity revealed in 
 
 **Going to Nanyang**: The historical wave of migration from southern China (especially Fujian, Teochew and Hakka communities) to Southeast Asia, forming the main source of today's Southeast Asian Chinese diaspora.
 
-**Lan Hongchun**: A Chinese director from Teochew; Dear You (《给阿嬷的情书》) is the finale of his "Teochew trilogy," based on true qiaopi stories and released in 2026 as a breakout Mandarin-language film.
+**Lan Hongchun**: A Chinese director from Teochew; ***Dear You*** is the finale of his "Teochew trilogy," based on true qiaopi stories and released in 2026 as a breakout Mandarin-language film.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) / China News Service — "'Dear You' premieres in Indonesia; Chinese associations book charitable screenings".*

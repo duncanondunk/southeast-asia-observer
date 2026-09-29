@@ -66,7 +66,7 @@ Unlike their parents, who preserved culture "to get by," the new generation enga
 
 In Myanmar, unstable networks and scarce printed materials are the norm for Chinese schools. Open-source lessons, offline character libraries and pronunciation apps let remote schools run standard classes. Digital tools do not replace teachers; they deliver good content to corners otherwise unreached. That is precisely the direction Yang is exploring.
 
-## The Soft Backing of China's Diaspora Policy
+## The Soft Backing of China's diaspora policy
 
 Beijing lists support for overseas Chinese education as a diaspora priority. From the "Chinese Culture Carnival" to "Root-Seekers" camps, from teacher training to textbook donations, the means are cultural rather than political. Such soft investment seeks no instant return; it sustains the emotional tie between ethnic Chinese abroad and their ancestral land—and Yang's effort is a spontaneous echo at the edge of that network.
 
@@ -84,6 +84,6 @@ One person's code will not fix a generation's language fate, but the direction Y
 
 **Root-Seekers Summer Camp**: Run by the All-China Federation of Returned Overseas Chinese, the "Charming China · Root-Seekers" camps bring young overseas Chinese to China to strengthen cultural identity.
 
-**Diaspora Policy**: Beijing lists protecting overseas Chinese rights and supporting Chinese-medium education as priorities, sustaining ties with ethnic Chinese abroad through soft, cultural means.
+**diaspora policy**: Beijing lists protecting overseas Chinese rights and supporting Chinese-medium education as priorities, sustaining ties with ethnic Chinese abroad through soft, cultural means.
 
 *Topic reference: China Qiaowang reporting on ethnic Chinese youth in Myanmar leveraging coding for Chinese-medium education, among others.*

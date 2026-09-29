@@ -34,7 +34,7 @@
 
 **中柬关系（China–Cambodia Relations）**：两国自1958年建交，近年被双方概括为"铁杆友谊"，节庆外交是其民间层面的延伸。
 
-*Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "2026中柬中秋联欢晚会在金边举办".*
+*话题参考：中国侨网（chinaqw.com）每周热点——《2026中柬中秋联欢晚会在金边举办》。*
 
 ===EN===
 

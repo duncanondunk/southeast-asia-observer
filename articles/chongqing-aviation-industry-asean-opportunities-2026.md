@@ -52,6 +52,8 @@
 
 **西部陆海新通道（New Western Land–Sea Corridor）**：由重庆牵头的多式联运国际物流通道，连接中国西部与东盟，是重庆对接东盟的"开放骨架"，也是本次航空产业清单的联运依托。
 
+*话题参考：中国侨网（chinaqw.com）每周热点——《重庆面向新加坡等东盟国家发布75个航空产业合作机会》。*
+
 ===EN===
 
 # Chongqing Unveils 75 Aviation Industry Opportunities for Singapore and ASEAN

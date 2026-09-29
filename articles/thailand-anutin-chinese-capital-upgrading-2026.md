@@ -1,18 +1,18 @@
 # 阿努廷执政周年：泰国转向中国资本求解增长焦虑
 
-2026年9月7日，泰国总理阿努廷迎来执政一周年。按惯例，周年讲话多谈政绩；但今年外界更在意的是一组刺眼的数字：泰国把全年经济增长目标定在百分之三以上，可2026年第二季度的实际国内生产总值（GDP）同比仅增百分之一点九，比一季度还回落零点九个百分点，在东南亚主要经济体里几乎垫底。阿努廷政府没有回避问题，反而把答案押在了一个方向上——引进中国资本。据日经亚洲（Nikkei Asia）报道，出于对半导体等尖端产业落后的焦虑，泰国正日益将经济复苏的希望寄托于中资。
+2026年9月7日，泰国总理阿努廷迎来执政一周年。按惯例，周年讲话多谈政绩；但今年外界更在意的是一组刺眼的数字：泰国把全年经济增长目标定在3%以上，可2026年第二季度的实际国内生产总值（GDP）同比仅增1.9%，比一季度还回落0.9个百分点，在东南亚主要经济体里几乎垫底。阿努廷政府没有回避问题，反而把答案押在了一个方向上——引进中国资本。据日经亚洲（Nikkei Asia）报道，出于对半导体等尖端产业落后的焦虑，泰国正日益将经济复苏的希望寄托于中资。
 
 ## 数字：被邻居甩开的增速
 
-把泰国放进区域坐标系里看，落差更明显。同为上世纪八十年代后起飞的新加坡和马来西亚，靠半导体与数字产业吸纳人工智能（AI）需求，2026年同期增速分别达百分之五点九和百分之六点零；而泰国只有百分之一点九。泰国并非没有高端制造，英伟达（Nvidia）的供应商台达电子（Delta Electronics）就在当地设厂，但政府官员也承认，由于泰国对中间产品进口依赖度高，这类企业的本土拉动效应相当有限。换句话说，别人吃到了智能化红利，泰国却还停在组装和代工的旧赛道。
+把泰国放进区域坐标系里看，落差更明显。同为上世纪八十年代后起飞的新加坡和马来西亚，靠半导体与数字产业吸纳人工智能（AI）需求，2026年同期增速分别达5.9%和6%；而泰国只有1.9%。泰国并非没有高端制造，英伟达（Nvidia）的供应商台达电子（Delta Electronics）就在当地设厂，但政府官员也承认，由于泰国对中间产品进口依赖度高，这类企业的本土拉动效应相当有限。换句话说，别人吃到了智能化红利，泰国却还停在组装和代工的旧赛道。
 
 ## 从丰田到小米：两代外资的接力
 
-泰国与外资的缘分，最早写在上世纪八十年代。彼时丰田（Toyota）等日本企业大举涌入，带来了技术转移、就业和产业化的模板，也让泰国落下"对日友好"的标签。四十年后，剧本换了主角。阿努廷7月访华，与中国领导人会谈、出席世界人工智能大会（WAIC），并与小米（Xiaomi）等中国企业高管会面，当场拿下总计七百亿泰铢（约一百四十亿元人民币）的投资承诺。曾几何时，是日本车企定义泰国的制造能力；如今，是中国科技与新能源企业被视为产业升级的突破口。
+泰国与外资的缘分，最早写在上世纪八十年代。彼时丰田（Toyota）等日本企业大举涌入，带来了技术转移、就业和产业化的模板，也让泰国落下"对日友好"的标签。四十年后，剧本换了主角。阿努廷7月访华，与中国领导人会谈、出席世界人工智能大会（WAIC），并与小米（Xiaomi）等中国企业高管会面，当场拿下总计700亿泰铢（约一140亿元人民币）的投资承诺。曾几何时，是日本车企定义泰国的制造能力；如今，是中国科技与新能源企业被视为产业升级的突破口。
 
-## 七百亿泰铢承诺背后的算盘
+## 700亿泰铢承诺背后的算盘
 
-这七百亿泰铢不是小数目。泰国财政部部长艾尼迪（Ekniti Nitithanprapas）公开表态，期待"中国新一轮投资浪潮"带动人工智能、机器人等产业的升级。数据也撑得起这份期待：2025年泰国吸收的中国直接投资同比增长百分之十四，达到一千九百八十一亿泰铢（约三百九十六亿元人民币）的历史新高。对增长乏力、家庭债务高企、又急于摆脱"中等收入陷阱"的泰国而言，中资既是增量资本，也是技术叙事的载体。
+这700亿泰铢不是小数目。泰国财政部部长艾尼迪（Ekniti Nitithanprapas）公开表态，期待"中国新一轮投资浪潮"带动人工智能、机器人等产业的升级。数据也撑得起这份期待：2025年泰国吸收的中国直接投资同比增长14%，达到1981亿泰铢（约396亿元人民币）的历史新高。对增长乏力、家庭债务高企、又急于摆脱"中等收入陷阱"的泰国而言，中资既是增量资本，也是技术叙事的载体。
 
 ## 本地化难题：技术转移为何失灵
 
@@ -28,13 +28,15 @@
 
 ## 结语：中国资本能否真正落地
 
-泰国把增长的故事讲给中国听，中国资本也乐于在东南亚寻找新市场与新产能。但观察泰国历次"外资救国"的循环，真正决定成败的从来不是承诺金额的大小，而是本土产业能否借此长出筋骨。阿努廷的七百亿泰铢豪赌，是这一轮循环的起点；它究竟是泰国产业升级的跳板，还是又一次漂亮的财务账本，时间会给出答案。
+泰国把增长的故事讲给中国听，中国资本也乐于在东南亚寻找新市场与新产能。但观察泰国历次"外资救国"的循环，真正决定成败的从来不是承诺金额的大小，而是本土产业能否借此长出筋骨。阿努廷的700亿泰铢豪赌，是这一轮循环的起点；它究竟是泰国产业升级的跳板，还是又一次漂亮的财务账本，时间会给出答案。
 
 ## 延伸阅读
 
-- **东部经济走廊（EEC）**：泰国在东部春武里、罗勇、北柳三府划设的经济特区，重点承接高端制造、数字与新能源投资，是中资与日资企业聚集的核心地带。
-- **中等收入陷阱（Middle-Income Trap）**：指一国人均收入达到中等水平后，因成本优势丧失、创新不足而长期增长停滞的现象；泰国被学界视为典型样本。
-- **外商直接投资（FDI）**：指境外资本在一国设厂、并购或持股以获取长期经营收益的投资，是泰国平衡增长与产业升级的关键变量。
+**东部经济走廊（EEC）**：泰国在东部春武里、罗勇、北柳三府划设的经济特区，重点承接高端制造、数字与新能源投资，是中资与日资企业聚集的核心地带。
+**中等收入陷阱（Middle-Income Trap）**：指一国人均收入达到中等水平后，因成本优势丧失、创新不足而长期增长停滞的现象；泰国被学界视为典型样本。
+**外商直接投资（FDI）**：指境外资本在一国设厂、并购或持股以获取长期经营收益的投资，是泰国平衡增长与产业升级的关键变量。
+
+*话题参考：日经亚洲（Nikkei Asia, asia.nikkei.com）东南亚报道《阿努廷执政一年：优先引入中资以托举增长》。*
 
 ===EN===
 
@@ -72,8 +74,8 @@ Thailand is telling China a growth story, and Chinese capital is only too willin
 
 ## Further reading
 
-- **Eastern Economic Corridor (EEC):** Thailand's special economic zone covering Chonburi, Rayong and Chachoengsao, designed to attract high-end manufacturing, digital and new-energy investment, and the main gathering ground for Chinese and Japanese firms.
-- **Middle-Income Trap:** The phenomenon whereby a country, having reached middle-income status, stagnates for lack of cost advantage and insufficient innovation; Thailand is a textbook case in the literature.
-- **Foreign Direct Investment (FDI):** Capital from abroad used to build plants, acquire or take stakes in domestic firms for long-term returns — the key variable in Thailand's bid to balance growth and upgrading.
+**Eastern Economic Corridor (EEC):** Thailand's special economic zone covering Chonburi, Rayong and Chachoengsao, designed to attract high-end manufacturing, digital and new-energy investment, and the main gathering ground for Chinese and Japanese firms.
+**Middle-Income Trap:** The phenomenon whereby a country, having reached middle-income status, stagnates for lack of cost advantage and insufficient innovation; Thailand is a textbook case in the literature.
+**Foreign Direct Investment (FDI):** Capital from abroad used to build plants, acquire or take stakes in domestic firms for long-term returns — the key variable in Thailand's bid to balance growth and upgrading.
 
 *Topic reference: "Nikkei Asia" (asia.nikkei.com) Southeast Asia — "Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth".*

@@ -26,9 +26,9 @@
 
 ## 延伸阅读
 
-- **小型核电站（Small Modular Reactor, SMR）**：模块化小型反应堆，因造价低、部署灵活而受俄等国的出口推介；缅甸与俄讨论的即为此类技术。
-- **军事合作协议（Military cooperation agreement）**：国家间就联合军演、装备采购与人员培训等达成的框架性安排；2026年2月俄乌签署的五年协议即属此类。
-- **国际制裁（International sanctions）**：西方在2021年缅甸政变后对该国军方实施的经济与武器禁运，俄罗斯是少数持续提供支持的外部力量。
+**小型核电站（Small Modular Reactor, SMR）**：模块化小型反应堆，因造价低、部署灵活而受俄等国的出口推介；缅甸与俄讨论的即为此类技术。
+**军事合作协议（Military cooperation agreement）**：国家间就联合军演、装备采购与人员培训等达成的框架性安排；2026年2月俄乌签署的五年协议即属此类。
+**国际制裁（International sanctions）**：西方在2021年缅甸政变后对该国军方实施的经济与武器禁运，俄罗斯是少数持续提供支持的外部力量。
 
 *话题参考：联合早报《敏昂莱会见普京 称缅甸是俄罗斯在东南亚可靠伙伴》（2026-08-18）*
 
@@ -62,8 +62,8 @@ The Myanmar junta, in turn, converts its geopolitical predicament into bargainin
 
 ## Further reading
 
-- **Small Modular Reactor (SMR)**: a compact, modular nuclear reactor promoted for its lower cost and flexible deployment; the technology Moscow discussed supplying to Myanmar.
-- **Military cooperation agreement**: a framework arrangement between states covering joint exercises, equipment procurement and personnel training; the five-year Russia–Myanmar pact signed in February 2026 is one such example.
-- **International sanctions**: the economic and arms embargoes Western states imposed on Myanmar's military after the 2021 coup; Russia is among the few external powers that kept backing the junta.
+**Small Modular Reactor (SMR)**: a compact, modular nuclear reactor promoted for its lower cost and flexible deployment; the technology Moscow discussed supplying to Myanmar.
+**Military cooperation agreement**: a framework arrangement between states covering joint exercises, equipment procurement and personnel training; the five-year Russia–Myanmar pact signed in February 2026 is one such example.
+**International sanctions**: the economic and arms embargoes Western states imposed on Myanmar's military after the 2021 coup; Russia is among the few external powers that kept backing the junta.
 
 *Topic reference: Lianhe Zaobao, "Min Aung Hlaing meets Putin, calls Myanmar Russia's reliable partner in SEA" (2026-08-18)*

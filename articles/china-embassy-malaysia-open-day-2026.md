@@ -1,6 +1,6 @@
 # 使馆开门迎客：北京对东南亚青年的温和外交攻势
 
-2026年9月15日，中国驻马来西亚大使馆做了一件使馆鲜少做的事：把大门向约八十名马来西亚大中学生敞开。活动以中秋节为名，但其编排透露出更大的图谋。在大国竞争日益转向争夺年轻人注意力的当下，这座地处东南亚心脏的外交机构，在一下午里同时变成了教室、文化沙龙与中国科技的展示厅。
+2026年9月15日，中国驻马来西亚大使馆做了一件使馆鲜少做的事：把大门向约80名马来西亚大中学生敞开。活动以中秋节为名，但其编排透露出更大的图谋。在大国竞争日益转向争夺年轻人注意力的当下，这座地处东南亚心脏的外交机构，在一下午里同时变成了教室、文化沙龙与中国科技的展示厅。
 
 ## 短暂打开的一扇门
 
@@ -28,15 +28,15 @@
 
 ## 姿态的边界
 
-但我们也应把这场姿态放在恰当的比例里。八十名学生是一个象征，而非结构性的转向。马来西亚自身的族群政治意味着，对华裔青年的高调接触，可能被一部分人解读为干涉——这是北京此前也曾踩过的敏感点。而开放日再温暖，也无法单凭自身推动贸易、化解争端或赢得政策。它的价值在于氛围：为更硬的国家行为，在危机时刻储备一笔善意。
+但我们也应把这场姿态放在恰当的比例里。80名学生是一个象征，而非结构性的转向。马来西亚自身的族群政治意味着，对华裔青年的高调接触，可能被一部分人解读为干涉——这是北京此前也曾踩过的敏感点。而开放日再温暖，也无法单凭自身推动贸易、化解争端或赢得政策。它的价值在于氛围：为更硬的国家行为，在危机时刻储备一笔善意。
 
 吉隆坡的使馆开放日很小。但若把它放在北京在整个区域更大的侨务与公共外交推进中来看，它标示着外交如何被重新接地——不只发生在首都与峰会厅，也发生在教室与文化室里，一块月饼一块月饼地积累。对东南亚未来的争夺，将更少由宏大的宣言赢得，而由谁持续地、为它的青年"出现"来赢得。
 
 ## 延伸阅读
 
-- **公共外交（Public Diplomacy）**：国家运用文化与信息手段塑造外国公众认知的实践，区别于传统的国家间外交，重在争取民心而非仅达成协议。
-- **软实力（Soft Power）**：由约瑟夫·奈提出，指以吸引与同化而非强制取胜的能力；本文体现为文化与科技两条线的运用。
-- **马来西亚华裔（Ethnic Chinese in Malaysia）**：约占人口两成三的少数族裔，长期充当马来西亚与中国之间经济与文化联系的桥梁，也是公共外交的关键受众。
+**公共外交（Public Diplomacy）**：国家运用文化与信息手段塑造外国公众认知的实践，区别于传统的国家间外交，重在争取民心而非仅达成协议。
+**软实力（Soft Power）**：由约瑟夫·奈提出，指以吸引与同化而非强制取胜的能力；本文体现为文化与科技两条线的运用。
+**马来西亚华裔（Ethnic Chinese in Malaysia）**：约占人口两成三的少数族裔，长期充当马来西亚与中国之间经济与文化联系的桥梁，也是公共外交的关键受众。
 
 *话题参考："中国侨网"（chinaqw.com）每周热点 — "中国驻马来西亚使馆举办使馆开放日活动"。*
 
@@ -78,8 +78,8 @@ The embassy open day in Kuala Lumpur was small. But read alongside Beijing's bro
 
 ## Further reading
 
-- **Public diplomacy**: The use of cultural and informational tools by states to shape foreign publics' perceptions — distinct from traditional state-to-state diplomacy, it aims to win minds rather than merely strike deals.
-- **Soft power**: Coined by Joseph Nye, the ability to attract and co-opt rather than coerce; here exercised along both a cultural line and a technological one.
-- **Ethnic Chinese in Malaysia**: A minority of roughly 23 per cent of the population that has long mediated Malaysia's economic and cultural ties with China, and a key audience for public diplomacy.
+**Public diplomacy**: The use of cultural and informational tools by states to shape foreign publics' perceptions — distinct from traditional state-to-state diplomacy, it aims to win minds rather than merely strike deals.
+**Soft power**: Coined by Joseph Nye, the ability to attract and co-opt rather than coerce; here exercised along both a cultural line and a technological one.
+**Ethnic Chinese in Malaysia**: A minority of roughly 23 per cent of the population that has long mediated Malaysia's economic and cultural ties with China, and a key audience for public diplomacy.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "中国驻马来西亚使馆举办使馆开放日活动".*

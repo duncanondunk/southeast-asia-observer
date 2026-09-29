@@ -8,7 +8,7 @@
 
 ## 数字：被低估的致命温度
 
-别被"气温三十八度"这种日常表述骗了。真正决定人能否扛住的，是"湿球温度"（人体在湿热环境中散热能力的指标），学界普遍认为约 35°C 湿球已逼近人类持续生存的生理上限。而东南亚近年正在把这条红线一次次逼到眼前：2023 年，老挝录得 44.2°C 的全国最高气温，泰国多地突破 45°C，越南达到 44.1°C，菲律宾的"体感温度"更一度超过 53°C。国际劳工组织（International Labour Organization）估算，到 2030 年，全球因高温造成的劳动生产力损失或达 2.4 万亿美元（约 17 万亿元人民币），其中亚太占比最大。换句话说，热不是"天气问题"，而是一本正在被悄悄透支的账。
+别被"气温三十八度"这种日常表述骗了。真正决定人能否扛住的，是"湿球温度"（人体在湿热环境中散热能力的指标），学界普遍认为约 35°C 湿球已逼近人类持续生存的生理上限。而东南亚近年正在把这条红线一次次逼到眼前：2023年，老挝录得 44.2°C 的全国最高气温，泰国多地突破 45°C，越南达到 44.1°C，菲律宾的"体感温度"更一度超过 53°C。国际劳工组织（International Labour Organization）估算，到 2030年，全球因高温造成的劳动生产力损失或达 2.4万亿美元（约 17万亿元人民币），其中亚太占比最大。换句话说，热不是"天气问题"，而是一本正在被悄悄透支的账。
 
 ## 缺口：城市有预案，工人没有
 
@@ -24,7 +24,7 @@
 
 ## 他山之石：从"高温津贴"到"湿球红线"
 
-办法不是没有。泰国早在 2018 年就出台了涉及职业场所高温健康的部长级规定；卡塔尔在世界杯前后，把建筑工地的高温作息与"湿球温度"监测推到了全球视野；印度部分邦也已在极端高温时段强制停工。可借鉴的路径很清楚：把"湿球温度"设成一条不能碰的"红线"，超线即强制休息与补水，并把"高温津贴"从企业自愿变成法律强制。技术不复杂，难的是愿不愿意把人放在利润前面。
+办法不是没有。泰国早在 2018年就出台了涉及职业场所高温健康的部长级规定；卡塔尔在世界杯前后，把建筑工地的高温作息与"湿球温度"监测推到了全球视野；印度部分邦也已在极端高温时段强制停工。可借鉴的路径很清楚：把"湿球温度"设成一条不能碰的"红线"，超线即强制休息与补水，并把"高温津贴"从企业自愿变成法律强制。技术不复杂，难的是愿不愿意把人放在利润前面。
 
 ## 区域镜鉴：东南亚能否先立规矩
 
@@ -56,7 +56,7 @@ On a Jakarta construction site, at a Ho Chi Minh City delivery hub, on the docks
 
 ## The numbers: the underestimated lethal temperature
 
-Do not be lulled by the everyday phrase "38 degrees." What decides whether a body can cope is the wet-bulb temperature — a measure of how well a person can shed heat in hot, humid air — and around 35°C wet-bulb is widely treated as the physiological ceiling for sustained survival. Southeast Asia keeps pushing that line into view: in 2023 Laos recorded a national high of 44.2°C, Thailand topped 45°C in several provinces, Vietnam reached 44.1°C, and the Philippines reported a heat index above 53°C. The International Labour Organization estimates that by 2030, heat stress could cost the world some US$2.4 trillion (~S$3.1 billion equivalent in regional terms, roughly US$2.4tn globally) in lost labour productivity, with Asia-Pacific the largest share. Heat, in other words, is not "weather." It is a ledger being quietly overdrafted.
+Do not be lulled by the everyday phrase "38 degrees." What decides whether a body can cope is the wet-bulb temperature — a measure of how well a person can shed heat in hot, humid air — and around 35°C wet-bulb is widely treated as the physiological ceiling for sustained survival. Southeast Asia keeps pushing that line into view: in 2023 Laos recorded a national high of 44.2°C, Thailand topped 45°C in several provinces, Vietnam reached 44.1°C, and the Philippines reported a heat index above 53°C. The International Labour Organization estimates that by 2030, heat stress could cost the world some US$2.4 trillion (about S$3.2 trillion) in lost labour productivity, with Asia-Pacific the largest share. Heat, in other words, is not "weather." It is a ledger being quietly overdrafted.
 
 ## The gap: cities have plans, workers do not
 
