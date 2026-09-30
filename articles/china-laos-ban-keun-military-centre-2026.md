@@ -28,9 +28,13 @@
 
 ## 延伸阅读
 
-- **一带一路（Belt and Road Initiative）**：中国的跨国基础设施与投资战略，中老铁路即其在大陆东南亚的旗舰项目。
-- **陆联国战略（Land-linked strategy）**：老挝将"陆锁"地理转化为联通中国、泰国乃至更远市场的枢纽的国家方略。
-- **云壤海军基地（Ream Naval Base）**：柬埔寨海岸设施，经中方出资扩建，现设中柬联合保障与训练中心。
+**一带一路（Belt and Road Initiative）**：中国的跨国基础设施与投资战略，中老铁路即其在大陆东南亚的旗舰项目。
+
+**陆联国战略（Land-linked strategy）**：老挝将“陆锁”地理转化为联通中国、泰国乃至更远市场的枢纽的国家方略。
+
+**云壤海军基地（Ream Naval Base）**：柬埔寨海岸设施，经中方出资扩建，现设中柬联合保障与训练中心。
+
+*话题参考：联合早报（zaobao.com）东南亚新闻《中国在老挝开设军事保障与训练中心》。*
 
 ===EN===
 
@@ -64,8 +68,10 @@ Washington, predictably, has voiced concern about China's expanding military pre
 
 ## Further reading
 
-- **Belt and Road Initiative (一带一路)**: China's transnational infrastructure and investment strategy, of which the China–Laos Railway is the flagship mainland-Southeast-Asia project.
-- **Land-linked strategy (陆联国战略)**: Laos's national doctrine of converting its landlocked geography into a transit hub connecting China, Thailand and beyond.
-- **Ream Naval Base (云壤海军基地)**: Cambodia's coastal facility expanded with Chinese funding, now hosting a China–Cambodia joint support and training centre.
+**Belt and Road Initiative**: China's transnational infrastructure and investment strategy, of which the China–Laos Railway is the flagship mainland-Southeast-Asia project.
+
+**Land-linked strategy**: Laos's national doctrine of converting its landlocked geography into a transit hub connecting China, Thailand and beyond.
+
+**Ream Naval Base**: Cambodia's coastal facility expanded with Chinese funding, now hosting a China–Cambodia joint support and training centre.
 
 *Topic reference: "Lianhe Zaobao" (zaobao.com) Southeast Asia news — "中国在老挝开设军事保障与训练中心".*
