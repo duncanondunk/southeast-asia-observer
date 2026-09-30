@@ -1,5 +1,64 @@
 [
   {
+    "slug": "china-asean-audiovisual-week-2026",
+    "title": "第八届中国—东盟视听周：让屏幕成为“民相亲”的日常纽带",
+    "subtitle": "以“人工智能赋能、共创共享”为主题，六大活动把近700部互播节目做成民间相知相亲的日常载体",
+    "category": "社会文化",
+    "tags": [
+      "中国—东盟",
+      "文化交流",
+      "软实力",
+      "影视",
+      "广西",
+      "人工智能"
+    ],
+    "country": "中国",
+    "date": "2026-09-30",
+    "readingTime": 8,
+    "featured": false,
+    "image": "images/articles/china-asean-audiovisual-week-2026.jpg",
+    "imageCredit": "Pexels — photo 7991266",
+    "imageAccessed": "2026-09-30",
+    "imageAlt": "影院里观众凝视银幕的瞬间，喻指视听内容成为民间相知相亲的纽带。",
+    "summary": "第八届中国—东盟视听周10月19日在广西北海开幕，以“人工智能赋能、共创共享”为主题，推出六大活动。自2019年创办，该机制已推动近700部双方节目互译互播。本文认为，当屏幕成为民间相知相亲的日常载体，中国软实力正从宏大叙事转向“说小事、通民心”，人工智能把跨境内容合作从展示推向产业协同。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "中国—东盟视听周增进双方民众相知相亲",
+        "url": "https://www.chinaqw.com/qx/2026/09-29/412195.shtml",
+        "date": "2026-09-29"
+      },
+      {
+        "source": "中国侨网",
+        "title": "第八届中国—东盟视听周六大活动将深化双边人文交流",
+        "url": "https://www.chinaqw.com/jjkj/2026/09-29/412193.shtml",
+        "date": "2026-09-29"
+      }
+    ],
+    "en": {
+      "title": "The 8th China–ASEAN Audio-Visual Week: Screens as an Everyday Thread of People-to-People Bonds",
+      "subtitle": "Under the theme 'AI Empowered, Co-created and Shared,' six events turn nearly 700 co-broadcast titles into an everyday vehicle of people-to-people bonds.",
+      "category": "Society & Culture",
+      "country": "China",
+      "summary": "The 8th China–ASEAN Audio-Visual Week opens on 19 October 2026 in Beihai, Guangxi, under the theme 'AI Empowered, Co-created and Shared,' with six events including the first China–ASEAN micro-drama contest and a youth anchor camp covering all 11 ASEAN countries. Since 2019 the platform has exchanged nearly 700 audiovisual titles across both sides. This commentary argues that as screens become an everyday vehicle for people-to-people bonds, China's soft power is shifting from grand narrative to the finer craft of telling small, relatable stories — with AI now pushing cross-border content cooperation from showcase toward industry synergy.",
+      "imageAlt": "Audiences in a cinema gazing at the screen — a metaphor for audiovisual content as a thread of people-to-people bonds.",
+      "references": [
+        {
+          "source": "China Qiaowang (chinaqw.com)",
+          "title": "China–ASEAN Audio-Visual Week Brings Peoples of Both Sides Closer",
+          "url": "https://www.chinaqw.com/qx/2026/09-29/412195.shtml",
+          "date": "2026-09-29"
+        },
+        {
+          "source": "China Qiaowang (chinaqw.com)",
+          "title": "Six Events at the 8th China–ASEAN Audio-Visual Week to Deepen Bilateral People-to-People Exchange",
+          "url": "https://www.chinaqw.com/jjkj/2026/09-29/412193.shtml",
+          "date": "2026-09-29"
+        }
+      ]
+    }
+  },
+  {
     "slug": "chongqing-aviation-industry-asean-opportunities-2026",
     "title": "重庆面向新加坡等东盟国家发布75个航空产业合作机会",
     "subtitle": "中新（重庆）互联互通项目首度把航空产业做成“机会清单”，渝新合作从金融物流走向天空",
