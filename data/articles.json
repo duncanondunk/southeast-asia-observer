@@ -1,5 +1,65 @@
 [
   {
+    "slug": "china-laos-ban-keun-military-centre-2026",
+    "title": "中国在老挝开设军事训练中心：安全存在从铁路延伸到天空",
+    "subtitle": "班根机场联合保障与训练中心及中老友谊航空学院正式运行，标志北京把安全合作从经济走廊推向天空",
+    "category": "地缘政治",
+    "tags": [
+      "老挝",
+      "中国",
+      "军事合作",
+      "地缘政治",
+      "一带一路",
+      "东南亚",
+      "中老关系"
+    ],
+    "country": "老挝",
+    "date": "2026-09-30",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/china-laos-ban-keun-military-centre-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-09-30",
+    "imageAlt": "老挝万象凯旋门一带的城市景观",
+    "summary": "中国在老挝班根机场启用中老联合保障与训练中心与中老友谊航空学院，意在帮老挝建立空军飞行员培训体系。这是继柬埔寨云壤、吉布提之后，中国安全存在首次深入中南半岛腹地，与铁路经济带形成海陆空配套，也令东盟'中心性'与战略自主再受考验。",
+    "en": {
+      "title": "China Opens a Military Training Centre in Laos — Quietly Extending Its Security Footprint Inland",
+      "subtitle": "The China–Laos Joint Support and Training Centre and Friendship Aviation Academy at Ban Keun airport mark Beijing's shift from building economic corridors to anchoring air and ground security cooperation.",
+      "category": "Geopolitics",
+      "country": "Laos",
+      "summary": "China has activated a joint support and training centre and a friendship aviation academy at Ban Keun airport in Laos, aimed at building the Lao Air Force's pilot-training system. Together with the Ream base in Cambodia and the Djibouti logistics base, it extends China's security footprint into the heart of the Indochina peninsula, pairing with the railway economic belt and testing ASEAN's claimed centrality and strategic autonomy.",
+      "imageAlt": "Patuxai monument, a Vientiane landmark in Laos",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (联合早报)",
+          "title": "China opens military support and training centre in Laos",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260929-9757239",
+          "date": "2026-09-29"
+        },
+        {
+          "source": "China Ministry of National Defense",
+          "title": "China–Laos Joint Support and Training Centre and Friendship Aviation Academy officially operational",
+          "url": "https://www.mod.gov.cn/gfbw/qwfb/16490186.html",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "中国在老挝开设军事保障与训练中心",
+        "url": "https://www.zaobao.com.sg/news/sea/story20260929-9757239",
+        "date": "2026-09-29"
+      },
+      {
+        "source": "中国国防部",
+        "title": "中老两军班根机场联合保障和训练中心、中老友谊航空学院正式挂牌运行",
+        "url": "https://www.mod.gov.cn/gfbw/qwfb/16490186.html",
+        "date": "2026-09-29"
+      }
+    ]
+  },
+  {
     "slug": "china-asean-audiovisual-week-2026",
     "title": "第八届中国—东盟视听周：让屏幕成为“民相亲”的日常纽带",
     "subtitle": "以“人工智能赋能、共创共享”为主题，六大活动把近700部互播节目做成民间相知相亲的日常载体",
