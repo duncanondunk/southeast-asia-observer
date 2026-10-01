@@ -40,7 +40,7 @@
 
 **地面沉降（Land Subsidence）**：因超采地下水与城市荷载导致的地表下沉，曼谷每年下沉数毫米，是其"易涝体质"的结构性根源。
 
-*话题参考：「日经亚洲」（asia.nikkei.com）东南亚版 — "Thai floods paralyse Bangkok, damage seen topping US$320m"（2026年9月）。*
+*话题参考：「日经亚洲（Nikkei Asia）」（asia.nikkei.com）东南亚版 — "Thai floods paralyse Bangkok, damage seen topping US$320m"（2026年9月）。*
 
 ===EN===
 
