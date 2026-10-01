@@ -1,5 +1,68 @@
 [
   {
+    "slug": "thailand-september-floods-2026",
+    "title": "曼谷又淹了：一场“洪灾假日”照出的，是中等收入国家的治水无力",
+    "subtitle": "2026年9月下旬，曼谷三日降下约一个月的雨量，41个府受灾、8人遇难；政府宣布两天“洪灾假日”。这座下沉中的超级都市，再次被水按下了暂停键。",
+    "category": "气候变化",
+    "tags": [
+      "泰国",
+      "气候变化",
+      "灾害",
+      "经济",
+      "城市",
+      "东南亚",
+      "基础设施",
+      "旅游业",
+      "供应链",
+      "日本"
+    ],
+    "country": "泰国",
+    "date": "2026-10-01",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/thailand-september-floods-2026.jpg",
+    "imageCredit": "Pexels — photo 32658709",
+    "imageAccessed": "2026-10-01",
+    "imageAlt": "曼谷街头积水过膝，市民涉水前行，城市在季风洪水中暂停",
+    "summary": "2026年9月下旬，曼谷三日降下约一个月的雨量，泰国41个府受灾、至少8人遇难、180余万人受影响，经济损失超110亿泰铢（约23亿元人民币）。政府宣布两天“洪灾假日”，暴露出这座下沉中的超级都市在气候与治理双重压力下的脆弱。",
+    "en": {
+      "title": "Bangkok Underwater Again: A 'Flood Holiday' That Exposes a Middle-Income Nation's Powerlessness Over Water",
+      "subtitle": "In late September 2026, Bangkok took a month's rain in three days; 41 provinces were hit and eight people died. The government declared a two-day 'flood holiday.' A sinking megacity, once more, was paused by water.",
+      "category": "Climate Change",
+      "country": "Thailand",
+      "summary": "In late September 2026, Bangkok took a month's rain in three days. Across Thailand, 41 provinces were hit, at least eight people died, and more than 1.8 million were affected, with damage exceeding 11 billion baht (about US$327 million). A two-day 'flood holiday' exposed the fragility of a sinking megacity under converging climate and governance pressures.",
+      "imageAlt": "Bangkok street flooded knee-deep, residents wading, the city paused by monsoon floods",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Thai floods paralyse Bangkok, damage seen topping US$320m",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-09-29"
+        },
+        {
+          "source": "The Japan Times",
+          "title": "Southeast Asia — Thailand floods coverage (Sep 2026)",
+          "url": "https://www.japantimes.co.jp/tag/southeast-asia/",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Thai floods paralyse Bangkok, damage seen topping US$320m",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-29"
+      },
+      {
+        "source": "The Japan Times",
+        "title": "Southeast Asia — Thailand floods coverage (Sep 2026)",
+        "url": "https://www.japantimes.co.jp/tag/southeast-asia/",
+        "date": "2026-09-29"
+      }
+    ]
+  },
+  {
     "slug": "indonesia-2027-budget-growth-target-2026",
     "title": "印尼2027财年锚定6%增长：十五年来最猛一脚油门，钱从哪来？",
     "subtitle": "印尼国会通过2027财年预算，把经济增长目标抬到6%，为2012年以来最高。雄心背后，是逼近3%红线的财政赤字、被现实打脸的油价与汇率假设，以及免费餐与国企投资两条难走的路。",
