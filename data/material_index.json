@@ -1456,6 +1456,13 @@
       "slugs": [
         "china-laos-ban-keun-military-centre-2026"
       ]
+    },
+    "event:中老铁路磨丁至万象城际列车首发(2026-09)": {
+      "note": "全新素材（中国侨网/人民日报，2026-09-30）：中老铁路老挝段磨丁至万象城际列车C95/C96首发，串六站、北部省份当天往返首都；与既有 event:中国在老挝开设军事保障与训练中心(2026-09)（安全合作，不同维度）区分，本文聚焦铁路客运成网与老挝陆锁转陆联。",
+      "exception": null,
+      "slugs": [
+        "china-laos-railway-boten-vientiane-intercity-2026"
+      ]
     }
   }
 }
