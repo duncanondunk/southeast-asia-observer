@@ -1477,6 +1477,13 @@
       "slugs": [
         "thailand-september-floods-2026"
       ]
+    },
+    "event:东南亚银发经济崛起(辅助生活/医疗旅游,2026-09)": {
+      "note": "全新素材（南华早报，article 3366402，2026-09-05，Kolette Lim 等）：东南亚银发经济/辅助生活产业崛起，新加坡跨入超老龄社会、泰国医疗旅游分羹；与既有 malaysia-ageing-over-60-still-working-2026（老年人仍就业，不同角度）不重复。",
+      "exception": null,
+      "slugs": [
+        "southeast-asia-silver-economy-ageing-2026"
+      ]
     }
   }
 }
