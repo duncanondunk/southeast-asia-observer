@@ -1491,6 +1491,13 @@
       "slugs": [
         "minnan-hokkien-language-museum-quanzhou-2026"
       ]
+    },
+    "event:印尼普拉博沃内阁改组任命新外长(2026-10)": {
+      "note": "全新素材（联合早报，2026-10-01）：普拉博沃改组内阁、任命职业外交官阿尔马纳塔·纳西尔接替苏吉奥诺出任外长，三周内第二次内部接棒；地缘政治/外交重置/文人总统集权主题；与既有 relation:中印尼关系(普拉博沃)、event:普拉博沃撤换印尼财长 等不重复（本文聚焦外交系统人事重置与权力逻辑）。",
+      "exception": null,
+      "slugs": [
+        "indonesia-cabinet-reshuffle-new-foreign-minister-2026"
+      ]
     }
   }
 }
