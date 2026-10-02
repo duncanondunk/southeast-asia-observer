@@ -1,5 +1,64 @@
 [
   {
+    "slug": "vietnam-us-market-economy-status-2026",
+    "title": "越南再争美国「市场经济地位」：贸易红利与产业链依附的两难",
+    "subtitle": "河内再叩华盛顿大门，争取从「非市场经济」重新归类为「市场经济」，背后是对美出口红利与对中国供应链依附的深层两难。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "美国",
+      "经济",
+      "贸易",
+      "供应链",
+      "关税",
+      "外商直接投资",
+      "中越关系",
+      "东南亚",
+      "地缘政治"
+    ],
+    "country": "越南",
+    "date": "2026-10-02",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "越南游说美国商务部，争取从「非市场经济」重归「市场经济」地位以降低反倾销税。河内对美上半年顺差1140亿美元居全球之首，却深嵌中国供应链——前8月自华进口1619亿美元增37.3%。华盛顿以转运漏洞与中国依附迟疑不决，河内以天价采购单换协议，却难短期重塑供应链、补齐电力人力短板。",
+    "image": "images/articles/vietnam-us-market-economy-status-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-10-02",
+    "imageAlt": "越南港口集装箱与起重机，象征其依托出口与全球供应链的经济结构。",
+    "en": {
+      "title": "Vietnam's Second Push for US 'Market Economy' Status: Trade Gains vs Industrial Dependence",
+      "subtitle": "Hanoi knocks on Washington's door again, seeking reclassification from 'non-market' to 'market economy' — a bid that lays bare its export dividend to America and its deep industrial dependence on China.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam is lobbying the U.S. Commerce Department to reclassify it from 'non-market' to 'market economy' status, which would lower anti-dumping duties. Hanoi ran a US$114bn first-half surplus — the world's largest — yet remains deeply tied to Chinese supply chains, importing US$161.9bn from China in eight months. Washington hesitates over transshipment and that dependence; Hanoi buys time with huge procurement pledges and compliance laws, but cannot quickly rewire its supply chain or fix power and labor gaps.",
+      "imageAlt": "Containers and cranes at a Vietnamese port, symbolising the country's export-led economy and global supply chains.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Vietnam Appeals to United States for Upgraded Market Economy Status"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Southeast Asia economy resilient amid global uncertainty"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Vietnam Appeals to United States for Upgraded Market Economy Status",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-10"
+      },
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Southeast Asia economy resilient amid global uncertainty — ASEAN ministers",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-09"
+      }
+    ]
+  },
+  {
     "slug": "singapore-nuclear-energy-acceptance-asean-2026",
     "title": "三成新加坡人松口核电：小红点的能源赌局与\"能力先行\"逻辑",
     "subtitle": "一项东盟民调显示31.4%新加坡人接受核能、居区域之首；在土地与安全的夹缝里，这座城邦未必真建反应堆，却先把\"能否建\"的能力备齐。",

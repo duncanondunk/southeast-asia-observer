@@ -1505,6 +1505,13 @@
       "slugs": [
         "singapore-nuclear-energy-acceptance-asean-2026"
       ]
+    },
+    "event:越南争取美国市场经济地位(2026)": {
+      "note": "全新素材（日经亚洲，2026-10）：越南贸易官员游说美国商务部，争取从「非市场经济」重新归类为「市场经济」地位以降低反倾销税；与既有越南经贸/供应链/关税/中越关系等条目不重复（本文聚焦身份牌博弈与对中国供应链依附的两难）。",
+      "exception": null,
+      "slugs": [
+        "vietnam-us-market-economy-status-2026"
+      ]
     }
   }
 }
