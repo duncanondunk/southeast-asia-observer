@@ -1,65 +1,112 @@
 [
-{
-  "slug": "southeast-asia-silver-economy-ageing-2026",
-  "title": "当老龄化变成生意：新加坡的“辅助生活村”与东南亚银发经济",
-  "subtitle": "从新加坡的辅助生活村到泰国的医疗旅游，长寿正被打包成一门生意",
-  "category": "经济产业",
-  "tags": [
-    "新加坡",
-    "泰国",
-    "经济产业",
-    "人口老龄化",
-    "银发经济",
-    "东南亚",
-    "医疗旅游",
-    "养老"
-  ],
-  "country": "东南亚",
-  "date": "2026-10-01",
-  "readingTime": 7,
-  "featured": false,
-  "summary": "《南华早报》以新加坡九十二岁住客海伦·冯入住辅助生活村为切口，勾勒东南亚银发经济的崛起：新加坡今年跨入超老龄社会，银发经济规模有望在2030年达1550亿新元。辅助生活填补了居家与疗养院之间的空白，泰国借医疗旅游分一杯羹，但护理人力外流正成为隐忧。",
-  "en": {
-    "title": "From burden to business: Southeast Asia's silver economy takes shape",
-    "subtitle": "From Singapore's assisted-living villages to Thailand's medical tourism, longevity is being packaged as a business.",
-    "category": "Economy & Industry",
-    "country": "Southeast Asia",
-    "summary": "The South China Morning Post uses the case of 92-year-old Helen Fung, who moved into a Singapore assisted-living village, to sketch Southeast Asia's rising silver economy. Singapore has crossed into 'super-aged' territory this year, with its silver economy projected to hit S$155 billion by 2030. Assisted living fills the gap between home and nursing home, Thailand cashes in via medical tourism, yet caregiver outflow looms as a worry.",
-    "imageAlt": "A pensive elderly man in a Ho Chi Minh City park, a snapshot of Southeast Asia's silver economy",
+  {
+    "slug": "minnan-hokkien-language-museum-quanzhou-2026",
+    "title": "泉州闽南语博物馆揭牌：为千万南洋乡亲留住\"声纹钥匙\"",
+    "subtitle": "福建泉州首座以闽南语为主题的专题博物馆开馆，互动展陈把方言保护做成可参与的侨乡文化产品。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨乡",
+      "福建",
+      "语言",
+      "文化传承",
+      "东南亚"
+    ],
+    "country": "中国",
+    "date": "2026-10-02",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "福建泉州闽南语博物馆开馆，以互动展陈保存方言。闽南语是南洋华侨华人最通行的汉语方言，这座馆为海外乡亲提供了一条可回溯的“声纹”纽带。",
+    "image": "images/articles/minnan-hokkien-language-museum-quanzhou-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-10-02",
+    "imageAlt": "泉州古城街巷与闽南红砖厝，象征乡音与侨乡记忆",
+    "en": {
+      "title": "A Museum for Hokkien: Quanzhou Opens a Sound Archive for the Nanyang Diaspora",
+      "subtitle": "Quanzhou's first museum built around the Minnan (Hokkien) language uses interactive exhibits to turn dialect preservation into a participatory qiaoxiang cultural product.",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "Quanzhou has opened a museum dedicated to the Hokkien language. As the most spoken Chinese dialect among the Nanyang diaspora, it offers overseas kin a retrievable 'sound-print' link to home.",
+      "imageAlt": "Quanzhou old town lane with Southern-Min red-brick houses, evoking homeland tongue and qiaoxiang memory",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Touchable homeland tongue: Minnan Language Museum unveiled in Quanzhou, Fujian",
+          "url": "https://www.chinaqw.com/qx/2026/10-01/412263.shtml",
+          "date": "2026-10-01"
+        }
+      ]
+    },
     "references": [
       {
-        "source": "South China Morning Post",
+        "source": "中国侨网",
+        "title": "让乡音可触 闽南语博物馆在侨乡福建泉州揭牌",
+        "url": "https://www.chinaqw.com/qx/2026/10-01/412263.shtml",
+        "date": "2026-10-01"
+      }
+    ]
+  },
+  {
+    "slug": "southeast-asia-silver-economy-ageing-2026",
+    "title": "当老龄化变成生意：新加坡的“辅助生活村”与东南亚银发经济",
+    "subtitle": "从新加坡的辅助生活村到泰国的医疗旅游，长寿正被打包成一门生意",
+    "category": "经济产业",
+    "tags": [
+      "新加坡",
+      "泰国",
+      "经济产业",
+      "人口老龄化",
+      "银发经济",
+      "东南亚",
+      "医疗旅游",
+      "养老"
+    ],
+    "country": "东南亚",
+    "date": "2026-10-01",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "《南华早报》以新加坡九十二岁住客海伦·冯入住辅助生活村为切口，勾勒东南亚银发经济的崛起：新加坡今年跨入超老龄社会，银发经济规模有望在2030年达1550亿新元。辅助生活填补了居家与疗养院之间的空白，泰国借医疗旅游分一杯羹，但护理人力外流正成为隐忧。",
+    "en": {
+      "title": "From burden to business: Southeast Asia's silver economy takes shape",
+      "subtitle": "From Singapore's assisted-living villages to Thailand's medical tourism, longevity is being packaged as a business.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "The South China Morning Post uses the case of 92-year-old Helen Fung, who moved into a Singapore assisted-living village, to sketch Southeast Asia's rising silver economy. Singapore has crossed into 'super-aged' territory this year, with its silver economy projected to hit S$155 billion by 2030. Assisted living fills the gap between home and nursing home, Thailand cashes in via medical tourism, yet caregiver outflow looms as a worry.",
+      "imageAlt": "A pensive elderly man in a Ho Chi Minh City park, a snapshot of Southeast Asia's silver economy",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Silver linings: in Southeast Asia, ageing is big business",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3366402/silver-linings-southeast-asia-ageing-big-business",
+          "date": "2026-09-05"
+        },
+        {
+          "source": "Lianhe Zaobao / China's Ministry of Commerce (Singapore)",
+          "title": "Singapore's silver economy projected to reach S$155 billion by 2030",
+          "url": "https://sg.mofcom.gov.cn/scxx/sqdt/art/2026/art_7797d3810bc2448da411ec411a5de7e4.html",
+          "date": "2026-08-27"
+        }
+      ]
+    },
+    "image": "images/articles/southeast-asia-silver-economy-ageing-2026.jpg",
+    "imageCredit": "Pexels — photo 35809589",
+    "imageAccessed": "2026-10-01",
+    "imageAlt": "胡志明市公园中沉思的老年男子，东南亚银发经济的缩影",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
         "title": "Silver linings: in Southeast Asia, ageing is big business",
         "url": "https://www.scmp.com/week-asia/health-environment/article/3366402/silver-linings-southeast-asia-ageing-big-business",
         "date": "2026-09-05"
       },
       {
-        "source": "Lianhe Zaobao / China's Ministry of Commerce (Singapore)",
-        "title": "Singapore's silver economy projected to reach S$155 billion by 2030",
+        "source": "联合早报 / 中国驻新加坡大使馆经商处",
+        "title": "新加坡银发经济2030年料达1550亿新元",
         "url": "https://sg.mofcom.gov.cn/scxx/sqdt/art/2026/art_7797d3810bc2448da411ec411a5de7e4.html",
         "date": "2026-08-27"
       }
     ]
   },
-  "image": "images/articles/southeast-asia-silver-economy-ageing-2026.jpg",
-  "imageCredit": "Pexels — photo 35809589",
-  "imageAccessed": "2026-10-01",
-  "imageAlt": "胡志明市公园中沉思的老年男子，东南亚银发经济的缩影",
-  "references": [
-    {
-      "source": "南华早报 South China Morning Post",
-      "title": "Silver linings: in Southeast Asia, ageing is big business",
-      "url": "https://www.scmp.com/week-asia/health-environment/article/3366402/silver-linings-southeast-asia-ageing-big-business",
-      "date": "2026-09-05"
-    },
-    {
-      "source": "联合早报 / 中国驻新加坡大使馆经商处",
-      "title": "新加坡银发经济2030年料达1550亿新元",
-      "url": "https://sg.mofcom.gov.cn/scxx/sqdt/art/2026/art_7797d3810bc2448da411ec411a5de7e4.html",
-      "date": "2026-08-27"
-    }
-  ]
-},
   {
     "slug": "thailand-september-floods-2026",
     "title": "曼谷又淹了：一场“洪灾假日”照出的，是中等收入国家的治水无力",
