@@ -1,5 +1,77 @@
 [
   {
+    "slug": "singapore-nuclear-energy-acceptance-asean-2026",
+    "title": "三成新加坡人松口核电：小红点的能源赌局与\"能力先行\"逻辑",
+    "subtitle": "一项东盟民调显示31.4%新加坡人接受核能、居区域之首；在土地与安全的夹缝里，这座城邦未必真建反应堆，却先把\"能否建\"的能力备齐。",
+    "category": "经济产业",
+    "tags": [
+      "新加坡",
+      "核能",
+      "能源",
+      "东盟",
+      "东南亚",
+      "气候变化",
+      "能源安全"
+    ],
+    "country": "新加坡",
+    "date": "2026-10-02",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "一项覆盖东盟十一国的气候民调显示，31.4%的新加坡受访者把核能视为最具潜力的清洁能源选项，比例居区域之首，较2024年升11.1个百分点。在土地与安全夹缝中，这座城邦未必真建反应堆，却先把\"能否建\"的能力备齐。",
+    "image": "images/articles/singapore-nuclear-energy-acceptance-asean-2026.jpg",
+    "imageCredit": "Pexels — photo 38283961",
+    "imageAccessed": "2026-10-02",
+    "imageAlt": "俯瞰新加坡滨海湾天际线的黄昏，象征这座城邦的能源安全抉择",
+    "en": {
+      "title": "A Third of Singaporeans Warm to Nuclear Power: The City-State's Energy Gamble and a Logic of 'Capability First'",
+      "subtitle": "A regional climate survey puts Singaporean acceptance of nuclear energy at 31.4 per cent — the highest in ASEAN and up 11.1 points since 2024. Caught between land and safety constraints, the city-state may never build a reactor, yet it is quietly building the capability to decide.",
+      "category": "Economy & Industry",
+      "country": "Singapore",
+      "summary": "A climate survey across all eleven ASEAN members finds 31.4 per cent of Singaporeans see nuclear energy as the clean-power option with the most potential — the highest rate in the region and an 11.1-point rise since 2024. Caught between land scarcity and safety fears, the city-state may never build a reactor, yet it is first assembling the capability to decide whether it could.",
+      "imageAlt": "Aerial view of Singapore's skyline with Marina Bay, symbolising the city-state's energy-security deliberations",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Nearly a third of Singaporeans open to nuclear energy's potential, highest in Asean: study",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3369437/nearly-third-singaporeans-open-nuclear-energys-potential-highest-asean-study",
+          "date": "2026-10-01"
+        },
+        {
+          "source": "ISEAS – Yusof Ishak Institute",
+          "title": "Southeast Asia Climate Outlook: 2026 Survey Report",
+          "url": "https://www.iseas.edu.sg/frontpage-featured/southeast-asia-climate-outlook-2026-survey-report",
+          "date": "2026-10-01"
+        },
+        {
+          "source": "The Straits Times",
+          "title": "ASEAN should focus on building up regional power grid, climate finance and resilience: Grace Fu",
+          "url": "https://www.straitstimes.com/singapore/environment/asean-should-focus-on-building-up-regional-power-grid-climate-finance-and-resilience-grace-fu",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Nearly a third of Singaporeans open to nuclear energy's potential, highest in Asean: study",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3369437/nearly-third-singaporeans-open-nuclear-energys-potential-highest-asean-study",
+        "date": "2026-10-01"
+      },
+      {
+        "source": "尤索夫伊萨东南亚研究院 ISEAS – Yusof Ishak Institute",
+        "title": "《东南亚气候展望2026》调查",
+        "url": "https://www.iseas.edu.sg/frontpage-featured/southeast-asia-climate-outlook-2026-survey-report",
+        "date": "2026-10-01"
+      },
+      {
+        "source": "海峡时报 The Straits Times",
+        "title": "傅海燕：东盟应优先建设区域电网、气候融资与韧性",
+        "url": "https://www.straitstimes.com/singapore/environment/asean-should-focus-on-building-up-regional-power-grid-climate-finance-and-resilience-grace-fu",
+        "date": "2026-10-01"
+      }
+    ]
+  },
+  {
     "slug": "indonesia-cabinet-reshuffle-new-foreign-minister-2026",
     "title": "普拉博沃换将外交官：印尼外交部的一次重置",
     "subtitle": "将军总统三周内二换阁员，把外交部交还职业外交官，既是集权的包装，也是专业的回归。",
