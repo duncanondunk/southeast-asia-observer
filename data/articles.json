@@ -1,5 +1,54 @@
 [
   {
+    "slug": "chinese-culture-grand-park-phuket-2026",
+    "title": "普吉“中华文化大乐园”闭园：一场落在南洋故地的文化再连接",
+    "subtitle": "华侨大学主办、普吉中学承办的十余天文化研学闭营，折射泰南华人故地与中国文化软实力的再连接。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "泰国",
+      "华文教育",
+      "中华文化",
+      "文化传承",
+      "文化认同",
+      "泰南",
+      "青年"
+    ],
+    "country": "泰国",
+    "date": "2026-10-03",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "2026“中华文化大乐园”泰国普吉园9月30日在普吉中学闭园，活动由华侨大学主办、普吉中学承办，十余天沉浸式课程让当地青少年体验中华文化。文章认为，在泰南华人故地办此类文化营，既续接离散族群的身份记忆，也以文化课织就中泰民间友好的“毛细血管”。",
+    "image": "images/articles/chinese-culture-grand-park-phuket-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-03",
+    "imageAlt": "泰国唐人街夜景：中文霓虹招牌、嘟嘟车与市井街景，映照中华文化在当地的长期浸润",
+    "en": {
+      "title": "Phuket's \"Chinese Culture Grand Park\" Closes: A Cultural Reconnection in an Old Nanyang Homeland",
+      "subtitle": "A ten-plus-day cultural camp hosted by Huaqiao University and run by Phuket Middle School closes, reflecting the reconnection of a Southern Thai Chinese homeland with China's cultural soft power.",
+      "category": "Overseas Chinese",
+      "country": "Thailand",
+      "summary": "The 2026 Chinese Culture Grand Park (Phuket, Thailand) closed at Phuket Middle School on 30 September after a ten-plus-day immersive camp for local youth, hosted by Huaqiao University. The piece argues that running such camps in Southern Thailand's old Chinese homeland both sustains diaspora identity and weaves the capillaries of Sino-Thai public goodwill.",
+      "imageAlt": "Night view of a Thai Chinatown street with Chinese neon signage and tuk-tuks, reflecting the long embedding of Chinese culture in Thailand",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "2026 Chinese Culture Grand Park Thailand Phuket Park closes successfully",
+          "url": "https://www.chinaqw.com/hwjy/2026/10-01/412295.shtml",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "2026中华文化大乐园泰国普吉园圆满闭园",
+        "url": "https://www.chinaqw.com/hwjy/2026/10-01/412295.shtml",
+        "date": "2026-10-01"
+      }
+    ]
+  },
+  {
     "slug": "vietnam-us-market-economy-status-2026",
     "title": "越南再争美国「市场经济地位」：贸易红利与产业链依附的两难",
     "subtitle": "河内再叩华盛顿大门，争取从「非市场经济」重新归类为「市场经济」，背后是对美出口红利与对中国供应链依附的深层两难。",
