@@ -1,5 +1,66 @@
 [
   {
+    "slug": "philippines-china-batanes-research-vessel-2026",
+    "title": "一艘科考船，一道窄海峡：嘉海科7号为何成了马尼拉最新的「爆点」",
+    "subtitle": "菲律宾海岸警卫队在巴丹群岛附近「驱离」中国科考船嘉海科7号，北京斥为骚扰；一场围绕主权、管辖权与海底数据的战略博弈正在巴士海峡收紧。",
+    "category": "地缘政治",
+    "tags": [
+      "菲律宾",
+      "地缘政治",
+      "南海",
+      "中菲关系",
+      "巴士海峡",
+      "海洋科研",
+      "海底光缆",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-03",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "2026年10月1日，菲律宾海岸警卫队派出最大海警船与飞机，前往巴丹群岛附近「驱离」中国科考船嘉海科7号，北京斥为「骚扰」。本文认为，症结不在一条船，而在巴士海峡这一南海—西太平洋咽喉缺乏争议水域海洋科研的行为规则，它折射出台湾、吕宋与第一岛链之间正在收紧的战略挤压，以及中菲、中日菲的管辖权博弈。",
+    "image": "images/articles/philippines-china-batanes-research-vessel-2026.jpg",
+    "imageCredit": "Pexels — photo 29657070",
+    "imageAccessed": "2026-10-03",
+    "imageAlt": "巴丹群岛北部崎岖海岸与翻涌的太平洋海面，正是中菲科考船对峙所在的吕宋海峡门户",
+    "en": {
+      "title": "A research vessel, a narrow strait: why a Chinese ship off Batanes became Manila's newest flashpoint",
+      "subtitle": "The Philippine Coast Guard's bid to drive away the Chinese research ship Jia Hai Ke 7 off Batanes — and Beijing's rebuke of 'harassment' — frames a widening strategic contest over sovereignty, jurisdiction and subsea data at the throat of the Bashi Channel.",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "The Philippine Coast Guard on 1 October deployed its largest vessel and an aircraft to challenge and drive away the Chinese research ship Jia Hai Ke 7 off the Batanes Islands; Beijing called the move harassment. This piece argues the standoff is less about one ship than about the absence of agreed rules for marine scientific research in disputed waters at the throat of the Bashi Channel — a chokepoint between the South China Sea and the Western Pacific — and reflects a tightening strategic squeeze among China, the Philippines and Japan over delimitation, jurisdiction and narrative control.",
+      "imageAlt": "The rugged northern coastline of Batanes, the Philippine archipelago closest to Taiwan, where a Chinese research vessel sparked a maritime standoff",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Beijing slams 'harassment' after Manila challenges research ship near Batanes",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369334/chinese-research-ship-near-batanes-sparks-undersea-cable-concerns-manila?pgtype=live",
+          "date": "2026-10-01"
+        },
+        {
+          "source": "Reuters",
+          "title": "Philippines sends largest ship, aircraft to drive away Chinese vessel in waters near Taiwan",
+          "url": "https://srnnews.com/philippines-sends-largest-ship-aircraft-to-drive-away-chinese-vessel-in-waters-near-taiwan",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Beijing slams 'harassment' after Manila challenges research ship near Batanes",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3369334/chinese-research-ship-near-batanes-sparks-undersea-cable-concerns-manila?pgtype=live",
+        "date": "2026-10-01"
+      },
+      {
+        "source": "路透社 Reuters",
+        "title": "Philippines sends largest ship, aircraft to drive away Chinese vessel in waters near Taiwan",
+        "url": "https://srnnews.com/philippines-sends-largest-ship-aircraft-to-drive-away-chinese-vessel-in-waters-near-taiwan",
+        "date": "2026-10-01"
+      }
+    ]
+  },
+  {
     "slug": "chinese-culture-grand-park-phuket-2026",
     "title": "普吉“中华文化大乐园”闭园：一场落在南洋故地的文化再连接",
     "subtitle": "华侨大学主办、普吉中学承办的十余天文化研学闭营，折射泰南华人故地与中国文化软实力的再连接。",
