@@ -1533,6 +1533,13 @@
       "slugs": [
         "indonesia-prabowo-advisory-council-26-2026"
       ]
+    },
+    "topic:东南亚货币遭油价与强美元夹击走弱(2026-10)": {
+      "note": "全新素材（日经亚洲，2026-10-01前后）：中东紧张升级、油价破百、强美元三重夹击下东南亚货币走弱，印尼盾年内贬逾7%领跌，马来西亚与菲律宾承压；与既有 event:菲律宾比索创历史新低(2026-09)（单一国家货币事件）区分，本文为区域宏观走势与结构性压力分析。",
+      "exception": null,
+      "slugs": [
+        "southeast-asia-currency-slide-oil-dollar-2026"
+      ]
     }
   }
 }

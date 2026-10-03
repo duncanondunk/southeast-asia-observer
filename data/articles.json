@@ -1,5 +1,56 @@
 [
   {
+    "slug": "southeast-asia-currency-slide-oil-dollar-2026",
+    "title": "东南亚货币遭油价与强美元夹击：印尼盾年内贬逾7%领跌",
+    "subtitle": "中东局势骤然紧张、油价重上每桶100美元，强美元与能源账单正把东南亚货币推向风暴眼，印尼盾已跌逾7%。",
+    "category": "经济产业",
+    "tags": [
+      "东南亚",
+      "经济",
+      "印度尼西亚",
+      "马来西亚",
+      "菲律宾",
+      "货币政策",
+      "央行",
+      "汇率",
+      "美元",
+      "能源"
+    ],
+    "country": "东南亚",
+    "date": "2026-10-03",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "中东局势骤然紧张、油价重上每桶100美元（约720元人民币），东南亚货币遭强美元与能源进口账单夹击。印尼盾年内贬逾7%、领跌区域，马来西亚与菲律宾亦难独善。对央行而言，真正的考题不是托住汇率，而是诊治能源依赖与财政透支的结构病灶。",
+    "image": "images/articles/southeast-asia-currency-slide-oil-dollar-2026.jpg",
+    "imageCredit": "Pexels — photo 6801648",
+    "imageAccessed": "2026-10-03",
+    "imageAlt": "放大镜下的股票走势图与办公桌上的金融报表，象征东南亚货币面临的汇率与能源双重压力。",
+    "en": {
+      "title": "Southeast Asian currencies caught between oil and the dollar: rupiah down over 7%",
+      "subtitle": "With Middle East tensions flaring and oil back above $100 a barrel, a stronger dollar and swelling energy bills are pushing Southeast Asian currencies into a storm — and the rupiah has already lost more than 7%.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "As Middle East tensions escalate and oil tops $100 a barrel, Southeast Asian currencies are squeezed by a stronger dollar and soaring energy import bills. The Indonesian rupiah, down over 7% this year, is the region's worst performer; Malaysia and the Philippines are not immune. The real test for regional central banks is not defending the exchange rate but curing structural energy dependency and fiscal overreach.",
+      "imageAlt": "A magnifying glass on stock-market charts and financial printouts, symbolising the dual currency and energy pressure facing Southeast Asia.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Southeast Asian currencies weaken as Middle East tensions escalate, oil surges",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Southeast Asian currencies weaken as Middle East tensions escalate, oil surges",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-10-03"
+      }
+    ]
+  },
+  {
     "slug": "indonesia-prabowo-advisory-council-26-2026",
     "title": "普拉博沃的「二十六大员」：富豪、将军与宗教领袖同堂问政",
     "subtitle": "印尼新一届总统顾问理事会二十六人名单，把华商、退役将领与宗教领袖一并纳入总统咨询架构，折射权力集中逻辑。",
