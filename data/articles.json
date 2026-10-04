@@ -1,5 +1,65 @@
 [
   {
+    "slug": "bangkok-luxury-summit-nikkei-ft-2026",
+    "title": "曼谷的「奢侈时刻」：日经与FT峰会背后信号几何",
+    "subtitle": "日经新闻社与《金融时报》将在曼谷合办亚洲版商业奢侈峰会，选址与议题折射东南亚财富与注意力的东移",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "经济",
+      "消费",
+      "东南亚",
+      "华侨华人",
+      "创意经济",
+      "中产阶级"
+    ],
+    "country": "泰国",
+    "date": "2026-10-04",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "日经新闻社与《金融时报》将于10月19日至20日在曼谷合办亚洲版商业奢侈峰会，聚焦文化认同与创意经济。选址曼谷、财富与注意力东移是信号；但泰国二季度增速仅1.9%、九月洪灾波及41府，奢侈品并非发展的刻度尺。",
+    "en": {
+      "title": "Bangkok's Luxury Moment: What the Nikkei–FT Summit Really Signals",
+      "subtitle": "Nikkei and the FT will co-host the Business of Luxury Summit in Bangkok — a venue and themes that reveal Southeast Asia's wealth and attention moving east",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "Nikkei Inc. and the Financial Times will co-host the Business of Luxury Summit — Asia Edition in Bangkok on 19–20 October. The venue and the themes of cultural identity and creative economy signal Southeast Asia's wealth and attention shifting east, yet Thailand's underlying economy stays fragile: luxury is no yardstick of development.",
+      "imageAlt": "A neon-lit Bangkok street at night in Yaowarat, evoking commerce, aspiration and the city's creative-economy turn",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Business of Luxury Summit — Asia Edition to be held in Bangkok",
+          "url": "https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20261002_02.pdf",
+          "date": "2026-10-02"
+        },
+        {
+          "source": "Financial Times Live",
+          "title": "Business of Luxury Summit – Asia Edition",
+          "url": "https://luxuryasia.live.ft.com/home",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "image": "images/articles/bangkok-luxury-summit-nikkei-ft-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-04",
+    "imageAlt": "夜幕下的曼谷耀华力路（唐人街）街景，霓虹、金行招牌与嘟嘟车交织，隐喻商业繁荣与城市的创意经济转向",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Business of Luxury Summit — Asia Edition to be held in Bangkok",
+        "url": "https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20261002_02.pdf",
+        "date": "2026-10-02"
+      },
+      {
+        "source": "金融时报 FT Live",
+        "title": "Business of Luxury Summit – Asia Edition",
+        "url": "https://luxuryasia.live.ft.com/home",
+        "date": "2026-10-02"
+      }
+    ]
+  },
+  {
     "slug": "malaysia-naval-anti-ship-missile-reprocurement-2026",
     "title": "马来西亚重启舰载反舰导弹采购：挪威毁约后的马六甲安全账",
     "subtitle": "一笔28亿美元军购告吹，吉隆坡另觅替代方案，中等国家的军备自主之困",
