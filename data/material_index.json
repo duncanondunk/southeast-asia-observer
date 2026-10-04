@@ -1561,6 +1561,13 @@
       "slugs": [
         "malaysia-naval-anti-ship-missile-reprocurement-2026"
       ]
+    },
+    "event:菲律宾晋升中高收入国家但经济增长落后东盟(BofA预测2.5%区域最慢,2026-09)": {
+      "note": "全新素材（南华早报 Sam Beltran, 2026-09-21, article 3368024）：世界银行7月将菲升格中高收入，但美银预测2026增速仅2.5%、与泰国并列东盟最慢，并给出新马印尼越对照；聚焦“名义升级、实际承压”的反差、消费依赖模型、基建被反腐调查拖缓、气候与油价双重外部冲击。与既有 philippines-q2-gdp-slowdown（季度数据快讯）、vietnam-philippines-upper-middle-income（越菲共同跨阈值、半导体驱动）、philippines-debt-economic-stimulus-2027（举债刺激）等不重复——本文为“升格里程碑 vs 增速垫底”的对照式评论，角度不同。",
+      "exception": null,
+      "slugs": [
+        "philippines-growth-lags-asean-2026"
+      ]
     }
   }
 }

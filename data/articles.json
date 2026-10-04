@@ -1,5 +1,55 @@
 [
   {
+    "slug": "philippines-growth-lags-asean-2026",
+    "title": "升格中高收入，增速却垫底：菲律宾的“里程碑”为何没能撑起增长",
+    "subtitle": "评级上调的喜讯，撞上增速垫底的冷现实",
+    "category": "经济产业",
+    "tags": [
+      "菲律宾",
+      "经济产业",
+      "经济增长",
+      "中高收入国家",
+      "制造业",
+      "供应链",
+      "基础设施",
+      "东南亚",
+      "东盟"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-04",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "世界银行7月将菲律宾升格中高收入，但美国银行预测其2026年增长仅2.5%、与泰国并列东盟最慢。消费依赖、基建欠账与气候油价冲击，让这道“里程碑”未能撑起增长。",
+    "en": {
+      "title": "Upgraded but underperforming: why the Philippines’ growth still lags its ASEAN peers",
+      "subtitle": "A rating upgrade meets the cold reality of growth at the bottom of the regional table",
+      "category": "Economy & Industry",
+      "country": "Philippines",
+      "summary": "The World Bank upgraded the Philippines to upper-middle-income status in July, yet Bank of America forecasts 2026 growth of just 2.5 per cent — tied with Thailand for the slowest in ASEAN. Consumption dependence, an infrastructure gap and climate-and-oil shocks leave the milestone unable to lift growth.",
+      "imageAlt": "A dense crowd on a Manila street, weaving pedestrians, shops and streets — a metaphor for the Philippines’ consumption-led urban economic pulse",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Upgraded but underperforming: Philippines’ growth lags behind",
+          "url": "https://www.scmp.com/week-asia/economics/article/3368024/upgraded-underperforming-philippines-growth-lags-behind",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "image": "images/articles/philippines-growth-lags-asean-2026.jpg",
+    "imageCredit": "Pexels — photo 33076681",
+    "imageAccessed": "2026-10-04",
+    "imageAlt": "马尼拉街头的行人洪流，行人、商铺与街道交织，隐喻菲律宾以消费为主导的城市经济脉动",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Upgraded but underperforming: Philippines’ growth lags behind",
+        "url": "https://www.scmp.com/week-asia/economics/article/3368024/upgraded-underperforming-philippines-growth-lags-behind",
+        "date": "2026-09-21"
+      }
+    ]
+  },
+  {
     "slug": "bangkok-luxury-summit-nikkei-ft-2026",
     "title": "曼谷的「奢侈时刻」：日经与FT峰会背后信号几何",
     "subtitle": "日经新闻社与《金融时报》将在曼谷合办亚洲版商业奢侈峰会，选址与议题折射东南亚财富与注意力的东移",
