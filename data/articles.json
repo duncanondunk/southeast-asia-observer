@@ -1,5 +1,51 @@
 [
   {
+    "slug": "shenzhen-brunei-direct-flight-2026",
+    "title": "深圳直飞文莱航线开通：一条支线航线背后的中国—东盟空中互联",
+    "subtitle": "大湾区与斯里巴加湾不再中转，小国航线折射区域联通大趋势",
+    "category": "经济产业",
+    "tags": [
+      "文莱",
+      "深圳",
+      "航空",
+      "互联互通",
+      "中国—东盟"
+    ],
+    "country": "文莱",
+    "date": "2026-10-04",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "深圳航空开通深圳直飞文莱首都斯里巴加湾航线，每周四班、无需中转，填补了深圳直飞文莱的空白。文莱是东盟成员国与共建“一带一路”国家，此次通航折射中国—东盟空中互联互通正持续下沉至小国与边角。",
+    "en": {
+      "title": "Shenzhen Opens First Direct Flight to Brunei: A Minor Route with a Major Subtext",
+      "subtitle": "The new Shenzhen–Bandar Seri Begawan link is less about tourism than about the quiet rewiring of China–ASEAN connectivity",
+      "category": "Economy & Industry",
+      "country": "Brunei",
+      "summary": "Shenzhen Airlines has launched a direct Shenzhen–Bandar Seri Begawan service, four weekly round trips with no transfers, filling the gap in Shenzhen's Brunei routes. As an ASEAN member and Belt and Road partner, Brunei's inclusion in Shenzhen's ASEAN network signals China–ASEAN air connectivity reaching ever smaller states.",
+      "imageAlt": "An airliner above the clouds, symbolising the new direct Shenzhen–Brunei route",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Shenzhen airport opens first direct flight to Brunei",
+          "url": "https://www.chinaqw.com/qx/2026/10-03/412311.shtml",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "image": "images/articles/shenzhen-brunei-direct-flight-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-04",
+    "imageAlt": "一架客机翱翔于云层之上，象征深圳直飞文莱新航线开通",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "深圳机场首次开通文莱直飞航线",
+        "url": "https://www.chinaqw.com/qx/2026/10-03/412311.shtml",
+        "date": "2026-10-03"
+      }
+    ]
+  },
+  {
     "slug": "southeast-asia-currency-slide-oil-dollar-2026",
     "title": "东南亚货币遭油价与强美元夹击：印尼盾年内贬逾7%领跌",
     "subtitle": "中东局势骤然紧张、油价重上每桶100美元，强美元与能源账单正把东南亚货币推向风暴眼，印尼盾已跌逾7%。",

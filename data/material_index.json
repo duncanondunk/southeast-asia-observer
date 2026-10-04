@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-03",
+  "version": "2026-10-04",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:Grab以15亿美元控股Atome(2026-09)": {
@@ -1539,6 +1539,13 @@
       "exception": null,
       "slugs": [
         "southeast-asia-currency-slide-oil-dollar-2026"
+      ]
+    },
+    "event:深圳机场开通文莱直飞航线(2026-10)": {
+      "note": "全新素材（中国侨网/南方+，2026-10-03）：深圳航空开通深圳直飞文莱首都斯里巴加湾航线，每周四班（ZH171/ZH172）、无需中转，填补深圳直飞文莱空白；聚焦中国—东盟空中互联互通下沉至小国与区域航空网络扩张。与既有中国—东盟关系/经贸合作/人员往来等条目不重复（本文聚焦支线航线与航空连接能力）。",
+      "exception": null,
+      "slugs": [
+        "shenzhen-brunei-direct-flight-2026"
       ]
     }
   }
