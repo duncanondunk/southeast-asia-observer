@@ -1,5 +1,64 @@
 [
   {
+    "slug": "philippines-cyber-gaming-raid-chinese-workers-2026",
+    "title": "菲律宾今年最大规模网络博彩扫荡：244人落网，绝大多数为中国籍——一道禁令如何把诈骗经济逼入地下",
+    "subtitle": "2024年的禁令本要终结这个行业。10月棉兰老岛的突袭表明，它只是转入了地下。",
+    "category": "华侨华人",
+    "tags": [
+      "菲律宾",
+      "网络博彩",
+      "华侨华人",
+      "人口贩运",
+      "跨境治理",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-05",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "菲律宾10月2日在棉兰老岛突袭两处非法网络博彩窝点，逮捕244名外籍人员，绝大多数为中国籍。这暴露2024年禁令后灰色产业转入地下、中国籍劳工深陷其中的结构性困境，单边禁令难解跨国骗局。",
+    "image": "images/articles/philippines-cyber-gaming-raid-chinese-workers-2026.jpg",
+    "imageCredit": "Pexels — photo 17282382 (Manila street scene with people)",
+    "imageAccessed": "2026-10-05",
+    "imageAlt": "马尼拉街头，行道棕榈与市民活动衬以摩天楼背景，映射菲律宾都市与社会肌理",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "菲律宾扫荡非法网络博彩逮捕244人 多为中国籍员工",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261004-9781199",
+        "date": "2026-10-04"
+      },
+      {
+        "source": "法新社 Agence France-Presse / 菲律宾星报 PhilStar",
+        "title": "244 'mostly Chinese' workers arrested in largest 2026 POGO bust",
+        "url": "https://www.philstar.com/headlines/2026/10/04/2560881/244-mostly-chinese-workers-arrested-largest-2026-pogo-bust",
+        "date": "2026-10-04"
+      }
+    ],
+    "en": {
+      "title": "Manila's largest POGO bust of 2026 nets 244, mostly Chinese — a ban that pushed the scam economy underground",
+      "subtitle": "The 2024 prohibition was meant to end the industry. The October raids in Mindanao show it merely went dark.",
+      "category": "Overseas Chinese",
+      "country": "Philippines",
+      "summary": "On 2 October Philippine agents raided two illegal online-gaming compounds in Mindanao and arrested 244 foreigners, mostly Chinese. The operation — the largest POGO bust of 2026 — shows that the 2024 ban did not end the industry but pushed it underground, leaving Chinese-national workers trapped in a transnational grey economy that unilateral prohibition cannot cure.",
+      "imageAlt": "A Manila street where palm trees and citizens gather against a backdrop of skyscrapers, mirroring the Philippines' urban and social fabric",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Philippines cracks down on illegal online gaming, 244 arrested, mostly Chinese",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261004-9781199",
+          "date": "2026-10-04"
+        },
+        {
+          "source": "Agence France-Presse / PhilStar",
+          "title": "244 'mostly Chinese' workers arrested in largest 2026 POGO bust",
+          "url": "https://www.philstar.com/headlines/2026/10/04/2560881/244-mostly-chinese-workers-arrested-largest-2026-pogo-bust",
+          "date": "2026-10-04"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-q3-gdp-995-2026",
     "title": "越南三季度增速冲上9.95%：一场被数据光环遮蔽的结构性考问",
     "subtitle": "越南统计总局数据显示，2026年三季度GDP同比增9.95%，创四年新高，但贸易逆差与产业链依附等结构性问题同样刺眼。",
