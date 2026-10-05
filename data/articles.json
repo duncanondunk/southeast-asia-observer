@@ -1,5 +1,56 @@
 [
   {
+    "slug": "philippines-aetas-pax-silica-land-rights-2026",
+    "title": "三十比索一平方米：当人工智能枢纽遇上菲律宾原住民的祖地",
+    "subtitle": "美国主导的“硅和平”倡议在新克拉克市落地，约1000名埃塔原住民却收到12月前搬离的通知与每平方米30比索的征地报价",
+    "category": "社会文化",
+    "tags": ["菲律宾", "原住民", "土地权", "人工智能", "供应链", "美国", "东南亚"],
+    "country": "菲律宾",
+    "date": "2026-10-05",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "美国主导的“硅和平”倡议在菲新克拉克市落地，约千名埃塔原住民被要求12月前搬离，征地仅每平方米30比索。700亿美元蓝图与30比索报价的落差，折射出人工智能产业链红利与最弱势者承担代价之间的裂痕。",
+    "image": "images/articles/philippines-aetas-pax-silica-land-rights-2026.jpg",
+    "imageCredit": "Pexels — photo 33076681",
+    "imageAccessed": "2026-10-05",
+    "imageAlt": "菲律宾都市街头的人群，映衬“硅和平”倡议落地的本土社会背景",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "‘Listen to us’: Philippine tribe vows to stand ground against US-led Pax Silica",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3368189/philippine-tribe-vows-to-stand-ground-against-us-led-pax-silica-listen-us",
+        "date": "2026-09-21"
+      },
+      {
+        "source": "GMA Network / 菲广网",
+        "title": "Fearing for ancestral land, Aetas from Capas urge Pax Silica cancellation",
+        "url": "https://www.gmanetwork.com/news/topstories/regions/997581/aeta-pax-silica-capas-tarlac-ancestral-domain/story/",
+        "date": "2026-08-08"
+      }
+    ],
+    "en": {
+      "title": "50 US cents a square metre: when an AI hub meets an indigenous tribe’s ancestral land in the Philippines",
+      "subtitle": "The US-led Pax Silica hub in New Clark City promises up to US$70 billion and 190,000 jobs — but roughly 1,000 Aeta people have been told to vacate by December for just 30 pesos a square metre.",
+      "category": "Society & Culture",
+      "country": "Philippines",
+      "summary": "The US-led Pax Silica hub in the Philippines promises up to US$70 billion and 190,000 jobs, but roughly 1,000 Aeta indigenous people have been told to vacate by December for just 30 pesos a square metre. The gap between a sweeping national blueprint and a pittance of compensation exposes who bears the cost of the AI supply-chain boom.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "‘Listen to us’: Philippine tribe vows to stand ground against US-led Pax Silica",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3368189/philippine-tribe-vows-to-stand-ground-against-us-led-pax-silica-listen-us",
+          "date": "2026-09-21"
+        },
+        {
+          "source": "GMA Network",
+          "title": "Fearing for ancestral land, Aetas from Capas urge Pax Silica cancellation",
+          "url": "https://www.gmanetwork.com/news/topstories/regions/997581/aeta-pax-silica-capas-tarlac-ancestral-domain/story/",
+          "date": "2026-08-08"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-cyber-gaming-raid-chinese-workers-2026",
     "title": "菲律宾今年最大规模网络博彩扫荡：244人落网，绝大多数为中国籍——一道禁令如何把诈骗经济逼入地下",
     "subtitle": "2024年的禁令本要终结这个行业。10月棉兰老岛的突袭表明，它只是转入了地下。",
