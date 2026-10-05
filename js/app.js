@@ -55,7 +55,7 @@
     '香港': 'Hong Kong', '商业地产': 'Commercial Property', '资本流动': 'Capital Flows', '民族主义': 'Nationalism', '消费': 'Consumption',
     '药物监管': 'Drug Regulation', '社交媒体': 'Social Media',
     '电子垃圾': 'E-waste', '循环经济': 'Circular Economy', '环境政策': 'Environmental Policy', '世界银行': 'World Bank', '中等收入陷阱': 'Middle-Income Trap', '产业升级': 'Industrial Upgrading', '金融': 'Finance', '全球环境基金': 'Global Environment Fund', '联合国开发计划署': 'UNDP',
-    '安全': 'Security', '领事保护': 'Consular Protection', '心理健康': 'Mental Health', '食品工业': 'Food Industry', '外商直接投资': 'Foreign Direct Investment',     '银发经济': 'Silver Economy', '医疗旅游': 'Medical Tourism', '养老': 'Elderly Care', '政商关系': 'Business–Politics Nexus', '总统顾问': 'Presidential Advisory Council', '寡头': 'Oligarchy', '汇率': 'Exchange Rate', '美元': 'US Dollar', '创意经济': 'Creative Economy', '中产阶级': 'Middle Class'
+    '安全': 'Security', '领事保护': 'Consular Protection', '心理健康': 'Mental Health', '食品工业': 'Food Industry', '外商直接投资': 'Foreign Direct Investment',     '银发经济': 'Silver Economy', '医疗旅游': 'Medical Tourism', '养老': 'Elderly Care', '政商关系': 'Business–Politics Nexus', '总统顾问': 'Presidential Advisory Council', '寡头': 'Oligarchy', '汇率': 'Exchange Rate', '美元': 'US Dollar', '创意经济': 'Creative Economy', '中产阶级': 'Middle Class', '通货膨胀': 'Inflation'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 

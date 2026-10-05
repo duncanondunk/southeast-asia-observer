@@ -1,5 +1,81 @@
 [
   {
+    "slug": "vietnam-q3-gdp-995-2026",
+    "title": "越南三季度增速冲上9.95%：一场被数据光环遮蔽的结构性考问",
+    "subtitle": "越南统计总局数据显示，2026年三季度GDP同比增9.95%，创四年新高，但贸易逆差与产业链依附等结构性问题同样刺眼。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "经济",
+      "GDP",
+      "制造业",
+      "贸易",
+      "外商直接投资",
+      "东南亚",
+      "产业链",
+      "中越关系",
+      "通货膨胀",
+      "经济增长"
+    ],
+    "country": "越南",
+    "date": "2026-10-05",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "越南三季度GDP同比增9.95%，创四年新高，前9个月累增9.01%。但进口增速持续跑赢出口，前9个月贸易逆差创历史新高；国内增加值仅48.9%，显露“组装车间”软肋。全年冲10%目标需四季度增速12.5%，市场普遍存疑。高增长是真，结构性隐忧亦真。",
+    "image": "images/articles/vietnam-q3-gdp-995-2026.jpg",
+    "imageCredit": "Unsplash — photo 1596176530529-78163a4f7af2 (Ho Chi Minh City skyline)",
+    "imageAccessed": "2026-10-05",
+    "imageAlt": "黄昏时分的胡志明市天际线，映照越南制造业扩张与城市崛起",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Vietnam's economy expands 9.95% in Q3, fastest in four years, but 10% full-year goal in doubt",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-10-05"
+      },
+      {
+        "source": "越南统计总局 General Statistics Office of Vietnam",
+        "title": "2026年第三季度经济社会统计数据",
+        "url": "https://www.gso.gov.vn",
+        "date": "2026-10-03"
+      },
+      {
+        "source": "路透社 Reuters (via The Star)",
+        "title": "Vietnam's quarterly GDP grows fastest in 4 years",
+        "url": "https://www.thestar.com.my/business/business-news/2026/10/05/vietnams-quarterly-gdp-grows-fastest-in-4-years",
+        "date": "2026-10-05"
+      }
+    ],
+    "en": {
+      "title": "Vietnam's 9.95% Q3 Surge: A Structural Reckoning Behind the Glow",
+      "subtitle": "Figures from Vietnam's General Statistics Office show Q3 GDP up 9.95% year-on-year — a four-year high — but the record trade deficit and supply-chain dependence are equally stark.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam's Q3 GDP grew 9.95%, a four-year high, with nine-month growth at 9.01%. Yet imports outran exports, pushing the trade deficit to a record; domestic value added is just 48.9%, exposing an assembly-workshop structure. Hitting the 10% full-year goal requires a 12.5% Q4 — which markets doubt. The surge is real; so are the structural strains.",
+      "imageAlt": "The Ho Chi Minh City skyline at dusk, mirroring Vietnam's manufacturing expansion and urban rise",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Vietnam's economy expands 9.95% in Q3, fastest in four years, but 10% full-year goal in doubt",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-10-05"
+        },
+        {
+          "source": "General Statistics Office of Vietnam",
+          "title": "Q3 2026 socio-economic statistics",
+          "url": "https://www.gso.gov.vn",
+          "date": "2026-10-03"
+        },
+        {
+          "source": "Reuters (via The Star)",
+          "title": "Vietnam's quarterly GDP grows fastest in 4 years",
+          "url": "https://www.thestar.com.my/business/business-news/2026/10/05/vietnams-quarterly-gdp-grows-fastest-in-4-years",
+          "date": "2026-10-05"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-kidnapping-chinese-citizen-embassy-warning-2026",
     "title": "菲律宾绑架案频发：一名中国公民获救，与“诱骗—囚禁—勒索”的完整链条",
     "subtitle": "五天之内四名嫌犯落网、三名受害者获救，一条跨境犯罪流水线浮出水面",
