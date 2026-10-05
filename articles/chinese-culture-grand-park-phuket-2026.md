@@ -48,7 +48,7 @@
 
 **文化走出去（Cultural Going-Out）**：中国以文化产品、语言教育与人文交流为载体，在海外塑造国家形象、增进民间互信的对外战略取向。
 
-*Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "2026中华文化大乐园泰国普吉园圆满闭园"。*
+*话题参考：中国侨网（China Qiao Wang，chinaqw.com）——“2026中华文化大乐园泰国普吉园圆满闭园”*
 
 ===EN===
 
