@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-05",
+  "version": "2026-10-06",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:菲律宾绑架中国公民与使馆提醒(2026-10)": {
@@ -1589,6 +1589,13 @@
       "exception": null,
       "slugs": [
         "philippines-cyber-gaming-raid-chinese-workers-2026"
+      ]
+    },
+    "event:马文禄(Ma Mon Luk)百年中餐厅关店(2026-10)": {
+      "note": "全新素材（中国侨网/菲龙网，2026-10-05）：菲律宾百年老字号中餐厅马文禄（Ma Mon Luk）最后一家分店因涉嫌违反卫生与营业许可规定被奎松市政府勒令关闭；创始人马文禄1896年生于广东香山、1918年南渡菲律宾，约1920年创制马米面（mami）并推广菲式烧包（siopao），九十年代中期大马尼拉曾有至少6家分店。聚焦菲华最古老商业地标退场、离散家族企业代际疲惫与同化下的遗产脆弱性；与既有菲律宾条目（绑架提醒/POGO扫荡/校园枪击/华校安全化/南海等）及中餐出海、华侨华人慈善等条目不重复。",
+      "exception": null,
+      "slugs": [
+        "ma-mon-luk-century-restaurant-closure-philippines-2026"
       ]
     }
   }

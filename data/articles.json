@@ -1,10 +1,65 @@
 [
   {
+    "slug": "ma-mon-luk-century-restaurant-closure-philippines-2026",
+    "title": "马文禄谢幕：一家百年菲华中餐厅关店，照见离散社群的代际疲惫",
+    "subtitle": "从马尼拉街头挑担到国民老字号，一张关店通知何以成为离散遗产脆弱性的注脚",
+    "category": "华侨华人",
+    "tags": [
+      "菲律宾",
+      "华人",
+      "离散",
+      "餐饮",
+      "文化传承",
+      "代际传承"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-06",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "菲律宾百年老字号中餐厅马文禄的最后一家分店因违规被奎松市政府勒令关闭。这不止是一桩商号关张：从香山移民的挑担面摊到国民记忆，马文禄的谢幕照见菲华最古老商业地标的退场，折射离散家族企业的传承疲惫、监管与竞争夹击，以及同化浪潮下苦乐参半的滋味。",
+    "en": {
+      "title": "The Closing of Ma Mon Luk: A Century-Old Filipino-Chinese Eatery and the Diaspora's Quiet Fatigue",
+      "subtitle": "From a Manila street stall to a national institution — why a shutdown notice at a century-old Filipino-Chinese restaurant reads as a footnote to diaspora fragility",
+      "category": "Overseas Chinese",
+      "country": "Philippines",
+      "summary": "Ma Mon Luk, a century-old Filipino-Chinese restaurant founded by a Zhongshan immigrant in 1918, saw its last branch in Quezon City ordered closed by local authorities in October 2026. More than a business closure, it marks the quiet fading of the overseas Chinese community's oldest commercial landmarks in the Philippines, reflecting diaspora family firms' succession fatigue, the regulatory and competitive squeeze, and the bittersweet edge of assimilation — even as mami and siopao, once \"Chinese,\" are now unmistakably Filipino.",
+      "imageAlt": "A bowl of Chinese noodle soup with chopsticks, evoking Ma Mon Luk's signature mami",
+      "references": [
+        {
+          "source": "China Qiao Wang (chinaqw.com)",
+          "title": "A century-old Chinese restaurant in the Philippines closes its doors",
+          "url": "https://www.chinaqw.com/hqhr/2026/10-05/412339.shtml",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "image": "images/articles/ma-mon-luk-century-restaurant-closure-philippines-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-06",
+    "imageAlt": "一碗华人汤面与筷子，致敬菲律宾百年老字号马文禄的招牌马米面",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "菲律宾百年中餐厅关店，民众不舍告别",
+        "url": "https://www.chinaqw.com/hqhr/2026/10-05/412339.shtml",
+        "date": "2026-10-05"
+      }
+    ]
+  },
+  {
     "slug": "philippines-aetas-pax-silica-land-rights-2026",
     "title": "30比索一平方米：当人工智能枢纽遇上菲律宾原住民的祖地",
     "subtitle": "美国主导的“硅和平”倡议在新克拉克市落地，约1000名埃塔原住民却收到12月前搬离的通知与每平方米30比索的征地报价",
     "category": "社会文化",
-    "tags": ["菲律宾", "原住民", "土地权", "人工智能", "供应链", "美国", "东南亚"],
+    "tags": [
+      "菲律宾",
+      "原住民",
+      "土地权",
+      "人工智能",
+      "供应链",
+      "美国",
+      "东南亚"
+    ],
     "country": "菲律宾",
     "date": "2026-10-05",
     "readingTime": 7,
