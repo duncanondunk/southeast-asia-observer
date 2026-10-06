@@ -1,5 +1,56 @@
 [
   {
+    "slug": "japan-thailand-investment-wave-2026",
+    "title": "日本企业重新下注泰国：一轮投资潮改写旧剧本",
+    "subtitle": "BOI 数据显示2025年日企对泰投资申请翻倍，从低成本组装转向自动化与电动化，K型分化浮现",
+    "category": "经济产业",
+    "tags": [
+      "日本",
+      "泰国",
+      "投资",
+      "汽车",
+      "电动汽车",
+      "供应链",
+      "制造业",
+      "经济",
+      "自动化",
+      "就业"
+    ],
+    "country": "泰国",
+    "date": "2026-10-06",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/japan-thailand-investment-wave-2026.jpg",
+    "imageCredit": "Pexels — photo 32658709",
+    "imageAccessed": "2026-10-06",
+    "imageAlt": "曼谷商务区天际线，象征日本资本重估下的泰国经济枢纽",
+    "summary": "泰国投资促进委员会数据显示，2025年日本企业对泰投资申请翻倍至1137亿泰铢，资金从低成本组装转向自动化、电动化与高端航空供应链。三菱、五十铃等加码，斯巴鲁、铃木离场，K型分化显现；自动化升级不创造等量岗位，低技能工人与中小供应商承压。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Japan's firms redouble Thailand bets as automation and EV drive a new wave",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-09-07"
+      }
+    ],
+    "en": {
+      "title": "Japan's Firms Redouble Their Thailand Bets as a New Investment Wave Breaks the Old Mold",
+      "subtitle": "BOI data show 2025 Japanese investment applications in Thailand doubled, pivoting from low-cost assembly to automation and electrification, with a K-shape emerging",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "imageAlt": "Bangkok business-district skyline, symbolising Thailand's economic hub under Japanese capital's repricing",
+      "summary": "Thailand's BOI reports 2025 Japanese investment applications doubled to 113.7 billion baht as money pivots from low-cost assembly to automation, electrification and high-end aerospace. Mitsubishi and Isuzu double down while Subaru and Suzuki exit, revealing a K-shape; automation upgrades do not create jobs 1:1, squeezing low-skilled workers and small suppliers.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Japan's firms redouble Thailand bets as automation and EV drive a new wave",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-09-07"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-tourism-foreign-capital-crackdown-2026",
     "title": "游客天堂的反噬：泰国整顿外资与游客，照见东南亚开放模式的两难",
     "subtitle": "从帕岸岛山坡上的外资别墅到“收复泰国”示威，开放的红线该画在哪里",

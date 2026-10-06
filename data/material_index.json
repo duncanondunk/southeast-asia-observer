@@ -1611,6 +1611,13 @@
       "slugs": [
         "thailand-tourism-foreign-capital-crackdown-2026"
       ]
+    },
+    "event:日本企业新一轮对泰投资(技术升级与分化,2026-09)": {
+      "note": "全新素材（日经亚洲，2026-09-07 引述泰国 BOI 数据；EBC/Nation Thailand 等转述）：2025年日企对泰投资促进申请302件、约1137亿泰铢同比翻倍，资金从低成本组装转向自动化/机器人/清洁能源/电动化与高端航空供应链，NMB-Minebea 首闯空客波音精密航空件；K型分化——三菱/五十铃/马自达/本田加码，斯巴鲁(2024底停产)、铃木(2025底关厂)离场；自动化升级不创造等量岗位、低技能工人与中小供应商承压。与既有 japanese-banks-pivot-southeast-asia-china-2026（日本银行业，不同）、thailand-anutin-chinese-capital-upgrading-2026（中国资本）、thailand-china-fdi-ev-overtakes-japan-2026（中资EV超日本）、thailand-boi-fast-track-investment-2026（BOI审批机制）均不重复（本文聚焦日企在泰制造基地的升级与分化）。",
+      "exception": null,
+      "slugs": [
+        "japan-thailand-investment-wave-2026"
+      ]
     }
   }
 }
