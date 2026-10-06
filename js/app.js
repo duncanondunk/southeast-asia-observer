@@ -51,7 +51,7 @@
     '南非': 'South Africa', '武术': 'Martial Arts', '中南关系': 'China–South Africa Relations', '文化走出去': 'Cultural Going-Out', '中医': 'Traditional Chinese Medicine', '慈善': 'Charity', '非洲': 'Africa',
     '世卫组织': 'WHO', '全球南方': 'Global South', '多边主义': 'Multilateralism', '东南亚外交': 'Southeast Asian Diplomacy', '联合国': 'United Nations', '中美竞争': 'US–China Competition', '云计算': 'Cloud Computing', '技术': 'Technology',
     '贫困': 'Poverty', '名人政治': 'Celebrity Politics', '社会治理': 'Social Governance', '外交': 'Diplomacy', '国企': 'State-Owned Enterprise', '华为': 'Huawei', '技术自主': 'Technological Autonomy', '出口管制': 'Export Control', '海底光缆': 'Submarine Cable', '海洋科研': 'Marine Scientific Research', '巴士海峡': 'Bashi Channel', '数字基础设施': 'Digital Infrastructure', '数字主权': 'Digital Sovereignty', '社区': 'Community', '厄尔尼诺': 'El Niño',
-    '高温': 'Extreme Heat', '劳工': 'Labour', '热浪': 'Heatwave', '职业健康': 'Occupational Health', '原住民': 'Indigenous Peoples', '土地权': 'Land Rights',
+    '高温': 'Extreme Heat', '劳工': 'Labour', '热浪': 'Heatwave', '职业健康': 'Occupational Health', '原住民': 'Indigenous Peoples', '土地权': 'Land Rights', '女性': 'Women',
     '香港': 'Hong Kong', '商业地产': 'Commercial Property', '资本流动': 'Capital Flows', '民族主义': 'Nationalism', '消费': 'Consumption',
     '药物监管': 'Drug Regulation', '社交媒体': 'Social Media',
     '电子垃圾': 'E-waste', '循环经济': 'Circular Economy', '环境政策': 'Environmental Policy', '世界银行': 'World Bank', '中等收入陷阱': 'Middle-Income Trap', '产业升级': 'Industrial Upgrading', '金融': 'Finance', '全球环境基金': 'Global Environment Fund', '联合国开发计划署': 'UNDP',
