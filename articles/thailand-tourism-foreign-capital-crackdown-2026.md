@@ -50,7 +50,7 @@
 
 **收复泰国（Take Back Thailand）**：2026年起在泰国多地爆发的民间示威，抗议外籍游客与资本挤占本地资源，推动政府收紧免签并整顿外资。
 
-*话题参考：《联合早报》(zaobao.com) 东南亚新闻——《外国人和资本涌入泰国景区引发不满 政府加强整顿》。*
+*话题参考：《联合早报》（Lianhe Zaobao）(zaobao.com) 东南亚新闻——《外国人和资本涌入泰国景区引发不满 政府加强整顿》。*
 ===EN===
 
 # The Backlash Against the Tourist Paradise: Thailand's Crackdown on Foreign Capital and Visitors Exposes Southeast Asia's Openness Dilemma
