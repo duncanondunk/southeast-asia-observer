@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-06",
+  "version": "2026-10-07",
   "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
   "materials": {
     "event:菲律宾绑架中国公民与使馆提醒(2026-10)": {
@@ -1617,6 +1617,13 @@
       "exception": null,
       "slugs": [
         "japan-thailand-investment-wave-2026"
+      ]
+    },
+    "event:中国国庆黄金周带动泰国旅游(2026-10)": {
+      "note": "全新素材（中国侨网/中新社，2026-10-06）：泰国旅游与体育部数据显示9月27日至10月3日中国游客入境133946人次、环比增41.98%，约占当周外国游客四分之一，今年累计约400万人次居首；聚焦黄金周客流作为泰国第四季度旅游命脉与单一客源依赖的结构性风险。与既有 thailand-tourism-foreign-capital-crackdown-2026（外国资本与代持整顿）、thailand-anutin-chinese-capital-upgrading-2026（中国资本投资）不重复。",
+      "exception": null,
+      "slugs": [
+        "thailand-tourism-china-golden-week-2026"
       ]
     }
   }

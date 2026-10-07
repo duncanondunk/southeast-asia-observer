@@ -1,5 +1,52 @@
 [
   {
+    "slug": "thailand-tourism-china-golden-week-2026",
+    "title": "中国黄金周救场：泰国旅游业的第四季度保卫战",
+    "subtitle": "一周13.4万中国游客、环比涨42%——黄金周既是泰国旅游的强心针，也是一面照出依赖症的镜子。",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "中国游客",
+      "黄金周",
+      "旅游业",
+      "中泰关系",
+      "人员往来"
+    ],
+    "country": "泰国",
+    "date": "2026-10-07",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "泰国旅游与体育部数据显示，国庆假期当周赴泰中国游客达13.4万人次、环比增长近42%，约占当周外国游客四分之一；今年累计约400万人次，稳居泰国头号客源。黄金周客流既是泰国旅游的强心针，也照出其对单一客源的依赖——把流量变留量，才是泰国的真正考题。",
+    "image": "images/articles/thailand-tourism-china-golden-week-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-07",
+    "imageAlt": "泰国热带椰林河道上的一叶小船",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "中国国庆假期带动泰国旅游市场",
+        "url": "https://www.chinaqw.com/hqly/2026/10-06/412359.shtml",
+        "date": "2026-10-06"
+      }
+    ],
+    "en": {
+      "title": "China's Golden Week to the Rescue: Thailand's Fourth-Quarter Tourism Battle",
+      "subtitle": "134,000 Chinese visitors in a week, up 42% — Golden Week is both a stimulant for Thai tourism and a mirror of its dependence.",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "Thai Ministry of Tourism and Sports data show 133,946 Chinese arrivals in the week of September 27 to October 3, up 41.98% week-on-week and about a quarter of all foreign visitors that week; some 4 million Chinese have visited Thailand so far this year, keeping China the top source market. The Golden Week surge is both a shot in the arm for Thai tourism and a mirror of its dependence on a single source market. Turning footfall into loyalty, not counting arrivals, is Thailand's real exam.",
+      "imageAlt": "A small boat on a palm-fringed waterway in tropical Thailand",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "China's National Day holiday drives Thailand's tourism market",
+          "url": "https://www.chinaqw.com/hqly/2026/10-06/412359.shtml",
+          "date": "2026-10-06"
+        }
+      ]
+    }
+  },
+  {
     "slug": "japan-thailand-investment-wave-2026",
     "title": "日本企业重新下注泰国：一轮投资潮改写旧剧本",
     "subtitle": "BOI 数据显示2025年日企对泰投资申请翻倍，从低成本组装转向自动化与电动化，K型分化浮现",
