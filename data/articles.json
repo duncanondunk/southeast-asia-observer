@@ -1,5 +1,55 @@
 [
   {
+    "slug": "malaysia-chinese-buyers-property-middle-ground-2026",
+    "title": "马来西亚的“中间牌”：用泰国的价格，买新加坡的安稳",
+    "subtitle": "中国买家咨询榜上跃居第四——马来西亚以“新加坡式安稳、泰国式价格”卡位，但8%的外资印花税提醒人们：欢迎是有价签的。",
+    "category": "经济产业",
+    "tags": [
+      "马来西亚",
+      "房地产",
+      "中国买家",
+      "资本流动",
+      "经济产业",
+      "东南亚",
+      "新加坡",
+      "泰国",
+      "第二家园"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-07",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "居外（Juwai IQI）数据显示，2026年上半年马来西亚在中国买家置业咨询榜升至第四，高于2024年的第七与2025年的第六。分析认为，马来西亚以“新加坡式安稳、泰国式价格”卡位，叠加第二家园计划与更便宜的国际学校，成为港人及内地家庭的“中间选项”；但8%外资印花税与供应过剩风险犹存。",
+    "image": "images/articles/malaysia-chinese-buyers-property-middle-ground-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-10-07",
+    "imageAlt": "吉隆坡双子塔之间落日余晖，映照这座正被中国买家重新发现的城市",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "How Malaysia offers Chinese investors Singapore's comfort at prices lower than Thailand",
+        "url": "https://www.scmp.com/business/article/3369646/how-malaysia-offers-chinese-investors-singapores-comfort-prices-lower-thailand",
+        "date": "2026-10-04"
+      }
+    ],
+    "en": {
+      "title": "Malaysia's Quiet Pitch: Singapore's Comfort at Thailand's Prices",
+      "subtitle": "Malaysia climbs to fourth among Chinese buyer inquiries — pitching Singapore-style stability at Thai prices, while an 8% foreign stamp duty signals the welcome has a price.",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Malaysia rose to fourth among destinations for Chinese buyer property inquiries in the first half of 2026, up from seventh in 2024 and sixth in 2025. Analysts say Malaysia pitches Singapore-style institutional stability at Thailand-like prices, reinforced by the MM2H residency scheme, a Mandarin-friendly diaspora environment and international schools cheaper than Hong Kong's — while an 8% foreign-buyer stamp duty and oversupply risks temper the enthusiasm.",
+      "imageAlt": "Sunset glowing between Kuala Lumpur's Petronas Twin Towers, over a city being rediscovered by Chinese buyers",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "How Malaysia offers Chinese investors Singapore's comfort at prices lower than Thailand",
+          "url": "https://www.scmp.com/business/article/3369646/how-malaysia-offers-chinese-investors-singapores-comfort-prices-lower-thailand",
+          "date": "2026-10-04"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-china-remittances-duterte-firm-probe-2026",
     "title": "“中国汇款”搅动菲律宾政坛：莎拉弹劾案里的资金罗生门",
     "subtitle": "一家香蕉干出口商收到的海外汇款，如何从反洗钱报表变成国家安全议题？",
