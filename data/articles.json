@@ -1,5 +1,54 @@
 [
   {
+    "slug": "philippines-china-remittances-duterte-firm-probe-2026",
+    "title": "“中国汇款”搅动菲律宾政坛：莎拉弹劾案里的资金罗生门",
+    "subtitle": "一家香蕉干出口商收到的海外汇款，如何从反洗钱报表变成国家安全议题？",
+    "category": "地缘政治",
+    "tags": [
+      "菲律宾",
+      "华侨华人",
+      "中菲关系",
+      "弹劾",
+      "反洗钱",
+      "资本流动",
+      "地缘政治",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-07",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "菲律宾国家安全委员会正核查副总统莎拉弹劾审讯中披露的资金信息：其丈夫关联的香蕉干出口商凯乐88公司收到来自中国大陆和香港的汇款3.19亿比索（约3660万元人民币），被银行标记为可疑交易。前参议员特里兰尼斯指资金来自中国政府，使馆否认输血政治派系。本文辨析“中国汇款”叙事的政治用途与华商误伤风险。",
+    "image": "images/articles/philippines-china-remittances-duterte-firm-probe-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-07",
+    "imageAlt": "一个人在膝上摊开一叠百元美钞，跨境资金往往在监管视野的边缘悄然流动",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "菲律宾调查中国汇款流向莎拉丈夫关联公司",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261006-9793389",
+        "date": "2026-10-06"
+      }
+    ],
+    "en": {
+      "title": "\"Chinese remittances\" shake Philippine politics: the money mystery in Sara Duterte's impeachment",
+      "subtitle": "How remittances to a banana-chip exporter turned from an anti-money-laundering footnote into a national-security question",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "The Philippine National Security Council is reviewing financial information disclosed at Vice President Sara Duterte's impeachment trial: a banana-chip exporter linked to her husband received 319 million pesos (about US$5.1 million) in remittances from mainland China and Hong Kong, flagged by banks as suspicious. Former senator Antonio Trillanes IV claims the funds came from the Chinese government; the embassy denies funding any political faction. This piece examines the political uses of the \"Chinese remittances\" narrative — and the collateral risk to legitimate Chinese-Filipino commerce.",
+      "imageAlt": "A fan of hundred-dollar bills spread across a lap — cross-border money often moves quietly at the edge of regulatory view",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Philippines probes China remittances to firm linked to Sara Duterte's husband",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261006-9793389",
+          "date": "2026-10-06"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-coal-miners-diversification-2026",
     "title": "「黑金」褪色：印尼煤企在价格反弹时急着找后路",
     "subtitle": "当中东战事推高煤价、煤企账面回血，阿达罗、印多卡等巨头却加速转向铝、金、锂与光伏——这场“去煤化”突围，究竟是真转型还是缓兵之计？",
