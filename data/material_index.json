@@ -1625,6 +1625,13 @@
       "slugs": [
         "thailand-tourism-china-golden-week-2026"
       ]
+    },
+    "event:印尼煤企多元化转型(煤炭下行与能源转型,2026-10)": {
+      "note": "全新素材（参考《日经亚洲》2026-10-05 报道 Indonesian Coal Miners Accelerate Diversification as Volatility Rises）：印尼作为全球最大动力煤出口国，煤企（阿达罗/Alamtri、印多卡/Indika 等）在中东战事推高煤价、账面回血之际加速转向铝、金、锂、光伏与煤制气；叠加镍矿退潮致煤电自带电厂需求见顶、对华出口骤降，以及普拉博沃/巴赫利尔“限产保收入+煤变油”政策。与既有印尼条目（PFII 金融中心/镍矿禁令/100吉瓦太阳能/雅万高铁债务重组/厄尔尼诺冲击等）不重复（本文聚焦煤炭产业的多元化突围与去煤化真实成色）。",
+      "exception": null,
+      "slugs": [
+        "indonesia-coal-miners-diversification-2026"
+      ]
     }
   }
 }

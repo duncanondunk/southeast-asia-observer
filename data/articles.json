@@ -1,5 +1,80 @@
 [
   {
+    "slug": "indonesia-coal-miners-diversification-2026",
+    "title": "「黑金」褪色：印尼煤企在价格反弹时急着找后路",
+    "subtitle": "当中东战事推高煤价、煤企账面回血，阿达罗、印多卡等巨头却加速转向铝、金、锂与光伏——这场“去煤化”突围，究竟是真转型还是缓兵之计？",
+    "category": "经济产业",
+    "tags": [
+      "印度尼西亚",
+      "经济产业",
+      "矿业",
+      "能源",
+      "经济多元化",
+      "普拉博沃",
+      "气候变化",
+      "东南亚",
+      "新能源",
+      "国有企业"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-10-07",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "印尼是全球最大动力煤出口国。当中东战事推高煤价、煤企账面回血之际，阿达罗、印多卡等巨头却加速转向铝、金、锂与光伏。本文分析这场“去煤化”突围的真实成色与结构性困局。",
+    "image": "images/articles/indonesia-coal-miners-diversification-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-10-07",
+    "imageAlt": "印尼大规模光伏阵列，隐喻这个煤炭大国正被迫向清洁能源与多元矿产转身",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesian Coal Miners Accelerate Diversification as Volatility Rises",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-10-05"
+      },
+      {
+        "source": "InvestorTrust",
+        "title": "State Revenue Over Volume: Inside Indonesia's Multi-Front Coal Strategy as Bahlil Curbs Output and Pushes Coal-to-Fuel",
+        "url": "https://investortrust.id/business/116967/state-revenue-over-volume-inside-indonesias-multi-front-coal-strategy-as-bahlil-curbs-output-and-pushes-coal-to-fuel",
+        "date": "2026-09-21"
+      },
+      {
+        "source": "Reuters",
+        "title": "Indonesia nickel slump piles pressure on coal miners hit by falling exports",
+        "url": "https://www.tradingview.com/news/reuters.com%2C2025%3Anewsml_L4N3TC0TK%3A0-indonesia-nickel-slump-piles-pressure-on-coal-miners-hit-by-falling-exports",
+        "date": "2025"
+      }
+    ],
+    "en": {
+      "title": "\"Black gold\" fades: why Indonesia's coal giants are seeking an exit while prices rebound",
+      "subtitle": "As the Iran-war energy shock lifts coal prices and fattens miners' books, giants like Adaro and Indika are racing into aluminum, gold, lithium and solar. Is this a real transition — or a hedge against a closing window?",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "Indonesia is the world's largest thermal coal exporter. Yet as the Iran-war energy shock lifted coal prices and fattened miners' balance sheets in early 2026, giants like Adaro and Indika are accelerating diversification into aluminum, gold, lithium and solar. This commentary examines whether the rush to leave coal is a real transition or a defensive hedge against volatility, falling Chinese demand and a maturing nickel market.",
+      "imageAlt": "Vast solar arrays in Indonesia, a metaphor for a coal-dependent nation being forced to turn toward clean energy and diversified minerals.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesian Coal Miners Accelerate Diversification as Volatility Rises",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-10-05"
+        },
+        {
+          "source": "InvestorTrust",
+          "title": "State Revenue Over Volume: Inside Indonesia's Multi-Front Coal Strategy",
+          "url": "https://investortrust.id/business/116967/state-revenue-over-volume-inside-indonesias-multi-front-coal-strategy-as-bahlil-curbs-output-and-pushes-coal-to-fuel",
+          "date": "2026-09-21"
+        },
+        {
+          "source": "Reuters",
+          "title": "Indonesia nickel slump piles pressure on coal miners hit by falling exports",
+          "url": "https://www.tradingview.com/news/reuters.com%2C2025%3Anewsml_L4N3TC0TK%3A0-indonesia-nickel-slump-piles-pressure-on-coal-miners-hit-by-falling-exports",
+          "date": "2025"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-tourism-china-golden-week-2026",
     "title": "中国黄金周救场：泰国旅游业的第四季度保卫战",
     "subtitle": "一周13.4万中国游客、环比涨42%——黄金周既是泰国旅游的强心针，也是一面照出依赖症的镜子。",
