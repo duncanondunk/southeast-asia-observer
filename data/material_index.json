@@ -1,1651 +1,1658 @@
 {
-  "version": "2026-10-07",
-  "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
-  "materials": {
-    "event:马来西亚成为中国买家第四大置业咨询目的地(2026-10)": {
-      "note": "全新素材（南华早报，2026-10-04）：居外（Juwai IQI）数据显示2026年上半年马来西亚在中国买家置业咨询榜升至第四（2024年第七、2025年第六），以“新加坡式制度安稳、泰国式价格”卡位；第二家园计划2025年收3172份申请、约10亿美元外资，2026年起外资印花税升至8%；与既有东南亚资本赴香港置业（方向相反）、马来西亚各产业条目及香港、新加坡地产条目不重复（本文聚焦中国买家海外置业的“中间选项”现象）。",
-      "exception": null,
-      "slugs": [
-        "malaysia-chinese-buyers-property-middle-ground-2026"
-      ]
-    },
-    "event:菲律宾绑架中国公民与使馆提醒(2026-10)": {
-      "note": "全新素材（中国侨网/中国侨网微信公众号，2026-10-04）：菲律宾警方9月25—29日在多起绑架案中逮捕4嫌犯、解救3名受害者（含中国公民），中国驻菲使馆再发提醒防范“被诱骗绑架勒索”；华侨华人/领事保护/跨境犯罪治理主题。与既有菲律宾条目（南海转向/比索新低/洪水贪腐/华校安全化/无人作战/教育预算/校园枪击/客轮海难/Pax Silica 等）及跨境治理、人口贩运、罗兴亚等条目不重复（本文聚焦在菲中国公民人身安全与使馆领保机制）。",
-      "exception": null,
-      "slugs": [
-        "philippines-kidnapping-chinese-citizen-embassy-warning-2026"
-      ]
-    },
-    "event:日经亚洲与FT曼谷商业奢侈峰会(2026-10)": {
-      "note": "全新素材（日经亚洲/日经新闻社，2026-10-02 新闻稿）：日经新闻社与英国《金融时报》将于2026-10-19至20日在曼谷合办亚洲版商业奢侈峰会（第二届，首届在香港）。聚焦东南亚财富与注意力东移、文化认同成为奢侈品新卖点、泰国华裔财团资本暗线、以及泰国经济底色脆弱（二季度增速1.9%、九月洪灾）的冷思考；与既有 china-brands-southeast-asia-luxury-2026（中国消费品牌出海东南亚，属不同素材）及泰国经济系列条目不重复。",
-      "exception": null,
-      "slugs": [
-        "bangkok-luxury-summit-nikkei-ft-2026"
-      ]
-    },
-    "event:Grab以15亿美元控股Atome(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-15）：Grab 以15亿美元现金收购先买后付平台 Atome Financial 60%股权，消费信贷/超级应用金融化主题；与既有 Grab、金融科技、BNPL 条目不重复。",
-      "exception": null,
-      "slugs": [
-        "grab-acquires-atome-majority-stake-2026"
-      ]
-    },
-    "event:普拉博沃撤换印尼财长(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-14）：印尼总统普拉博沃以第97P号总统令撤换财长普尔巴亚、任命苏阿希勒·纳扎拉，经济产业/财政主题；与既有印尼、财政、主权财富基金条目不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-prabowo-sacks-finance-minister-2026"
-      ]
-    },
-    "event:泰王国国王首次国事访越(2026-09)": {
-      "note": "全新素材（越南政府新闻网/越南通讯社，2026-09-14至16）：泰王国国王哇集拉隆功首次对越南国事访问、建交50周年、全面战略伙伴，地缘政治/王室外交主题；与既有越南、泰国、东盟条目不重复。",
-      "exception": null,
-      "slugs": [
-        "thai-king-state-visit-vietnam-2026"
-      ]
-    },
-    "event:台风沙德尔后海外莆商驰援莆田(2026-09)": {
-      "note": "全新素材（中国侨网，2026-09-11）：台风“沙德尔”重创福建莆田侨乡，海外莆商与港澳同胞跨洋捐款捐物，华侨华人/侨乡赈灾主题；与既有侨乡、慈善、灾害条目不重复。",
-      "exception": null,
-      "slugs": [
-        "overseas-chinese-putian-typhoon-relief-2026"
-      ]
-    },
-    "event:菲拳王帕奎奥入阁打扶贫(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-08）：菲律宾拳王帕奎奥出任国家反贫困委员会首席召集人，社会政策/名人政治主题；与既有菲律宾、贫困、社会治理条目不重复。",
-      "exception": null,
-      "slugs": [
-        "pacquiao-cabinet-anti-poverty-2026"
-      ]
-    },
-    "event:印尼向日本推介32个战略基建项目(2026-09)": {
-      "note": "全新素材（日经亚洲/区域财经媒体，2026-08末东京论坛）：印尼向日本推介32个国企战略基建项目约125亿美元，经济产业/外交主题；与既有印尼、日本、基建条目不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-japan-32-infra-projects-2026"
-      ]
-    },
-    "event:马来西亚拟用华为昇腾910C建主权AI(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-08）：马来西亚评估以华为昇腾910C支撑20亿林吉特主权AI，美中技术栈抉择/数据主权主题；与既有数据中心、AI、出口管制条目不重复（本篇聚焦政府主权AI与美出口管制碰撞）。",
-      "exception": null,
-      "slugs": [
-        "malaysia-huawei-sovereign-ai-2026"
-      ]
-    },
-    "event:第23届东博会签约活动落地南宁(2026-09)": {
-      "note": "全新素材（中国侨网/南宁日报，2026-09-08）：第23届东博会签约活动9月18日南宁举行，约300人出席，聚焦AI应用与创新、向海经济、十大现代化支柱产业，发布《投资广西》场景清单；与既有中国—东盟关系指数、区域产业链、广西枢纽等条目不重复（本文聚焦东博会签约机制与华商/侨资暗线）。",
-      "exception": null,
-      "slugs": [
-        "china-asean-expo-2026-signing"
-      ]
-    },
-    "event:新加坡二度上调增长预测(AI出口驱动,2026-08)": {
-      "note": "全新素材（日经亚洲/新加坡贸工部，2026-08/09）：新加坡年内二度上调2026增长预测至4.5%—5.5%，AI相关半导体出口成主引擎；与既有东南亚AI数据中心、越南超越泰国、各国GDP等条目不重复（本文聚焦新加坡作为AI贸易晴雨表的集中风险与区域读数）。",
-      "exception": null,
-      "slugs": [
-        "singapore-ai-export-barometer-2026"
-      ]
-    },
-    "event:缅甸华裔青年杨家迅以代码架起华文教育数字桥梁(2026-09)": {
-      "note": "全新素材（中国侨网，2026-09-07），缅甸华裔青年以编程搭建华文学习平台、数字赋能华文教育，华侨华人/华文教育主题；与既有缅甸、青年、文化交流条目不重复。",
-      "exception": null,
-      "slugs": [
-        "china-myanmar-youth-code-bridge-huawen-2026"
-      ]
-    },
-    "event:美军林肯号航母停靠泰国芭堤雅(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-07），美军航母林肯号停靠泰国芭堤雅、九个月来首次，地缘政治/军事存在主题；与既有泰国、军事合作条目不重复。",
-      "exception": null,
-      "slugs": [
-        "us-aircraft-carrier-lincoln-thailand-2026"
-      ]
-    },
-    "event:日美菲合办马尼拉AI枢纽投资论坛(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-07），日美菲合办马尼拉AI枢纽投资论坛、区域数字基建，经济产业/数字经济主题；与既有菲律宾、AI、投资条目不重复。",
-      "exception": null,
-      "slugs": [
-        "japan-us-philippines-manila-ai-hub-2026"
-      ]
-    },
-    "event:越南拟取消化毒品贩运死刑(2026-08)": {
-      "note": "全新素材（南华早报，2026-08-29），越南拟在刑法修订中取消化毒品贩运死刑、地区争议，社会文化/法律主题；与既有越南、法律条目不重复。",
-      "exception": null,
-      "slugs": [
-        "vietnam-ends-drug-trafficking-death-penalty-2026"
-      ]
-    },
-    "event:中缅青年交流胞波情谊(2026-09)": {
-      "note": "全新素材（中国侨网，2026-09-06），仰光中缅青年交流活动暨媒体茶话会，华侨华人/民间交流主题；与既有缅甸、青年、文化交流条目不重复。",
-      "exception": null,
-      "slugs": [
-        "china-myanmar-youth-exchange-paukphaw-2026"
-      ]
-    },
-    "event:越南拟购法国阵风战机(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-06），越南与法国谈判采购阵风战机、防务转向西方，地缘政治/军事合作主题；与既有越南、军事合作条目不重复。",
-      "exception": null,
-      "slugs": [
-        "vietnam-rafale-france-shift-west-2026"
-      ]
-    },
-    "event:马来西亚关键矿产中国限制迫近(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-06），马来西亚关键矿产引全球关注、中国出口管制迫近，经济产业/供应链主题；与既有稀土、矿业条目不重复。",
-      "exception": null,
-      "slugs": [
-        "malaysia-critical-minerals-china-curbs-2026"
-      ]
-    },
-    "event:平陆运河通航助推东盟货运(2026-09)": {
-      "note": "平陆运河通航(2026-09-16) 系列。首篇 pinglu-canal-asean-shipments-2026 聚焦东盟货物北上通道与RCEP/广西枢纽框架（南华早报来源）。本篇 pinglu-canal-opens-china-asean-2026 为第二篇、视角不同（日经亚洲来源）：聚焦运河在中国产能向东南亚迁移叙事中的角色、孙中山1920《实业计划》百年设想落地、工程自主化与成本账对比巴拿马，区别于首篇的贸易流量/RCEP框架。",
-      "exception": null,
-      "slugs": [
-        "pinglu-canal-asean-shipments-2026",
-        "pinglu-canal-opens-china-asean-2026"
-      ]
-    },
-    "event:中新海上合作2026联演(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-04），中新海军湛江海域\"海上合作-2026\"联演，地缘政治/军事合作主题；与既有南海、军事合作条目不重复。",
-      "exception": null,
-      "slugs": [
-        "china-singapore-maritime-cooperation-2026-exercise"
-      ]
-    },
-    "event:越南前8月贸易额7700亿创纪录(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-04），越南前8月贸易7700亿美元创纪录、AI驱动，经济产业/产业链主题。",
-      "exception": null,
-      "slugs": [
-        "vietnam-record-trade-ai-boom-2026"
-      ]
-    },
-    "event:越南30亿美元跨境铁路对接中国(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-04），越南敲定约30亿美元跨境铁路对接中国铁路网，地缘政治/基础设施主题。",
-      "exception": null,
-      "slugs": [
-        "vietnam-china-cross-border-railway-2026"
-      ]
-    },
-    "event:马来西亚警方瓦解24非法矿场(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-28），非法采矿/稀土盗采/跨境灰产主题；与既有稀土、矿场、环境条目不重复。",
-      "exception": null,
-      "slugs": [
-        "malaysia-police-bust-illegal-mines-2026"
-      ]
-    },
-    "event:印尼反腐集会要求资产没收法案(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-27），反腐败/社会运动/立法诉求主题；与既有菲律宾反腐（不同事件）、社会政策条目不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-anti-corruption-protests-2026"
-      ]
-    },
-    "film:Dear You (给阿嬷的情书)": {
-      "note": "历史遗留冲突：3 篇同素材（letter-to-grandma-indonesia / amah-letter-indonesia / dear-you-qiaopi-indonesia）。grandfathered，今后禁止再发该电影题材。",
-      "exception": "grandfathered",
-      "slugs": [
-        "letter-to-grandma-indonesia",
-        "amah-letter-indonesia",
-        "dear-you-qiaopi-indonesia"
-      ]
-    },
-    "event:印尼央行行长提名(德斯特莉)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "indonesia-central-bank-destry"
-      ]
-    },
-    "event:马来西亚罗兴亚人遣返": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "malaysia-rohingya-repatriation"
-      ]
-    },
-    "event:二十四节令鼓入编马来西亚教育部": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "malaysia-24-festive-drums-national"
-      ]
-    },
-    "event:马来西亚缅甸难民筛查遣返": {
-      "note": "与罗兴亚人遣返为不同事件（筛查启动 vs 船运接收）",
-      "exception": null,
-      "slugs": [
-        "malaysia-myanmar-refugee-screening-return"
-      ]
-    },
-    "event:菲律宾华校安全化": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "chinese-schools-securitized-philippines"
-      ]
-    },
-    "event:印尼华裔总会(INTI)换届": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "indonesia-chinese-inti-roots"
-      ]
-    },
-    "project:中国气象预警MAZU海外落地": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "mazu-early-warning-diaspora"
-      ]
-    },
-    "topic:保护海外华侨权益(全国侨务工作会议)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "protecting-overseas-chinese-rights"
-      ]
-    },
-    "event:东爪哇林火与跨境烟霾": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "java-fire-transboundary-haze"
-      ]
-    },
-    "event:马来西亚巫统-伊党马来票整合(蓝潮)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "malaysia-blue-wave"
-      ]
-    },
-    "event:菲律宾Q2 GDP放缓": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "philippines-q2-gdp-slowdown"
-      ]
-    },
-    "policy:印尼免费餐计划与厨余": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "indonesia-free-meals-waste"
-      ]
-    },
-    "topic:东南亚华裔青年中文传承": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "malaysia-chinese-youth-mandarin"
-      ]
-    },
-    "topic:关税转移vs AI替代(峇淡岛/马尼拉)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "atoms-in-bits-out-batam-manila"
-      ]
-    },
-    "relation:中印尼关系(普拉博沃)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "prabowo-china-indonesia-relations"
-      ]
-    },
-    "topic:东南亚AI与能源震荡": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "sea-ai-and-energy-shock"
-      ]
-    },
-    "topic:郑和清真寺(泗水)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "zheng-he-mosque-surabaya"
-      ]
-    },
-    "topic:六千万海外侨民(侨务读本)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "overseas-chinese-sixty-million"
-      ]
-    },
-    "topic:侨批(离散群体汇款家书)": {
-      "note": "与 film:Dear You 不同素材（侨批制度本身）；不计入电影集群。",
-      "exception": null,
-      "slugs": [
-        "qiaopi-diaspora-letters"
-      ]
-    },
-    "topic:越南制造与供应链重构": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "vietnam-manufacturing-supply-chain"
-      ]
-    },
-    "policy:印尼镍矿出口禁令": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "indonesia-nickel-export-ban"
-      ]
-    },
-    "topic:湄公河旱涝(气候与地缘)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "mekong-drought-floods"
-      ]
-    },
-    "topic:新加坡小国外交": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "singapore-small-state-diplomacy"
-      ]
-    },
-    "event:菲律宾南海政策转向": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "philippines-south-china-sea-pivot"
-      ]
-    },
-    "topic:新时代侨务工作(向实向新向未来·专家论)": {
-      "note": "与 topic:保护海外华侨权益(全国侨务工作会议) 区分：本文聚焦侨务治理范式转移（引资引智→服务到人）及东南亚族裔政治试金石，非会议“权益保护为重中之重”的部署复述。",
-      "exception": null,
-      "slugs": [
-        "new-era-qiaowu-work"
-      ]
-    },
-    "topic:新侨餐饮创业与青年侨团（徐𬱖/法国里昂）": {
-      "note": "全新素材（中国侨网《华人故事》）",
-      "exception": null,
-      "slugs": [
-        "xudi-new-overseas-chinese-association"
-      ]
-    },
-    "event:菲律宾举债振兴经济(2027预算)": {
-      "note": "全新素材（联合早报）",
-      "exception": null,
-      "slugs": [
-        "philippines-debt-economic-stimulus-2027"
-      ]
-    },
-    "event:澳洲越南深化军事合作与供应链": {
-      "note": "全新素材（联合早报）",
-      "exception": null,
-      "slugs": [
-        "australia-vietnam-defence-supply-chain"
-      ]
-    },
-    "event:汕头大学新加坡潮籍侨领口述史采集": {
-      "note": "全新素材（中国侨网）",
-      "exception": null,
-      "slugs": [
-        "shantou-university-teochew-oral-history-singapore"
-      ]
-    },
-    "event:马来西亚民行党去留与华人政治格局": {
-      "note": "全新素材（联合早报）",
-      "exception": null,
-      "slugs": [
-        "malaysia-dap-chinese-opposition-pattern"
-      ]
-    },
-    "event:马澳稀土合作(钕磁铁生产)": {
-      "note": "全新素材（联合早报）",
-      "exception": null,
-      "slugs": [
-        "malaysia-australia-rare-earth-neodymium"
-      ]
-    },
-    "topic:客家树叶吹奏技艺出海(福建)": {
-      "note": "全新素材（中国侨网·中新社，2026-08-14）",
-      "exception": null,
-      "slugs": [
-        "hakka-leaf-blowing-overseas"
-      ]
-    },
-    "event:越南对华榴莲出口(2026上半年)": {
-      "note": "全新素材（联合早报，2026-08-13）",
-      "exception": null,
-      "slugs": [
-        "vietnam-durian-china-export"
-      ]
-    },
-    "event:泰国否认军事关系作泰美贸易筹码": {
-      "note": "全新素材（联合早报，2026-08-13）",
-      "exception": null,
-      "slugs": [
-        "thailand-us-trade-military"
-      ]
-    },
-    "topic:海外侨胞助老侨宅修缮活化(乡愁/侨乡)": {
-      "note": "全新素材（中国侨网）",
-      "exception": null,
-      "slugs": [
-        "overseas-chinese-old-home-restoration"
-      ]
-    },
-    "event:印尼弗洛雷斯岛7.7级强震海啸预警(2026-08-15)": {
-      "note": "全新素材（联合早报，今日突发）",
-      "exception": null,
-      "slugs": [
-        "indonesia-flores-7.7-quake-tsunami"
-      ]
-    },
-    "event:马来西亚次季GDP增6%(AI与内需,2026Q2)": {
-      "note": "全新素材（联合早报）",
-      "exception": null,
-      "slugs": [
-        "malaysia-q2-gdp-6-ai"
-      ]
-    },
-    "event:新加坡建筑垃圾跨境倾倒柔佛(2026-08)": {
-      "note": "08-14自动化中断残留，今(08-15)补发",
-      "exception": null,
-      "slugs": [
-        "singapore-construction-waste-johor-dumping"
-      ]
-    },
-    "person:肖思明(马来西亚归侨·南洋抗战归国)": {
-      "note": "全新素材（中国侨网《华人故事》，2026-08-16）",
-      "exception": null,
-      "slugs": [
-        "malaysia-returned-chinese-xiao-siming"
-      ]
-    },
-    "event:马来西亚东铁ECRL争取2026年12月提前通车": {
-      "note": "全新素材（联合早报）",
-      "exception": null,
-      "slugs": [
-        "malaysia-ecrl-early-opening"
-      ]
-    },
-    "event:中菲联合能源勘探谈判(礼乐滩,2026-08)": {
-      "note": "全新素材（联合早报）",
-      "exception": null,
-      "slugs": [
-        "china-philippines-joint-energy-exploration"
-      ]
-    },
-    "event:泰国设立数据中心经营政策委员会(2026-08)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "thailand-data-centre-policy-committee"
-      ]
-    },
-    "event:印尼普拉博沃提出小学一年级起加强中文等外语教育(2026-08)": {
-      "note": "",
-      "exception": null,
-      "slugs": [
-        "indonesia-chinese-language-education"
-      ]
-    },
-    "event:第十一届世界华侨华人社团联谊大会(2026-07)": {
-      "note": "第十一届世界华侨华人社团联谊大会（2026年7月14日北京闭幕）。",
-      "exception": null,
-      "slugs": [
-        "11th-world-congress-overseas-chinese-associations"
-      ]
-    },
-    "event:2026年纪念南侨机工公祭典礼(吉隆坡)": {
-      "note": "2026年吉隆坡两度公祭南侨机工（7月5日隆雪华堂主办、8月15日广东义山815公祭），属华侨华人历史记忆主题。",
-      "exception": null,
-      "slugs": [
-        "nanqiao-jigong-memorial-kl-2026"
-      ]
-    },
-    "event:曼谷湄南河畔第二波开发热潮(2026-08)": {
-      "note": "2026年8月联合早报报道曼谷湄南河沿岸第二波开发潮（AWC、正大等沿河布局）。",
-      "exception": null,
-      "slugs": [
-        "bangkok-chaophraya-riverfront-boom"
-      ]
-    },
-    "event:越南连续第八个月贸易逆差(2026-08)": {
-      "note": "2026年8月越南连续第八个月贸易逆差，联合早报报道；属经济产业主题。",
-      "exception": null,
-      "slugs": [
-        "vietnam-trade-deficit-eighth-month"
-      ]
-    },
-    "film:欢迎来龙餐馆(龙餐馆)": {
-      "note": "全新素材（中国侨网《欢迎来龙餐馆》热映，2026-08-14/18）。华侨华人离散叙事转向全球冲突地带的华商题材，与既有东南亚离散主题不重复。",
-      "exception": null,
-      "slugs": [
-        "dragon-restaurant-film-diaspora"
-      ]
-    },
-    "event:敏昂莱会见普京(缅甸-俄罗斯伙伴)": {
-      "note": "全新素材（联合早报，2026-08-18）",
-      "exception": null,
-      "slugs": [
-        "myanmar-russia-putin-reliable-partner"
-      ]
-    },
-    "event:越南菲律宾迈入中高收入国家(半导体驱动)": {
-      "note": "全新素材（联合早报，2026-08-18）",
-      "exception": null,
-      "slugs": [
-        "vietnam-philippines-upper-middle-income"
-      ]
-    },
-    "event:东南亚侨领赴滇研习活动(2026-07)": {
-      "note": "全新素材（中国侨网，2026-07-15）",
-      "exception": null,
-      "slugs": [
-        "southeast-asian-overseas-chinese-leaders-yunnan-2026"
-      ]
-    },
-    "event:印尼扩大人工增雨抗林火(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-18）",
-      "exception": null,
-      "slugs": [
-        "indonesia-cloud-seeding-haze-2026"
-      ]
-    },
-    "event:越南刑法修正草案废除死刑(2026-08)": {
-      "slugs": [
-        "vietnam-death-penalty-abolition-2026"
-      ],
-      "note": "",
-      "exception": null
-    },
-    "event:泰缅最高军事将领会谈(2026-08)": {
-      "slugs": [
-        "thailand-myanmar-top-generals-talks-2026"
-      ],
-      "note": "",
-      "exception": null
-    },
-    "event:海外侨胞过七夕(七夕文化传承,2026)": {
-      "slugs": [
-        "qixi-overseas-chinese-2026"
-      ],
-      "note": "全新素材（中国侨网/中新社，2026-08-19），华侨华人离散节俗主题：阿根廷/意大利/马来西亚/美国四个侨社的七夕实践，重点是马六甲闽南社群“七姐诞/七娘妈生”的护童仪式。",
-      "exception": null
-    },
-    "policy:240小时过境免签扩至越南公民(2026-08-20)": {
-      "slugs": [
-        "vietnam-china-240h-transit-visa-free"
-      ],
-      "exception": null,
-      "note": "全新素材（中国侨网，2026-08-20），东南亚人员往来/周边外交主题；与既有东南亚离散、经贸、签证相关条目无冲突。"
-    },
-    "event:菲律宾西南季风暴雨洪灾(2026-08)": {
-      "slugs": [
-        "philippines-floods-villages-submerged-2026"
-      ]
-    },
-    "event:安华涉台表态与一中政策(2026-08)": {
-      "slugs": [
-        "malaysia-anwar-china-territorial-integrity-2026"
-      ]
-    },
-    "policy:丽水侨贸百千万工程(东南亚链路,2026-08)": {
-      "note": "全新素材（中国侨网，2026-08-11），侨贸/青田侨乡/柬埔寨供应链主题，与既有侨乡、经贸条目不重复。",
-      "exception": null,
-      "slugs": [
-        "lishui-qiaomao-southeast-asia-link-2026"
-      ]
-    },
-    "event:中国印尼全面战略对话机制首次会议(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-21）。与 relation:中印尼关系(普拉博沃) 区分：本文聚焦全面战略对话机制首次会议+五大支柱+矿能/2+2安全架构，属机制化进程的新事件，非领导人关系复述。",
-      "exception": null,
-      "slugs": [
-        "china-indonesia-strategic-dialogue-2026"
-      ]
-    },
-    "event:柔州务大臣访新招揽潜在投资(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-21），柔新经济特区/新马经济协同主题。",
-      "exception": null,
-      "slugs": [
-        "johor-mb-singapore-investment-2026"
-      ]
-    },
-    "event:第十二届侨交会(深圳·亚太出海,2026-08)": {
-      "note": "全新素材（中国侨网，2026-08-21）。侨交会/侨助千企万品出海/APEC亚太经贸合作主题，与既有侨乡、经贸、企业出海条目不重复。",
-      "exception": null,
-      "slugs": [
-        "12th-overseas-chinese-fair-shenzhen-2026"
-      ]
-    },
-    "event:泰南三府骚乱与宵禁(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-23）。泰南分离主义 insurgency 主题，与既有缅甸/泰国条目不重复。",
-      "exception": null,
-      "slugs": [
-        "southern-thailand-unrest-curfew-2026"
-      ]
-    },
-    "event:马来西亚2030本土晶片计划(Arm授权,2026-08)": {
-      "note": "全新素材（联合早报，2026-08-22）。马来西亚半导体自主/安谋授权主题，与马澳稀土、关税转移等不重复。",
-      "exception": null,
-      "slugs": [
-        "malaysia-domestic-chips-2030-2026"
-      ]
-    },
-    "event:柬埔寨华文学校停办50年后复校开学(新民学校·白马省土城,2026-08-24)": {
-      "note": "全新素材（中国侨网，2026-08-24）。柬埔寨华文教育复兴/侨社重建主题，与既有菲律宾华校安全化、东南亚华文教育 broadly 等条目不重复（本文聚焦柬埔寨特定学校复校事件与离散网络引擎）。",
-      "exception": null,
-      "slugs": [
-        "cambodia-xinmin-chinese-school-reopen"
-      ]
-    },
-    "event:越南批准连接中国铁路追加投资38亿新元(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-24），中越铁路/标准轨互联互通主题，与既有越南经贸、供应链条目不重复。",
-      "exception": null,
-      "slugs": [
-        "vietnam-china-railway-extra-funding-2026"
-      ]
-    },
-    "event:华裔女子曼谷遇绑架险被带至缅甸边境(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-24），华侨华人/跨境人口贩运与诈骗园区主题，与既有泰南、缅甸条目不重复。",
-      "exception": null,
-      "slugs": [
-        "bangkok-chinese-woman-escape-myanmar-border-2026"
-      ]
-    },
-    "event:新加坡总理黄循财推广华语演讲(2026-08-23)": {
-      "note": "全新素材（中国侨网/中新社，2026-08-25），华侨华人/华文教育主题；与既有新加坡小国外交等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "singapore-pm-bilingual-policy-2026"
-      ]
-    },
-    "event:越南外长黎怀忠访缅(2026-08,政变以来首次)": {
-      "note": "全新素材（联合早报，2026-08-25），地缘政治/缅甸回归区域外交主题。",
-      "exception": null,
-      "slugs": [
-        "vietnam-fm-myanmar-visit-2026"
-      ]
-    },
-    "event:东南亚廉航第二季亏损(2026-08,燃油+货币贬值)": {
-      "note": "全新素材（联合早报，2026-08-24），经济产业/廉价航空商业模式主题。",
-      "exception": null,
-      "slugs": [
-        "sea-budget-airlines-q2-losses-2026"
-      ]
-    },
-    "topic:东南亚华文教育守脉与向新(2026-08)": {
-      "note": "全新素材（中国侨网/中新社《东南亚华文教育的守脉和向新》，2026-08-21；马来西亚新纪元大学莫顺宗、柬埔寨柬华理事总会钟耀辉案例）。与 film:Dear You 区分：本文不涉电影本体，聚焦华文教育守脉与「中文+职业技能」转型。",
-      "exception": null,
-      "slugs": [
-        "sea-chinese-education-renewal-2026"
-      ]
-    },
-    "event:印尼启动100吉瓦太阳能计划(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-26）。印尼能源转型/清洁能源主题，与既有印尼林火、镍矿、AI与能源震荡等不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-100gw-solar-plan-2026"
-      ]
-    },
-    "event:菲律宾扩大无人化作战能力加强外部防御(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-25），军事现代化/无人作战/外部防御主题，与中菲关系、南海条目不重复。",
-      "exception": null,
-      "slugs": [
-        "philippines-unmanned-warfare-external-defense-2026"
-      ]
-    },
-    "event:2026年侨海逐梦华裔大学生研习活动(2026-08)": {
-      "type": "event",
-      "date": "2026-08-23",
-      "country": "中国",
-      "category": "华侨华人",
-      "slugs": [
-        "hainan-qiaohai-zhumeng-youth-2026"
-      ]
-    },
-    "event:54名马来西亚人尼泊尔灾区失联(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-27），马来西亚公民海外遇险/跨境领事保护主题，与既有离散、灾害条目不重复。",
-      "exception": null,
-      "slugs": [
-        "malaysia-citizens-nepal-disaster-missing-2026"
-      ]
-    },
-    "event:泰国央行连续三次维持1%基准利率(2026-08)": {
-      "note": "全新素材（联合早报，2026-08-26），泰国货币政策/两速经济主题，与既有泰国、经济产业、央行条目不重复。",
-      "exception": null,
-      "slugs": [
-        "thailand-central-bank-holds-1pct-2026"
-      ]
-    },
-    "event:阿努廷访泰柬边境争议区安塞柬抗议(2026-08)": {
-      "type": "event",
-      "date": "2026-08-23",
-      "country": "泰国",
-      "category": "地缘政治",
-      "slugs": [
-        "anutin-border-visit-cambodia-protest-2026"
-      ]
-    },
-    "event:广西侨商侨领对接平陆运河+东盟产供链(2026-08)": {
-      "note": "全新素材（中国侨网，2026-08-27），侨商侨领+平陆运河+中国—东盟跨境产供链主题；与既有侨乡、经贸、侨交会、企业出海等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "guangxi-pinglu-canal-qiao-asean"
-      ]
-    },
-    "event:日本银行缩减中国业务转投东南亚与印度(2026)": {
-      "note": "全新素材（Nikkei Asia，2026-08），日本银行业/中国业务收缩/东南亚资本流入主题；与既有供应链、投资条目不重复。",
-      "exception": null,
-      "slugs": [
-        "japanese-banks-pivot-southeast-asia-china-2026"
-      ]
-    },
-    "event:印尼首只熊猫债获中国背书(2026)": {
-      "note": "全新素材（South China Morning Post，2026-08），印尼—中国金融合作/熊猫债/外资规则主题；与既有中印尼关系、债务条目不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-panda-bond-china-backing-2026"
-      ]
-    },
-    "event:柬埔寨扫荡网诈窝点(2026-08)": {
-      "slugs": [
-        "cambodia-cyber-scam-crackdown-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（联合早报，2026-08-28/29），柬埔寨跨境电诈专项整治/华侨华人安全/跨境治理主题；与既有泰国、缅甸跨境犯罪及人口贩运条目不重复。"
-    },
-    "event:柬老越一程三地旅游合作(2026-08)": {
-      "note": "全新素材（中国侨网/中新社，2026-08-28）。柬老越 CLV 旅游部长会议通过 2026—2028 三年行动计划，'一次旅程，三个目的地'次区域旅游品牌化；与既有湄公河、东盟、经贸、旅游条目不重复。",
-      "exception": null,
-      "slugs": [
-        "clv-one-journey-three-destinations-2026"
-      ]
-    },
-    "topic:中国消费品牌东南亚出海(奢侈品试验场,2026-08)": {
-      "note": "全新素材（日经亚洲，2026-08-12）。中国消费/轻奢品牌（山下有松、PANE、花西子、观夏、周大福）借社交电商涌入东南亚，'奢侈品试验场'主题；与既有企业出海、中餐出海、侨交会、侨商等条目不重复（本文聚焦消费品牌全球高端化）。",
-      "exception": null,
-      "slugs": [
-        "china-brands-southeast-asia-luxury-2026"
-      ]
-    },
-    "event:菲美勘测棉兰老岛中资三佳钢铁厂(2026-08)": {
-      "note": "全新素材（南华早报，2026-08-26/29），中资钢厂/美菲军事勘测/北棉兰老岛海军基地选址主题；与既有中菲关系、华校安全化、无人作战等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "philippines-us-scope-chinese-steel-mindanao-2026"
-      ]
-    },
-    "event:上海浦东华侨华人创新创业研修营(2026-08)": {
-      "slugs": [
-        "pudong-overseas-chinese-innovation-camp-2026"
-      ],
-      "first_used": "2026-08-30",
-      "note": "与既有条目不重复：既有侨务条目聚焦政策文件、侨乡与侨团，本篇为 2026-08 浦东研修营单一活动，核心素材首次使用。"
-    },
-    "topic:马来西亚人口老龄化与老年就业(2026-08)": {
-      "slugs": [
-        "malaysia-ageing-over-60-still-working-2026"
-      ],
-      "first_used": "2026-08-30",
-      "note": "与既有条目不重复：既有马来西亚条目聚焦政党、选举与产业，本篇核心素材为 2026 年 7 月社险机构 60 岁以上活跃缴纳者数据，首次使用。"
-    },
-    "event:谷歌Pixel全线产能迁出中国(2026-08,日经亚洲)": {
-      "slugs": [
-        "google-pixel-exit-china-vietnam-2026"
-      ],
-      "first_used": "2026-08-30",
-      "note": "与既有条目不重复：既有供应链条目聚焦苹果、三星与泛化「中国+1」，本篇核心素材为谷歌 Pixel 自 2027 年起整机迁出中国的决定，首次使用。"
-    },
-    "event:银河航天灵知09泰国立方星整星出口(2026-08)": {
-      "slugs": [
-        "china-galaxyspace-thailand-cubesat-2026"
-      ],
-      "first_used": "2026-08-30",
-      "note": "与既有条目不重复：既有东南亚太空条目聚焦星链落地与频谱，本篇核心素材为银河航天灵知09对泰国 GISTDA 的整星出口，首次使用。"
-    },
-    "event:云南榆黄菇菌种出口越南(2026-08)": {
-      "note": "全新素材（中国侨网/中新社，2026-08-28）。云南丽江榆黄菇菌种首次出口越南，'国内发菌、国外出菇'跨境农业分工模式；与既有越南经贸、供应链、农产品、澜湄条目不重复。",
-      "exception": null,
-      "slugs": [
-        "yunnan-mushroom-spawn-vietnam-export-2026"
-      ]
-    },
-    "event:越南咖啡农改种榴莲(2026-08)": {
-      "note": "全新素材（联合早报/法新社，2026-08-30），角度为小农微观决策、失败案例与单一买家依赖风险；与既有 event:越南对华榴莲出口(2026上半年)（出口额/产业链/印度市场角度）不重复。",
-      "exception": null,
-      "slugs": [
-        "vietnam-coffee-farmers-switch-to-durian-2026"
-      ]
-    },
-    "event:泰新交易所争夺科技上市(2026-08)": {
-      "note": "全新素材（日经亚洲，2026-08-31），SET降上市门槛与SGX全球上市板/存托凭证，科技与AI企业上市争夺主题。",
-      "exception": null,
-      "slugs": [
-        "thailand-singapore-exchanges-tech-listings-2026"
-      ]
-    },
-    "event:马来西亚安华生活成本六项措施(2026-08)": {
-      "note": "全新素材（南华早报，2026-08-30），BUDI95配额回撤、学校拨款、AI订阅、医疗数字化、电子发票豁免、小微融资扩围。",
-      "exception": null,
-      "slugs": [
-        "malaysia-anwar-cost-of-living-measures-2026"
-      ]
-    },
-    "topic:中国功夫扎根南非(查飞葛·2026-09)": {
-      "note": "全新素材（中国侨网/中新社《东西问》专访南非武术名家查飞葛，2026-09-01）。中国功夫在南非本土化、华侨华人文化软实力、中南人文交流主题；与既有侨乡、华文教育、离散文化等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "chinese-martial-arts-south-africa-chafeker-2026"
-      ]
-    },
-    "event:马来西亚华总驳斥\"阿嬷\"电影统战说(2026-06)": {
-      "slugs": [
-        "malaysia-huazong-dear-you-united-front-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（中国侨网/中新网，2026-06-27），马来西亚华总总会长林家全驳斥将电影《给阿嬷的情书》与统战挂钩，离散身份政治/双层认同主题；与 film:Dear You、qiaopi-diaspora-letters 区分（本文聚焦华社政治表态而非影片本体或侨批制度）。"
-    },
-    "event:印尼首建航天发射场拟与俄合作(2026-08)": {
-      "slugs": [
-        "indonesia-biak-spaceport-russia-cooperation-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（联合早报，2026-08-31），印尼比亚克岛首座航天发射场+俄Roscosmos初步接触+不结盟/二级制裁背景；与既有印尼条目（镍矿/央行/太阳能/100GW）不重复。"
-    },
-    "event:越南经济规模或超越泰国(2026)": {
-      "slugs": [
-        "vietnam-overtakes-thailand-economy-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（日经亚洲，2026-01起持续发酵），越南名目GDP或于2026-27超越泰国、基建与供应链转移驱动；与既有越南榴莲/外长访缅等条目不重复。"
-    },
-    "event:马来西亚槟城外海非法船对船燃油转运(2026)": {
-      "slugs": [
-        "malaysia-penang-illegal-fuel-transfer-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（南华早报/新海峡时报，2026-04起持续），MMEA在槟城外海拦截非法STS柴油/原油转运、影子船队与制裁规避；与既有马来西亚非法矿场、罗兴亚遣返等条目不重复。"
-    },
-    "event:曼谷汉字艺术节(第二届·2026-09)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-02）。第二届曼谷汉字艺术节在朱拉隆功大学开幕，'汉字为媒'推动中泰文明互鉴+艺术家驻留计划+青少年成长营+AI数字化传播；与既有华文教育、文化交流、软实力等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "bangkok-chinese-character-art-festival-2026"
-      ]
-    },
-    "event:印尼卫生部长竞选世卫组织总干事(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-01/02），印尼卫生部长布迪在总统普拉博沃授意下参选世卫总干事；与既有中印尼关系、普拉博沃等条目不重复（本文聚焦全球卫生治理/联合国机构领导权争夺）。",
-      "exception": null,
-      "slugs": [
-        "indonesia-who-director-general-bid-2026"
-      ]
-    },
-    "topic:东南亚AI数据中心建设热潮(美中云角力,2026)": {
-      "slugs": [
-        "sea-ai-datacenter-boom-2026"
-      ],
-      "exception": null,
-      "note": "全新素材：聚焦东南亚AI数据中心实体建设与美中技术栈并行、主权云双轨。"
-    },
-    "event:柬泰边境Chouk Chey村架网争议(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-02），泰军在争议边境Chouk Chey村架设铁丝网与限期撤离通告，金边斥“吞并”，停火协议与二〇〇〇年备忘录法律脉络；与既有阿努廷访泰柬边境、泰南分离主义等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "cambodia-thailand-chouk-chey-border-occupation-2026"
-      ]
-    },
-    "study:东南亚空气污染2050年致死与经济损耗预测研究(NTU/Environment International)": {
-      "note": "全新素材（南华早报，2026-09-02），东南亚区域空气污染的经济与早逝损失2050预测研究；与既有印尼林火/跨境烟霾/人工增雨等事件条目不重复（本篇为学术预测研究，非具体事件）。",
-      "exception": null,
-      "slugs": [
-        "sea-air-pollution-2050-study-2026"
-      ]
-    },
-    "event:中印尼双向语言学习热(2026-09)": {
-      "note": "全新素材（中国侨网，2026-09-02），中印尼双向语言热／华文教育／印尼语专业扩招主题；与既有语言、教育、侨务条目不重复。",
-      "exception": null,
-      "slugs": [
-        "china-indonesia-language-learning-boom-2026"
-      ]
-    },
-    "event:印尼接收意大利退役航母加查马达号(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-02），印尼接收意大利退役轻型航母加里波第号／更名加查·马达号／东南亚第二艘航母主题；与既有军备、海上安全条目不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-second-aircraft-carrier-gajah-mada-2026"
-      ]
-    },
-    "event:印尼强厄尔尼诺经济冲击(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-02），印尼强厄尔尼诺经济冲击／粮食CPI／棕榈油B50／水电主题；与既有气候变化、经济条目不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-el-nino-economic-shock-2026"
-      ]
-    },
-    "event:广州茶居扩至37国(2026-09)": {
-      "core_material": "event:广州茶居扩至37国(2026-09)",
-      "slugs": [
-        "guangzhou-tea-house-diaspora-network-2026"
-      ]
-    },
-    "event:新泰重启领导人会晤(2026-09)": {
-      "core_material": "event:新泰重启领导人会晤(2026-09)",
-      "slugs": [
-        "singapore-thailand-leaders-retreat-asean-2026"
-      ]
-    },
-    "event:菲律宾比索创历史新低(2026-09)": {
-      "core_material": "event:菲律宾比索创历史新低(2026-09)",
-      "slugs": [
-        "philippine-peso-record-low-oil-shock-2026"
-      ]
-    },
-    "event:敏昂莱访越(2026-09)": {
-      "core_material": "event:敏昂莱访越(2026-09)",
-      "slugs": [
-        "myanmar-president-vietnam-visit-2026"
-      ]
-    },
-    "event:2026华语律师大会(深圳·企业出海法治桥梁)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-03）：华语律师大会在深圳，华人律师为出海企业构建'法治桥梁'，东南亚为最繁忙渡口。",
-      "exception": null,
-      "slugs": [
-        "overseas-chinese-lawyers-going-global-2026"
-      ]
-    },
-    "event:中印尼友好故事会深圳(2026-09)": {
-      "note": "全新素材（中国侨网，2026-09-05），深圳中国—印尼友好故事会\"海洋发展的蓝色奇迹\"，华侨华人/文化交流/海洋合作主题。",
-      "exception": null,
-      "slugs": [
-        "china-indonesia-ocean-stories-shenzhen-2026"
-      ]
-    },
-    "event:新加坡泰国领导人retreat(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-05），新泰领导人retreat与\"面向未来战略伙伴\"联合声明，地缘政治/东盟合作主题。",
-      "exception": null,
-      "slugs": [
-        "singapore-thailand-strategic-partnership-2026"
-      ]
-    },
-    "event:东南亚收紧中国EV进口门槛(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-05），马来、泰国等收紧中国产纯电进口条件并要求本地生产，经济产业/电动汽车主题。",
-      "exception": null,
-      "slugs": [
-        "southeast-asia-china-ev-barriers-2026"
-      ]
-    },
-    "event:越南用工荒中国挤压论(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-05），越南用工荒与中国技工被争抢，反驳西方\"中国挤压论\"，经济产业/产业链主题。",
-      "exception": null,
-      "slugs": [
-        "vietnam-labor-shortage-china-squeeze-2026"
-      ]
-    },
-    "event:柬埔寨首届华文教育研讨会(金边·2026-09)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-05/07）。首届柬埔寨华文教育研讨会直面华校办学痛点（人才/师资/经费），与既有 cambodia-xinmin-chinese-school-reopen（单一学校复校事件）及 sea-chinese-education-renewal-2026（泛论守脉向新）区分：本文聚焦首次行业大会及其结构性治理议程。",
-      "exception": null,
-      "slugs": [
-        "cambodia-chinese-education-seminar-2026"
-      ]
-    },
-    "event:印尼喀拉喀托之子火山喷发与西加里曼丹林火救灾(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-07/08），印尼喀拉喀托之子火山喷发致七座机场关闭与西加里曼丹泥炭林火救灾；与既有 event:印尼弗洛雷斯岛7.7级强震海啸预警(2026-08-15)（地震海啸，不同事件）、event:印尼强厄尔尼诺经济冲击(2026-09)（经济影响角度）、event:印尼接收意大利退役航母加查马达号(2026-09)（航母接收事件）均不重复，聚焦复合灾害与救灾治理。",
-      "exception": null,
-      "slugs": [
-        "indonesia-disasters-volcano-fires-relief-2026"
-      ]
-    },
-    "event:日本德山在越南马来西亚扩产半导体级多晶硅(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-08），日本德山在越南（后段）与马来西亚（前段，与韩国OCI合资）扩产半导体级多晶硅、总产能+50%至1.25万吨、AI驱动与供应链韧性主题；与既有马来西亚半导体/晶片、供应链、中国+1等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "tokuyama-polysilicon-vietnam-malaysia-2026"
-      ]
-    },
-    "event:菲律宾副总统莎拉·杜特尔特遭弹劾领跑2028民调(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-08），莎拉·杜特尔特首张在任副总统逮捕令、众议院弹劾、参议院审判、民调反领先、马科斯表弟贪腐被捕，菲律宾家族政治/司法武器化主题；与既有中菲关系、菲律宾比索、华校安全化等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "sara-duterte-impeachment-survey-lead-2026"
-      ]
-    },
-    "event:印尼首富彭云鹏减持Petrindo应对自由流通股新规(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-08），印尼华裔首富彭云鹏减持Petrindo/Barito以应对15%自由流通股新规，资本市场治理/华商财团主题；与既有印尼条目（央行动向、镍矿、太阳能、林火等）及华侨华人条目不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-richest-prajogo-petrindo-free-float-2026"
-      ]
-    },
-    "policy:马来西亚拟对网络诈骗犯施鞭刑 (2026-09)": {
-      "note": "全新素材（联合早报，2026-09-09）：马来西亚拟将鞭刑用于网络诈骗罪犯、效法新加坡反诈；与既有马来西亚、法律、数字经济等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "malaysia-caning-online-scammers-2026"
-      ]
-    },
-    "policy:泰国2050清洁能源占比89%目标 (2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-09）：泰国新版电力发展规划将2050清洁能源发电占比目标抬至近九成；与既有泰国、新能源、气候变化等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "thailand-2050-clean-energy-89-2026"
-      ]
-    },
-    "event:越南2026前八月经济 工业产出七年最强/FDI增55% (2026-09)": {
-      "note": "全新素材（南华早报，2026-09-09）：越南2026年1—8月工业产出增11.9%（七年最强）、注册外资增55%；与既有越南、经济、制造业等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "vietnam-economic-momentum-2026"
-      ]
-    },
-    "topic:华侨华人慈善常态化(中华慈善日,2026-09)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-06）。中华慈善日华侨华人慈善从侨汇到回馈住居国、跨越三大洲草根善行，与既有侨乡、侨团、离散软实力等条目不重复（本文聚焦慈善常态化与侨社公民社会成熟）。",
-      "exception": null,
-      "slugs": [
-        "overseas-chinese-charity-day-2026"
-      ]
-    },
-    "policy:泰国放宽初创企业融资限制(2026-09)": {
-      "slugs": [
-        "thailand-startup-financing-reform-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（中国侨网，2026-09-11）。泰国内阁通过《创业企业促进法案》草案放宽初创企业融资与股权限制；与既有泰国、数字经济、投资、东盟条目不重复。"
-    },
-    "event:菲前众议长罗穆亚尔德斯防洪工程贪腐案(2026-09)": {
-      "note": "全新素材（中国新闻网/联合早报，2026-09-07）：菲律宾前众议长、马科斯表弟罗穆亚尔德斯因涉嫌从防洪工程收取约74.4亿比索回扣，在医院病房被逮捕并控以“掠夺罪”；与既有菲律宾比索、华校安全化、无人作战、南海政策等条目不重复（本文聚焦家族政治反腐与2028大选涟漪）。",
-      "exception": null,
-      "slugs": [
-        "philippines-romualdez-flood-corruption-2026"
-      ]
-    },
-    "event:泰国青年志愿参军潮与兵役制改革(2026-09)": {
-      "note": "全新素材（VnExpress International，2026-04/09）：泰国青年因经济放缓、青年失业高企主动报名参军，部分地区征兵抽签形同虚设；阿努廷政府推出“志愿兵”计划拟2027年前转向全志愿兵役。与既有泰国、军事合作、泰柬边境等条目不重复（本文聚焦兵役制改革与社会经济动因）。",
-      "exception": null,
-      "slugs": [
-        "thailand-youth-volunteer-military-2026"
-      ]
-    },
-    "event:槟城上半年制造业投资创纪录(AI超级周期,2026-09)": {
-      "note": "全新素材（The Edge Malaysia/日经亚洲，2026-09-03）：槟城2026上半年获批制造业投资173亿林吉特、同比+38%、占全马34%，AI相关电子与设备吸走88%资本，外资占七成；与既有马来西亚关键矿产、2030本土晶片、东铁、槟城外海燃油转运等条目不重复（本文聚焦AI超级周期下槟城“下一个台湾”叙事与区域竞赛）。",
-      "exception": null,
-      "slugs": [
-        "penang-manufacturing-investment-boom-2026"
-      ]
-    },
-    "event:广东国际侨创赛15个优质项目意向落地中山(2026-09)": {
-      "note": "全新素材（中国侨网，2026-09-11）：广东国际侨创赛落幕、15个参赛优质项目意向落地中山，聚焦侨务引智与项目落地机制；与既有侨乡、侨商、创新创业、企业出海条目不重复。",
-      "exception": null,
-      "slugs": [
-        "guangdong-qiaochuang-contest-zhongshan-2026"
-      ]
-    },
-    "event:菲律宾June Aster客轮火灾重大海难(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-12）：菲律宾客轮MV June Aster起火，死亡人数持续上升、数十人失踪，海警称起火前船内有两次爆炸；聚焦群岛国家海上客运安全与应急信息机制；与既有菲律宾政治、天灾条目不重复。",
-      "exception": null,
-      "slugs": [
-        "philippines-ferry-fire-maritime-safety-2026"
-      ]
-    },
-    "policy:泰国BOI战略投资快速通道与BOI-to-IPO机制(2026-09)": {
-      "note": "全新素材（日经亚洲/Kao Hoon，2026-09-12）：泰国BOI为约36.6亿美元战略产业投资开审批快速通道，并联合SEC、SET推出BOI to IPO；聚焦投资促进制度与本土资本市场衔接；与既有泰国初创融资改革、汽车产业条目不重复。",
-      "exception": null,
-      "slugs": [
-        "thailand-boi-fast-track-investment-2026"
-      ]
-    },
-    "event:马来西亚金砖外交与中间道路表述(2026-09)": {
-      "note": "全新素材（南华早报/联合早报，2026-09-12）：安华出席新德里金砖峰会并与普京会晤，官方强调伙伴关系拓宽贸易但坚持中间道路；聚焦中小国家多边对冲；与既有安华涉台表态、生活成本措施条目不重复。",
-      "exception": null,
-      "slugs": [
-        "malaysia-brics-middle-path-2026"
-      ]
-    },
-    "event:南宁借服贸会搭建中国—东盟数字合作桥梁(2026-09)": {
-      "note": "全新素材（中国侨网，2026-09-11）：广西南宁借服贸会平台推动中国—东盟数字合作，涉及跨境电商、算力、数据跨境流动；聚焦互联互通从硬件走向规则；与既有东博会签约、平陆运河、澜湄条目不重复。",
-      "exception": null,
-      "slugs": [
-        "nanning-china-asean-digital-bridge-2026"
-      ]
-    },
-    "event:缅甸驻联合国代表觉莫吞遭军政府撤职(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-13）：缅甸军政府以涉非法活动为由撤掉驻联合国代表觉莫吞，其2021年政变后拒绝承认军政府；聚焦联合国全权证书之争与代表权合法性；与既有缅甸、罗兴亚条目不重复。",
-      "exception": null,
-      "slugs": [
-        "myanmar-un-envoy-dismissed-2026"
-      ]
-    },
-    "topic:AI热潮推高新加坡PC整机价格(2026-09)": {
-      "note": "全新素材（Borneo Bulletin，2026-09-13）：AI数据中心扩张挤占内存与零部件产能，推高新加坡消费级PC价格；聚焦AI资本开支向消费端的价格外溢；与既有新加坡AI出口增长预期、东南亚AI数据中心条目不重复。",
-      "exception": null,
-      "slugs": [
-        "singapore-pc-prices-ai-boom-2026"
-      ]
-    },
-    "topic:社交媒体成七成马来西亚民众主要新闻来源(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-13）：调查显示社交媒体超越传统媒体，成为约70%马来西亚民众主要新闻来源；聚焦媒介碎片化、算法与族群政治；与既有马来西亚鞭刑、社媒诈骗条目不重复。",
-      "exception": null,
-      "slugs": [
-        "malaysia-social-media-news-source-2026"
-      ]
-    },
-    "event:菲南邦萨摩洛自治区首次议会选举(2026-09)": {
-      "slugs": [
-        "bangsamoro-first-election-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（联合早报，2026-09-14）：菲南邦萨摩洛自治区首次议会选举、十三党角逐八十席，从临时自治迈向常态治理；与既有菲律宾、和平进程、东盟条目不重复（本文聚焦选举作为摩洛和平进程制度化关节点）。"
-    },
-    "event:世界银行预警东南亚2026增长普遍放缓(2026-09)": {
-      "slugs": [
-        "southeast-asia-growth-slowdown-world-bank-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（日经亚洲，2026-09-13/14）：世界银行《东亚与太平洋地区经济更新》称区域2026增速放缓至4.2%、东南亚分化加剧；与既有越南/泰国/马来西亚经济、AI出口等条目不重复（本文聚焦宏观外部冲击与政策空间）。"
-    },
-    "event:东南亚极端高温暴露露天劳动者社保缺口(2026-09)": {
-      "slugs": [
-        "southeast-asia-extreme-heat-outdoor-workers-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（南华早报，2026-09-05报道/2026-09-14补发）：以柔佛油棕小园主为例，极端高温暴露露天劳动者社会保障与高温风险评估缺口；与既有烟霾/气候变化/公共卫生条目不重复（本文聚焦 occupational heat 劳动保护制度）。"
-    },
-    "event:马来西亚琼籍歌手朱主爱海南寻根音乐会(2026-09)": {
-      "note": "2026-09-14侨网线：马来西亚华裔歌手朱主爱回海南开唱并与海南省侨联座谈，涉及峇峇娘惹身份认同、侨务工作转向与文旅合作",
-      "exception": null,
-      "slugs": [
-        "malaysia-joyce-chu-hainan-roots-tour-2026"
-      ]
-    },
-    "event:泰国首届电视中秋晚会(曼谷·2026-09)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-15）：泰国首届电视中秋晚会由泰国第五电视台、中华总商会、潮州会馆联办，泰中文联演出，中秋夜播出；聚焦华侨华人传统节日登上泰国国家主流荧屏、中华文化在泰落地与中泰民间相知相亲。与既有 bangkok-chinese-character-art-festival-2026（汉字艺术节）区分：本文聚焦中秋晚会与侨社—主流媒体合流。",
-      "exception": null,
-      "slugs": [
-        "thailand-first-tv-mid-autumn-bangkok-2026"
-      ]
-    },
-    "event:印尼接管雅万高铁股权与债务重组(2026-09)": {
-      "slugs": [
-        "indonesia-yawan-hsr-debt-restructure-2026"
-      ]
-    },
-    "event:越南国家半导体战略升级(2026-09)": {
-      "slugs": [
-        "vietnam-semiconductor-strategy-2026"
-      ]
-    },
-    "event:马来西亚森美兰王室危机(2026-09)": {
-      "slugs": [
-        "malaysia-negeri-sembilan-royal-crisis-2026"
-      ]
-    },
-    "event:澳门妈祖文化旅游节(2026-09)": {
-      "slugs": [
-        "macau-mazut-cultural-festival-2026"
-      ]
-    },
-    "event:泰柬海上争端国际调解(2026-09)": {
-      "slugs": [
-        "thai-cambodia-maritime-mediation-2026"
-      ]
-    },
-    "event:泰国中资EV投资首超日本(2026-09)": {
-      "slugs": [
-        "thailand-china-fdi-ev-overtakes-japan-2026"
-      ]
-    },
-    "event:新加坡防长访华出席香山论坛(2026-09)": {
-      "slugs": [
-        "singapore-defence-minister-china-visit-2026"
-      ]
-    },
-    "event:印尼林火逼近新建首都努山塔拉(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-10）：印尼十一年来最猛林火季，火点逼近在建新首都努山塔拉，总统普拉博沃调无人机与意赠航母灭火；聚焦迁都工程选址泥炭地的生态隐患、烧荒与厄尔尼诺叠加、水弹难灭地下阴燃。与既有印尼林火/跨境烟霾/人工增雨/喀拉喀托火山林火救灾等条目不重复（本文聚焦新首都这一旗舰工程遭遇气候压力）。",
-      "exception": null,
-      "slugs": [
-        "indonesia-nusantara-wildfire-2026"
-      ]
-    },
-    "event:谢国民卸任中国侨商联合会会长(2026-09)": {
-      "note": "全新素材（中国侨网，2026-09-16）：中国侨商联合会第六次会员代表大会，谢国民（泰国正大/泰籍华人）卸任会长、郭孔华（郭鹤年之子/马来西亚对华裔）接任，华侨华人商界代际接力与北京对东南亚华商信任延续主题；与既有侨务/华商/离散条目不重复。",
-      "exception": null,
-      "slugs": [
-        "dhanin-chearavanont-step-down-cocea-2026"
-      ]
-    },
-    "event:泰美海底光缆系统THUS可行性研究(2026-09)": {
-      "note": "全新素材（联合早报/彭博，2026-09-15）：美国贸易发展署（USTDA）资助‘泰国—美国海底光缆系统’（THUS）可行性研究，全长约1.85万公里、绕开南中国海、连接泰国与新加坡/印尼/马来/菲律宾/越南五国东盟，地缘政治/数字基础设施/中美海底光缆竞争主题；与既有东南亚人工智能数据中心、东盟、南海、中美竞争等条目不重复（本文聚焦海底光缆作为战略资产与数字阵营化）。",
-      "exception": null,
-      "slugs": [
-        "thailand-us-submarine-cable-thus-2026"
-      ]
-    },
-    "topic:东南亚数据中心热引发公众反弹(水电气社区许可,2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-02《Red-hot data center boom fuels public backlash across Asia》）。聚焦东南亚人工智能数据中心热潮遭遇的社区/公众反弹——水资源压力、电力瓶颈、用地与‘社会许可证’缺失，及马来西亚‘记分卡’、泰国 49 停建/117 冻结等治理回摆；与既有 sea-ai-datacenter-boom-2026（聚焦实体建设与美中技术栈并行）区分：本文聚焦社会许可与资源硬约束下的反弹，非建设本身。",
-      "exception": null,
-      "slugs": [
-        "sea-data-center-backlash-2026"
-      ]
-    },
-    "event:菲律宾2026创纪录教育预算与学习危机(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-17）：菲律宾参议院通过2026年史上最大教育预算1.37万亿比索（约23亿美元），首次达联合国占GDP 4%—6%建议线；焦点为1800万‘功能性文盲’、16.5万间教室缺口、DPWH反腐与执行短板；与既有菲律宾条目（比索新低、洪水贪腐、南海转向、华校安全化、无人作战等）不重复。",
-      "exception": null,
-      "slugs": [
-        "philippines-record-education-budget-2026"
-      ]
-    },
-    "event:侨心传史丝路连心青少年侨史研学(北京·2026-09)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-16/17）。北京市侨联马来西亚归侨联谊会发起“侨心传史·丝路连心”青少年侨史研学志愿服务，于中国华侨历史博物馆共读下南洋、侨批与南侨机工历史，并接入马来西亚华文教育与新市民儿童融合。与既有 event:2026年纪念南侨机工公祭典礼(吉隆坡)（吉隆坡公祭仪式，不同事件）区分：本文聚焦北京青少年侨史研学活动及侨联把离散记忆工程化的叙事策略，非公祭本身。",
-      "exception": null,
-      "slugs": [
-        "beijing-youth-nanyang-history-2026"
-      ]
-    },
-    "event:越南北部暴雨成灾(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-18）。越南北部9月14日起暴雨成灾，3死、逾1.6万间房屋被淹、2.2万公顷农作物受损、河内积水1米、南北铁路中断；厄尔尼诺预告中南将转旱。气候/灾害治理主题，与既有湄公河旱涝、印尼林火/烟霾、菲律宾台风等条目不重复（本文聚焦越南北部红河三角洲气候鞭击与韧性治理）。",
-      "exception": null,
-      "slugs": [
-        "vietnam-northern-floods-2026"
-      ]
-    },
-    "event:越南名义GDP赶超泰国(2026)": {
-      "slugs": [
-        "vietnam-overtakes-thailand-gdp-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（Nikkei Asia 源，多家转引）：越南名义GDP赶超泰国的结构性变局，聚焦基建冲刺、供应链东迁、中国产业链外溢与泰国结构困境的对撞；与既有 vietnam-record-trade-ai-boom-2026（贸易额）、vietnam-manufacturing-supply-chain（制造业重构）非同一素材。"
-    },
-    "event:东南亚极端高温暴露户外劳工保护网缺口(研究报告,2026-09)": {
-      "note": "全新素材（南华早报，2026-09-05）：研究指出东南亚多城缺乏高温风险评估、户外劳工保护法规薄弱；聚焦 occupational heat exposure 与劳工保护制度缺口，区别于既有印尼林火/跨境烟霾/空气污染等气候条目（本文不写火灾，写高温下的劳动者职业健康）。",
-      "exception": null,
-      "slugs": [
-        "sea-extreme-heat-outdoor-workers-2026"
-      ]
-    },
-    "event:中华文化大乐园印尼棉兰营开营(2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-17）。2026'中华文化大乐园'印尼棉兰营由广西海外联谊会主办、广西师范大学承办、棉中中小学协办，两周文化课程；华侨华人/华文教育/离散文化外交主题；与既有印尼华裔总会、东南亚华文教育守脉、中印尼语言热、文化传播等条目不重复（本文聚焦省级递送的离散文化软权力与全球最大华裔离散群体再连结）。",
-      "exception": null,
-      "slugs": [
-        "chinese-culture-grand-park-medan-2026"
-      ]
-    },
-    "event:东南亚资本成为香港商业地产最大非本地买家(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-16）：Savills 数据显示 2026 年迄今东南亚资本以 33.7 亿港元登顶香港商业地产非本地买家，新加坡枢纽领衔，中资与西方基金退场、价格腰斩；与既有香港、新加坡、商业地产、资本流动、华侨华人等条目不重复（本文聚焦区域资本在周期低点接盘香港核心资产）。",
-      "exception": null,
-      "slugs": [
-        "southeast-asian-capital-hong-kong-property-2026"
-      ]
-    },
-    "event:泰国黄衫军林明达重返街头政治(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-17/18）：传媒大亨、保皇派\"黄衫军\"发起人林明达发起\"夺回泰国\"运动，向阿努廷政府施压，围绕9月28日宪法法院大选选票条码裁决动员；地缘政治/街头政治/宪政危机主题；与既有泰国、政治、抗议、宪政相关条目不重复（本文聚焦黄衫军元老重返街头与宪政关口）。",
-      "exception": null,
-      "slugs": [
-        "thailand-yellow-shirts-street-politics-2026"
-      ]
-    },
-    "event:柬埔寨消费者抵制泰货与国产替代潮(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-08）：柬泰边境冲突外溢至民间消费，柬埔寨消费者抵制泰货、泰进口前七月跌37%、国货份额升至约30%，官方“柬埔寨制造”运动助推本土品牌Mee Chiet/Kirisu，伴生伪国货套利；与既有的柬泰边境Chouk Chey村架网争议、泰柬海上争端等条目不重复（本文聚焦经济民族主义与消费替代的平民维度）。",
-      "exception": null,
-      "slugs": [
-        "cambodia-thai-goods-boycott-2026"
-      ]
-    },
-    "event:中国驻马来西亚使馆开放日(2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-17）。中国驻马来西亚使馆以中秋为名举办开放日，邀约八十名马来西亚青年学生走进使馆，体验汉服、月饼、灯笼与科大讯飞AI产品；聚焦使馆公共外交/侨务 outreach 与中马青年人文交流，与既有马来西亚条目（安华、槟城、鞭刑、罗兴亚等）不重复。",
-      "exception": null,
-      "slugs": [
-        "china-embassy-malaysia-open-day-2026"
-      ]
-    },
-    "event:泰国将减肥针列为处方药打击黑市(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-18）：泰国食品药品监督管理局将 GLP-1 减肥针列为“特别管制药品”以打击由短视频网红与“以瘦为美”审美催生的假药黑市，公共卫生/药品监管主题；与既有公共卫生、社交媒体、医疗旅游等条目不重复（本文聚焦减肥针黑市与监管能力鸿沟）。",
-      "exception": null,
-      "slugs": [
-        "thailand-glp1-weight-loss-pens-black-market-2026"
-      ]
-    },
-    "event:柬埔寨投资3000万美元减电子垃圾计划(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-19）：柬埔寨环境部公布五年3000万美元电子垃圾治理计划（2600万政企联合融资+400万全球环境基金赠款，UNDP合作），6月起禁电子垃圾进口；循环经济/环境政策/全球废弃物贸易主题，与既有柬埔寨华文教育、网诈、抵泰货等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "cambodia-e-waste-management-plan-2026"
-      ]
-    },
-    "event:世界银行为泰国规划2037高收入路线图(2026-09)": {
-      "note": "全新素材（日经亚洲 9-7 引述，世界银行 9-3 发布《建设泰国未来》旗舰报告）：泰国 2037 年前以 5.4% 人均GDP年均增速跻身高收入国家路线图，中等收入陷阱/人口老化/落地难三主线；与既有泰国经济、越南赶超泰国、马来西亚半导体等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "thailand-high-income-2037-worldbank-2026"
-      ]
-    },
-    "event:中马传统服饰马六甲交流(2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-20）。2026马来西亚礼乐大会暨中马传统服饰交流活动9月19日在马六甲鸡场街开幕，汉服、娘惹可峇雅与马来各族服饰同台，海丝文化会馆同期启用；华侨华人/华人离散在地化/中马民间文旅主题；与既有马来西亚、二十四节令鼓、华人文化、中马关系等条目不重复（本文聚焦传统服饰作为文明互鉴与离散融合的媒介）。",
-      "exception": null,
-      "slugs": [
-        "china-malaysia-traditional-costumes-malacca-2026"
-      ]
-    },
-    "event:印尼打造雅加达巴厘岛国际金融中心(PFII,2026)": {
-      "note": "全新素材（日经亚洲，2026-09-21 当日 Threads 推送《Indonesia's $28bn bet on Jakarta and Bali International Financial Centers》；配套中国新闻网/印尼国会7-21通过PFII法、RRI 7-23 三年筹备）。聚焦印尼以迪拜为模板、在雅加达与巴厘岛建PFII国际金融中心、对标新加坡财富管理霸主地位；与既有印尼条目（央行/镍矿/太阳能/林火/航母/世卫等）不重复。",
-      "exception": null,
-      "slugs": [
-        "indonesia-financial-center-pfii-bali-2026"
-      ]
-    },
-    "event:菲律宾南哥打巴托邦加高中枪击案(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-19/20）：菲律宾南哥打巴托省邦加镇高中16岁优等生深陷暗网与暴力群组、蓄谋数周后校园开枪，三死七伤，教育部坦承安保'准备不足'；社会文化/校园安全/网络极端化与青少年心理健康主题；与既有菲律宾条目（比索新低、洪水贪腐、南海转向、华校安全化、无人作战等）不重复。",
-      "exception": null,
-      "slugs": [
-        "philippines-school-shooting-dark-web-2026"
-      ]
-    },
-    "event:印尼人被骗赴乌克兰为俄作战(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-14）：乌克兰情报机构8月27日披露8名印尼公民被以“高薪文职”诱骗为俄在乌作战；Truth Hounds 统计至少44名东南亚籍被招募者；聚焦诈骗/贩运网络被俄方征兵中介化、劳务移民脆弱性与东盟领事保护失灵；与既有跨境治理、人口贩运、罗兴亚遣返等条目不重复（本文聚焦大国战争抽走东南亚青年）。",
-      "exception": null,
-      "slugs": [
-        "indonesia-citizens-tricked-fight-russia-ukraine-2026"
-      ]
-    },
-    "event:柬埔寨中国商会首届运动节(金边·2026-09)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-20）。柬埔寨中国商会第一届运动节在金边举办，约300人参与；聚焦在柬华商群体制度化「共同家园」与商会作为平行于外交系统的民间基础设施；与既有柬埔寨条目（华校复校、华文教育研讨会、网诈整治、抵泰货、泰柬边境/海上争端等）不重复，本文聚焦华商商会社群凝聚力与形象管理。",
-      "exception": null,
-      "slugs": [
-        "cambodia-chinese-chamber-sports-festival-2026"
-      ]
-    },
-    "event:约150名华商侨领聚云南(2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-22）。2026华商聚云南活动在昆明开幕，30多国约150名华商侨领聚焦云南自贸试验区、文旅与绿电；与 event:东南亚侨领赴滇研习活动(2026-07)（7月研习，不同事件）及 广西侨商侨领对接平陆运河+东盟产供链(2026-08) 不重复，聚焦边疆省份借侨力与区位重写中国—东盟门户剧本。",
-      "exception": null,
-      "slugs": [
-        "overseas-chinese-business-leaders-yunnan-2026"
-      ]
-    },
-    "event:中国驻印尼使馆纪念孙中山诞辰160周年(2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-22）。中国驻印尼使馆雅加达座谈会纪念孙中山诞辰160周年，华侨华人/南洋革命史/中印尼侨务公共外交主题；与既有 relation:中印尼关系(普拉博沃)、event:中国印尼全面战略对话机制首次会议(2026-08)、event:中印尼友好故事会深圳(2026-09)、event:中印尼双向语言学习热(2026-09) 等不重复（本文聚焦纪念仪式作为离散治理与软实力注脚，非关系文件或语言交流复述）。",
-      "exception": null,
-      "slugs": [
-        "sun-yat-sen-indonesia-commemoration-2026"
-      ]
-    },
-    "event:2026中柬中秋联欢晚会(金边·2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-24）。2026中柬中秋联欢晚会9月23日金边举办，云南、中国使馆与柬旅游部/新闻部合办；聚焦华人民间节庆转为两国柔性外交载体、在柬华人认同的国家背书与云南文旅自下而上渗透；与既有 thailand-first-tv-mid-autumn-bangkok-2026（泰国电视中秋晚会，不同国家不同事件）不重复。",
-      "exception": null,
-      "slugs": [
-        "cambodia-china-mid-autumn-gala-phnom-penh-2026"
-      ]
-    },
-    "event:老挝八成电力供出口国内却频繁断电(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-23/25）：老挝约八成电力出口换汇、电网老化与旱季短缺致国内频繁断电，能源主权/资源诅咒/湄公水电地缘主题；与既有老挝、电力、能源条目均不重复。",
-      "exception": null,
-      "slugs": [
-        "laos-power-export-blackouts-2026"
-      ]
-    },
-    "event:胡志明市低排放区延期半年落地(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-06）：胡志明市（2026年7月并入巴地—头顿与平阳两省后人口1400万）将低排放区（LEZ）落地推迟半年，聚焦城市交通排放治理、PM2.5超世卫限值6倍、千万摩托车绿色转型公平难题、丰田游说混动入区、河内抢先禁燃油网约车摩托的双城分化；与既有印尼林火/泰国清洁能源/东南亚高温等气候条目及越南经贸条目不重复。",
-      "exception": null,
-      "slugs": [
-        "ho-chi-minh-low-emission-zone-delay-2026"
-      ]
-    },
-    "event:东南亚民调显示支持多边主义、戒备中美领导地位(2026-09)": {
-      "note": "全新素材（南华早报，2026-09-21）：洛克菲勒基金会民调显示东南亚支持多边主义、对美国或中国领导地位心存戒备；地缘政治/区域主义/战略自主主题；与既有新加坡防长访华非结盟对冲、马来西亚金砖中间道路等单一事件条目不重复（本文为区域民调现象）。",
-      "exception": null,
-      "slugs": [
-        "southeast-asia-multilateralism-survey-2026"
-      ]
-    },
-    "event:东盟青年华商走进惠州(2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-24）：第三届'侨兴南粤·惠贸东盟'东盟青年华商惠州行，43名来自东盟9国的青年华商与惠州企业达成9项初步合作意向，聚焦侨务从'引智引资'转向'以侨助贸'、青年华商作为出海桥梁；与既有华商侨领/侨交会/侨贸/平陆运河+东盟产供链等条目不重复（本文聚焦单一城市三年制度化活动与青年华商三重角色）。",
-      "exception": null,
-      "slugs": [
-        "asean-young-chinese-businessmen-huizhou-2026"
-      ]
-    },
-    "event:菲律宾推进Pax Silica新克拉克城AI/半导体枢纽(2026-09)": {
-      "note": "双视角素材（南华早报）。首篇 philippines-pax-silica-new-clark-hub-2026（2026-09-22）聚焦政治倒计时与落地瓶颈；第二篇 philippines-aetas-pax-silica-land-rights-2026（2026-10-05）为清晰不同角度——埃塔原住民征地与土地权之争（30比索/平方米报价、1984年起申请祖域权状未果、透明度赤字、对华脱钩叙事），社会文化/原住民权益主题；二者同属 Pax Silica 项目但视角不同，符合‘slugs==1 可发第二篇且须不同角度’规则。",
-      "exception": null,
-      "slugs": [
-        "philippines-pax-silica-new-clark-hub-2026",
-        "philippines-aetas-pax-silica-land-rights-2026"
-      ]
-    },
-    "policy:马来西亚拟制定跨境烟霾法(借鉴新加坡,2026-09)": {
-      "note": "全新素材（联合早报，2026-09-25）：马来西亚天然资源及环境永续部研究参照新加坡2014年《跨境烟霾污染法令》制定专门应对跨境烟霾的法律，域外追责触碰东盟不干涉内政红线；与既有印尼林火/跨境烟霾/空气污染/努山塔拉等事件条目不重复（本文聚焦立法与区域治理机制，非火灾本身）。",
-      "exception": null,
-      "slugs": [
-        "malaysia-transboundary-haze-law-2026"
-      ]
-    },
-    "event:阿努廷执政周年借中国资本提振泰国增长(2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-07）：泰国总理阿努廷执政一周年，受二季度增速仅1.9%垫底压力，将复苏希望押在中国资本上，700亿泰铢中资承诺、2025中资FDI创1981亿泰铢新高，聚焦产业升级焦虑、本地化/技术转移难题与美中两面下注；与既有泰国中资EV、东南亚收紧中国EV门槛、世界银行高收入路线图等条目不重复（本文聚焦执政周年叙事与日→中两代外资接力）。",
-      "exception": null,
-      "slugs": [
-        "thailand-anutin-chinese-capital-upgrading-2026"
-      ]
-    },
-    "brand:聂记新月楼月饼回归滇缅(2026-09)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-26）。缅籍华人聂氏家族1958于缅甸腊戍创‘新月楼’月饼，2025年第四代聂佳佳将品牌带回云南瑞丽畹町设厂；云腿+缅甸蜂蜜坚果的‘滇缅融合’滋味经边民互市成为两岸离散社群中秋共同记忆，借直播与全年产线续写跨境团圆；与既有中餐出海、侨乡、侨批、华侨华人慈善等条目不重复（本文聚焦家族味觉记忆作为离散身份载体与跨境供应链的耦合）。",
-      "exception": null,
-      "slugs": [
-        "nie-xinyuelou-mooncake-yunnan-burma-2026"
-      ]
-    },
-    "event:中美竞争压缩亚细安政策空间(2026-09)": {
-      "slugs": [
-        "asean-us-china-policy-space-2026"
-      ],
-      "exception": null,
-      "note": "联合早报慧眼中国环球论坛讨论会：奥尔森论中美双重加压令东盟平衡空间收窄、经贸多元化出路（2026-09-27 首发）"
-    },
-    "event:日清制粉(Nippn)越南建厂(2026)": {
-      "note": "全新素材（日经亚洲，2026）：日本面粉与食品巨头日清制粉(Nippn)在越南同奈省设当地法人并建预拌粉工厂，2027年投产、年产能约4300吨、注册资本约1300万美元；主题为日本食品资本重估越南‘工厂+市场’双枢纽。与既有越南经贸/制造/中日竞合条目不重复。",
-      "exception": null,
-      "slugs": [
-        "nippn-vietnam-factory-2026"
-      ]
-    },
-    "topic:中国借侨力促经济(对比印度,2026-09)": {
-      "note": "全新素材（南华早报，2026-09-23，Ravi Kant 评论）：中印两大侨民群体经济用法对照——中国借制度把侨胞接回本土建长期能力，印度靠汇款维持短期体面；华侨华人/侨务政策/引才主题。与既有 topic:保护海外华侨权益、topic:新时代侨务工作、event:谢国民卸任中国侨商联合会会长、event:东盟青年华商走进惠州、topic:六千万海外侨民 等不重复（本文聚焦宏观比较侨力经济杠杆，非单一事件或活动）。",
-      "exception": null,
-      "slugs": [
-        "china-diaspora-economic-leverage-india-2026"
-      ]
-    },
-    "project:马来西亚华人青年AI云端寻根(江靖琳·2026-09)": {
-      "note": "全新素材（中国侨网/人民日报海外版，2026-09-26）：马来西亚第四代华人江靖琳（复旦新闻学院研究生）搭建AI云端寻根平台RootLink，带四位长辈回福建安溪认祖归宗；与既有马来西亚条目（使馆开放日/马六甲传统服饰/中秋文化交流/华人归侨肖思明等）不重复，聚焦离散新生代数字寻根与回国求学创业双向往返。",
-      "exception": null,
-      "slugs": [
-        "malaysian-chinese-ai-roots-seeking-rootlink-2026"
-      ]
-    },
-    "event:重庆面向东盟发布75个航空产业合作机会(2026-09)": {
-      "note": "全新素材（中国侨网/中新社，2026-09-28）。重庆市发改委发布中新（重庆）战略性互联互通示范项目航空产业领域需求+供给两张清单，面向新加坡等东盟释放75个合作机会（需求端30个招商项目、总投资约58.7亿元；供给端45项优势技术），覆盖航空制造/维修/物流/低空/文旅/培训八大板块；与既有中国—东盟关系、产业链、低空经济等条目不重复（本文聚焦航空产业清单作为渝新合作新载体）。",
-      "exception": null,
-      "slugs": [
-        "chongqing-aviation-industry-asean-opportunities-2026"
-      ]
-    },
-    "event:第八届中国—东盟视听周(2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-28/29）。第八届中国—东盟视听周10月19日广西北海开幕，主题'AI赋能 共创共享'，六大活动（开幕式暨晚会、首届微短剧大赛、青年主播创造营、视听国际传播优秀案例、译制展播、同唱友谊歌中越金曲盛典），列入中国—东盟全面战略伙伴五周年主题年；与既有中国—东盟关系、文化交流、软实力、人员往来等条目不重复（本文聚焦视听媒体作为民间相知相亲载体与AI驱动的跨境内容产业协同）。",
-      "exception": null,
-      "slugs": [
-        "china-asean-audiovisual-week-2026"
-      ]
-    },
-    "event:中国在老挝开设军事保障与训练中心(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-29）：中国在老挝班根机场启用中老联合保障与训练中心及中老友谊航空学院，帮老挝培训空军飞行员；地缘/安全合作/中南半岛主题；与既有老挝条目（八成电力出口断电）及中老铁路、中老关系等不重复（本文聚焦安全存在从经济走廊延伸至天空与机场）。",
-      "exception": null,
-      "slugs": [
-        "china-laos-ban-keun-military-centre-2026"
-      ]
-    },
-    "event:中老铁路磨丁至万象城际列车首发(2026-09)": {
-      "note": "全新素材（中国侨网/人民日报，2026-09-30）：中老铁路老挝段磨丁至万象城际列车C95/C96首发，串六站、北部省份当天往返首都；与既有 event:中国在老挝开设军事保障与训练中心(2026-09)（安全合作，不同维度）区分，本文聚焦铁路客运成网与老挝陆锁转陆联。",
-      "exception": null,
-      "slugs": [
-        "china-laos-railway-boten-vientiane-intercity-2026"
-      ]
-    },
-    "event:印尼2027财年设定6%增长目标(2026-09)": {
-      "note": "全新素材（联合早报，2026-09-29）：印尼国会通过2027财年预算、经济增长目标6%（2012年以来最高）、赤字2.4%逼近3%红线、油价75美元/汇率17500假设偏乐观；经济产业/财政主题；与既有普拉博沃撤换财长、32个国企基建项目、印尼经济团队稳市场等条目不重复（本文聚焦预算增速目标与财政约束的张力）。",
-      "exception": null,
-      "slugs": [
-        "indonesia-2027-budget-growth-target-2026"
-      ]
-    },
-    "event:泰国2026年9月洪灾(曼谷及41府,2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-28/29）：2026年9月下旬泰国洪灾，曼谷三日降约320毫米（一月雨量）、41府受灾、8人遇难、180余万人受影响、经济损失超110亿泰铢；聚焦下沉都市治水无力、复苏脆弱、日系供应链暴露与区域气候压力测试；与既有泰国经济/气候/基建等条目不重复（本文聚焦城市洪灾与气候—治理双重脆弱）。",
-      "exception": null,
-      "slugs": [
-        "thailand-september-floods-2026"
-      ]
-    },
-    "event:东南亚银发经济崛起(辅助生活/医疗旅游,2026-09)": {
-      "note": "全新素材（南华早报，article 3366402，2026-09-05，Kolette Lim 等）：东南亚银发经济/辅助生活产业崛起，新加坡跨入超老龄社会、泰国医疗旅游分羹；与既有 malaysia-ageing-over-60-still-working-2026（老年人仍就业，不同角度）不重复。",
-      "exception": null,
-      "slugs": [
-        "southeast-asia-silver-economy-ageing-2026"
-      ]
-    },
-    "event:闽南语博物馆泉州揭牌(2026-09)": {
-      "note": "全新素材（中国侨网/中新网，2026-09-30）。泉州首座以闽南语为单一核心主题的专题博物馆揭牌，四大篇章+数字化互动；聚焦闽南语作为南洋华侨华人最通行汉语方言的离散身份纽带，与既有侨乡、华文教育、文化传承、下南洋等条目不重复（本文聚焦祖籍地母语博物馆与离散‘声纹’锚点）。",
-      "exception": null,
-      "slugs": [
-        "minnan-hokkien-language-museum-quanzhou-2026"
-      ]
-    },
-    "event:印尼普拉博沃内阁改组任命新外长(2026-10)": {
-      "note": "全新素材（联合早报，2026-10-01）：普拉博沃改组内阁、任命职业外交官阿尔马纳塔·纳西尔接替苏吉奥诺出任外长，三周内第二次内部接棒；地缘政治/外交重置/文人总统集权主题；与既有 relation:中印尼关系(普拉博沃)、event:普拉博沃撤换印尼财长 等不重复（本文聚焦外交系统人事重置与权力逻辑）。",
-      "exception": null,
-      "slugs": [
-        "indonesia-cabinet-reshuffle-new-foreign-minister-2026"
-      ]
-    },
-    "event:新加坡公众核能接受度居东盟之首(东南亚气候展望调查,2026-10)": {
-      "note": "全新素材（南华早报，2026-10-01）：ISEAS—新加坡科技设计大学《东南亚气候展望2026》调查显示31.4%新加坡受访者接受核能、居东盟之首、较2024年升11.1个百分点；聚焦城市国家能源安全困境、核电禁忌松动、邻国抢跑与'能力先行'小国逻辑；与既有能源/气候条目（印尼100吉瓦太阳能、泰国2050清洁能源、老挝电力出口断电、胡志明低排放区等）不重复（本文聚焦核电公众舆论与区域外部性）。",
-      "exception": null,
-      "slugs": [
-        "singapore-nuclear-energy-acceptance-asean-2026"
-      ]
-    },
-    "event:越南争取美国市场经济地位(2026)": {
-      "note": "全新素材（日经亚洲，2026-10）：越南贸易官员游说美国商务部，争取从「非市场经济」重新归类为「市场经济」地位以降低反倾销税；与既有越南经贸/供应链/关税/中越关系等条目不重复（本文聚焦身份牌博弈与对中国供应链依附的两难）。",
-      "exception": null,
-      "slugs": [
-        "vietnam-us-market-economy-status-2026"
-      ]
-    },
-    "event:中华文化大乐园泰国普吉园闭园(2026-10)": {
-      "slugs": [
-        "chinese-culture-grand-park-phuket-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（中国侨网，2026-10-01）。2026中华文化大乐园泰国普吉园由华侨大学主办、普吉中学承办，9月30日闭园；聚焦泰南华人故地（普吉/攀牙/董里闽南潮州社群）、华侨大学校友网络与华文教育作为离散文化软实力。与 event:中华文化大乐园印尼棉兰营开营(2026-09) 为不同国家/不同营次，不重复；与泰南、华文教育、文化传承等条目不重复。"
-    },
-    "event:中国科考船嘉海科7号在巴丹群岛附近遭菲律宾海岸警卫队驱离(2026-10)": {
-      "note": "全新素材（南华早报，article 3369334，2026-10-01）：中国民用科考船嘉海科7号在巴丹群岛（巴士海峡/吕宋海峡）附近遭菲律宾海岸警卫队「驱离」，北京斥为骚扰；地缘政治/海上博弈/海洋科研主题；与既有 event:菲律宾南海政策转向、event:中菲联合能源勘探谈判(礼乐滩)、event:菲律宾扩大无人化作战能力加强外部防御 等不重复（本文聚焦巴士海峡咽喉的海洋科研与管辖权对峙及日菲划界背景）。",
-      "exception": null,
-      "slugs": [
-        "philippines-china-batanes-research-vessel-2026"
-      ]
-    },
-    "event:普拉博沃组建26人总统顾问理事会(2026-10)": {
-      "note": "全新素材（联合早报，2026-10-02）：普拉博沃成立26人总统顾问理事会（Wantimpres），成员含华商巨贾翁俊民/凯鲁、退役将领、宗教领袖（NU两前主席+孔教会代表），规模近三倍于前届；政商军教三合一的权力统合/华侨华人融入角度；与既有普拉博沃内阁改组、撤换财长等不重复（本文聚焦顾问理事会这一非正式咨询机构）。",
-      "exception": null,
-      "slugs": [
-        "indonesia-prabowo-advisory-council-26-2026"
-      ]
-    },
-    "topic:东南亚货币遭油价与强美元夹击走弱(2026-10)": {
-      "note": "全新素材（日经亚洲，2026-10-01前后）：中东紧张升级、油价破百、强美元三重夹击下东南亚货币走弱，印尼盾年内贬逾7%领跌，马来西亚与菲律宾承压；与既有 event:菲律宾比索创历史新低(2026-09)（单一国家货币事件）区分，本文为区域宏观走势与结构性压力分析。",
-      "exception": null,
-      "slugs": [
-        "southeast-asia-currency-slide-oil-dollar-2026"
-      ]
-    },
-    "event:深圳机场开通文莱直飞航线(2026-10)": {
-      "note": "全新素材（中国侨网/南方+，2026-10-03）：深圳航空开通深圳直飞文莱首都斯里巴加湾航线，每周四班（ZH171/ZH172）、无需中转，填补深圳直飞文莱空白；聚焦中国—东盟空中互联互通下沉至小国与区域航空网络扩张。与既有中国—东盟关系/经贸合作/人员往来等条目不重复（本文聚焦支线航线与航空连接能力）。",
-      "exception": null,
-      "slugs": [
-        "shenzhen-brunei-direct-flight-2026"
-      ]
-    },
-    "event:马来西亚因挪威毁约重新采购舰载反舰导弹系统(2026-10)": {
-      "note": "全新素材（联合早报，2026-10-03）：马来西亚与挪威价值28亿美元舰载反舰导弹军购因奥斯陆修订出口管制法规告吹，国防部长10月3日证实评估三国替代方案、拟另拨7亿至10亿令吉重启采购；地缘政治/军备供应/中等国家防务自主主题；与既有马来西亚条目（半导体/稀土/金砖/民行党/森美兰王室等）及东盟、南海、海上安全条目不重复。",
-      "exception": null,
-      "slugs": [
-        "malaysia-naval-anti-ship-missile-reprocurement-2026"
-      ]
-    },
-    "event:菲律宾晋升中高收入国家但经济增长落后东盟(BofA预测2.5%区域最慢,2026-09)": {
-      "note": "全新素材（南华早报 Sam Beltran, 2026-09-21, article 3368024）：世界银行7月将菲升格中高收入，但美银预测2026增速仅2.5%、与泰国并列东盟最慢，并给出新马印尼越对照；聚焦“名义升级、实际承压”的反差、消费依赖模型、基建被反腐调查拖缓、气候与油价双重外部冲击。与既有 philippines-q2-gdp-slowdown（季度数据快讯）、vietnam-philippines-upper-middle-income（越菲共同跨阈值、半导体驱动）、philippines-debt-economic-stimulus-2027（举债刺激）等不重复——本文为“升格里程碑 vs 增速垫底”的对照式评论，角度不同。",
-      "exception": null,
-      "slugs": [
-        "philippines-growth-lags-asean-2026"
-      ]
-    },
-    "event:越南2026年三季度GDP增长9.95%(2026-10)": {
-      "note": "全新素材（日经亚洲/越南统计总局，2026-10-05 报道 10-03 数据）：越南三季度GDP同比增9.95%，创2022年以来最快季度增速，前9个月累增9.01%；注册FDI 503.6亿美元同比增76.4%、实际到位210.7亿美元创5年新高；但前9个月贸易逆差194.2亿美元创历史新高，全年10%目标需四季度12.5%。与既有越南条目（名义GDP赶超泰国/前8月贸易创纪录/美市场经济地位/经济动能/半导体战略等）不重复，本文聚焦三季度增速冲顶与“组装车间”结构性考问。",
-      "exception": null,
-      "slugs": [
-        "vietnam-q3-gdp-995-2026"
-      ]
-    },
-    "event:菲律宾扫荡非法网络博彩逮捕中国籍员工(2026-10)": {
-      "note": "全新素材（联合早报，2026-10-04）：菲律宾移民局、国家调查局与军方10月2日突袭棉兰老岛三宝颜锡布格省两处非法网络博彩窝点，逮捕244名外籍人员（110名中国籍+2柬埔寨+1香港于Siay；131名多为中国籍，含马来/印尼/缅籍于Alicia），起获78显示器、约3000手机；2026年最大规模POGO扫荡，部分涉人口贩运调查。聚焦2024年禁令后灰色产业转入地下、中国籍劳工深陷跨国诈骗经济、单边禁令难解区域共病；与既有柬埔寨扫荡网诈、马来西亚鞭刑网络诈骗、华裔女子曼谷绑架等条目不重复（本文聚焦菲POGO禁令后续与中国籍劳工结构性困境）。",
-      "exception": null,
-      "slugs": [
-        "philippines-cyber-gaming-raid-chinese-workers-2026"
-      ]
-    },
-    "event:马文禄(Ma Mon Luk)百年中餐厅关店(2026-10)": {
-      "note": "全新素材（中国侨网/菲龙网，2026-10-05）：菲律宾百年老字号中餐厅马文禄（Ma Mon Luk）最后一家分店因涉嫌违反卫生与营业许可规定被奎松市政府勒令关闭；创始人马文禄1896年生于广东香山、1918年南渡菲律宾，约1920年创制马米面（mami）并推广菲式烧包（siopao），九十年代中期大马尼拉曾有至少6家分店。聚焦菲华最古老商业地标退场、离散家族企业代际疲惫与同化下的遗产脆弱性；与既有菲律宾条目（绑架提醒/POGO扫荡/校园枪击/华校安全化/南海等）及中餐出海、华侨华人慈善等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "ma-mon-luk-century-restaurant-closure-philippines-2026"
-      ]
-    },
-    "event:玛丽·简·贝洛索案暴露菲律宾海外劳工保护缺口(2026-10)": {
-      "slugs": [
-        "philippines-veloso-ofw-protection-gaps-2026"
-      ],
-      "exception": null,
-      "note": "全新素材（南华早报，2026-10-01/10-05）：以玛丽·简·贝洛索获绝对赦免（2026-09-25 出狱）为切口，评论菲律宾海外劳工（OFW）保护的结构性缺口——招聘前筛查薄弱、领事协助被动、追诉招聘者迟缓，根源在「劳务输出」发展模式与国内就业短缺；与既有 sea-extreme-heat-outdoor-workers-2026（户外劳动者职业健康）不重复（本文聚焦移民工人跨国招聘与遣返保护、劳务出口政策批判）。"
-    },
-    "event:外国人和资本涌入泰国景区引发不满与政府整顿(2026-10)": {
-      "note": "全新素材（联合早报/彭博，2026-10-05）：帕岸岛与苏梅岛约1.68万家企业近70%有外资共同持股（全国约12%），逾240家涉违法代持、数千家受查；阿努廷政府7月启动“帕岸模式”专项整治扩至七府、逮捕超110人，免签停留60天砍至30天，2025以色列访泰游客增46%超40万人次而整体入境降7%，多地爆发“收复泰国”示威；聚焦旅游开放模式的分配难题与外资治理（代持/飞地经济），与既有泰国经济、中国资本、洪灾等条目不重复。",
-      "exception": null,
-      "slugs": [
-        "thailand-tourism-foreign-capital-crackdown-2026"
-      ]
-    },
-    "event:日本企业新一轮对泰投资(技术升级与分化,2026-09)": {
-      "note": "全新素材（日经亚洲，2026-09-07 引述泰国 BOI 数据；EBC/Nation Thailand 等转述）：2025年日企对泰投资促进申请302件、约1137亿泰铢同比翻倍，资金从低成本组装转向自动化/机器人/清洁能源/电动化与高端航空供应链，NMB-Minebea 首闯空客波音精密航空件；K型分化——三菱/五十铃/马自达/本田加码，斯巴鲁(2024底停产)、铃木(2025底关厂)离场；自动化升级不创造等量岗位、低技能工人与中小供应商承压。与既有 japanese-banks-pivot-southeast-asia-china-2026（日本银行业，不同）、thailand-anutin-chinese-capital-upgrading-2026（中国资本）、thailand-china-fdi-ev-overtakes-japan-2026（中资EV超日本）、thailand-boi-fast-track-investment-2026（BOI审批机制）均不重复（本文聚焦日企在泰制造基地的升级与分化）。",
-      "exception": null,
-      "slugs": [
-        "japan-thailand-investment-wave-2026"
-      ]
-    },
-    "event:中国国庆黄金周带动泰国旅游(2026-10)": {
-      "note": "全新素材（中国侨网/中新社，2026-10-06）：泰国旅游与体育部数据显示9月27日至10月3日中国游客入境133946人次、环比增41.98%，约占当周外国游客四分之一，今年累计约400万人次居首；聚焦黄金周客流作为泰国第四季度旅游命脉与单一客源依赖的结构性风险。与既有 thailand-tourism-foreign-capital-crackdown-2026（外国资本与代持整顿）、thailand-anutin-chinese-capital-upgrading-2026（中国资本投资）不重复。",
-      "exception": null,
-      "slugs": [
-        "thailand-tourism-china-golden-week-2026"
-      ]
-    },
-    "event:印尼煤企多元化转型(煤炭下行与能源转型,2026-10)": {
-      "note": "全新素材（参考《日经亚洲》2026-10-05 报道 Indonesian Coal Miners Accelerate Diversification as Volatility Rises）：印尼作为全球最大动力煤出口国，煤企（阿达罗/Alamtri、印多卡/Indika 等）在中东战事推高煤价、账面回血之际加速转向铝、金、锂、光伏与煤制气；叠加镍矿退潮致煤电自带电厂需求见顶、对华出口骤降，以及普拉博沃/巴赫利尔“限产保收入+煤变油”政策。与既有印尼条目（PFII 金融中心/镍矿禁令/100吉瓦太阳能/雅万高铁债务重组/厄尔尼诺冲击等）不重复（本文聚焦煤炭产业的多元化突围与去煤化真实成色）。",
-      "exception": null,
-      "slugs": [
-        "indonesia-coal-miners-diversification-2026"
-      ]
-    },
-    "event:菲律宾调查中国汇款流向杜特尔特家族企业(2026-10)": {
-      "slugs": [
-        "philippines-china-remittances-duterte-firm-probe-2026"
-      ],
-      "exception": null,
-      "note": "全新素材：聚焦反洗钱证词与“中国汇款”叙事的政治用途及华商误伤风险，与 sara-duterte-impeachment-survey-lead-2026（弹劾民调）角度不同"
-    }
+ "version": "2026-10-07",
+ "rule": "同一 core_material 不得发布≥2次，除非满足例外之一：研究视角实质变化 / 出现新材料 / 事件根本转折 / 产生新热点。film:Dear You 已存在3篇，属历史遗留，今后禁止再发。",
+ "materials": {
+  "event:马来西亚成为中国买家第四大置业咨询目的地(2026-10)": {
+   "note": "全新素材（南华早报，2026-10-04）：居外（Juwai IQI）数据显示2026年上半年马来西亚在中国买家置业咨询榜升至第四（2024年第七、2025年第六），以“新加坡式制度安稳、泰国式价格”卡位；第二家园计划2025年收3172份申请、约10亿美元外资，2026年起外资印花税升至8%；与既有东南亚资本赴香港置业（方向相反）、马来西亚各产业条目及香港、新加坡地产条目不重复（本文聚焦中国买家海外置业的“中间选项”现象）。",
+   "exception": null,
+   "slugs": [
+    "malaysia-chinese-buyers-property-middle-ground-2026"
+   ]
+  },
+  "event:菲律宾绑架中国公民与使馆提醒(2026-10)": {
+   "note": "全新素材（中国侨网/中国侨网微信公众号，2026-10-04）：菲律宾警方9月25—29日在多起绑架案中逮捕4嫌犯、解救3名受害者（含中国公民），中国驻菲使馆再发提醒防范“被诱骗绑架勒索”；华侨华人/领事保护/跨境犯罪治理主题。与既有菲律宾条目（南海转向/比索新低/洪水贪腐/华校安全化/无人作战/教育预算/校园枪击/客轮海难/Pax Silica 等）及跨境治理、人口贩运、罗兴亚等条目不重复（本文聚焦在菲中国公民人身安全与使馆领保机制）。",
+   "exception": null,
+   "slugs": [
+    "philippines-kidnapping-chinese-citizen-embassy-warning-2026"
+   ]
+  },
+  "event:日经亚洲与FT曼谷商业奢侈峰会(2026-10)": {
+   "note": "全新素材（日经亚洲/日经新闻社，2026-10-02 新闻稿）：日经新闻社与英国《金融时报》将于2026-10-19至20日在曼谷合办亚洲版商业奢侈峰会（第二届，首届在香港）。聚焦东南亚财富与注意力东移、文化认同成为奢侈品新卖点、泰国华裔财团资本暗线、以及泰国经济底色脆弱（二季度增速1.9%、九月洪灾）的冷思考；与既有 china-brands-southeast-asia-luxury-2026（中国消费品牌出海东南亚，属不同素材）及泰国经济系列条目不重复。",
+   "exception": null,
+   "slugs": [
+    "bangkok-luxury-summit-nikkei-ft-2026"
+   ]
+  },
+  "event:Grab以15亿美元控股Atome(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-15）：Grab 以15亿美元现金收购先买后付平台 Atome Financial 60%股权，消费信贷/超级应用金融化主题；与既有 Grab、金融科技、BNPL 条目不重复。",
+   "exception": null,
+   "slugs": [
+    "grab-acquires-atome-majority-stake-2026"
+   ]
+  },
+  "event:普拉博沃撤换印尼财长(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-14）：印尼总统普拉博沃以第97P号总统令撤换财长普尔巴亚、任命苏阿希勒·纳扎拉，经济产业/财政主题；与既有印尼、财政、主权财富基金条目不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-prabowo-sacks-finance-minister-2026"
+   ]
+  },
+  "event:泰王国国王首次国事访越(2026-09)": {
+   "note": "全新素材（越南政府新闻网/越南通讯社，2026-09-14至16）：泰王国国王哇集拉隆功首次对越南国事访问、建交50周年、全面战略伙伴，地缘政治/王室外交主题；与既有越南、泰国、东盟条目不重复。",
+   "exception": null,
+   "slugs": [
+    "thai-king-state-visit-vietnam-2026"
+   ]
+  },
+  "event:台风沙德尔后海外莆商驰援莆田(2026-09)": {
+   "note": "全新素材（中国侨网，2026-09-11）：台风“沙德尔”重创福建莆田侨乡，海外莆商与港澳同胞跨洋捐款捐物，华侨华人/侨乡赈灾主题；与既有侨乡、慈善、灾害条目不重复。",
+   "exception": null,
+   "slugs": [
+    "overseas-chinese-putian-typhoon-relief-2026"
+   ]
+  },
+  "event:菲拳王帕奎奥入阁打扶贫(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-08）：菲律宾拳王帕奎奥出任国家反贫困委员会首席召集人，社会政策/名人政治主题；与既有菲律宾、贫困、社会治理条目不重复。",
+   "exception": null,
+   "slugs": [
+    "pacquiao-cabinet-anti-poverty-2026"
+   ]
+  },
+  "event:印尼向日本推介32个战略基建项目(2026-09)": {
+   "note": "全新素材（日经亚洲/区域财经媒体，2026-08末东京论坛）：印尼向日本推介32个国企战略基建项目约125亿美元，经济产业/外交主题；与既有印尼、日本、基建条目不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-japan-32-infra-projects-2026"
+   ]
+  },
+  "event:马来西亚拟用华为昇腾910C建主权AI(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-08）：马来西亚评估以华为昇腾910C支撑20亿林吉特主权AI，美中技术栈抉择/数据主权主题；与既有数据中心、AI、出口管制条目不重复（本篇聚焦政府主权AI与美出口管制碰撞）。",
+   "exception": null,
+   "slugs": [
+    "malaysia-huawei-sovereign-ai-2026"
+   ]
+  },
+  "event:第23届东博会签约活动落地南宁(2026-09)": {
+   "note": "全新素材（中国侨网/南宁日报，2026-09-08）：第23届东博会签约活动9月18日南宁举行，约300人出席，聚焦AI应用与创新、向海经济、十大现代化支柱产业，发布《投资广西》场景清单；与既有中国—东盟关系指数、区域产业链、广西枢纽等条目不重复（本文聚焦东博会签约机制与华商/侨资暗线）。",
+   "exception": null,
+   "slugs": [
+    "china-asean-expo-2026-signing"
+   ]
+  },
+  "event:新加坡二度上调增长预测(AI出口驱动,2026-08)": {
+   "note": "全新素材（日经亚洲/新加坡贸工部，2026-08/09）：新加坡年内二度上调2026增长预测至4.5%—5.5%，AI相关半导体出口成主引擎；与既有东南亚AI数据中心、越南超越泰国、各国GDP等条目不重复（本文聚焦新加坡作为AI贸易晴雨表的集中风险与区域读数）。",
+   "exception": null,
+   "slugs": [
+    "singapore-ai-export-barometer-2026"
+   ]
+  },
+  "event:缅甸华裔青年杨家迅以代码架起华文教育数字桥梁(2026-09)": {
+   "note": "全新素材（中国侨网，2026-09-07），缅甸华裔青年以编程搭建华文学习平台、数字赋能华文教育，华侨华人/华文教育主题；与既有缅甸、青年、文化交流条目不重复。",
+   "exception": null,
+   "slugs": [
+    "china-myanmar-youth-code-bridge-huawen-2026"
+   ]
+  },
+  "event:美军林肯号航母停靠泰国芭堤雅(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-07），美军航母林肯号停靠泰国芭堤雅、九个月来首次，地缘政治/军事存在主题；与既有泰国、军事合作条目不重复。",
+   "exception": null,
+   "slugs": [
+    "us-aircraft-carrier-lincoln-thailand-2026"
+   ]
+  },
+  "event:日美菲合办马尼拉AI枢纽投资论坛(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-07），日美菲合办马尼拉AI枢纽投资论坛、区域数字基建，经济产业/数字经济主题；与既有菲律宾、AI、投资条目不重复。",
+   "exception": null,
+   "slugs": [
+    "japan-us-philippines-manila-ai-hub-2026"
+   ]
+  },
+  "event:越南拟取消化毒品贩运死刑(2026-08)": {
+   "note": "全新素材（南华早报，2026-08-29），越南拟在刑法修订中取消化毒品贩运死刑、地区争议，社会文化/法律主题；与既有越南、法律条目不重复。",
+   "exception": null,
+   "slugs": [
+    "vietnam-ends-drug-trafficking-death-penalty-2026"
+   ]
+  },
+  "event:中缅青年交流胞波情谊(2026-09)": {
+   "note": "全新素材（中国侨网，2026-09-06），仰光中缅青年交流活动暨媒体茶话会，华侨华人/民间交流主题；与既有缅甸、青年、文化交流条目不重复。",
+   "exception": null,
+   "slugs": [
+    "china-myanmar-youth-exchange-paukphaw-2026"
+   ]
+  },
+  "event:越南拟购法国阵风战机(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-06），越南与法国谈判采购阵风战机、防务转向西方，地缘政治/军事合作主题；与既有越南、军事合作条目不重复。",
+   "exception": null,
+   "slugs": [
+    "vietnam-rafale-france-shift-west-2026"
+   ]
+  },
+  "event:马来西亚关键矿产中国限制迫近(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-06），马来西亚关键矿产引全球关注、中国出口管制迫近，经济产业/供应链主题；与既有稀土、矿业条目不重复。",
+   "exception": null,
+   "slugs": [
+    "malaysia-critical-minerals-china-curbs-2026"
+   ]
+  },
+  "event:平陆运河通航助推东盟货运(2026-09)": {
+   "note": "平陆运河通航(2026-09-16) 系列。首篇 pinglu-canal-asean-shipments-2026 聚焦东盟货物北上通道与RCEP/广西枢纽框架（南华早报来源）。本篇 pinglu-canal-opens-china-asean-2026 为第二篇、视角不同（日经亚洲来源）：聚焦运河在中国产能向东南亚迁移叙事中的角色、孙中山1920《实业计划》百年设想落地、工程自主化与成本账对比巴拿马，区别于首篇的贸易流量/RCEP框架。",
+   "exception": null,
+   "slugs": [
+    "pinglu-canal-asean-shipments-2026",
+    "pinglu-canal-opens-china-asean-2026"
+   ]
+  },
+  "event:中新海上合作2026联演(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-04），中新海军湛江海域\"海上合作-2026\"联演，地缘政治/军事合作主题；与既有南海、军事合作条目不重复。",
+   "exception": null,
+   "slugs": [
+    "china-singapore-maritime-cooperation-2026-exercise"
+   ]
+  },
+  "event:越南前8月贸易额7700亿创纪录(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-04），越南前8月贸易7700亿美元创纪录、AI驱动，经济产业/产业链主题。",
+   "exception": null,
+   "slugs": [
+    "vietnam-record-trade-ai-boom-2026"
+   ]
+  },
+  "event:越南30亿美元跨境铁路对接中国(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-04），越南敲定约30亿美元跨境铁路对接中国铁路网，地缘政治/基础设施主题。",
+   "exception": null,
+   "slugs": [
+    "vietnam-china-cross-border-railway-2026"
+   ]
+  },
+  "event:马来西亚警方瓦解24非法矿场(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-28），非法采矿/稀土盗采/跨境灰产主题；与既有稀土、矿场、环境条目不重复。",
+   "exception": null,
+   "slugs": [
+    "malaysia-police-bust-illegal-mines-2026"
+   ]
+  },
+  "event:印尼反腐集会要求资产没收法案(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-27），反腐败/社会运动/立法诉求主题；与既有菲律宾反腐（不同事件）、社会政策条目不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-anti-corruption-protests-2026"
+   ]
+  },
+  "film:Dear You (给阿嬷的情书)": {
+   "note": "历史遗留冲突：3 篇同素材（letter-to-grandma-indonesia / amah-letter-indonesia / dear-you-qiaopi-indonesia）。grandfathered，今后禁止再发该电影题材。",
+   "exception": "grandfathered",
+   "slugs": [
+    "letter-to-grandma-indonesia",
+    "amah-letter-indonesia",
+    "dear-you-qiaopi-indonesia"
+   ]
+  },
+  "event:印尼央行行长提名(德斯特莉)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "indonesia-central-bank-destry"
+   ]
+  },
+  "event:马来西亚罗兴亚人遣返": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "malaysia-rohingya-repatriation"
+   ]
+  },
+  "event:二十四节令鼓入编马来西亚教育部": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "malaysia-24-festive-drums-national"
+   ]
+  },
+  "event:马来西亚缅甸难民筛查遣返": {
+   "note": "与罗兴亚人遣返为不同事件（筛查启动 vs 船运接收）",
+   "exception": null,
+   "slugs": [
+    "malaysia-myanmar-refugee-screening-return"
+   ]
+  },
+  "event:菲律宾华校安全化": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "chinese-schools-securitized-philippines"
+   ]
+  },
+  "event:印尼华裔总会(INTI)换届": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "indonesia-chinese-inti-roots"
+   ]
+  },
+  "project:中国气象预警MAZU海外落地": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "mazu-early-warning-diaspora"
+   ]
+  },
+  "topic:保护海外华侨权益(全国侨务工作会议)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "protecting-overseas-chinese-rights"
+   ]
+  },
+  "event:东爪哇林火与跨境烟霾": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "java-fire-transboundary-haze"
+   ]
+  },
+  "event:马来西亚巫统-伊党马来票整合(蓝潮)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "malaysia-blue-wave"
+   ]
+  },
+  "event:菲律宾Q2 GDP放缓": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "philippines-q2-gdp-slowdown"
+   ]
+  },
+  "policy:印尼免费餐计划与厨余": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "indonesia-free-meals-waste"
+   ]
+  },
+  "topic:东南亚华裔青年中文传承": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "malaysia-chinese-youth-mandarin"
+   ]
+  },
+  "topic:关税转移vs AI替代(峇淡岛/马尼拉)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "atoms-in-bits-out-batam-manila"
+   ]
+  },
+  "relation:中印尼关系(普拉博沃)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "prabowo-china-indonesia-relations"
+   ]
+  },
+  "topic:东南亚AI与能源震荡": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "sea-ai-and-energy-shock"
+   ]
+  },
+  "topic:郑和清真寺(泗水)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "zheng-he-mosque-surabaya"
+   ]
+  },
+  "topic:六千万海外侨民(侨务读本)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "overseas-chinese-sixty-million"
+   ]
+  },
+  "topic:侨批(离散群体汇款家书)": {
+   "note": "与 film:Dear You 不同素材（侨批制度本身）；不计入电影集群。",
+   "exception": null,
+   "slugs": [
+    "qiaopi-diaspora-letters"
+   ]
+  },
+  "topic:越南制造与供应链重构": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "vietnam-manufacturing-supply-chain"
+   ]
+  },
+  "policy:印尼镍矿出口禁令": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "indonesia-nickel-export-ban"
+   ]
+  },
+  "topic:湄公河旱涝(气候与地缘)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "mekong-drought-floods"
+   ]
+  },
+  "topic:新加坡小国外交": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "singapore-small-state-diplomacy"
+   ]
+  },
+  "event:菲律宾南海政策转向": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "philippines-south-china-sea-pivot"
+   ]
+  },
+  "topic:新时代侨务工作(向实向新向未来·专家论)": {
+   "note": "与 topic:保护海外华侨权益(全国侨务工作会议) 区分：本文聚焦侨务治理范式转移（引资引智→服务到人）及东南亚族裔政治试金石，非会议“权益保护为重中之重”的部署复述。",
+   "exception": null,
+   "slugs": [
+    "new-era-qiaowu-work"
+   ]
+  },
+  "topic:新侨餐饮创业与青年侨团（徐𬱖/法国里昂）": {
+   "note": "全新素材（中国侨网《华人故事》）",
+   "exception": null,
+   "slugs": [
+    "xudi-new-overseas-chinese-association"
+   ]
+  },
+  "event:菲律宾举债振兴经济(2027预算)": {
+   "note": "全新素材（联合早报）",
+   "exception": null,
+   "slugs": [
+    "philippines-debt-economic-stimulus-2027"
+   ]
+  },
+  "event:澳洲越南深化军事合作与供应链": {
+   "note": "全新素材（联合早报）",
+   "exception": null,
+   "slugs": [
+    "australia-vietnam-defence-supply-chain"
+   ]
+  },
+  "event:汕头大学新加坡潮籍侨领口述史采集": {
+   "note": "全新素材（中国侨网）",
+   "exception": null,
+   "slugs": [
+    "shantou-university-teochew-oral-history-singapore"
+   ]
+  },
+  "event:马来西亚民行党去留与华人政治格局": {
+   "note": "全新素材（联合早报）",
+   "exception": null,
+   "slugs": [
+    "malaysia-dap-chinese-opposition-pattern"
+   ]
+  },
+  "event:马澳稀土合作(钕磁铁生产)": {
+   "note": "全新素材（联合早报）",
+   "exception": null,
+   "slugs": [
+    "malaysia-australia-rare-earth-neodymium"
+   ]
+  },
+  "topic:客家树叶吹奏技艺出海(福建)": {
+   "note": "全新素材（中国侨网·中新社，2026-08-14）",
+   "exception": null,
+   "slugs": [
+    "hakka-leaf-blowing-overseas"
+   ]
+  },
+  "event:越南对华榴莲出口(2026上半年)": {
+   "note": "全新素材（联合早报，2026-08-13）",
+   "exception": null,
+   "slugs": [
+    "vietnam-durian-china-export"
+   ]
+  },
+  "event:泰国否认军事关系作泰美贸易筹码": {
+   "note": "全新素材（联合早报，2026-08-13）",
+   "exception": null,
+   "slugs": [
+    "thailand-us-trade-military"
+   ]
+  },
+  "topic:海外侨胞助老侨宅修缮活化(乡愁/侨乡)": {
+   "note": "全新素材（中国侨网）",
+   "exception": null,
+   "slugs": [
+    "overseas-chinese-old-home-restoration"
+   ]
+  },
+  "event:印尼弗洛雷斯岛7.7级强震海啸预警(2026-08-15)": {
+   "note": "全新素材（联合早报，今日突发）",
+   "exception": null,
+   "slugs": [
+    "indonesia-flores-7.7-quake-tsunami"
+   ]
+  },
+  "event:马来西亚次季GDP增6%(AI与内需,2026Q2)": {
+   "note": "全新素材（联合早报）",
+   "exception": null,
+   "slugs": [
+    "malaysia-q2-gdp-6-ai"
+   ]
+  },
+  "event:新加坡建筑垃圾跨境倾倒柔佛(2026-08)": {
+   "note": "08-14自动化中断残留，今(08-15)补发",
+   "exception": null,
+   "slugs": [
+    "singapore-construction-waste-johor-dumping"
+   ]
+  },
+  "person:肖思明(马来西亚归侨·南洋抗战归国)": {
+   "note": "全新素材（中国侨网《华人故事》，2026-08-16）",
+   "exception": null,
+   "slugs": [
+    "malaysia-returned-chinese-xiao-siming"
+   ]
+  },
+  "event:马来西亚东铁ECRL争取2026年12月提前通车": {
+   "note": "全新素材（联合早报）",
+   "exception": null,
+   "slugs": [
+    "malaysia-ecrl-early-opening"
+   ]
+  },
+  "event:中菲联合能源勘探谈判(礼乐滩,2026-08)": {
+   "note": "全新素材（联合早报）",
+   "exception": null,
+   "slugs": [
+    "china-philippines-joint-energy-exploration"
+   ]
+  },
+  "event:泰国设立数据中心经营政策委员会(2026-08)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "thailand-data-centre-policy-committee"
+   ]
+  },
+  "event:印尼普拉博沃提出小学一年级起加强中文等外语教育(2026-08)": {
+   "note": "",
+   "exception": null,
+   "slugs": [
+    "indonesia-chinese-language-education"
+   ]
+  },
+  "event:第十一届世界华侨华人社团联谊大会(2026-07)": {
+   "note": "第十一届世界华侨华人社团联谊大会（2026年7月14日北京闭幕）。",
+   "exception": null,
+   "slugs": [
+    "11th-world-congress-overseas-chinese-associations"
+   ]
+  },
+  "event:2026年纪念南侨机工公祭典礼(吉隆坡)": {
+   "note": "2026年吉隆坡两度公祭南侨机工（7月5日隆雪华堂主办、8月15日广东义山815公祭），属华侨华人历史记忆主题。",
+   "exception": null,
+   "slugs": [
+    "nanqiao-jigong-memorial-kl-2026"
+   ]
+  },
+  "event:曼谷湄南河畔第二波开发热潮(2026-08)": {
+   "note": "2026年8月联合早报报道曼谷湄南河沿岸第二波开发潮（AWC、正大等沿河布局）。",
+   "exception": null,
+   "slugs": [
+    "bangkok-chaophraya-riverfront-boom"
+   ]
+  },
+  "event:越南连续第八个月贸易逆差(2026-08)": {
+   "note": "2026年8月越南连续第八个月贸易逆差，联合早报报道；属经济产业主题。",
+   "exception": null,
+   "slugs": [
+    "vietnam-trade-deficit-eighth-month"
+   ]
+  },
+  "film:欢迎来龙餐馆(龙餐馆)": {
+   "note": "全新素材（中国侨网《欢迎来龙餐馆》热映，2026-08-14/18）。华侨华人离散叙事转向全球冲突地带的华商题材，与既有东南亚离散主题不重复。",
+   "exception": null,
+   "slugs": [
+    "dragon-restaurant-film-diaspora"
+   ]
+  },
+  "event:敏昂莱会见普京(缅甸-俄罗斯伙伴)": {
+   "note": "全新素材（联合早报，2026-08-18）",
+   "exception": null,
+   "slugs": [
+    "myanmar-russia-putin-reliable-partner"
+   ]
+  },
+  "event:越南菲律宾迈入中高收入国家(半导体驱动)": {
+   "note": "全新素材（联合早报，2026-08-18）",
+   "exception": null,
+   "slugs": [
+    "vietnam-philippines-upper-middle-income"
+   ]
+  },
+  "event:东南亚侨领赴滇研习活动(2026-07)": {
+   "note": "全新素材（中国侨网，2026-07-15）",
+   "exception": null,
+   "slugs": [
+    "southeast-asian-overseas-chinese-leaders-yunnan-2026"
+   ]
+  },
+  "event:印尼扩大人工增雨抗林火(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-18）",
+   "exception": null,
+   "slugs": [
+    "indonesia-cloud-seeding-haze-2026"
+   ]
+  },
+  "event:越南刑法修正草案废除死刑(2026-08)": {
+   "slugs": [
+    "vietnam-death-penalty-abolition-2026"
+   ],
+   "note": "",
+   "exception": null
+  },
+  "event:泰缅最高军事将领会谈(2026-08)": {
+   "slugs": [
+    "thailand-myanmar-top-generals-talks-2026"
+   ],
+   "note": "",
+   "exception": null
+  },
+  "event:海外侨胞过七夕(七夕文化传承,2026)": {
+   "slugs": [
+    "qixi-overseas-chinese-2026"
+   ],
+   "note": "全新素材（中国侨网/中新社，2026-08-19），华侨华人离散节俗主题：阿根廷/意大利/马来西亚/美国四个侨社的七夕实践，重点是马六甲闽南社群“七姐诞/七娘妈生”的护童仪式。",
+   "exception": null
+  },
+  "policy:240小时过境免签扩至越南公民(2026-08-20)": {
+   "slugs": [
+    "vietnam-china-240h-transit-visa-free"
+   ],
+   "exception": null,
+   "note": "全新素材（中国侨网，2026-08-20），东南亚人员往来/周边外交主题；与既有东南亚离散、经贸、签证相关条目无冲突。"
+  },
+  "event:菲律宾西南季风暴雨洪灾(2026-08)": {
+   "slugs": [
+    "philippines-floods-villages-submerged-2026"
+   ]
+  },
+  "event:安华涉台表态与一中政策(2026-08)": {
+   "slugs": [
+    "malaysia-anwar-china-territorial-integrity-2026"
+   ]
+  },
+  "policy:丽水侨贸百千万工程(东南亚链路,2026-08)": {
+   "note": "全新素材（中国侨网，2026-08-11），侨贸/青田侨乡/柬埔寨供应链主题，与既有侨乡、经贸条目不重复。",
+   "exception": null,
+   "slugs": [
+    "lishui-qiaomao-southeast-asia-link-2026"
+   ]
+  },
+  "event:中国印尼全面战略对话机制首次会议(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-21）。与 relation:中印尼关系(普拉博沃) 区分：本文聚焦全面战略对话机制首次会议+五大支柱+矿能/2+2安全架构，属机制化进程的新事件，非领导人关系复述。",
+   "exception": null,
+   "slugs": [
+    "china-indonesia-strategic-dialogue-2026"
+   ]
+  },
+  "event:柔州务大臣访新招揽潜在投资(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-21），柔新经济特区/新马经济协同主题。",
+   "exception": null,
+   "slugs": [
+    "johor-mb-singapore-investment-2026"
+   ]
+  },
+  "event:第十二届侨交会(深圳·亚太出海,2026-08)": {
+   "note": "全新素材（中国侨网，2026-08-21）。侨交会/侨助千企万品出海/APEC亚太经贸合作主题，与既有侨乡、经贸、企业出海条目不重复。",
+   "exception": null,
+   "slugs": [
+    "12th-overseas-chinese-fair-shenzhen-2026"
+   ]
+  },
+  "event:泰南三府骚乱与宵禁(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-23）。泰南分离主义 insurgency 主题，与既有缅甸/泰国条目不重复。",
+   "exception": null,
+   "slugs": [
+    "southern-thailand-unrest-curfew-2026"
+   ]
+  },
+  "event:马来西亚2030本土晶片计划(Arm授权,2026-08)": {
+   "note": "全新素材（联合早报，2026-08-22）。马来西亚半导体自主/安谋授权主题，与马澳稀土、关税转移等不重复。",
+   "exception": null,
+   "slugs": [
+    "malaysia-domestic-chips-2030-2026"
+   ]
+  },
+  "event:柬埔寨华文学校停办50年后复校开学(新民学校·白马省土城,2026-08-24)": {
+   "note": "全新素材（中国侨网，2026-08-24）。柬埔寨华文教育复兴/侨社重建主题，与既有菲律宾华校安全化、东南亚华文教育 broadly 等条目不重复（本文聚焦柬埔寨特定学校复校事件与离散网络引擎）。",
+   "exception": null,
+   "slugs": [
+    "cambodia-xinmin-chinese-school-reopen"
+   ]
+  },
+  "event:越南批准连接中国铁路追加投资38亿新元(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-24），中越铁路/标准轨互联互通主题，与既有越南经贸、供应链条目不重复。",
+   "exception": null,
+   "slugs": [
+    "vietnam-china-railway-extra-funding-2026"
+   ]
+  },
+  "event:华裔女子曼谷遇绑架险被带至缅甸边境(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-24），华侨华人/跨境人口贩运与诈骗园区主题，与既有泰南、缅甸条目不重复。",
+   "exception": null,
+   "slugs": [
+    "bangkok-chinese-woman-escape-myanmar-border-2026"
+   ]
+  },
+  "event:新加坡总理黄循财推广华语演讲(2026-08-23)": {
+   "note": "全新素材（中国侨网/中新社，2026-08-25），华侨华人/华文教育主题；与既有新加坡小国外交等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "singapore-pm-bilingual-policy-2026"
+   ]
+  },
+  "event:越南外长黎怀忠访缅(2026-08,政变以来首次)": {
+   "note": "全新素材（联合早报，2026-08-25），地缘政治/缅甸回归区域外交主题。",
+   "exception": null,
+   "slugs": [
+    "vietnam-fm-myanmar-visit-2026"
+   ]
+  },
+  "event:东南亚廉航第二季亏损(2026-08,燃油+货币贬值)": {
+   "note": "全新素材（联合早报，2026-08-24），经济产业/廉价航空商业模式主题。",
+   "exception": null,
+   "slugs": [
+    "sea-budget-airlines-q2-losses-2026"
+   ]
+  },
+  "topic:东南亚华文教育守脉与向新(2026-08)": {
+   "note": "全新素材（中国侨网/中新社《东南亚华文教育的守脉和向新》，2026-08-21；马来西亚新纪元大学莫顺宗、柬埔寨柬华理事总会钟耀辉案例）。与 film:Dear You 区分：本文不涉电影本体，聚焦华文教育守脉与「中文+职业技能」转型。",
+   "exception": null,
+   "slugs": [
+    "sea-chinese-education-renewal-2026"
+   ]
+  },
+  "event:印尼启动100吉瓦太阳能计划(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-26）。印尼能源转型/清洁能源主题，与既有印尼林火、镍矿、AI与能源震荡等不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-100gw-solar-plan-2026"
+   ]
+  },
+  "event:菲律宾扩大无人化作战能力加强外部防御(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-25），军事现代化/无人作战/外部防御主题，与中菲关系、南海条目不重复。",
+   "exception": null,
+   "slugs": [
+    "philippines-unmanned-warfare-external-defense-2026"
+   ]
+  },
+  "event:2026年侨海逐梦华裔大学生研习活动(2026-08)": {
+   "type": "event",
+   "date": "2026-08-23",
+   "country": "中国",
+   "category": "华侨华人",
+   "slugs": [
+    "hainan-qiaohai-zhumeng-youth-2026"
+   ]
+  },
+  "event:54名马来西亚人尼泊尔灾区失联(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-27），马来西亚公民海外遇险/跨境领事保护主题，与既有离散、灾害条目不重复。",
+   "exception": null,
+   "slugs": [
+    "malaysia-citizens-nepal-disaster-missing-2026"
+   ]
+  },
+  "event:泰国央行连续三次维持1%基准利率(2026-08)": {
+   "note": "全新素材（联合早报，2026-08-26），泰国货币政策/两速经济主题，与既有泰国、经济产业、央行条目不重复。",
+   "exception": null,
+   "slugs": [
+    "thailand-central-bank-holds-1pct-2026"
+   ]
+  },
+  "event:阿努廷访泰柬边境争议区安塞柬抗议(2026-08)": {
+   "type": "event",
+   "date": "2026-08-23",
+   "country": "泰国",
+   "category": "地缘政治",
+   "slugs": [
+    "anutin-border-visit-cambodia-protest-2026"
+   ]
+  },
+  "event:广西侨商侨领对接平陆运河+东盟产供链(2026-08)": {
+   "note": "全新素材（中国侨网，2026-08-27），侨商侨领+平陆运河+中国—东盟跨境产供链主题；与既有侨乡、经贸、侨交会、企业出海等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "guangxi-pinglu-canal-qiao-asean"
+   ]
+  },
+  "event:日本银行缩减中国业务转投东南亚与印度(2026)": {
+   "note": "全新素材（Nikkei Asia，2026-08），日本银行业/中国业务收缩/东南亚资本流入主题；与既有供应链、投资条目不重复。",
+   "exception": null,
+   "slugs": [
+    "japanese-banks-pivot-southeast-asia-china-2026"
+   ]
+  },
+  "event:印尼首只熊猫债获中国背书(2026)": {
+   "note": "全新素材（South China Morning Post，2026-08），印尼—中国金融合作/熊猫债/外资规则主题；与既有中印尼关系、债务条目不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-panda-bond-china-backing-2026"
+   ]
+  },
+  "event:柬埔寨扫荡网诈窝点(2026-08)": {
+   "slugs": [
+    "cambodia-cyber-scam-crackdown-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（联合早报，2026-08-28/29），柬埔寨跨境电诈专项整治/华侨华人安全/跨境治理主题；与既有泰国、缅甸跨境犯罪及人口贩运条目不重复。"
+  },
+  "event:柬老越一程三地旅游合作(2026-08)": {
+   "note": "全新素材（中国侨网/中新社，2026-08-28）。柬老越 CLV 旅游部长会议通过 2026—2028 三年行动计划，'一次旅程，三个目的地'次区域旅游品牌化；与既有湄公河、东盟、经贸、旅游条目不重复。",
+   "exception": null,
+   "slugs": [
+    "clv-one-journey-three-destinations-2026"
+   ]
+  },
+  "topic:中国消费品牌东南亚出海(奢侈品试验场,2026-08)": {
+   "note": "全新素材（日经亚洲，2026-08-12）。中国消费/轻奢品牌（山下有松、PANE、花西子、观夏、周大福）借社交电商涌入东南亚，'奢侈品试验场'主题；与既有企业出海、中餐出海、侨交会、侨商等条目不重复（本文聚焦消费品牌全球高端化）。",
+   "exception": null,
+   "slugs": [
+    "china-brands-southeast-asia-luxury-2026"
+   ]
+  },
+  "event:菲美勘测棉兰老岛中资三佳钢铁厂(2026-08)": {
+   "note": "全新素材（南华早报，2026-08-26/29），中资钢厂/美菲军事勘测/北棉兰老岛海军基地选址主题；与既有中菲关系、华校安全化、无人作战等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "philippines-us-scope-chinese-steel-mindanao-2026"
+   ]
+  },
+  "event:上海浦东华侨华人创新创业研修营(2026-08)": {
+   "slugs": [
+    "pudong-overseas-chinese-innovation-camp-2026"
+   ],
+   "first_used": "2026-08-30",
+   "note": "与既有条目不重复：既有侨务条目聚焦政策文件、侨乡与侨团，本篇为 2026-08 浦东研修营单一活动，核心素材首次使用。"
+  },
+  "topic:马来西亚人口老龄化与老年就业(2026-08)": {
+   "slugs": [
+    "malaysia-ageing-over-60-still-working-2026"
+   ],
+   "first_used": "2026-08-30",
+   "note": "与既有条目不重复：既有马来西亚条目聚焦政党、选举与产业，本篇核心素材为 2026 年 7 月社险机构 60 岁以上活跃缴纳者数据，首次使用。"
+  },
+  "event:谷歌Pixel全线产能迁出中国(2026-08,日经亚洲)": {
+   "slugs": [
+    "google-pixel-exit-china-vietnam-2026"
+   ],
+   "first_used": "2026-08-30",
+   "note": "与既有条目不重复：既有供应链条目聚焦苹果、三星与泛化「中国+1」，本篇核心素材为谷歌 Pixel 自 2027 年起整机迁出中国的决定，首次使用。"
+  },
+  "event:银河航天灵知09泰国立方星整星出口(2026-08)": {
+   "slugs": [
+    "china-galaxyspace-thailand-cubesat-2026"
+   ],
+   "first_used": "2026-08-30",
+   "note": "与既有条目不重复：既有东南亚太空条目聚焦星链落地与频谱，本篇核心素材为银河航天灵知09对泰国 GISTDA 的整星出口，首次使用。"
+  },
+  "event:云南榆黄菇菌种出口越南(2026-08)": {
+   "note": "全新素材（中国侨网/中新社，2026-08-28）。云南丽江榆黄菇菌种首次出口越南，'国内发菌、国外出菇'跨境农业分工模式；与既有越南经贸、供应链、农产品、澜湄条目不重复。",
+   "exception": null,
+   "slugs": [
+    "yunnan-mushroom-spawn-vietnam-export-2026"
+   ]
+  },
+  "event:越南咖啡农改种榴莲(2026-08)": {
+   "note": "全新素材（联合早报/法新社，2026-08-30），角度为小农微观决策、失败案例与单一买家依赖风险；与既有 event:越南对华榴莲出口(2026上半年)（出口额/产业链/印度市场角度）不重复。",
+   "exception": null,
+   "slugs": [
+    "vietnam-coffee-farmers-switch-to-durian-2026"
+   ]
+  },
+  "event:泰新交易所争夺科技上市(2026-08)": {
+   "note": "全新素材（日经亚洲，2026-08-31），SET降上市门槛与SGX全球上市板/存托凭证，科技与AI企业上市争夺主题。",
+   "exception": null,
+   "slugs": [
+    "thailand-singapore-exchanges-tech-listings-2026"
+   ]
+  },
+  "event:马来西亚安华生活成本六项措施(2026-08)": {
+   "note": "全新素材（南华早报，2026-08-30），BUDI95配额回撤、学校拨款、AI订阅、医疗数字化、电子发票豁免、小微融资扩围。",
+   "exception": null,
+   "slugs": [
+    "malaysia-anwar-cost-of-living-measures-2026"
+   ]
+  },
+  "topic:中国功夫扎根南非(查飞葛·2026-09)": {
+   "note": "全新素材（中国侨网/中新社《东西问》专访南非武术名家查飞葛，2026-09-01）。中国功夫在南非本土化、华侨华人文化软实力、中南人文交流主题；与既有侨乡、华文教育、离散文化等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "chinese-martial-arts-south-africa-chafeker-2026"
+   ]
+  },
+  "event:马来西亚华总驳斥\"阿嬷\"电影统战说(2026-06)": {
+   "slugs": [
+    "malaysia-huazong-dear-you-united-front-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（中国侨网/中新网，2026-06-27），马来西亚华总总会长林家全驳斥将电影《给阿嬷的情书》与统战挂钩，离散身份政治/双层认同主题；与 film:Dear You、qiaopi-diaspora-letters 区分（本文聚焦华社政治表态而非影片本体或侨批制度）。"
+  },
+  "event:印尼首建航天发射场拟与俄合作(2026-08)": {
+   "slugs": [
+    "indonesia-biak-spaceport-russia-cooperation-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（联合早报，2026-08-31），印尼比亚克岛首座航天发射场+俄Roscosmos初步接触+不结盟/二级制裁背景；与既有印尼条目（镍矿/央行/太阳能/100GW）不重复。"
+  },
+  "event:越南经济规模或超越泰国(2026)": {
+   "slugs": [
+    "vietnam-overtakes-thailand-economy-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（日经亚洲，2026-01起持续发酵），越南名目GDP或于2026-27超越泰国、基建与供应链转移驱动；与既有越南榴莲/外长访缅等条目不重复。"
+  },
+  "event:马来西亚槟城外海非法船对船燃油转运(2026)": {
+   "slugs": [
+    "malaysia-penang-illegal-fuel-transfer-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（南华早报/新海峡时报，2026-04起持续），MMEA在槟城外海拦截非法STS柴油/原油转运、影子船队与制裁规避；与既有马来西亚非法矿场、罗兴亚遣返等条目不重复。"
+  },
+  "event:曼谷汉字艺术节(第二届·2026-09)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-02）。第二届曼谷汉字艺术节在朱拉隆功大学开幕，'汉字为媒'推动中泰文明互鉴+艺术家驻留计划+青少年成长营+AI数字化传播；与既有华文教育、文化交流、软实力等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "bangkok-chinese-character-art-festival-2026"
+   ]
+  },
+  "event:印尼卫生部长竞选世卫组织总干事(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-01/02），印尼卫生部长布迪在总统普拉博沃授意下参选世卫总干事；与既有中印尼关系、普拉博沃等条目不重复（本文聚焦全球卫生治理/联合国机构领导权争夺）。",
+   "exception": null,
+   "slugs": [
+    "indonesia-who-director-general-bid-2026"
+   ]
+  },
+  "topic:东南亚AI数据中心建设热潮(美中云角力,2026)": {
+   "slugs": [
+    "sea-ai-datacenter-boom-2026"
+   ],
+   "exception": null,
+   "note": "全新素材：聚焦东南亚AI数据中心实体建设与美中技术栈并行、主权云双轨。"
+  },
+  "event:柬泰边境Chouk Chey村架网争议(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-02），泰军在争议边境Chouk Chey村架设铁丝网与限期撤离通告，金边斥“吞并”，停火协议与二〇〇〇年备忘录法律脉络；与既有阿努廷访泰柬边境、泰南分离主义等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "cambodia-thailand-chouk-chey-border-occupation-2026"
+   ]
+  },
+  "study:东南亚空气污染2050年致死与经济损耗预测研究(NTU/Environment International)": {
+   "note": "全新素材（南华早报，2026-09-02），东南亚区域空气污染的经济与早逝损失2050预测研究；与既有印尼林火/跨境烟霾/人工增雨等事件条目不重复（本篇为学术预测研究，非具体事件）。",
+   "exception": null,
+   "slugs": [
+    "sea-air-pollution-2050-study-2026"
+   ]
+  },
+  "event:中印尼双向语言学习热(2026-09)": {
+   "note": "全新素材（中国侨网，2026-09-02），中印尼双向语言热／华文教育／印尼语专业扩招主题；与既有语言、教育、侨务条目不重复。",
+   "exception": null,
+   "slugs": [
+    "china-indonesia-language-learning-boom-2026"
+   ]
+  },
+  "event:印尼接收意大利退役航母加查马达号(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-02），印尼接收意大利退役轻型航母加里波第号／更名加查·马达号／东南亚第二艘航母主题；与既有军备、海上安全条目不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-second-aircraft-carrier-gajah-mada-2026"
+   ]
+  },
+  "event:印尼强厄尔尼诺经济冲击(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-02），印尼强厄尔尼诺经济冲击／粮食CPI／棕榈油B50／水电主题；与既有气候变化、经济条目不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-el-nino-economic-shock-2026"
+   ]
+  },
+  "event:广州茶居扩至37国(2026-09)": {
+   "core_material": "event:广州茶居扩至37国(2026-09)",
+   "slugs": [
+    "guangzhou-tea-house-diaspora-network-2026"
+   ]
+  },
+  "event:新泰重启领导人会晤(2026-09)": {
+   "core_material": "event:新泰重启领导人会晤(2026-09)",
+   "slugs": [
+    "singapore-thailand-leaders-retreat-asean-2026"
+   ]
+  },
+  "event:菲律宾比索创历史新低(2026-09)": {
+   "core_material": "event:菲律宾比索创历史新低(2026-09)",
+   "slugs": [
+    "philippine-peso-record-low-oil-shock-2026"
+   ]
+  },
+  "event:敏昂莱访越(2026-09)": {
+   "core_material": "event:敏昂莱访越(2026-09)",
+   "slugs": [
+    "myanmar-president-vietnam-visit-2026"
+   ]
+  },
+  "event:2026华语律师大会(深圳·企业出海法治桥梁)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-03）：华语律师大会在深圳，华人律师为出海企业构建'法治桥梁'，东南亚为最繁忙渡口。",
+   "exception": null,
+   "slugs": [
+    "overseas-chinese-lawyers-going-global-2026"
+   ]
+  },
+  "event:中印尼友好故事会深圳(2026-09)": {
+   "note": "全新素材（中国侨网，2026-09-05），深圳中国—印尼友好故事会\"海洋发展的蓝色奇迹\"，华侨华人/文化交流/海洋合作主题。",
+   "exception": null,
+   "slugs": [
+    "china-indonesia-ocean-stories-shenzhen-2026"
+   ]
+  },
+  "event:新加坡泰国领导人retreat(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-05），新泰领导人retreat与\"面向未来战略伙伴\"联合声明，地缘政治/东盟合作主题。",
+   "exception": null,
+   "slugs": [
+    "singapore-thailand-strategic-partnership-2026"
+   ]
+  },
+  "event:东南亚收紧中国EV进口门槛(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-05），马来、泰国等收紧中国产纯电进口条件并要求本地生产，经济产业/电动汽车主题。",
+   "exception": null,
+   "slugs": [
+    "southeast-asia-china-ev-barriers-2026"
+   ]
+  },
+  "event:越南用工荒中国挤压论(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-05），越南用工荒与中国技工被争抢，反驳西方\"中国挤压论\"，经济产业/产业链主题。",
+   "exception": null,
+   "slugs": [
+    "vietnam-labor-shortage-china-squeeze-2026"
+   ]
+  },
+  "event:柬埔寨首届华文教育研讨会(金边·2026-09)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-05/07）。首届柬埔寨华文教育研讨会直面华校办学痛点（人才/师资/经费），与既有 cambodia-xinmin-chinese-school-reopen（单一学校复校事件）及 sea-chinese-education-renewal-2026（泛论守脉向新）区分：本文聚焦首次行业大会及其结构性治理议程。",
+   "exception": null,
+   "slugs": [
+    "cambodia-chinese-education-seminar-2026"
+   ]
+  },
+  "event:印尼喀拉喀托之子火山喷发与西加里曼丹林火救灾(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-07/08），印尼喀拉喀托之子火山喷发致七座机场关闭与西加里曼丹泥炭林火救灾；与既有 event:印尼弗洛雷斯岛7.7级强震海啸预警(2026-08-15)（地震海啸，不同事件）、event:印尼强厄尔尼诺经济冲击(2026-09)（经济影响角度）、event:印尼接收意大利退役航母加查马达号(2026-09)（航母接收事件）均不重复，聚焦复合灾害与救灾治理。",
+   "exception": null,
+   "slugs": [
+    "indonesia-disasters-volcano-fires-relief-2026"
+   ]
+  },
+  "event:日本德山在越南马来西亚扩产半导体级多晶硅(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-08），日本德山在越南（后段）与马来西亚（前段，与韩国OCI合资）扩产半导体级多晶硅、总产能+50%至1.25万吨、AI驱动与供应链韧性主题；与既有马来西亚半导体/晶片、供应链、中国+1等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "tokuyama-polysilicon-vietnam-malaysia-2026"
+   ]
+  },
+  "event:菲律宾副总统莎拉·杜特尔特遭弹劾领跑2028民调(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-08），莎拉·杜特尔特首张在任副总统逮捕令、众议院弹劾、参议院审判、民调反领先、马科斯表弟贪腐被捕，菲律宾家族政治/司法武器化主题；与既有中菲关系、菲律宾比索、华校安全化等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "sara-duterte-impeachment-survey-lead-2026"
+   ]
+  },
+  "event:印尼首富彭云鹏减持Petrindo应对自由流通股新规(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-08），印尼华裔首富彭云鹏减持Petrindo/Barito以应对15%自由流通股新规，资本市场治理/华商财团主题；与既有印尼条目（央行动向、镍矿、太阳能、林火等）及华侨华人条目不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-richest-prajogo-petrindo-free-float-2026"
+   ]
+  },
+  "policy:马来西亚拟对网络诈骗犯施鞭刑 (2026-09)": {
+   "note": "全新素材（联合早报，2026-09-09）：马来西亚拟将鞭刑用于网络诈骗罪犯、效法新加坡反诈；与既有马来西亚、法律、数字经济等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "malaysia-caning-online-scammers-2026"
+   ]
+  },
+  "policy:泰国2050清洁能源占比89%目标 (2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-09）：泰国新版电力发展规划将2050清洁能源发电占比目标抬至近九成；与既有泰国、新能源、气候变化等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "thailand-2050-clean-energy-89-2026"
+   ]
+  },
+  "event:越南2026前八月经济 工业产出七年最强/FDI增55% (2026-09)": {
+   "note": "全新素材（南华早报，2026-09-09）：越南2026年1—8月工业产出增11.9%（七年最强）、注册外资增55%；与既有越南、经济、制造业等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "vietnam-economic-momentum-2026"
+   ]
+  },
+  "topic:华侨华人慈善常态化(中华慈善日,2026-09)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-06）。中华慈善日华侨华人慈善从侨汇到回馈住居国、跨越三大洲草根善行，与既有侨乡、侨团、离散软实力等条目不重复（本文聚焦慈善常态化与侨社公民社会成熟）。",
+   "exception": null,
+   "slugs": [
+    "overseas-chinese-charity-day-2026"
+   ]
+  },
+  "policy:泰国放宽初创企业融资限制(2026-09)": {
+   "slugs": [
+    "thailand-startup-financing-reform-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（中国侨网，2026-09-11）。泰国内阁通过《创业企业促进法案》草案放宽初创企业融资与股权限制；与既有泰国、数字经济、投资、东盟条目不重复。"
+  },
+  "event:菲前众议长罗穆亚尔德斯防洪工程贪腐案(2026-09)": {
+   "note": "全新素材（中国新闻网/联合早报，2026-09-07）：菲律宾前众议长、马科斯表弟罗穆亚尔德斯因涉嫌从防洪工程收取约74.4亿比索回扣，在医院病房被逮捕并控以“掠夺罪”；与既有菲律宾比索、华校安全化、无人作战、南海政策等条目不重复（本文聚焦家族政治反腐与2028大选涟漪）。",
+   "exception": null,
+   "slugs": [
+    "philippines-romualdez-flood-corruption-2026"
+   ]
+  },
+  "event:泰国青年志愿参军潮与兵役制改革(2026-09)": {
+   "note": "全新素材（VnExpress International，2026-04/09）：泰国青年因经济放缓、青年失业高企主动报名参军，部分地区征兵抽签形同虚设；阿努廷政府推出“志愿兵”计划拟2027年前转向全志愿兵役。与既有泰国、军事合作、泰柬边境等条目不重复（本文聚焦兵役制改革与社会经济动因）。",
+   "exception": null,
+   "slugs": [
+    "thailand-youth-volunteer-military-2026"
+   ]
+  },
+  "event:槟城上半年制造业投资创纪录(AI超级周期,2026-09)": {
+   "note": "全新素材（The Edge Malaysia/日经亚洲，2026-09-03）：槟城2026上半年获批制造业投资173亿林吉特、同比+38%、占全马34%，AI相关电子与设备吸走88%资本，外资占七成；与既有马来西亚关键矿产、2030本土晶片、东铁、槟城外海燃油转运等条目不重复（本文聚焦AI超级周期下槟城“下一个台湾”叙事与区域竞赛）。",
+   "exception": null,
+   "slugs": [
+    "penang-manufacturing-investment-boom-2026"
+   ]
+  },
+  "event:广东国际侨创赛15个优质项目意向落地中山(2026-09)": {
+   "note": "全新素材（中国侨网，2026-09-11）：广东国际侨创赛落幕、15个参赛优质项目意向落地中山，聚焦侨务引智与项目落地机制；与既有侨乡、侨商、创新创业、企业出海条目不重复。",
+   "exception": null,
+   "slugs": [
+    "guangdong-qiaochuang-contest-zhongshan-2026"
+   ]
+  },
+  "event:菲律宾June Aster客轮火灾重大海难(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-12）：菲律宾客轮MV June Aster起火，死亡人数持续上升、数十人失踪，海警称起火前船内有两次爆炸；聚焦群岛国家海上客运安全与应急信息机制；与既有菲律宾政治、天灾条目不重复。",
+   "exception": null,
+   "slugs": [
+    "philippines-ferry-fire-maritime-safety-2026"
+   ]
+  },
+  "policy:泰国BOI战略投资快速通道与BOI-to-IPO机制(2026-09)": {
+   "note": "全新素材（日经亚洲/Kao Hoon，2026-09-12）：泰国BOI为约36.6亿美元战略产业投资开审批快速通道，并联合SEC、SET推出BOI to IPO；聚焦投资促进制度与本土资本市场衔接；与既有泰国初创融资改革、汽车产业条目不重复。",
+   "exception": null,
+   "slugs": [
+    "thailand-boi-fast-track-investment-2026"
+   ]
+  },
+  "event:马来西亚金砖外交与中间道路表述(2026-09)": {
+   "note": "全新素材（南华早报/联合早报，2026-09-12）：安华出席新德里金砖峰会并与普京会晤，官方强调伙伴关系拓宽贸易但坚持中间道路；聚焦中小国家多边对冲；与既有安华涉台表态、生活成本措施条目不重复。",
+   "exception": null,
+   "slugs": [
+    "malaysia-brics-middle-path-2026"
+   ]
+  },
+  "event:南宁借服贸会搭建中国—东盟数字合作桥梁(2026-09)": {
+   "note": "全新素材（中国侨网，2026-09-11）：广西南宁借服贸会平台推动中国—东盟数字合作，涉及跨境电商、算力、数据跨境流动；聚焦互联互通从硬件走向规则；与既有东博会签约、平陆运河、澜湄条目不重复。",
+   "exception": null,
+   "slugs": [
+    "nanning-china-asean-digital-bridge-2026"
+   ]
+  },
+  "event:缅甸驻联合国代表觉莫吞遭军政府撤职(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-13）：缅甸军政府以涉非法活动为由撤掉驻联合国代表觉莫吞，其2021年政变后拒绝承认军政府；聚焦联合国全权证书之争与代表权合法性；与既有缅甸、罗兴亚条目不重复。",
+   "exception": null,
+   "slugs": [
+    "myanmar-un-envoy-dismissed-2026"
+   ]
+  },
+  "topic:AI热潮推高新加坡PC整机价格(2026-09)": {
+   "note": "全新素材（Borneo Bulletin，2026-09-13）：AI数据中心扩张挤占内存与零部件产能，推高新加坡消费级PC价格；聚焦AI资本开支向消费端的价格外溢；与既有新加坡AI出口增长预期、东南亚AI数据中心条目不重复。",
+   "exception": null,
+   "slugs": [
+    "singapore-pc-prices-ai-boom-2026"
+   ]
+  },
+  "topic:社交媒体成七成马来西亚民众主要新闻来源(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-13）：调查显示社交媒体超越传统媒体，成为约70%马来西亚民众主要新闻来源；聚焦媒介碎片化、算法与族群政治；与既有马来西亚鞭刑、社媒诈骗条目不重复。",
+   "exception": null,
+   "slugs": [
+    "malaysia-social-media-news-source-2026"
+   ]
+  },
+  "event:菲南邦萨摩洛自治区首次议会选举(2026-09)": {
+   "slugs": [
+    "bangsamoro-first-election-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（联合早报，2026-09-14）：菲南邦萨摩洛自治区首次议会选举、十三党角逐八十席，从临时自治迈向常态治理；与既有菲律宾、和平进程、东盟条目不重复（本文聚焦选举作为摩洛和平进程制度化关节点）。"
+  },
+  "event:世界银行预警东南亚2026增长普遍放缓(2026-09)": {
+   "slugs": [
+    "southeast-asia-growth-slowdown-world-bank-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（日经亚洲，2026-09-13/14）：世界银行《东亚与太平洋地区经济更新》称区域2026增速放缓至4.2%、东南亚分化加剧；与既有越南/泰国/马来西亚经济、AI出口等条目不重复（本文聚焦宏观外部冲击与政策空间）。"
+  },
+  "event:东南亚极端高温暴露露天劳动者社保缺口(2026-09)": {
+   "slugs": [
+    "southeast-asia-extreme-heat-outdoor-workers-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（南华早报，2026-09-05报道/2026-09-14补发）：以柔佛油棕小园主为例，极端高温暴露露天劳动者社会保障与高温风险评估缺口；与既有烟霾/气候变化/公共卫生条目不重复（本文聚焦 occupational heat 劳动保护制度）。"
+  },
+  "event:马来西亚琼籍歌手朱主爱海南寻根音乐会(2026-09)": {
+   "note": "2026-09-14侨网线：马来西亚华裔歌手朱主爱回海南开唱并与海南省侨联座谈，涉及峇峇娘惹身份认同、侨务工作转向与文旅合作",
+   "exception": null,
+   "slugs": [
+    "malaysia-joyce-chu-hainan-roots-tour-2026"
+   ]
+  },
+  "event:泰国首届电视中秋晚会(曼谷·2026-09)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-15）：泰国首届电视中秋晚会由泰国第五电视台、中华总商会、潮州会馆联办，泰中文联演出，中秋夜播出；聚焦华侨华人传统节日登上泰国国家主流荧屏、中华文化在泰落地与中泰民间相知相亲。与既有 bangkok-chinese-character-art-festival-2026（汉字艺术节）区分：本文聚焦中秋晚会与侨社—主流媒体合流。",
+   "exception": null,
+   "slugs": [
+    "thailand-first-tv-mid-autumn-bangkok-2026"
+   ]
+  },
+  "event:印尼接管雅万高铁股权与债务重组(2026-09)": {
+   "slugs": [
+    "indonesia-yawan-hsr-debt-restructure-2026"
+   ]
+  },
+  "event:越南国家半导体战略升级(2026-09)": {
+   "slugs": [
+    "vietnam-semiconductor-strategy-2026"
+   ]
+  },
+  "event:马来西亚森美兰王室危机(2026-09)": {
+   "slugs": [
+    "malaysia-negeri-sembilan-royal-crisis-2026"
+   ]
+  },
+  "event:澳门妈祖文化旅游节(2026-09)": {
+   "slugs": [
+    "macau-mazut-cultural-festival-2026"
+   ]
+  },
+  "event:泰柬海上争端国际调解(2026-09)": {
+   "slugs": [
+    "thai-cambodia-maritime-mediation-2026"
+   ]
+  },
+  "event:泰国中资EV投资首超日本(2026-09)": {
+   "slugs": [
+    "thailand-china-fdi-ev-overtakes-japan-2026"
+   ]
+  },
+  "event:新加坡防长访华出席香山论坛(2026-09)": {
+   "slugs": [
+    "singapore-defence-minister-china-visit-2026"
+   ]
+  },
+  "event:印尼林火逼近新建首都努山塔拉(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-10）：印尼十一年来最猛林火季，火点逼近在建新首都努山塔拉，总统普拉博沃调无人机与意赠航母灭火；聚焦迁都工程选址泥炭地的生态隐患、烧荒与厄尔尼诺叠加、水弹难灭地下阴燃。与既有印尼林火/跨境烟霾/人工增雨/喀拉喀托火山林火救灾等条目不重复（本文聚焦新首都这一旗舰工程遭遇气候压力）。",
+   "exception": null,
+   "slugs": [
+    "indonesia-nusantara-wildfire-2026"
+   ]
+  },
+  "event:谢国民卸任中国侨商联合会会长(2026-09)": {
+   "note": "全新素材（中国侨网，2026-09-16）：中国侨商联合会第六次会员代表大会，谢国民（泰国正大/泰籍华人）卸任会长、郭孔华（郭鹤年之子/马来西亚对华裔）接任，华侨华人商界代际接力与北京对东南亚华商信任延续主题；与既有侨务/华商/离散条目不重复。",
+   "exception": null,
+   "slugs": [
+    "dhanin-chearavanont-step-down-cocea-2026"
+   ]
+  },
+  "event:泰美海底光缆系统THUS可行性研究(2026-09)": {
+   "note": "全新素材（联合早报/彭博，2026-09-15）：美国贸易发展署（USTDA）资助‘泰国—美国海底光缆系统’（THUS）可行性研究，全长约1.85万公里、绕开南中国海、连接泰国与新加坡/印尼/马来/菲律宾/越南五国东盟，地缘政治/数字基础设施/中美海底光缆竞争主题；与既有东南亚人工智能数据中心、东盟、南海、中美竞争等条目不重复（本文聚焦海底光缆作为战略资产与数字阵营化）。",
+   "exception": null,
+   "slugs": [
+    "thailand-us-submarine-cable-thus-2026"
+   ]
+  },
+  "topic:东南亚数据中心热引发公众反弹(水电气社区许可,2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-02《Red-hot data center boom fuels public backlash across Asia》）。聚焦东南亚人工智能数据中心热潮遭遇的社区/公众反弹——水资源压力、电力瓶颈、用地与‘社会许可证’缺失，及马来西亚‘记分卡’、泰国 49 停建/117 冻结等治理回摆；与既有 sea-ai-datacenter-boom-2026（聚焦实体建设与美中技术栈并行）区分：本文聚焦社会许可与资源硬约束下的反弹，非建设本身。",
+   "exception": null,
+   "slugs": [
+    "sea-data-center-backlash-2026"
+   ]
+  },
+  "event:菲律宾2026创纪录教育预算与学习危机(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-17）：菲律宾参议院通过2026年史上最大教育预算1.37万亿比索（约23亿美元），首次达联合国占GDP 4%—6%建议线；焦点为1800万‘功能性文盲’、16.5万间教室缺口、DPWH反腐与执行短板；与既有菲律宾条目（比索新低、洪水贪腐、南海转向、华校安全化、无人作战等）不重复。",
+   "exception": null,
+   "slugs": [
+    "philippines-record-education-budget-2026"
+   ]
+  },
+  "event:侨心传史丝路连心青少年侨史研学(北京·2026-09)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-16/17）。北京市侨联马来西亚归侨联谊会发起“侨心传史·丝路连心”青少年侨史研学志愿服务，于中国华侨历史博物馆共读下南洋、侨批与南侨机工历史，并接入马来西亚华文教育与新市民儿童融合。与既有 event:2026年纪念南侨机工公祭典礼(吉隆坡)（吉隆坡公祭仪式，不同事件）区分：本文聚焦北京青少年侨史研学活动及侨联把离散记忆工程化的叙事策略，非公祭本身。",
+   "exception": null,
+   "slugs": [
+    "beijing-youth-nanyang-history-2026"
+   ]
+  },
+  "event:越南北部暴雨成灾(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-18）。越南北部9月14日起暴雨成灾，3死、逾1.6万间房屋被淹、2.2万公顷农作物受损、河内积水1米、南北铁路中断；厄尔尼诺预告中南将转旱。气候/灾害治理主题，与既有湄公河旱涝、印尼林火/烟霾、菲律宾台风等条目不重复（本文聚焦越南北部红河三角洲气候鞭击与韧性治理）。",
+   "exception": null,
+   "slugs": [
+    "vietnam-northern-floods-2026"
+   ]
+  },
+  "event:越南名义GDP赶超泰国(2026)": {
+   "slugs": [
+    "vietnam-overtakes-thailand-gdp-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（Nikkei Asia 源，多家转引）：越南名义GDP赶超泰国的结构性变局，聚焦基建冲刺、供应链东迁、中国产业链外溢与泰国结构困境的对撞；与既有 vietnam-record-trade-ai-boom-2026（贸易额）、vietnam-manufacturing-supply-chain（制造业重构）非同一素材。"
+  },
+  "event:东南亚极端高温暴露户外劳工保护网缺口(研究报告,2026-09)": {
+   "note": "全新素材（南华早报，2026-09-05）：研究指出东南亚多城缺乏高温风险评估、户外劳工保护法规薄弱；聚焦 occupational heat exposure 与劳工保护制度缺口，区别于既有印尼林火/跨境烟霾/空气污染等气候条目（本文不写火灾，写高温下的劳动者职业健康）。",
+   "exception": null,
+   "slugs": [
+    "sea-extreme-heat-outdoor-workers-2026"
+   ]
+  },
+  "event:中华文化大乐园印尼棉兰营开营(2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-17）。2026'中华文化大乐园'印尼棉兰营由广西海外联谊会主办、广西师范大学承办、棉中中小学协办，两周文化课程；华侨华人/华文教育/离散文化外交主题；与既有印尼华裔总会、东南亚华文教育守脉、中印尼语言热、文化传播等条目不重复（本文聚焦省级递送的离散文化软权力与全球最大华裔离散群体再连结）。",
+   "exception": null,
+   "slugs": [
+    "chinese-culture-grand-park-medan-2026"
+   ]
+  },
+  "event:东南亚资本成为香港商业地产最大非本地买家(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-16）：Savills 数据显示 2026 年迄今东南亚资本以 33.7 亿港元登顶香港商业地产非本地买家，新加坡枢纽领衔，中资与西方基金退场、价格腰斩；与既有香港、新加坡、商业地产、资本流动、华侨华人等条目不重复（本文聚焦区域资本在周期低点接盘香港核心资产）。",
+   "exception": null,
+   "slugs": [
+    "southeast-asian-capital-hong-kong-property-2026"
+   ]
+  },
+  "event:泰国黄衫军林明达重返街头政治(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-17/18）：传媒大亨、保皇派\"黄衫军\"发起人林明达发起\"夺回泰国\"运动，向阿努廷政府施压，围绕9月28日宪法法院大选选票条码裁决动员；地缘政治/街头政治/宪政危机主题；与既有泰国、政治、抗议、宪政相关条目不重复（本文聚焦黄衫军元老重返街头与宪政关口）。",
+   "exception": null,
+   "slugs": [
+    "thailand-yellow-shirts-street-politics-2026"
+   ]
+  },
+  "event:柬埔寨消费者抵制泰货与国产替代潮(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-08）：柬泰边境冲突外溢至民间消费，柬埔寨消费者抵制泰货、泰进口前七月跌37%、国货份额升至约30%，官方“柬埔寨制造”运动助推本土品牌Mee Chiet/Kirisu，伴生伪国货套利；与既有的柬泰边境Chouk Chey村架网争议、泰柬海上争端等条目不重复（本文聚焦经济民族主义与消费替代的平民维度）。",
+   "exception": null,
+   "slugs": [
+    "cambodia-thai-goods-boycott-2026"
+   ]
+  },
+  "event:中国驻马来西亚使馆开放日(2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-17）。中国驻马来西亚使馆以中秋为名举办开放日，邀约八十名马来西亚青年学生走进使馆，体验汉服、月饼、灯笼与科大讯飞AI产品；聚焦使馆公共外交/侨务 outreach 与中马青年人文交流，与既有马来西亚条目（安华、槟城、鞭刑、罗兴亚等）不重复。",
+   "exception": null,
+   "slugs": [
+    "china-embassy-malaysia-open-day-2026"
+   ]
+  },
+  "event:泰国将减肥针列为处方药打击黑市(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-18）：泰国食品药品监督管理局将 GLP-1 减肥针列为“特别管制药品”以打击由短视频网红与“以瘦为美”审美催生的假药黑市，公共卫生/药品监管主题；与既有公共卫生、社交媒体、医疗旅游等条目不重复（本文聚焦减肥针黑市与监管能力鸿沟）。",
+   "exception": null,
+   "slugs": [
+    "thailand-glp1-weight-loss-pens-black-market-2026"
+   ]
+  },
+  "event:柬埔寨投资3000万美元减电子垃圾计划(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-19）：柬埔寨环境部公布五年3000万美元电子垃圾治理计划（2600万政企联合融资+400万全球环境基金赠款，UNDP合作），6月起禁电子垃圾进口；循环经济/环境政策/全球废弃物贸易主题，与既有柬埔寨华文教育、网诈、抵泰货等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "cambodia-e-waste-management-plan-2026"
+   ]
+  },
+  "event:世界银行为泰国规划2037高收入路线图(2026-09)": {
+   "note": "全新素材（日经亚洲 9-7 引述，世界银行 9-3 发布《建设泰国未来》旗舰报告）：泰国 2037 年前以 5.4% 人均GDP年均增速跻身高收入国家路线图，中等收入陷阱/人口老化/落地难三主线；与既有泰国经济、越南赶超泰国、马来西亚半导体等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "thailand-high-income-2037-worldbank-2026"
+   ]
+  },
+  "event:中马传统服饰马六甲交流(2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-20）。2026马来西亚礼乐大会暨中马传统服饰交流活动9月19日在马六甲鸡场街开幕，汉服、娘惹可峇雅与马来各族服饰同台，海丝文化会馆同期启用；华侨华人/华人离散在地化/中马民间文旅主题；与既有马来西亚、二十四节令鼓、华人文化、中马关系等条目不重复（本文聚焦传统服饰作为文明互鉴与离散融合的媒介）。",
+   "exception": null,
+   "slugs": [
+    "china-malaysia-traditional-costumes-malacca-2026"
+   ]
+  },
+  "event:印尼打造雅加达巴厘岛国际金融中心(PFII,2026)": {
+   "note": "全新素材（日经亚洲，2026-09-21 当日 Threads 推送《Indonesia's $28bn bet on Jakarta and Bali International Financial Centers》；配套中国新闻网/印尼国会7-21通过PFII法、RRI 7-23 三年筹备）。聚焦印尼以迪拜为模板、在雅加达与巴厘岛建PFII国际金融中心、对标新加坡财富管理霸主地位；与既有印尼条目（央行/镍矿/太阳能/林火/航母/世卫等）不重复。",
+   "exception": null,
+   "slugs": [
+    "indonesia-financial-center-pfii-bali-2026"
+   ]
+  },
+  "event:菲律宾南哥打巴托邦加高中枪击案(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-19/20）：菲律宾南哥打巴托省邦加镇高中16岁优等生深陷暗网与暴力群组、蓄谋数周后校园开枪，三死七伤，教育部坦承安保'准备不足'；社会文化/校园安全/网络极端化与青少年心理健康主题；与既有菲律宾条目（比索新低、洪水贪腐、南海转向、华校安全化、无人作战等）不重复。",
+   "exception": null,
+   "slugs": [
+    "philippines-school-shooting-dark-web-2026"
+   ]
+  },
+  "event:印尼人被骗赴乌克兰为俄作战(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-14）：乌克兰情报机构8月27日披露8名印尼公民被以“高薪文职”诱骗为俄在乌作战；Truth Hounds 统计至少44名东南亚籍被招募者；聚焦诈骗/贩运网络被俄方征兵中介化、劳务移民脆弱性与东盟领事保护失灵；与既有跨境治理、人口贩运、罗兴亚遣返等条目不重复（本文聚焦大国战争抽走东南亚青年）。",
+   "exception": null,
+   "slugs": [
+    "indonesia-citizens-tricked-fight-russia-ukraine-2026"
+   ]
+  },
+  "event:柬埔寨中国商会首届运动节(金边·2026-09)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-20）。柬埔寨中国商会第一届运动节在金边举办，约300人参与；聚焦在柬华商群体制度化「共同家园」与商会作为平行于外交系统的民间基础设施；与既有柬埔寨条目（华校复校、华文教育研讨会、网诈整治、抵泰货、泰柬边境/海上争端等）不重复，本文聚焦华商商会社群凝聚力与形象管理。",
+   "exception": null,
+   "slugs": [
+    "cambodia-chinese-chamber-sports-festival-2026"
+   ]
+  },
+  "event:约150名华商侨领聚云南(2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-22）。2026华商聚云南活动在昆明开幕，30多国约150名华商侨领聚焦云南自贸试验区、文旅与绿电；与 event:东南亚侨领赴滇研习活动(2026-07)（7月研习，不同事件）及 广西侨商侨领对接平陆运河+东盟产供链(2026-08) 不重复，聚焦边疆省份借侨力与区位重写中国—东盟门户剧本。",
+   "exception": null,
+   "slugs": [
+    "overseas-chinese-business-leaders-yunnan-2026"
+   ]
+  },
+  "event:中国驻印尼使馆纪念孙中山诞辰160周年(2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-22）。中国驻印尼使馆雅加达座谈会纪念孙中山诞辰160周年，华侨华人/南洋革命史/中印尼侨务公共外交主题；与既有 relation:中印尼关系(普拉博沃)、event:中国印尼全面战略对话机制首次会议(2026-08)、event:中印尼友好故事会深圳(2026-09)、event:中印尼双向语言学习热(2026-09) 等不重复（本文聚焦纪念仪式作为离散治理与软实力注脚，非关系文件或语言交流复述）。",
+   "exception": null,
+   "slugs": [
+    "sun-yat-sen-indonesia-commemoration-2026"
+   ]
+  },
+  "event:2026中柬中秋联欢晚会(金边·2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-24）。2026中柬中秋联欢晚会9月23日金边举办，云南、中国使馆与柬旅游部/新闻部合办；聚焦华人民间节庆转为两国柔性外交载体、在柬华人认同的国家背书与云南文旅自下而上渗透；与既有 thailand-first-tv-mid-autumn-bangkok-2026（泰国电视中秋晚会，不同国家不同事件）不重复。",
+   "exception": null,
+   "slugs": [
+    "cambodia-china-mid-autumn-gala-phnom-penh-2026"
+   ]
+  },
+  "event:老挝八成电力供出口国内却频繁断电(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-23/25）：老挝约八成电力出口换汇、电网老化与旱季短缺致国内频繁断电，能源主权/资源诅咒/湄公水电地缘主题；与既有老挝、电力、能源条目均不重复。",
+   "exception": null,
+   "slugs": [
+    "laos-power-export-blackouts-2026"
+   ]
+  },
+  "event:胡志明市低排放区延期半年落地(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-06）：胡志明市（2026年7月并入巴地—头顿与平阳两省后人口1400万）将低排放区（LEZ）落地推迟半年，聚焦城市交通排放治理、PM2.5超世卫限值6倍、千万摩托车绿色转型公平难题、丰田游说混动入区、河内抢先禁燃油网约车摩托的双城分化；与既有印尼林火/泰国清洁能源/东南亚高温等气候条目及越南经贸条目不重复。",
+   "exception": null,
+   "slugs": [
+    "ho-chi-minh-low-emission-zone-delay-2026"
+   ]
+  },
+  "event:东南亚民调显示支持多边主义、戒备中美领导地位(2026-09)": {
+   "note": "全新素材（南华早报，2026-09-21）：洛克菲勒基金会民调显示东南亚支持多边主义、对美国或中国领导地位心存戒备；地缘政治/区域主义/战略自主主题；与既有新加坡防长访华非结盟对冲、马来西亚金砖中间道路等单一事件条目不重复（本文为区域民调现象）。",
+   "exception": null,
+   "slugs": [
+    "southeast-asia-multilateralism-survey-2026"
+   ]
+  },
+  "event:东盟青年华商走进惠州(2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-24）：第三届'侨兴南粤·惠贸东盟'东盟青年华商惠州行，43名来自东盟9国的青年华商与惠州企业达成9项初步合作意向，聚焦侨务从'引智引资'转向'以侨助贸'、青年华商作为出海桥梁；与既有华商侨领/侨交会/侨贸/平陆运河+东盟产供链等条目不重复（本文聚焦单一城市三年制度化活动与青年华商三重角色）。",
+   "exception": null,
+   "slugs": [
+    "asean-young-chinese-businessmen-huizhou-2026"
+   ]
+  },
+  "event:菲律宾推进Pax Silica新克拉克城AI/半导体枢纽(2026-09)": {
+   "note": "双视角素材（南华早报）。首篇 philippines-pax-silica-new-clark-hub-2026（2026-09-22）聚焦政治倒计时与落地瓶颈；第二篇 philippines-aetas-pax-silica-land-rights-2026（2026-10-05）为清晰不同角度——埃塔原住民征地与土地权之争（30比索/平方米报价、1984年起申请祖域权状未果、透明度赤字、对华脱钩叙事），社会文化/原住民权益主题；二者同属 Pax Silica 项目但视角不同，符合‘slugs==1 可发第二篇且须不同角度’规则。",
+   "exception": null,
+   "slugs": [
+    "philippines-pax-silica-new-clark-hub-2026",
+    "philippines-aetas-pax-silica-land-rights-2026"
+   ]
+  },
+  "policy:马来西亚拟制定跨境烟霾法(借鉴新加坡,2026-09)": {
+   "note": "全新素材（联合早报，2026-09-25）：马来西亚天然资源及环境永续部研究参照新加坡2014年《跨境烟霾污染法令》制定专门应对跨境烟霾的法律，域外追责触碰东盟不干涉内政红线；与既有印尼林火/跨境烟霾/空气污染/努山塔拉等事件条目不重复（本文聚焦立法与区域治理机制，非火灾本身）。",
+   "exception": null,
+   "slugs": [
+    "malaysia-transboundary-haze-law-2026"
+   ]
+  },
+  "event:阿努廷执政周年借中国资本提振泰国增长(2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-07）：泰国总理阿努廷执政一周年，受二季度增速仅1.9%垫底压力，将复苏希望押在中国资本上，700亿泰铢中资承诺、2025中资FDI创1981亿泰铢新高，聚焦产业升级焦虑、本地化/技术转移难题与美中两面下注；与既有泰国中资EV、东南亚收紧中国EV门槛、世界银行高收入路线图等条目不重复（本文聚焦执政周年叙事与日→中两代外资接力）。",
+   "exception": null,
+   "slugs": [
+    "thailand-anutin-chinese-capital-upgrading-2026"
+   ]
+  },
+  "brand:聂记新月楼月饼回归滇缅(2026-09)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-26）。缅籍华人聂氏家族1958于缅甸腊戍创‘新月楼’月饼，2025年第四代聂佳佳将品牌带回云南瑞丽畹町设厂；云腿+缅甸蜂蜜坚果的‘滇缅融合’滋味经边民互市成为两岸离散社群中秋共同记忆，借直播与全年产线续写跨境团圆；与既有中餐出海、侨乡、侨批、华侨华人慈善等条目不重复（本文聚焦家族味觉记忆作为离散身份载体与跨境供应链的耦合）。",
+   "exception": null,
+   "slugs": [
+    "nie-xinyuelou-mooncake-yunnan-burma-2026"
+   ]
+  },
+  "event:中美竞争压缩亚细安政策空间(2026-09)": {
+   "slugs": [
+    "asean-us-china-policy-space-2026"
+   ],
+   "exception": null,
+   "note": "联合早报慧眼中国环球论坛讨论会：奥尔森论中美双重加压令东盟平衡空间收窄、经贸多元化出路（2026-09-27 首发）"
+  },
+  "event:日清制粉(Nippn)越南建厂(2026)": {
+   "note": "全新素材（日经亚洲，2026）：日本面粉与食品巨头日清制粉(Nippn)在越南同奈省设当地法人并建预拌粉工厂，2027年投产、年产能约4300吨、注册资本约1300万美元；主题为日本食品资本重估越南‘工厂+市场’双枢纽。与既有越南经贸/制造/中日竞合条目不重复。",
+   "exception": null,
+   "slugs": [
+    "nippn-vietnam-factory-2026"
+   ]
+  },
+  "topic:中国借侨力促经济(对比印度,2026-09)": {
+   "note": "全新素材（南华早报，2026-09-23，Ravi Kant 评论）：中印两大侨民群体经济用法对照——中国借制度把侨胞接回本土建长期能力，印度靠汇款维持短期体面；华侨华人/侨务政策/引才主题。与既有 topic:保护海外华侨权益、topic:新时代侨务工作、event:谢国民卸任中国侨商联合会会长、event:东盟青年华商走进惠州、topic:六千万海外侨民 等不重复（本文聚焦宏观比较侨力经济杠杆，非单一事件或活动）。",
+   "exception": null,
+   "slugs": [
+    "china-diaspora-economic-leverage-india-2026"
+   ]
+  },
+  "project:马来西亚华人青年AI云端寻根(江靖琳·2026-09)": {
+   "note": "全新素材（中国侨网/人民日报海外版，2026-09-26）：马来西亚第四代华人江靖琳（复旦新闻学院研究生）搭建AI云端寻根平台RootLink，带四位长辈回福建安溪认祖归宗；与既有马来西亚条目（使馆开放日/马六甲传统服饰/中秋文化交流/华人归侨肖思明等）不重复，聚焦离散新生代数字寻根与回国求学创业双向往返。",
+   "exception": null,
+   "slugs": [
+    "malaysian-chinese-ai-roots-seeking-rootlink-2026"
+   ]
+  },
+  "event:重庆面向东盟发布75个航空产业合作机会(2026-09)": {
+   "note": "全新素材（中国侨网/中新社，2026-09-28）。重庆市发改委发布中新（重庆）战略性互联互通示范项目航空产业领域需求+供给两张清单，面向新加坡等东盟释放75个合作机会（需求端30个招商项目、总投资约58.7亿元；供给端45项优势技术），覆盖航空制造/维修/物流/低空/文旅/培训八大板块；与既有中国—东盟关系、产业链、低空经济等条目不重复（本文聚焦航空产业清单作为渝新合作新载体）。",
+   "exception": null,
+   "slugs": [
+    "chongqing-aviation-industry-asean-opportunities-2026"
+   ]
+  },
+  "event:第八届中国—东盟视听周(2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-28/29）。第八届中国—东盟视听周10月19日广西北海开幕，主题'AI赋能 共创共享'，六大活动（开幕式暨晚会、首届微短剧大赛、青年主播创造营、视听国际传播优秀案例、译制展播、同唱友谊歌中越金曲盛典），列入中国—东盟全面战略伙伴五周年主题年；与既有中国—东盟关系、文化交流、软实力、人员往来等条目不重复（本文聚焦视听媒体作为民间相知相亲载体与AI驱动的跨境内容产业协同）。",
+   "exception": null,
+   "slugs": [
+    "china-asean-audiovisual-week-2026"
+   ]
+  },
+  "event:中国在老挝开设军事保障与训练中心(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-29）：中国在老挝班根机场启用中老联合保障与训练中心及中老友谊航空学院，帮老挝培训空军飞行员；地缘/安全合作/中南半岛主题；与既有老挝条目（八成电力出口断电）及中老铁路、中老关系等不重复（本文聚焦安全存在从经济走廊延伸至天空与机场）。",
+   "exception": null,
+   "slugs": [
+    "china-laos-ban-keun-military-centre-2026"
+   ]
+  },
+  "event:中老铁路磨丁至万象城际列车首发(2026-09)": {
+   "note": "全新素材（中国侨网/人民日报，2026-09-30）：中老铁路老挝段磨丁至万象城际列车C95/C96首发，串六站、北部省份当天往返首都；与既有 event:中国在老挝开设军事保障与训练中心(2026-09)（安全合作，不同维度）区分，本文聚焦铁路客运成网与老挝陆锁转陆联。",
+   "exception": null,
+   "slugs": [
+    "china-laos-railway-boten-vientiane-intercity-2026"
+   ]
+  },
+  "event:印尼2027财年设定6%增长目标(2026-09)": {
+   "note": "全新素材（联合早报，2026-09-29）：印尼国会通过2027财年预算、经济增长目标6%（2012年以来最高）、赤字2.4%逼近3%红线、油价75美元/汇率17500假设偏乐观；经济产业/财政主题；与既有普拉博沃撤换财长、32个国企基建项目、印尼经济团队稳市场等条目不重复（本文聚焦预算增速目标与财政约束的张力）。",
+   "exception": null,
+   "slugs": [
+    "indonesia-2027-budget-growth-target-2026"
+   ]
+  },
+  "event:泰国2026年9月洪灾(曼谷及41府,2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-28/29）：2026年9月下旬泰国洪灾，曼谷三日降约320毫米（一月雨量）、41府受灾、8人遇难、180余万人受影响、经济损失超110亿泰铢；聚焦下沉都市治水无力、复苏脆弱、日系供应链暴露与区域气候压力测试；与既有泰国经济/气候/基建等条目不重复（本文聚焦城市洪灾与气候—治理双重脆弱）。",
+   "exception": null,
+   "slugs": [
+    "thailand-september-floods-2026"
+   ]
+  },
+  "event:东南亚银发经济崛起(辅助生活/医疗旅游,2026-09)": {
+   "note": "全新素材（南华早报，article 3366402，2026-09-05，Kolette Lim 等）：东南亚银发经济/辅助生活产业崛起，新加坡跨入超老龄社会、泰国医疗旅游分羹；与既有 malaysia-ageing-over-60-still-working-2026（老年人仍就业，不同角度）不重复。",
+   "exception": null,
+   "slugs": [
+    "southeast-asia-silver-economy-ageing-2026"
+   ]
+  },
+  "event:闽南语博物馆泉州揭牌(2026-09)": {
+   "note": "全新素材（中国侨网/中新网，2026-09-30）。泉州首座以闽南语为单一核心主题的专题博物馆揭牌，四大篇章+数字化互动；聚焦闽南语作为南洋华侨华人最通行汉语方言的离散身份纽带，与既有侨乡、华文教育、文化传承、下南洋等条目不重复（本文聚焦祖籍地母语博物馆与离散‘声纹’锚点）。",
+   "exception": null,
+   "slugs": [
+    "minnan-hokkien-language-museum-quanzhou-2026"
+   ]
+  },
+  "event:印尼普拉博沃内阁改组任命新外长(2026-10)": {
+   "note": "全新素材（联合早报，2026-10-01）：普拉博沃改组内阁、任命职业外交官阿尔马纳塔·纳西尔接替苏吉奥诺出任外长，三周内第二次内部接棒；地缘政治/外交重置/文人总统集权主题；与既有 relation:中印尼关系(普拉博沃)、event:普拉博沃撤换印尼财长 等不重复（本文聚焦外交系统人事重置与权力逻辑）。",
+   "exception": null,
+   "slugs": [
+    "indonesia-cabinet-reshuffle-new-foreign-minister-2026"
+   ]
+  },
+  "event:新加坡公众核能接受度居东盟之首(东南亚气候展望调查,2026-10)": {
+   "note": "全新素材（南华早报，2026-10-01）：ISEAS—新加坡科技设计大学《东南亚气候展望2026》调查显示31.4%新加坡受访者接受核能、居东盟之首、较2024年升11.1个百分点；聚焦城市国家能源安全困境、核电禁忌松动、邻国抢跑与'能力先行'小国逻辑；与既有能源/气候条目（印尼100吉瓦太阳能、泰国2050清洁能源、老挝电力出口断电、胡志明低排放区等）不重复（本文聚焦核电公众舆论与区域外部性）。",
+   "exception": null,
+   "slugs": [
+    "singapore-nuclear-energy-acceptance-asean-2026"
+   ]
+  },
+  "event:越南争取美国市场经济地位(2026)": {
+   "note": "全新素材（日经亚洲，2026-10）：越南贸易官员游说美国商务部，争取从「非市场经济」重新归类为「市场经济」地位以降低反倾销税；与既有越南经贸/供应链/关税/中越关系等条目不重复（本文聚焦身份牌博弈与对中国供应链依附的两难）。",
+   "exception": null,
+   "slugs": [
+    "vietnam-us-market-economy-status-2026"
+   ]
+  },
+  "event:中华文化大乐园泰国普吉园闭园(2026-10)": {
+   "slugs": [
+    "chinese-culture-grand-park-phuket-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（中国侨网，2026-10-01）。2026中华文化大乐园泰国普吉园由华侨大学主办、普吉中学承办，9月30日闭园；聚焦泰南华人故地（普吉/攀牙/董里闽南潮州社群）、华侨大学校友网络与华文教育作为离散文化软实力。与 event:中华文化大乐园印尼棉兰营开营(2026-09) 为不同国家/不同营次，不重复；与泰南、华文教育、文化传承等条目不重复。"
+  },
+  "event:中国科考船嘉海科7号在巴丹群岛附近遭菲律宾海岸警卫队驱离(2026-10)": {
+   "note": "全新素材（南华早报，article 3369334，2026-10-01）：中国民用科考船嘉海科7号在巴丹群岛（巴士海峡/吕宋海峡）附近遭菲律宾海岸警卫队「驱离」，北京斥为骚扰；地缘政治/海上博弈/海洋科研主题；与既有 event:菲律宾南海政策转向、event:中菲联合能源勘探谈判(礼乐滩)、event:菲律宾扩大无人化作战能力加强外部防御 等不重复（本文聚焦巴士海峡咽喉的海洋科研与管辖权对峙及日菲划界背景）。",
+   "exception": null,
+   "slugs": [
+    "philippines-china-batanes-research-vessel-2026"
+   ]
+  },
+  "event:普拉博沃组建26人总统顾问理事会(2026-10)": {
+   "note": "全新素材（联合早报，2026-10-02）：普拉博沃成立26人总统顾问理事会（Wantimpres），成员含华商巨贾翁俊民/凯鲁、退役将领、宗教领袖（NU两前主席+孔教会代表），规模近三倍于前届；政商军教三合一的权力统合/华侨华人融入角度；与既有普拉博沃内阁改组、撤换财长等不重复（本文聚焦顾问理事会这一非正式咨询机构）。",
+   "exception": null,
+   "slugs": [
+    "indonesia-prabowo-advisory-council-26-2026"
+   ]
+  },
+  "topic:东南亚货币遭油价与强美元夹击走弱(2026-10)": {
+   "note": "全新素材（日经亚洲，2026-10-01前后）：中东紧张升级、油价破百、强美元三重夹击下东南亚货币走弱，印尼盾年内贬逾7%领跌，马来西亚与菲律宾承压；与既有 event:菲律宾比索创历史新低(2026-09)（单一国家货币事件）区分，本文为区域宏观走势与结构性压力分析。",
+   "exception": null,
+   "slugs": [
+    "southeast-asia-currency-slide-oil-dollar-2026"
+   ]
+  },
+  "event:深圳机场开通文莱直飞航线(2026-10)": {
+   "note": "全新素材（中国侨网/南方+，2026-10-03）：深圳航空开通深圳直飞文莱首都斯里巴加湾航线，每周四班（ZH171/ZH172）、无需中转，填补深圳直飞文莱空白；聚焦中国—东盟空中互联互通下沉至小国与区域航空网络扩张。与既有中国—东盟关系/经贸合作/人员往来等条目不重复（本文聚焦支线航线与航空连接能力）。",
+   "exception": null,
+   "slugs": [
+    "shenzhen-brunei-direct-flight-2026"
+   ]
+  },
+  "event:马来西亚因挪威毁约重新采购舰载反舰导弹系统(2026-10)": {
+   "note": "全新素材（联合早报，2026-10-03）：马来西亚与挪威价值28亿美元舰载反舰导弹军购因奥斯陆修订出口管制法规告吹，国防部长10月3日证实评估三国替代方案、拟另拨7亿至10亿令吉重启采购；地缘政治/军备供应/中等国家防务自主主题；与既有马来西亚条目（半导体/稀土/金砖/民行党/森美兰王室等）及东盟、南海、海上安全条目不重复。",
+   "exception": null,
+   "slugs": [
+    "malaysia-naval-anti-ship-missile-reprocurement-2026"
+   ]
+  },
+  "event:菲律宾晋升中高收入国家但经济增长落后东盟(BofA预测2.5%区域最慢,2026-09)": {
+   "note": "全新素材（南华早报 Sam Beltran, 2026-09-21, article 3368024）：世界银行7月将菲升格中高收入，但美银预测2026增速仅2.5%、与泰国并列东盟最慢，并给出新马印尼越对照；聚焦“名义升级、实际承压”的反差、消费依赖模型、基建被反腐调查拖缓、气候与油价双重外部冲击。与既有 philippines-q2-gdp-slowdown（季度数据快讯）、vietnam-philippines-upper-middle-income（越菲共同跨阈值、半导体驱动）、philippines-debt-economic-stimulus-2027（举债刺激）等不重复——本文为“升格里程碑 vs 增速垫底”的对照式评论，角度不同。",
+   "exception": null,
+   "slugs": [
+    "philippines-growth-lags-asean-2026"
+   ]
+  },
+  "event:越南2026年三季度GDP增长9.95%(2026-10)": {
+   "note": "全新素材（日经亚洲/越南统计总局，2026-10-05 报道 10-03 数据）：越南三季度GDP同比增9.95%，创2022年以来最快季度增速，前9个月累增9.01%；注册FDI 503.6亿美元同比增76.4%、实际到位210.7亿美元创5年新高；但前9个月贸易逆差194.2亿美元创历史新高，全年10%目标需四季度12.5%。与既有越南条目（名义GDP赶超泰国/前8月贸易创纪录/美市场经济地位/经济动能/半导体战略等）不重复，本文聚焦三季度增速冲顶与“组装车间”结构性考问。",
+   "exception": null,
+   "slugs": [
+    "vietnam-q3-gdp-995-2026"
+   ]
+  },
+  "event:菲律宾扫荡非法网络博彩逮捕中国籍员工(2026-10)": {
+   "note": "全新素材（联合早报，2026-10-04）：菲律宾移民局、国家调查局与军方10月2日突袭棉兰老岛三宝颜锡布格省两处非法网络博彩窝点，逮捕244名外籍人员（110名中国籍+2柬埔寨+1香港于Siay；131名多为中国籍，含马来/印尼/缅籍于Alicia），起获78显示器、约3000手机；2026年最大规模POGO扫荡，部分涉人口贩运调查。聚焦2024年禁令后灰色产业转入地下、中国籍劳工深陷跨国诈骗经济、单边禁令难解区域共病；与既有柬埔寨扫荡网诈、马来西亚鞭刑网络诈骗、华裔女子曼谷绑架等条目不重复（本文聚焦菲POGO禁令后续与中国籍劳工结构性困境）。",
+   "exception": null,
+   "slugs": [
+    "philippines-cyber-gaming-raid-chinese-workers-2026"
+   ]
+  },
+  "event:马文禄(Ma Mon Luk)百年中餐厅关店(2026-10)": {
+   "note": "全新素材（中国侨网/菲龙网，2026-10-05）：菲律宾百年老字号中餐厅马文禄（Ma Mon Luk）最后一家分店因涉嫌违反卫生与营业许可规定被奎松市政府勒令关闭；创始人马文禄1896年生于广东香山、1918年南渡菲律宾，约1920年创制马米面（mami）并推广菲式烧包（siopao），九十年代中期大马尼拉曾有至少6家分店。聚焦菲华最古老商业地标退场、离散家族企业代际疲惫与同化下的遗产脆弱性；与既有菲律宾条目（绑架提醒/POGO扫荡/校园枪击/华校安全化/南海等）及中餐出海、华侨华人慈善等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "ma-mon-luk-century-restaurant-closure-philippines-2026"
+   ]
+  },
+  "event:玛丽·简·贝洛索案暴露菲律宾海外劳工保护缺口(2026-10)": {
+   "slugs": [
+    "philippines-veloso-ofw-protection-gaps-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（南华早报，2026-10-01/10-05）：以玛丽·简·贝洛索获绝对赦免（2026-09-25 出狱）为切口，评论菲律宾海外劳工（OFW）保护的结构性缺口——招聘前筛查薄弱、领事协助被动、追诉招聘者迟缓，根源在「劳务输出」发展模式与国内就业短缺；与既有 sea-extreme-heat-outdoor-workers-2026（户外劳动者职业健康）不重复（本文聚焦移民工人跨国招聘与遣返保护、劳务出口政策批判）。"
+  },
+  "event:外国人和资本涌入泰国景区引发不满与政府整顿(2026-10)": {
+   "note": "全新素材（联合早报/彭博，2026-10-05）：帕岸岛与苏梅岛约1.68万家企业近70%有外资共同持股（全国约12%），逾240家涉违法代持、数千家受查；阿努廷政府7月启动“帕岸模式”专项整治扩至七府、逮捕超110人，免签停留60天砍至30天，2025以色列访泰游客增46%超40万人次而整体入境降7%，多地爆发“收复泰国”示威；聚焦旅游开放模式的分配难题与外资治理（代持/飞地经济），与既有泰国经济、中国资本、洪灾等条目不重复。",
+   "exception": null,
+   "slugs": [
+    "thailand-tourism-foreign-capital-crackdown-2026"
+   ]
+  },
+  "event:日本企业新一轮对泰投资(技术升级与分化,2026-09)": {
+   "note": "全新素材（日经亚洲，2026-09-07 引述泰国 BOI 数据；EBC/Nation Thailand 等转述）：2025年日企对泰投资促进申请302件、约1137亿泰铢同比翻倍，资金从低成本组装转向自动化/机器人/清洁能源/电动化与高端航空供应链，NMB-Minebea 首闯空客波音精密航空件；K型分化——三菱/五十铃/马自达/本田加码，斯巴鲁(2024底停产)、铃木(2025底关厂)离场；自动化升级不创造等量岗位、低技能工人与中小供应商承压。与既有 japanese-banks-pivot-southeast-asia-china-2026（日本银行业，不同）、thailand-anutin-chinese-capital-upgrading-2026（中国资本）、thailand-china-fdi-ev-overtakes-japan-2026（中资EV超日本）、thailand-boi-fast-track-investment-2026（BOI审批机制）均不重复（本文聚焦日企在泰制造基地的升级与分化）。",
+   "exception": null,
+   "slugs": [
+    "japan-thailand-investment-wave-2026"
+   ]
+  },
+  "event:中国国庆黄金周带动泰国旅游(2026-10)": {
+   "note": "全新素材（中国侨网/中新社，2026-10-06）：泰国旅游与体育部数据显示9月27日至10月3日中国游客入境133946人次、环比增41.98%，约占当周外国游客四分之一，今年累计约400万人次居首；聚焦黄金周客流作为泰国第四季度旅游命脉与单一客源依赖的结构性风险。与既有 thailand-tourism-foreign-capital-crackdown-2026（外国资本与代持整顿）、thailand-anutin-chinese-capital-upgrading-2026（中国资本投资）不重复。",
+   "exception": null,
+   "slugs": [
+    "thailand-tourism-china-golden-week-2026"
+   ]
+  },
+  "event:印尼煤企多元化转型(煤炭下行与能源转型,2026-10)": {
+   "note": "全新素材（参考《日经亚洲》2026-10-05 报道 Indonesian Coal Miners Accelerate Diversification as Volatility Rises）：印尼作为全球最大动力煤出口国，煤企（阿达罗/Alamtri、印多卡/Indika 等）在中东战事推高煤价、账面回血之际加速转向铝、金、锂、光伏与煤制气；叠加镍矿退潮致煤电自带电厂需求见顶、对华出口骤降，以及普拉博沃/巴赫利尔“限产保收入+煤变油”政策。与既有印尼条目（PFII 金融中心/镍矿禁令/100吉瓦太阳能/雅万高铁债务重组/厄尔尼诺冲击等）不重复（本文聚焦煤炭产业的多元化突围与去煤化真实成色）。",
+   "exception": null,
+   "slugs": [
+    "indonesia-coal-miners-diversification-2026"
+   ]
+  },
+  "event:菲律宾调查中国汇款流向杜特尔特家族企业(2026-10)": {
+   "slugs": [
+    "philippines-china-remittances-duterte-firm-probe-2026"
+   ],
+   "exception": null,
+   "note": "全新素材：聚焦反洗钱证词与“中国汇款”叙事的政治用途及华商误伤风险，与 sara-duterte-impeachment-survey-lead-2026（弹劾民调）角度不同"
+  },
+  "event:厦门大学海外教育暨国际中文教育70周年(2026-10)": {
+   "slugs": [
+    "xiamen-university-overseas-chinese-education-70th-2026"
+   ],
+   "exception": null,
+   "note": "全新素材（中国侨网/中新网，2026-10-04）。厦门大学海外教育暨国际中文教育70周年高质量发展大会（10月3日翔安校区），主题“嘉庚文脉润四海，文明互鉴耀五洲”；聚焦1956年华侨函授部“面向东南亚华侨”办学原点、潘维廉“双向奔赴”话语转向、马来西亚大智慧教育基金会两年各500万元华文教师奖学金、印尼/菲/泰/马新增海外教学点。与既有华文教育条目（柬埔寨华校复校/东南亚华文教育守脉/柬埔寨研讨会等）及 qiaopi、电影集群均不重复：本文聚焦单一高校因侨而生的七十年办学史与离散社群反哺师资。"
   }
+ }
 }
