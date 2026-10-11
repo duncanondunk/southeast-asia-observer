@@ -1,5 +1,66 @@
 [
   {
+    "slug": "indonesia-nickel-smelter-freeze-chinese-investors-2026",
+    "title": "印尼要给镍冶炼厂\"踩刹车\"：75%靠中资的产业链，谁先慌",
+    "subtitle": "印尼考虑冻结新建半成品镍冶炼厂以遏制全球约250万吨过剩、托住镍价；而中资占其镍冶炼业约75%。这既是资源民族主义向上游要附加值的精明一步，也因政策频翻烧饼而反伤信心。",
+    "category": "经济产业",
+    "tags": [
+      "印度尼西亚",
+      "经济产业",
+      "镍",
+      "投资",
+      "供应链",
+      "电动汽车",
+      "资源民族主义",
+      "东南亚"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-10-11",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "印尼正考虑冻结新建半成品镍冶炼厂，以遏制全球约250万吨过剩、托住镍价；而中资占其镍冶炼业约75%。本文认为，这既是资源民族主义向上游要附加值的精明一步，也因政策频翻烧饼而反伤信心——中资大可转投他国，留下未开发的矿与半截园区。",
+    "image": "images/articles/indonesia-nickel-smelter-freeze-chinese-investors-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-11",
+    "imageAlt": "一座钢铁冶炼厂的烟囱与厂房",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Chinese nickel investors brace for headwinds as Indonesia weighs smelter freeze",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-10-10"
+      },
+      {
+        "source": "安塔拉通讯社 Antara",
+        "title": "Indonesia considers moratorium on new nickel smelters amid oversupply",
+        "url": "https://en.antaranews.com/news/434521/indonesia-considers-moratorium-on-new-nickel-smelters-amid-oversupply",
+        "date": "2026-10-07"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's Nickel Freeze: Who Blinks First in a Supply Chain 75% Built by Chinese Capital",
+      "subtitle": "Indonesia is weighing a freeze on new semi-finished nickel smelters to curb a roughly 2.5-million-tonne global glut and lift prices — yet Chinese capital accounts for about 75 per cent of its nickel refining industry. A shrewd bid by resource nationalism to capture more value upstream, but one that risks policy whiplash.",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "Indonesia is weighing a freeze on new semi-finished nickel smelters to curb a roughly 2.5-million-tonne global glut and lift prices — yet Chinese capital accounts for about 75 per cent of its nickel refining industry. The move is a shrewd bid by resource nationalism to capture more value upstream, but it also exposes the risk of policy whiplash: if Jakarta cannot run the smelters itself, Chinese firms can redeploy elsewhere, leaving Indonesian mines undeveloped and parks half-built.",
+      "imageAlt": "Chimneys and plant of a steel smelting factory",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Chinese nickel investors brace for headwinds as Indonesia weighs smelter freeze",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-10-10"
+        },
+        {
+          "source": "Antara",
+          "title": "Indonesia considers moratorium on new nickel smelters amid oversupply",
+          "url": "https://en.antaranews.com/news/434521/indonesia-considers-moratorium-on-new-nickel-smelters-amid-oversupply",
+          "date": "2026-10-07"
+        }
+      ]
+    }
+  },
+  {
     "slug": "cambodia-tourism-slump-2026",
     "title": "国际游客锐减，柬埔寨旅游业路在何方？",
     "subtitle": "前8月国际游客同比骤降44.4%，泰国客源因边境局势近乎清零；金边派专员驻华、推组合拳救市，但过度依赖单一客源与服务业才是真症结",
