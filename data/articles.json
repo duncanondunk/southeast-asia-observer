@@ -1,5 +1,67 @@
 [
   {
+    "slug": "laos-debt-unsustainable-imf-2026",
+    "title": "老挝债务绷紧：铁路梦如何成了资产负债表噩梦",
+    "subtitle": "IMF 于 2026 年 3 月将老挝债务定性为「不可持续」，标普（S&P）给出 CCC+ 垃圾级评级；在即将脱离最不发达国家行列之际，这个内陆国正陷入债务、货币与财政的三重夹击——中老铁路既是命脉，也是筹码。",
+    "category": "经济产业",
+    "tags": [
+      "老挝",
+      "经济",
+      "债务",
+      "中国—东盟",
+      "基础设施",
+      "东南亚",
+      "汇率",
+      "中老铁路",
+      "通货膨胀"
+    ],
+    "country": "老挝",
+    "date": "2026-10-11",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "IMF 定性老挝债务「不可持续」，标普给出 CCC+，通胀高企、基普贬值。中老铁路把老挝从陆锁推向陆联，其融资却正是债务困境的注脚。本文认为，老挝之困既非「债务陷阱」亦非纯治理失能，而是债权集中、税基薄弱与外部融资高度绑定的结构性失衡；「毕业」脱离最不发达国家，反而可能掐断最廉价生命线。",
+    "image": "images/articles/laos-debt-unsustainable-imf-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-11",
+    "imageAlt": "阴云下驶过的货运列车与交错的铁轨",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "IMF warns Laos over 'unsustainable' debt levels",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-03"
+      },
+      {
+        "source": "世界银行 World Bank",
+        "title": "Lao PDR Development Update",
+        "url": "https://www.worldbank.org/en/country/laos",
+        "date": "2026-06"
+      }
+    ],
+    "en": {
+      "title": "Laos's Debt Squeeze: How a Railway Dream Became a Balance-Sheet Nightmare",
+      "subtitle": "The IMF called Laos's debt \"unsustainable\" in March 2026; S&P hands it a CCC+ junk rating. As the landlocked state prepares to leave the Least Developed Countries list, it is caught in a triple squeeze of debt, currency and fiscal stress — and the China–Laos Railway is both its lifeline and its leverage.",
+      "category": "Economy & Industry",
+      "country": "Laos",
+      "summary": "The IMF labelled Laos's debt 'unsustainable' in March 2026, and S&P rates it CCC+. Inflation is 9.6%, the policy rate 22.61% and the kip keeps sliding. The China–Laos Railway has moved the country from land-locked to land-linked, yet the financing behind it is a big part of the problem. This piece argues Laos's plight is neither a simple 'Chinese debt trap' nor pure mismanagement, but a structural imbalance of concentrated creditors, a thin tax base and over-reliance on external financing — and that 'graduating' from the LDC list may cut off its cheapest lifeline.",
+      "imageAlt": "A freight train running under a heavy sky among crossing tracks",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "IMF warns Laos over 'unsustainable' debt levels",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-03"
+        },
+        {
+          "source": "World Bank",
+          "title": "Lao PDR Development Update",
+          "url": "https://www.worldbank.org/en/country/laos",
+          "date": "2026-06"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-strictest-gun-control-2026",
     "title": "泰国史上最严控枪令：货架清空了，黑市无恙",
     "subtitle": "14岁少年酿成8死惨案后，泰国暂停发证、严查交易、增设心理评估；民间约1000万支枪、400万支无证，黑市连手榴弹都一周可得。整顿管住了守法者，却绕开了暴力真正的源头。",
