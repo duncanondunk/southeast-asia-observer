@@ -40,7 +40,7 @@
 - **韦达湾（Weda Bay）**：全球最大镍矿，青山持股51.3%、法国埃赫曼（Eramet）37.8%、印尼国企安塔姆（Antam）10%，2026年配额被砍逾70%。
 - **中国印尼商会（CCCI）**：在印尼中资企业的联合商会，本次就镍政策向普拉博沃总统递交公开信表达关切。
 
-*话题参考："南华早报"（scmp.com）东南亚——《中资承压，印尼权衡冻结镍冶炼厂》（"Chinese nickel investors brace for headwinds as Indonesia weighs smelter freeze"）。*
+*话题参考："南华早报"（South China Morning Post）（scmp.com）东南亚——《中资承压，印尼权衡冻结镍冶炼厂》（"Chinese nickel investors brace for headwinds as Indonesia weighs smelter freeze"）。*
 
 ===EN===
 
