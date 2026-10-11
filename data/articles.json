@@ -1,5 +1,63 @@
 [
   {
+    "slug": "thailand-strictest-gun-control-2026",
+    "title": "泰国史上最严控枪令：货架清空了，黑市无恙",
+    "subtitle": "14岁少年酿成8死惨案后，泰国暂停发证、严查交易、增设心理评估；民间约1000万支枪、400万支无证，黑市连手榴弹都一周可得。整顿管住了守法者，却绕开了暴力真正的源头。",
+    "category": "社会文化",
+    "tags": [
+      "泰国",
+      "社会文化",
+      "枪支管制",
+      "公共安全",
+      "东南亚"
+    ],
+    "country": "泰国",
+    "date": "2026-10-11",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "14岁少年酿成8死惨案后，泰国宣布史上最严控枪令：暂停发证、严查交易、增设心理评估，曼谷枪店清空货架以示合规。但民间约1000万支枪中400万支无证，黑市连手榴弹都一周可得。本文认为，这场整顿管住了守法者，却绕开暴力真正源头；真正的控枪始于数清枪支、直面恐惧。",
+    "image": "images/articles/thailand-strictest-gun-control-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-11",
+    "imageAlt": "曼谷唐人街夜晚的霓虹灯牌与嘟嘟车",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "泰国历来最严控枪令，合法枪店叫苦",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261009-9812546",
+        "date": "2026-10-09"
+      },
+      {
+        "source": "小型武器调查组织 Small Arms Survey",
+        "title": "Estimating global civilian firearms holdings",
+        "url": "https://www.smallarmssurvey.org/",
+        "date": "2024"
+      }
+    ],
+    "en": {
+      "title": "Thailand's Toughest Gun Rules Empty Legal Shops, Leave the Black Market Untouched",
+      "subtitle": "Freezing permits and emptying shelves is easy; counting ten million guns and reaching the black market is not. After a 14-year-old killed eight people, Thailand's strictest-ever gun crackdown binds the law-abiding while the real sources of violence go untouched.",
+      "category": "Society & Culture",
+      "country": "Thailand",
+      "summary": "After a 14-year-old killed eight people, Thailand announced its strictest-ever gun controls: a permit freeze, tighter checks, mental-health certificates. Bangkok's gun shops emptied their shelves in compliance. Yet of roughly ten million civilian firearms, four million are unlicensed, and in the black market even a hand grenade takes only about a week to source. This piece argues the crackdown binds the law-abiding while bypassing the real sources of violence; genuine control would start with counting the guns and confronting the fear that drives demand.",
+      "imageAlt": "Neon signs and tuk-tuks in Bangkok's Chinatown at night",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Thailand's strictest-ever gun controls leave licensed gun shops struggling",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261009-9812546",
+          "date": "2026-10-09"
+        },
+        {
+          "source": "Small Arms Survey",
+          "title": "Estimating global civilian firearms holdings",
+          "url": "https://www.smallarmssurvey.org/",
+          "date": "2024"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-nickel-smelter-freeze-chinese-investors-2026",
     "title": "印尼要给镍冶炼厂\"踩刹车\"：75%靠中资的产业链，谁先慌",
     "subtitle": "印尼考虑冻结新建半成品镍冶炼厂以遏制全球约250万吨过剩、托住镍价；而中资占其镍冶炼业约75%。这既是资源民族主义向上游要附加值的精明一步，也因政策频翻烧饼而反伤信心。",
