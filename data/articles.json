@@ -1,5 +1,51 @@
 [
   {
+    "slug": "thai-silk-tourism-soft-power-2026",
+    "title": "泰丝软实力：一门传统手艺如何成为泰国的旅游名片",
+    "subtitle": "从黎逸府王后泰丝中心的一张照片，看泰国手工艺如何被重新包装为文化旅游资产与软实力工具",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "中泰关系",
+      "旅游业",
+      "文化遗产",
+      "华侨华人"
+    ],
+    "country": "泰国",
+    "date": "2026-10-12",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "中国新闻网一张黎逸府泰丝演示照片，折射出泰国手工艺的文旅转型。本文分析泰丝如何在战后由外来资本与泰籍华人贸易网络共同复兴，又如何借中国游客回归成为文化与经济双重资产，同时直面合成纤维冲击与织工代际断层的隐忧。",
+    "image": "images/articles/thai-silk-tourism-soft-power-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-12",
+    "imageAlt": "泰国曼谷唐人街夜景，霓虹灯下的嘟嘟车与中文招牌，呼应泰籍华人商业传统",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "泰国泰丝吸引各国游客",
+        "url": "https://www.chinaqw.com/yw/hd2011/2026/10-09/68601.shtml",
+        "date": "2026-10-09"
+      }
+    ],
+    "en": {
+      "title": "Thai Silk, Soft Power: How a Heritage Craft Became Thailand's Tourism Magnet",
+      "subtitle": "From a single photograph at Roi Et's Queen's Thai Silk Center, a look at how Thai craft is being repackaged as cultural-tourism capital and a quiet instrument of soft power",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "A China News Service photo of silk-making in Roi Et captures Thailand's craft-to-tourism turn. This piece examines how Thai silk was revived after the war by foreign capital and a Thai-Chinese trading network, how it now rides China's tourist rebound as a cultural and economic asset, and the looming threats of synthetic imitations and an ageing workforce.",
+      "imageAlt": "A neon-lit Bangkok Chinatown street at night with tuk-tuks and Chinese signage, evoking the Thai-Chinese commercial heritage behind Thai silk's revival",
+      "references": [
+        {
+          "source": "China Qiao Wang (China News Service)",
+          "title": "Thai silk attracts tourists from around the world",
+          "url": "https://www.chinaqw.com/yw/hd2011/2026/10-09/68601.shtml",
+          "date": "2026-10-09"
+        }
+      ]
+    }
+  },
+  {
     "slug": "laos-debt-unsustainable-imf-2026",
     "title": "老挝债务绷紧：铁路梦如何成了资产负债表噩梦",
     "subtitle": "IMF 于 2026 年 3 月将老挝债务定性为「不可持续」，标普（S&P）给出 CCC+ 垃圾级评级；在即将脱离最不发达国家行列之际，这个内陆国正陷入债务、货币与财政的三重夹击——中老铁路既是命脉，也是筹码。",
