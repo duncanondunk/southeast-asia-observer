@@ -1,5 +1,51 @@
 [
   {
+    "slug": "thailand-chinese-library-bangkok-2026",
+    "title": "泰国中华图书馆在曼谷揭牌：当中文书漂流到湄南河畔",
+    "subtitle": "民间图书漂流总站落地曼谷，把中文读物送进泰国校园，为华文教育与中泰民间纽带添上毛细血管",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "泰国",
+      "华文教育",
+      "文化交流",
+      "软实力"
+    ],
+    "country": "泰国",
+    "date": "2026-10-13",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "由南通华侨图书馆与泰国丝路国际教育文化交流中心合办的泰国中华图书馆日前在曼谷揭牌，并作为图书漂流泰国总站向十所泰校授牌。它以轻量、社区化的方式把中文读物送进泰国校园，是华文教育升温背景下中泰民间文化纽带的务实延伸。",
+    "image": "images/articles/thailand-chinese-library-bangkok-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-13",
+    "imageAlt": "图书馆内一排排书架与暖色吊灯，中文图书正通过漂流站进入泰国校园",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "泰国中华图书馆在曼谷揭牌",
+        "url": "https://www.chinaqw.com/hwjy/2026/10-12/412577.shtml",
+        "date": "2026-10-12"
+      }
+    ],
+    "en": {
+      "title": "A Chinese Library Opens in Bangkok: When Chinese Books Drift to the Chao Phraya",
+      "subtitle": "A civil-society book-drifting hub lands in Bangkok, carrying Chinese reading materials into Thai campuses and adding a capillary to China–Thailand people-to-people ties",
+      "category": "Overseas Chinese",
+      "country": "Thailand",
+      "summary": "Co-founded by the Nantong Overseas Chinese Library and a Thailand-based cultural exchange center, the Thailand Chinese Library was inaugurated in Bangkok as the national hub of a global book-drifting project, awarding plaques to ten Thai schools. A light, community-based way to put Chinese books into Thai campuses — and into the heart of China–Thailand people-to-people ties.",
+      "imageAlt": "Rows of bookshelves under warm hanging lights in a library, echoing Chinese books circulating into Thai campuses through drifting stations",
+      "references": [
+        {
+          "source": "China Qiao Wang (China News Service)",
+          "title": "Thailand Chinese Library inaugurated in Bangkok",
+          "url": "https://www.chinaqw.com/hwjy/2026/10-12/412577.shtml",
+          "date": "2026-10-12"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thai-silk-tourism-soft-power-2026",
     "title": "泰丝软实力：一门传统手艺如何成为泰国的旅游名片",
     "subtitle": "从黎逸府王后泰丝中心的一张照片，看泰国手工艺如何被重新包装为文化旅游资产与软实力工具",
