@@ -1,5 +1,151 @@
 [
   {
+    "slug": "trump-manila-asean-summit-2026",
+    "title": "特朗普将赴马尼拉出席东盟峰会：美国的「在场」承诺能走多远？",
+    "subtitle": "菲律宾官方证实，特朗普11月16日将出席东盟峰会，随后转赴深圳参加APEC会议。",
+    "category": "地缘政治",
+    "tags": [
+      "菲律宾",
+      "地缘政治",
+      "东盟",
+      "美国",
+      "外交",
+      "小马科斯"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-15",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "菲律宾证实特朗普将于11月16日在马尼拉出席东盟峰会，随后赴深圳参加亚太经合组织（APEC）领导人非正式会议。这是其本届任期内第二次出席东盟峰会，也被视为美国向东南亚盟友重申「在场」承诺的关键信号。",
+    "image": "images/articles/trump-manila-asean-summit-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-15",
+    "imageAlt": "一只手握着多张美元钞票，隐喻美国在亚太外交议程中的经济与安全杠杆。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "菲律宾证实特朗普下月赴马尼拉出席亚细安峰会",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261014-9834785",
+        "date": "2026-10-14"
+      }
+    ],
+    "en": {
+      "title": "Trump Will Attend the ASEAN Summit in Manila: How Far Will Washington’s Promise of Presence Go?",
+      "subtitle": "Philippine authorities confirmed that Trump will attend the ASEAN summit on 16 November before heading to Shenzhen for APEC.",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "The Philippines confirmed that Donald Trump will attend the ASEAN summit in Manila on 16 November, then travel to Shenzhen for the APEC Economic Leaders' Meeting. The visit marks his second consecutive ASEAN summit attendance this term and is seen as a signal of Washington's commitment to Southeast Asian allies amid US-China competition. Analysts caution, however, that summit-level diplomacy alone cannot erase years of perceived US inconsistency in the region.",
+      "imageAlt": "Hands fanning US dollar bills, a metaphor for US economic and security leverage in Asia-Pacific diplomacy.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Philippine authorities confirm Trump will attend ASEAN summit in Manila next month",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261014-9834785",
+          "date": "2026-10-14"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "vietnam-mortgages-generational-shift-2026",
+    "title": "越南房贷主流化：一场代际观念驱动的居住金融转型",
+    "subtitle": "在高增长、高房价与利率上行的三重背景下，越南年轻人正把抵押贷款从\"负债污名\"变成实现城市居住权的常规工具。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "经济",
+      "房地产",
+      "金融",
+      "银行",
+      "社会文化",
+      "中产阶级",
+      "消费"
+    ],
+    "country": "越南",
+    "date": "2026-10-15",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "越南年轻世代观念转变，房贷从边缘金融工具变为主流购房方式；但在房价高企与利率上行双重压力下，这场\"居者有其屋\"的信贷转型暗藏系统性风险。",
+    "image": "images/articles/vietnam-mortgages-generational-shift-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-15",
+    "imageAlt": "曼谷唐人街夜晚霓虹与嘟嘟车，象征东南亚城市经济活力与中产阶级消费扩张。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Mortgages go mainstream in Vietnam as generational values change",
+        "url": "https://asia.nikkei.com/spotlight/asean-money/mortgages-go-mainstream-in-vietnam-as-generational-values-change",
+        "date": "2026-10-14"
+      }
+    ],
+    "en": {
+      "title": "Vietnam’s Mortgages Go Mainstream: A Generational Shift in Housing Finance",
+      "subtitle": "Against fast growth, high property prices and rising interest rates, young Vietnamese are turning mortgages from a debt stigma into a routine tool of urban homeownership.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "A generational shift is turning the mortgage from a stigmatised product into a mainstream route to homeownership in fast-growing Vietnam. Yet soaring property prices and rising interest rates are testing the limits of this credit-driven housing transition, raising questions about financial literacy, bank exposure and affordability.",
+      "imageAlt": "Neon signs and tuk-tuks in Bangkok's Chinatown at night, evoking urban economic vitality and middle-class consumption in Southeast Asia.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Mortgages go mainstream in Vietnam as generational values change",
+          "url": "https://asia.nikkei.com/spotlight/asean-money/mortgages-go-mainstream-in-vietnam-as-generational-values-change",
+          "date": "2026-10-14"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "southeast-asia-rethink-ai-data-centre-boom-2026",
+    "title": "人工智能数据中心热潮降温：东南亚开始追问\"代价几何\"",
+    "subtitle": "泰国暂停166个项目，印尼叫停640兆瓦园区，马来西亚电网压力骤增，区域监管从\"抢项目\"转向\"算总账\"。",
+    "category": "经济产业",
+    "tags": [
+      "人工智能",
+      "数据中心",
+      "数字经济",
+      "能源",
+      "电力",
+      "泰国",
+      "马来西亚",
+      "印度尼西亚",
+      "经济"
+    ],
+    "country": "东南亚",
+    "date": "2026-10-15",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "东南亚各国正为人工智能数据中心建设热潮\"踩刹车\"：泰国暂停166个项目，印尼叫停640兆瓦园区，马来西亚电网承压。狂热过后，区域开始追问\"代价几何\"。",
+    "image": "images/articles/southeast-asia-rethink-ai-data-centre-boom-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-15",
+    "imageAlt": "工程图纸上使用游标卡尺测量零件，象征人工智能数据中心背后的技术基础设施与工程投入。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asia starts to rethink its AI data centre boom: ‘at what cost?’",
+        "url": "https://www.scmp.com/week-asia/economics/article/3369788/southeast-asia-starts-rethink-its-ai-data-centre-boom-what-cost",
+        "date": "2026-10-13"
+      }
+    ],
+    "en": {
+      "title": "Southeast Asia Hits the Brakes on Its AI Data-Centre Boom: At What Cost?",
+      "subtitle": "Thailand has suspended 166 projects, Indonesia halted a 640-megawatt campus, and Malaysia's grid is under strain as regulators shift from luring investment to counting costs.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "Southeast Asian governments are hitting the brakes on the AI data-centre boom. Thailand has suspended 166 projects, Indonesia halted a 640-megawatt campus, and Malaysia's electricity demand has surged nearly 10%. After years of competing to attract digital investment, regulators are asking what the build-out costs in power, water and predictable governance.",
+      "imageAlt": "An engineer measuring a part with calipers over technical drawings, symbolising the engineering and infrastructure behind AI data centres.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Southeast Asia starts to rethink its AI data centre boom: ‘at what cost?’",
+          "url": "https://www.scmp.com/week-asia/economics/article/3369788/southeast-asia-starts-rethink-its-ai-data-centre-boom-what-cost",
+          "date": "2026-10-13"
+        }
+      ]
+    }
+  },
+  {
     "slug": "baoshan-overseas-chinese-youth-story-2026",
     "title": "保山侨乡的一场展演：当“根”被年轻人自己讲出来",
     "subtitle": "中缅泰老青年相聚云南保山，循“寻根、铸魂、致远”三章讲述家族故事；四年机制化运作，让文化认同从口号变成可参与的过程",
