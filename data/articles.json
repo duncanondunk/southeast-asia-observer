@@ -1,5 +1,56 @@
 [
   {
+    "slug": "japan-azec-asia-oil-reserve-2026",
+    "title": "日本借「石油储备」重塑亚洲能源秩序",
+    "subtitle": "日经亚洲：东京以百亿美元能源援助绑定东南亚储备，名义是脱碳，弦外之音是牵制中国影响力",
+    "category": "经济产业",
+    "tags": [
+      "日本",
+      "东南亚",
+      "菲律宾",
+      "东盟",
+      "能源",
+      "能源安全",
+      "地缘政治",
+      "核能",
+      "中东",
+      "沙特"
+    ],
+    "country": "日本",
+    "date": "2026-10-14",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "日经亚洲报道，日本主导的亚洲零排放共同体在马尼拉达成扩大亚洲石油储备共识。东京以约100亿美元能源援助为杠杆，既补东南亚储备短板（越南仅30天），又借合作牵制中国影响力。这场储油外交背后，是日本与东南亚相互依存的现实博弈。",
+    "image": "images/articles/japan-azec-asia-oil-reserve-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-14",
+    "imageAlt": "黄昏时分高耸的输电铁塔与纵横电缆，象征亚洲能源基础设施建设",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "日本要主导建立亚洲石油储备机制",
+        "url": "https://cn.nikkei.com/industry/ienvironment/64256-2026-10-09-10-35-21.html",
+        "date": "2026-10-09"
+      }
+    ],
+    "en": {
+      "title": "Japan repackages energy security as Asia's new order",
+      "subtitle": "Nikkei: under AZEC, Tokyo ties Southeast Asia with a US$10bn aid package — the subtext is containing China's influence",
+      "category": "Economy & Industry",
+      "country": "Japan",
+      "summary": "Nikkei Asia reports that the Japan-led AZEC agreed in Manila to expand Asia's oil reserves. Tokyo leverages roughly US$10 billion in energy aid to fill Southeast Asia's thin buffers (Vietnam holds just 30 days) while containing China's influence. Behind this 'oil-reserve diplomacy' lies the mutual dependence between Japan and Southeast Asia.",
+      "imageAlt": "Tall power transmission towers and cables at dusk, symbolising Asia's energy infrastructure build-out",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Japan to lead push for an Asian oil reserve mechanism",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-10-09"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-chinese-library-bangkok-2026",
     "title": "泰国中华图书馆在曼谷揭牌：当中文书漂流到湄南河畔",
     "subtitle": "民间图书漂流总站落地曼谷，把中文读物送进泰国校园，为华文教育与中泰民间纽带添上毛细血管",
