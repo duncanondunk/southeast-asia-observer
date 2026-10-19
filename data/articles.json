@@ -1,5 +1,53 @@
 [
   {
+    "slug": "vietnam-investment-grade-rating-2026",
+    "title": "越南跨过投资级门槛：日系评级先动，河内赢了面子更要补里子",
+    "subtitle": "日经集团旗下评级机构将越南外币评级从 BB+ 上调至 BBB-，越南首获投资级；日系机构抢先放行既因供应链利益，也留边界——三大机构未动，便宜融资尚远，里子短板待补。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "经济产业",
+      "日本",
+      "信用评级",
+      "外商直接投资",
+      "改革",
+      "资本市场"
+    ],
+    "country": "越南",
+    "date": "2026-10-19",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "2026年10月8日，日经集团旗下评级机构将越南外币评级从 BB+ 上调至 BBB-，越南首获投资级。日系机构抢先放行，既因供应链利益，也留边界：三大机构未动，便宜融资尚远，里子短板待补。",
+    "image": "images/articles/vietnam-investment-grade-rating-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-19",
+    "imageAlt": "一叠钞票与上升的柱状图特写，呼应越南首获投资级主权评级与国际资本流动。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Vietnam earns first investment-grade rating from Japan's R&I",
+        "url": "https://asia.nikkei.com/economy/Vietnam-earns-first-investment-grade-rating",
+        "date": "2026-10-08"
+      }
+    ],
+    "en": {
+      "title": "Vietnam Crosses the Investment-Grade Threshold: A Japanese Rating, Hanoi's Face, and the Homework Still Due",
+      "subtitle": "R&I, part of the Nikkei Group, lifted Vietnam's foreign-currency rating from BB+ to BBB-, the country's first investment grade. A Japanese house moved first on supply-chain stakes, but with limits: the three global agencies are unmoved, cheap global funding is distant, and structural gaps remain.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "On 8 October 2026, R&I — part of the Nikkei Group — raised Vietnam's foreign-currency rating from BB+ to BBB-, the country's first investment grade. A Japanese agency moved first on supply-chain stakes, but with limits: the three global agencies are unmoved, cheap global funding is distant, and structural gaps remain.",
+      "imageAlt": "A close-up of banknotes and a rising bar chart, evoking Vietnam's first investment-grade sovereign rating and the flow of international capital.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Vietnam earns first investment-grade rating from Japan's R&I",
+          "url": "https://asia.nikkei.com/economy/Vietnam-earns-first-investment-grade-rating",
+          "date": "2026-10-08"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-efta-free-trade-agreement-2026",
     "title": "十四年磨一剑：越南与欧洲自由贸易联盟签署自贸协定",
     "subtitle": "历时14年谈判的越南—欧洲自由贸易联盟自贸协定，既是河内在美国关税压力下对冲风险的工具，也折射其以自贸网络广结伙伴、沿价值链爬坡的清晰战略；象征意义大于眼前体量。",
