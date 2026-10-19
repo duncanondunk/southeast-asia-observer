@@ -1,5 +1,66 @@
 [
   {
+    "slug": "vietnam-efta-free-trade-agreement-2026",
+    "title": "十四年磨一剑：越南与欧洲自由贸易联盟签署自贸协定",
+    "subtitle": "历时14年谈判的越南—欧洲自由贸易联盟自贸协定，既是河内在美国关税压力下对冲风险的工具，也折射其以自贸网络广结伙伴、沿价值链爬坡的清晰战略；象征意义大于眼前体量。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "经济产业",
+      "贸易",
+      "出口",
+      "投资",
+      "供应链",
+      "东盟",
+      "地缘政治"
+    ],
+    "country": "越南",
+    "date": "2026-10-19",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "10月18日，越南与欧洲自由贸易联盟签署自贸协定，历时14年谈判。在美国关税施压下，河内以这张自贸网络对冲风险、沿价值链爬坡。协定眼前体量有限，却折射越南不选边、广结伙伴的清晰战略。",
+    "image": "images/articles/vietnam-efta-free-trade-agreement-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-19",
+    "imageAlt": "一张美元钞票的特写，呼应越南与欧洲自由贸易联盟自贸协定所涉及的贸易、关税与货币议题。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "历经14年谈判 越南与欧洲自由贸易联盟签署自贸协定",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261018-9855329",
+        "date": "2026-10-18"
+      },
+      {
+        "source": "EFTA",
+        "title": "EFTA and Viet Nam sign Free Trade Agreement",
+        "url": "https://www.efta.int/media-resources/news/efta-and-viet-nam-sign-free-trade-agreement",
+        "date": "2026-10-18"
+      }
+    ],
+    "en": {
+      "title": "Fourteen Years in the Making: Vietnam Signs an FTA with the European Free Trade Association",
+      "subtitle": "Vietnam's FTA with EFTA, fourteen years in negotiation, is both a hedge against US tariff pressure and a sign of Hanoi's strategy of weaving a dense trade network and climbing the value chain — symbolism outweighs immediate scale.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam signed an FTA with EFTA on 18 October after fourteen years of talks. Amid US tariff pressure, Hanoi is using a lengthening FTA network to hedge risk and climb the value chain. The immediate economic weight is modest, yet the deal captures Hanoi's strategy of hedging rather than choosing sides.",
+      "imageAlt": "A close-up of US banknotes, echoing the trade, tariff and currency themes of Vietnam's FTA with EFTA.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Vietnam, EFTA sign free trade agreement after 14 years",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261018-9855329",
+          "date": "2026-10-18"
+        },
+        {
+          "source": "EFTA",
+          "title": "EFTA and Viet Nam sign Free Trade Agreement",
+          "url": "https://www.efta.int/media-resources/news/efta-and-viet-nam-sign-free-trade-agreement",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  },
+  {
     "slug": "chinatown-preservation-overseas-chinese-2026",
     "title": "从老街区到新地标：海外侨胞探寻唐人街的保护与更新",
     "subtitle": "马德里、米兰与马六甲三地的唐人街更新案例显示，华侨华人正把老街从落脚谋生的旧巷，转为离散身份地标与城市文旅名片；保护与更新的平衡，取决于原住侨胞是否仍是主角。",
