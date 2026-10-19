@@ -1,5 +1,52 @@
 [
   {
+    "slug": "chinatown-preservation-overseas-chinese-2026",
+    "title": "从老街区到新地标：海外侨胞探寻唐人街的保护与更新",
+    "subtitle": "马德里、米兰与马六甲三地的唐人街更新案例显示，华侨华人正把老街从落脚谋生的旧巷，转为离散身份地标与城市文旅名片；保护与更新的平衡，取决于原住侨胞是否仍是主角。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "文化遗产",
+      "文化传承",
+      "马来西亚",
+      "马六甲",
+      "东南亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-19",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "中国侨网报道马德里、米兰与马六甲三地唐人街更新：牌坊、步行街与闽南文化周让老街焕发新生。文章认为，唐人街正从移民落脚点的旧巷，转为离散身份地标与文旅名片；其保护成败不在游客量，而在原住侨胞是否仍是主角、方言与会馆是否仍在。",
+    "image": "images/articles/chinatown-preservation-overseas-chinese-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-19",
+    "imageAlt": "马来西亚马六甲鸡场街夜色中的红灯笼与骑楼，呼应华侨华人老街保护与文旅更新主题。",
+    "references": [
+      {
+        "source": "中国侨网（China Qiao Wang）",
+        "title": "从老街区到新地标 海外侨胞探索唐人街保护更新",
+        "url": "https://www.chinaqw.com/hqhr/2026/10-15/412755.shtml",
+        "date": "2026-10-15"
+      }
+    ],
+    "en": {
+      "title": "From Old Blocks to New Landmarks: Overseas Chinese Reimagine Chinatown Preservation",
+      "subtitle": "Cases from Madrid, Milan and Malacca show overseas Chinese turning old migrant streets into landmarks of diaspora identity and urban tourism — and that preservation hinges on keeping resident communities at the centre.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "China Qiao Wang reports Chinatown renewal in Madrid, Milan and Malacca — archways, pedestrian streets and a Hokkien culture week breathing new life into old districts. The piece argues that Chinatowns are shifting from migrant landing pads to diaspora landmarks and tourism cards; success is measured not by visitor counts but by whether resident overseas Chinese remain the protagonists and dialect and clan halls endure.",
+      "imageAlt": "Red lanterns and shophouses along Malacca's Jonker Street at night, echoing the theme of overseas-Chinese old-street preservation and cultural-tourism renewal.",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "From Old Blocks to New Landmarks: Overseas Chinese Explore Chinatown Preservation and Renewal",
+          "url": "https://www.chinaqw.com/hqhr/2026/10-15/412755.shtml",
+          "date": "2026-10-15"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-visa-free-chinese-group-tours-khanh-hoa-2026",
     "title": "组团、直飞金兰、停留30天：越南对华免签试点的算盘",
     "subtitle": "自10月12日起至2027年底，越南对以至少两人组团赴庆和省旅游的中国公民试行免签，但限定直飞金兰机场、跟团入境、停留不超过30天。",
