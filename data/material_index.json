@@ -1784,6 +1784,13 @@
       "slugs": [
         "vietnam-efta-free-trade-agreement-2026"
       ]
+    },
+    "event:马来西亚消费者追捧中国电商(拼多多)冲击本土工厂与华人贸易商(2026-10)": {
+      "slugs": [
+        "chinese-ecommerce-malaysia-chinese-traders-2026"
+      ],
+      "exception": null,
+      "note": "南华早报2026-10-17《Malaysia's shoppers love Chinese e-commerce. Its factories pay the price》；焦点为拼多多等中国跨境电商对马来西亚本土制造与华人贸易商网络的冲击，属经济产业与华侨华人交叉主题，全站首次。"
     }
   }
 }

@@ -1,5 +1,78 @@
 [
   {
+    "slug": "chinese-ecommerce-malaysia-chinese-traders-2026",
+    "title": "中国电商直连马来西亚：消费者省钱，华人商网与本土工厂为何慌了",
+    "subtitle": "拼多多等中国跨境电商在马来西亚走红，消费者得实惠，本土工厂与华人贸易商却被直连模式绕开。本文拆解价差根源、监管两难与印尼越南的先例，指出冲击波正在重写南洋华人经济网络的角色。",
+    "category": "华侨华人",
+    "tags": [
+      "马来西亚",
+      "华侨华人",
+      "侨商",
+      "电商",
+      "中小企业",
+      "供应链",
+      "经济产业",
+      "消费"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-19",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "2026年10月，拼多多等中国跨境电商在马来西亚走红，消费者得实惠，本土工厂与华人贸易商却被直连模式绕开。本文分析价差根源、监管两难与区域镜鉴，指出冲击波正在重写南洋华人经济网络的角色。",
+    "image": "images/articles/chinese-ecommerce-malaysia-chinese-traders-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-19",
+    "imageAlt": "夜幕下东南亚唐人街的霓虹与街市，象征被跨境电商重构的南洋华人商业网络。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Malaysia's shoppers love Chinese e-commerce. Its factories pay the price",
+        "url": "https://www.scmp.com/week-asia/economy/article/2026/10/17/malaysia-shoppers-love-chinese-e-commerce-factories-pay-price",
+        "date": "2026-10-17"
+      },
+      {
+        "source": "Free Malaysia Today",
+        "title": "Make foreign e-commerce platforms set up local offices, says Mas Ermieyati",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/make-foreign-e-commerce-platforms-set-up-local-offices-says-mas-ermieyati",
+        "date": "2026-10-14"
+      },
+      {
+        "source": "出海网 Chwang",
+        "title": "马来西亚新电子商务规则预计10月获批",
+        "url": "https://www.chwang.com/news/209171363092",
+        "date": "2026-10"
+      }
+    ],
+    "en": {
+      "title": "Malaysia's Shoppers Love Chinese E-commerce. Its Factories — and Its Ethnic Chinese Traders — Pay the Price",
+      "subtitle": "Chinese cross-border platforms such as Pinduoduo have surged in Malaysia. Shoppers win on price, but local factories and the ethnic Chinese trader network are being bypassed by factory-direct models. This piece examines the supply-chain gap, the regulatory dilemma, and lessons from Indonesia and Vietnam.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "In October 2026, Chinese cross-border platforms such as Pinduoduo surged in Malaysia. Shoppers win on price, but local factories and the ethnic Chinese trader network are being bypassed by factory-direct models. The piece examines the supply-chain gap, the regulatory dilemma, and lessons from Indonesia and Vietnam.",
+      "imageAlt": "A night view of a Southeast Asian Chinatown with neon-lit shophouses, symbolising the overseas Chinese commercial network being reshaped by cross-border e-commerce.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Malaysia's shoppers love Chinese e-commerce. Its factories pay the price",
+          "url": "https://www.scmp.com/week-asia/economy/article/2026/10/17/malaysia-shoppers-love-chinese-e-commerce-factories-pay-price",
+          "date": "2026-10-17"
+        },
+        {
+          "source": "Free Malaysia Today",
+          "title": "Make foreign e-commerce platforms set up local offices, says Mas Ermieyati",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/make-foreign-e-commerce-platforms-set-up-local-offices-says-mas-ermieyati",
+          "date": "2026-10-14"
+        },
+        {
+          "source": "Chwang (Going Global Network)",
+          "title": "Malaysia's new e-commerce rules expected approved in October",
+          "url": "https://www.chwang.com/news/209171363092",
+          "date": "2026-10"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-investment-grade-rating-2026",
     "title": "越南跨过投资级门槛：日系评级先动，河内赢了面子更要补里子",
     "subtitle": "日经集团旗下评级机构将越南外币评级从 BB+ 上调至 BBB-，越南首获投资级；日系机构抢先放行既因供应链利益，也留边界——三大机构未动，便宜融资尚远，里子短板待补。",
