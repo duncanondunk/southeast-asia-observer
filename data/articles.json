@@ -1,66 +1,129 @@
 [
   {
-  "slug": "myanmar-war-economy-paradox-2026",
-  "title": "缅甸战时经济怪象：官方经济缩水2%，仰光房价却年年疯涨",
-  "subtitle": "据《日经亚洲》报道，缅甸2025/26财年经济萎缩2%，但仰光房价五年里年均上涨四成到六成。这组反差揭示的，不是复苏，而是战争经济下财富的空间转移。",
-  "category": "地缘政治",
-  "tags": [
-    "缅甸",
-    "经济",
-    "内战",
-    "东南亚",
-    "通货膨胀",
-    "汇率",
-    "房地产",
-    "离散族群"
-  ],
-  "country": "缅甸",
-  "date": "2026-10-20",
-  "readingTime": 7,
-  "featured": false,
-  "summary": "《日经亚洲》报道缅甸2025/26财年经济萎缩2%，但仰光房价五年年均涨四成到六成。三重汇率与货币贬值逼出无处可逃的储蓄，资本涌向硬资产；贫困率升至31%。这不是复苏，而是战火中财富从实体向少数人地产簿的空间转移。",
-  "image": "images/articles/myanmar-war-economy-paradox-2026.jpg",
-  "imageCredit": "Unsplash",
-  "imageAccessed": "2026-10-20",
-  "imageAlt": "东南亚大都市黄昏时分的城市天际线，隐喻战时经济中资本涌向城市硬资产、资产价格与民生背离",
-  "references": [
-    {
-      "source": "日经亚洲 Nikkei Asia",
-      "title": "Myanmar's economy shrinks 2% as civil war drags on business",
-      "url": "https://asia.nikkei.com",
-      "date": "2026-10-07"
-    },
-    {
-      "source": "中央社 CNA",
-      "title": "東協財經/2026年10月7日東協快訊",
-      "url": "https://www.cna.com.tw/news/afe/202610073004.aspx",
-      "date": "2026-10-07"
-    }
-  ],
-  "en": {
-    "title": "Myanmar's War-Economy Paradox: Official Output Shrinks 2%, Yet Yangon Property Prices Soar",
-    "subtitle": "Nikkei Asia reports Myanmar's FY2025/26 economy contracted 2%, yet Yangon home prices rose 40–60% a year for five years. The gap reveals not recovery but a wartime spatial transfer of wealth.",
-    "category": "Geopolitics",
-    "country": "Myanmar",
-    "summary": "Nikkei Asia reports Myanmar's FY2025/26 economy shrank 2 per cent, yet Yangon home prices climbed 40–60 per cent a year for five years. Triple exchange rates and a depreciating kyat pushed savings with nowhere to flee into hard assets while poverty reached 31 per cent. Not a recovery — a wartime transfer of wealth toward a few property ledgers.",
-    "imageAlt": "A Southeast Asian metropolis skyline at dusk, evoking Myanmar's war-economy paradox where capital flocks to urban hard assets while livelihoods diverge.",
+    "slug": "philippines-china-free-manufacturing-bet-2026",
+    "title": "一场“去中国化”的工业赌局：菲律宾制造业豪赌为何高风险",
+    "subtitle": "小马科斯政府的“去中国化”制造底座，是战略还是赌注？",
+    "category": "经济产业",
+    "tags": [
+      "菲律宾",
+      "制造业",
+      "供应链",
+      "经济产业",
+      "中美竞争",
+      "美国",
+      "中菲关系",
+      "产业升级",
+      "友岸外包",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-20",
+    "readingTime": 10,
+    "featured": false,
+    "summary": "小马科斯政府押注“去中国化”制造业——建不依赖中国供应链的工业底座，换取美国友岸外包资本。但这更像一场赌局：菲律宾缺廉价电力、规模与供应商生态，强行脱钩只会抬高成本、加深而非减弱对华依赖。现实出路是“中国+”，而非“去中国”。",
+    "image": "images/articles/philippines-china-free-manufacturing-bet-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-20",
+    "imageAlt": "美元纸币特写，象征支撑“去中国化”产业链赌局的美国资本",
     "references": [
       {
-        "source": "Nikkei Asia",
+        "source": "南华早报 South China Morning Post",
+        "title": "Philippines' 'China-free' manufacturing strategy is a high-risk bet",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-10-17"
+      },
+      {
+        "source": "美国白宫 The White House",
+        "title": "Launch of the Luzon Economic Corridor under the Partnership for Global Infrastructure and Investment",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-launch-of-the-luzon-economic-corridor-under-the-partnership-for-global-infrastructure-and-investment/",
+        "date": "2024-04-11"
+      }
+    ],
+    "en": {
+      "title": "Manila's 'China-Free' Gamble: Why the Philippines' Manufacturing Bet Is a High-Risk Wager",
+      "subtitle": "Manila's 'China-free' manufacturing base: strategy or gamble?",
+      "category": "Economy & Industry",
+      "country": "Philippines",
+      "summary": "Under Marcos Jr., the Philippines is betting on a 'China-free' manufacturing base to win U.S. friend-shoring capital. But the wager rests on a fragile premise: Manila lacks cheap power, industrial scale and supplier ecosystems, so forced decoupling only raises costs and deepens, rather than cuts, reliance on Chinese inputs. The realistic path is 'China-plus' diversification, not 'China-free' autarky.",
+      "imageAlt": "Close-up of US dollar bills, symbolising the American capital underwriting the 'de-China' industrial wager",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Philippines' 'China-free' manufacturing strategy is a high-risk bet",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-10-17"
+        },
+        {
+          "source": "The White House",
+          "title": "Launch of the Luzon Economic Corridor under the Partnership for Global Infrastructure and Investment",
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-launch-of-the-luzon-economic-corridor-under-the-partnership-for-global-infrastructure-and-investment/",
+          "date": "2024-04-11"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "myanmar-war-economy-paradox-2026",
+    "title": "缅甸战时经济怪象：官方经济缩水2%，仰光房价却年年疯涨",
+    "subtitle": "据《日经亚洲》报道，缅甸2025/26财年经济萎缩2%，但仰光房价五年里年均上涨四成到六成。这组反差揭示的，不是复苏，而是战争经济下财富的空间转移。",
+    "category": "地缘政治",
+    "tags": [
+      "缅甸",
+      "经济",
+      "内战",
+      "东南亚",
+      "通货膨胀",
+      "汇率",
+      "房地产",
+      "离散族群"
+    ],
+    "country": "缅甸",
+    "date": "2026-10-20",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "《日经亚洲》报道缅甸2025/26财年经济萎缩2%，但仰光房价五年年均涨四成到六成。三重汇率与货币贬值逼出无处可逃的储蓄，资本涌向硬资产；贫困率升至31%。这不是复苏，而是战火中财富从实体向少数人地产簿的空间转移。",
+    "image": "images/articles/myanmar-war-economy-paradox-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-20",
+    "imageAlt": "东南亚大都市黄昏时分的城市天际线，隐喻战时经济中资本涌向城市硬资产、资产价格与民生背离",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
         "title": "Myanmar's economy shrinks 2% as civil war drags on business",
         "url": "https://asia.nikkei.com",
         "date": "2026-10-07"
       },
       {
-        "source": "Central News Agency (CNA)",
-        "title": "ASEAN Finance Briefing, 7 October 2026",
+        "source": "中央社 CNA",
+        "title": "東協財經/2026年10月7日東協快訊",
         "url": "https://www.cna.com.tw/news/afe/202610073004.aspx",
         "date": "2026-10-07"
       }
-    ]
-  }
-},
-{
+    ],
+    "en": {
+      "title": "Myanmar's War-Economy Paradox: Official Output Shrinks 2%, Yet Yangon Property Prices Soar",
+      "subtitle": "Nikkei Asia reports Myanmar's FY2025/26 economy contracted 2%, yet Yangon home prices rose 40–60% a year for five years. The gap reveals not recovery but a wartime spatial transfer of wealth.",
+      "category": "Geopolitics",
+      "country": "Myanmar",
+      "summary": "Nikkei Asia reports Myanmar's FY2025/26 economy shrank 2 per cent, yet Yangon home prices climbed 40–60 per cent a year for five years. Triple exchange rates and a depreciating kyat pushed savings with nowhere to flee into hard assets while poverty reached 31 per cent. Not a recovery — a wartime transfer of wealth toward a few property ledgers.",
+      "imageAlt": "A Southeast Asian metropolis skyline at dusk, evoking Myanmar's war-economy paradox where capital flocks to urban hard assets while livelihoods diverge.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Myanmar's economy shrinks 2% as civil war drags on business",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-10-07"
+        },
+        {
+          "source": "Central News Agency (CNA)",
+          "title": "ASEAN Finance Briefing, 7 October 2026",
+          "url": "https://www.cna.com.tw/news/afe/202610073004.aspx",
+          "date": "2026-10-07"
+        }
+      ]
+    }
+  },
+  {
     "slug": "myanmar-meth-surge-transnational-crime-2026",
     "title": "政变五年，缅甸如何沦为亚洲冰毒工厂",
     "subtitle": "2025年东亚与东南亚冰毒查缉量达349吨、同比增48%，但供给不降反升。缅甸的内战与治理真空，才是这条流水线真正的发动机。",
