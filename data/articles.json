@@ -1,5 +1,66 @@
 [
   {
+  "slug": "myanmar-war-economy-paradox-2026",
+  "title": "缅甸战时经济怪象：官方经济缩水2%，仰光房价却年年疯涨",
+  "subtitle": "据《日经亚洲》报道，缅甸2025/26财年经济萎缩2%，但仰光房价五年里年均上涨四成到六成。这组反差揭示的，不是复苏，而是战争经济下财富的空间转移。",
+  "category": "地缘政治",
+  "tags": [
+    "缅甸",
+    "经济",
+    "内战",
+    "东南亚",
+    "通货膨胀",
+    "汇率",
+    "房地产",
+    "离散族群"
+  ],
+  "country": "缅甸",
+  "date": "2026-10-20",
+  "readingTime": 7,
+  "featured": false,
+  "summary": "《日经亚洲》报道缅甸2025/26财年经济萎缩2%，但仰光房价五年年均涨四成到六成。三重汇率与货币贬值逼出无处可逃的储蓄，资本涌向硬资产；贫困率升至31%。这不是复苏，而是战火中财富从实体向少数人地产簿的空间转移。",
+  "image": "images/articles/myanmar-war-economy-paradox-2026.jpg",
+  "imageCredit": "Unsplash",
+  "imageAccessed": "2026-10-20",
+  "imageAlt": "东南亚大都市黄昏时分的城市天际线，隐喻战时经济中资本涌向城市硬资产、资产价格与民生背离",
+  "references": [
+    {
+      "source": "日经亚洲 Nikkei Asia",
+      "title": "Myanmar's economy shrinks 2% as civil war drags on business",
+      "url": "https://asia.nikkei.com",
+      "date": "2026-10-07"
+    },
+    {
+      "source": "中央社 CNA",
+      "title": "東協財經/2026年10月7日東協快訊",
+      "url": "https://www.cna.com.tw/news/afe/202610073004.aspx",
+      "date": "2026-10-07"
+    }
+  ],
+  "en": {
+    "title": "Myanmar's War-Economy Paradox: Official Output Shrinks 2%, Yet Yangon Property Prices Soar",
+    "subtitle": "Nikkei Asia reports Myanmar's FY2025/26 economy contracted 2%, yet Yangon home prices rose 40–60% a year for five years. The gap reveals not recovery but a wartime spatial transfer of wealth.",
+    "category": "Geopolitics",
+    "country": "Myanmar",
+    "summary": "Nikkei Asia reports Myanmar's FY2025/26 economy shrank 2 per cent, yet Yangon home prices climbed 40–60 per cent a year for five years. Triple exchange rates and a depreciating kyat pushed savings with nowhere to flee into hard assets while poverty reached 31 per cent. Not a recovery — a wartime transfer of wealth toward a few property ledgers.",
+    "imageAlt": "A Southeast Asian metropolis skyline at dusk, evoking Myanmar's war-economy paradox where capital flocks to urban hard assets while livelihoods diverge.",
+    "references": [
+      {
+        "source": "Nikkei Asia",
+        "title": "Myanmar's economy shrinks 2% as civil war drags on business",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-10-07"
+      },
+      {
+        "source": "Central News Agency (CNA)",
+        "title": "ASEAN Finance Briefing, 7 October 2026",
+        "url": "https://www.cna.com.tw/news/afe/202610073004.aspx",
+        "date": "2026-10-07"
+      }
+    ]
+  }
+},
+{
     "slug": "myanmar-meth-surge-transnational-crime-2026",
     "title": "政变五年，缅甸如何沦为亚洲冰毒工厂",
     "subtitle": "2025年东亚与东南亚冰毒查缉量达349吨、同比增48%，但供给不降反升。缅甸的内战与治理真空，才是这条流水线真正的发动机。",
