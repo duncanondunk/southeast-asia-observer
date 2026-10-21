@@ -1,5 +1,53 @@
 [
   {
+    "slug": "asean-chinese-business-elite-summit-manila-2026",
+    "title": "第二届东盟华商菁英峰会落幕马尼拉：华商网络何以成为东盟经济的黏合剂",
+    "subtitle": "菲律宾出任2026年东盟轮值主席国之际，菲华商联总会主办的这场峰会，折射出东南亚华人商业网络在区域一体化中的特殊角色。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "菲律宾",
+      "东盟",
+      "华商",
+      "商会",
+      "经贸合作",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-21",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "第二届东盟华商菁英峰会10月19日在马尼拉举行，由菲华商联总会主办，适逢菲律宾出任2026年东盟轮值主席国。本文认为，这场族裔商会驱动的经贸峰会折射出东南亚华人商业网络的特殊角色：它绕开薄弱的正式制度、以族裔信任降低交易成本，却也面临财富集中与治理透明度的长期质疑。",
+    "image": "images/articles/asean-chinese-business-elite-summit-manila-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-21",
+    "imageAlt": "曼谷唐人街夜景，中文霓虹招牌映照商业街",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "第二届东盟华商菁英峰会在马尼拉举行 聚焦区域经贸合作",
+        "url": "https://www.chinaqw.com/jjkj/2026/10-20/412908.shtml",
+        "date": "2026-10-20"
+      }
+    ],
+    "en": {
+      "title": "The 2nd ASEAN Chinese Business Elite Summit in Manila: How the Ethnic-Chinese Business Network Bonds ASEAN's Economy",
+      "subtitle": "As the Philippines assumes the 2026 ASEAN chairmanship, the summit hosted by the Filipino Chinese chamber underscores the distinctive role of Southeast Asia's ethnic-Chinese business networks in regional integration.",
+      "category": "Overseas Chinese",
+      "country": "Philippines",
+      "summary": "The second ASEAN Chinese Business Elite Summit convened in Manila on 19 October 2026, hosted by the Filipino Chinese chamber as the Philippines chairs ASEAN this year. This piece argues that the ethnicity-driven trade forum reveals the distinctive role of Southeast Asia's ethnic-Chinese business network as the region's \"connective tissue\": it bypasses thin formal institutions and lowers transaction costs through ethnic trust, yet faces enduring questions over wealth concentration and governance transparency.",
+      "imageAlt": "Night scene of Bangkok's Chinatown, Chinese neon signs lighting a commercial street",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "2nd ASEAN Chinese Business Elite Summit held in Manila, focusing on regional economic cooperation",
+          "url": "https://www.chinaqw.com/jjkj/2026/10-20/412908.shtml",
+          "date": "2026-10-20"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-china-free-manufacturing-bet-2026",
     "title": "一场“去中国化”的工业赌局：菲律宾制造业豪赌为何高风险",
     "subtitle": "小马科斯政府的“去中国化”制造底座，是战略还是赌注？",
