@@ -1,5 +1,126 @@
 [
   {
+    "slug": "mitsubishi-vietnam-tungsten-china-bypass-2026",
+    "title": "从越南采购再生钨：三菱材料绕开中国管制的代价",
+    "subtitle": "《日经亚洲》报道，三菱材料为规避中国钨出口管制，开始从越南大量进口再生钨。这桩“中国+1”供应链重组，暴露的不仅是成本，更是关键矿产时代产业话语权的悄然迁移。",
+    "category": "经济产业",
+    "tags": [
+      "日本",
+      "越南",
+      "供应链",
+      "关键矿产",
+      "制造业",
+      "东南亚",
+      "中美竞争"
+    ],
+    "country": "越南",
+    "date": "2026-10-21",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "《日经亚洲》报道，三菱材料为规避中国钨出口管制从越南进口再生钨。中国占全球钨产量约八成，2026年1月起对日实施两用物项管制；日本自华钨进口占比从47%降至13%，越南从5%升至20%。代价是国际钨价年内涨近3倍、刀具提价；越南借马山高科技材料成区域加工一极。这是关键矿产时代话语权的迁移，而非红利。",
+    "image": "images/articles/mitsubishi-vietnam-tungsten-china-bypass-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-21",
+    "imageAlt": "工业金属与精密刀具特写，隐喻关键矿产供应链绕开中国、向东南亚迁移的重组",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Mitsubishi Materials taps Vietnam for tungsten as China alternative",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-10-09"
+      },
+      {
+        "source": "Inside ASEAN",
+        "title": "Mitsubishi Materials Turns to Vietnam for Tungsten Supply Amid China Restrictions",
+        "url": "https://insideasean.com/vietnam/mitsubishi-materials-turns-to-vietnam-for-tungsten-supply-amid-china-restriction",
+        "date": "2026-10-09"
+      }
+    ],
+    "en": {
+      "title": "Mitsubishi's Vietnam Tungsten Pivot: The Price of Bypassing China's Controls",
+      "subtitle": "Nikkei Asia reports Mitsubishi Materials has begun importing recycled tungsten from Vietnam at scale to bypass Chinese export controls. This 'China Plus One' reordering exposes not just cost, but a quiet migration of industrial leverage in the age of critical minerals.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Nikkei Asia reports Mitsubishi Materials is importing recycled tungsten from Vietnam at scale to bypass Chinese export controls. China supplies roughly 80 per cent of global tungsten; since January 2026 it has restricted dual-use exports to Japan, cutting Japan's China import share from 47 per cent to 13 per cent while Vietnam's rose from 5 per cent to 20 per cent. The cost: overseas tungsten prices nearly tripled this year and tool prices rose. Vietnam, via Masan, is becoming a regional processing pole — a quiet shift in critical-mineral leverage, not a dividend.",
+      "imageAlt": "Close-up of industrial metal and precision cutting tools, evoking the tungsten supply-chain reordering away from China toward Southeast Asia.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Mitsubishi Materials taps Vietnam for tungsten as China alternative",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-10-09"
+        },
+        {
+          "source": "Inside ASEAN",
+          "title": "Mitsubishi Materials Turns to Vietnam for Tungsten Supply Amid China Restrictions",
+          "url": "https://insideasean.com/vietnam/mitsubishi-materials-turns-to-vietnam-for-tungsten-supply-amid-china-restriction",
+          "date": "2026-10-09"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "chinese-firms-thailand-over-vietnam-trade-war-2026",
+    "title": "贸易战2.0下中企“中国+1”：为何从越南转向泰国",
+    "subtitle": "《南华早报》观察，贸易战2.0与转运审查收紧下，部分中企正把产能从中国经越南再向泰国二次转移。这并非简单区位切换，而是全球产业链“避险逻辑”的一次再校准。",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "越南",
+      "供应链",
+      "制造业",
+      "经济产业",
+      "中美竞争",
+      "东南亚",
+      "友岸外包"
+    ],
+    "country": "泰国",
+    "date": "2026-10-21",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "《南华早报》观察，贸易战2.0与转运审查收紧下，部分中企从越南二次转移至泰国。越南对美顺差2024年达1230亿美元；泰国凭生态与促投激励接住产能，2024年促投982份、投资1.72万亿泰铢，阿努廷访华再揽超7000亿泰铢。但转运红线高悬，纯“换标签”难续。中企“中国+1”下一程，拼真产能与合规。",
+    "image": "images/articles/chinese-firms-thailand-over-vietnam-trade-war-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-21",
+    "imageAlt": "曼谷唐人街夜景与霓虹，隐喻中企在泰国的产业集聚与中国资本在东南亚的再布局",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Why more Chinese firms are eyeing Thailand over Vietnam after trade war 2.0",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-10-21"
+      },
+      {
+        "source": "TUSKO Consulting",
+        "title": "China Plus One: Why Thailand Is #1 in 2026",
+        "url": "https://tuskoconsulting.com/blog/china-plus-one-thailand-number-one-destination",
+        "date": "2026-10-21"
+      }
+    ],
+    "en": {
+      "title": "China Plus One 2.0: Why Chinese Firms Are Picking Thailand Over Vietnam",
+      "subtitle": "The South China Morning Post observes that, under trade-war 2.0 and tighter transshipment scrutiny, some Chinese firms are making a second relocation — from China via Vietnam, onward to Thailand. This is no mere site switch, but a recalibration of the global supply chain's risk-avoidance logic.",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "The South China Morning Post observes that under trade-war 2.0 and tighter transshipment scrutiny, some Chinese firms are relocating a second time from Vietnam to Thailand. Vietnam's US$123 billion 2024 surplus drew transshipment probes; Thailand, with its industrial ecosystem and investment incentives, caught the spillover — 982 Chinese-promoted projects worth B1.72 trillion in 2024, plus B700 billion pledged during Anutin's China visit. But the transshipment red line looms; mere relabelling won't last. The next leg of China Plus One rewards real capacity and compliance.",
+      "imageAlt": "Night view of Bangkok's Chinatown with neon lights, evoking Chinese firms' industrial clustering in Thailand and the reshuffle of Chinese capital across Southeast Asia.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Why more Chinese firms are eyeing Thailand over Vietnam after trade war 2.0",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-10-21"
+        },
+        {
+          "source": "TUSKO Consulting",
+          "title": "China Plus One: Why Thailand Is #1 in 2026",
+          "url": "https://tuskoconsulting.com/blog/china-plus-one-thailand-number-one-destination",
+          "date": "2026-10-21"
+        }
+      ]
+    }
+  },
+  {
     "slug": "china-embassy-thailand-travel-warning-2026",
     "title": "中国驻泰使馆发旅游安全预警 泰国部长急忙\"打包票\"",
     "subtitle": "使馆点名提醒公民警惕泰缅边境诱骗转运，泰国旅游与体育部长亲自上电视安抚——一纸预警背后，是泰国旅游业对中国客源的深度依赖与边境治理的裂缝。",
