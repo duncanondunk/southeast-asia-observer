@@ -1,5 +1,66 @@
 [
   {
+    "slug": "indonesia-stocks-msci-standalone-downgrade-2026",
+    "title": "明晟一纸咨询，印尼市场信用遭二十八年最重一击",
+    "subtitle": "MSCI 拟将印尼从新兴市场直接重分类为「独立市场」，触发1998年以来最大单日暴跌。这桩信心事件，暴露的是市场治理失灵、资本外逃与印尼盾承压的结构性隐患。",
+    "category": "经济产业",
+    "tags": [
+      "印度尼西亚",
+      "经济",
+      "资本市场",
+      "股市",
+      "外资",
+      "汇率",
+      "东南亚",
+      "治理"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-10-22",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "明晟公司拟将印尼从新兴市场直接重分类为「独立市场」，触发1998年以来最大单日暴跌。本文剖析其市场治理失灵、资本外逃与印尼盾承压的结构性隐患，以及雅加达在2027年6月前的改革窗口。",
+    "image": "images/articles/indonesia-stocks-msci-standalone-downgrade-2026.jpg",
+    "imageCredit": "Pexels — photo 32327756",
+    "imageAccessed": "2026-10-22",
+    "imageAlt": "雅加达城市天际线，印尼金融与资本市场核心",
+    "en": {
+      "title": "Indonesia's Market Reputation Just Took a 28-Year Hit — and MSCI Did the Honours",
+      "subtitle": "MSCI's proposal to reclassify Indonesia from emerging to standalone market status triggered the Jakarta Composite's worst one-day plunge since 1998 — a confidence event exposing governance failures, looming capital flight and rupiah pressure.",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "MSCI's proposal to reclassify Indonesia from emerging to standalone market status triggered the Jakarta Composite's worst one-day plunge since 1998. This commentary examines the market-governance failures, looming capital flight and rupiah pressure behind the selloff, and Jakarta's reform window before June 2027.",
+      "imageAlt": "Jakarta skyline, the hub of Indonesia's finance and capital market",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-10-16"
+      },
+      {
+        "source": "MSCI",
+        "title": "MSCI Launches a Consultation on a Proposal to Reclassify Indonesia from Emerging Market to Standalone Market Status",
+        "url": "https://www.msci.com/index-consultations",
+        "date": "2026-10-15"
+      },
+      {
+        "source": "中国日报亚洲版",
+        "title": "Indonesia stocks sink most in 28 years on MSCI downgrade warning",
+        "url": "https://www.chinadailyasia.com/article/641258",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  {
     "slug": "qimen-ancha-tea-nanyang-revival-2026",
     "title": "百年侨销安茶重走南洋路",
     "subtitle": "一盏祁门老茶如何串起东南亚华侨华人的乡愁与生意",
