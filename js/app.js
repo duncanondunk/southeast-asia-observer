@@ -58,7 +58,8 @@
     '安全': 'Security', '反洗钱': 'Anti-Money Laundering', '领事保护': 'Consular Protection', '心理健康': 'Mental Health', '食品工业': 'Food Industry', '外商直接投资': 'Foreign Direct Investment', '信用评级': 'Credit Rating', '改革': 'Reform',     '银发经济': 'Silver Economy', '医疗旅游': 'Medical Tourism', '养老': 'Elderly Care', '政商关系': 'Business–Politics Nexus', '总统顾问': 'Presidential Advisory Council', '寡头': 'Oligarchy', '汇率': 'Exchange Rate', '美元': 'US Dollar', '创意经济': 'Creative Economy', '中产阶级': 'Middle Class', '通货膨胀': 'Inflation',     '网络博彩': 'Online Gambling', '枪支管制': 'Gun Control', '公共安全': 'Public Safety',
     '中东': 'Middle East', '沙特': 'Saudi Arabia', '石油': 'Oil', '电力': 'Electricity', '能源转型': 'Energy Transition', '液化天然气': 'LNG',
     '保山': 'Baoshan', '黄循财': 'Lawrence Wong', '数码经济': 'Digital Economy', '纺织业': 'Textile Industry', '军售': 'Arms Sales', '战斗机': 'Fighter Jets', '国防': 'Defence',
-    '股市': 'Stock Market', '外资': 'Foreign Capital', '治理': 'Governance'
+    '股市': 'Stock Market', '外资': 'Foreign Capital', '治理': 'Governance',
+    '反对党': 'Opposition', '安华': 'Anwar Ibrahim'
   };
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 
