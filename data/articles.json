@@ -1,5 +1,53 @@
 [
   {
+    "slug": "qimen-ancha-tea-nanyang-revival-2026",
+    "title": "百年侨销安茶重走南洋路",
+    "subtitle": "一盏祁门老茶如何串起东南亚华侨华人的乡愁与生意",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "东南亚",
+      "南洋",
+      "马来西亚",
+      "文化遗产",
+      "茶",
+      "RCEP"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-22",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "祁门安茶是历史上专为海外侨胞而制的「侨销茶」，曾沿水路远销南洋，被尊为华侨华人家中的「圣茶」。依托《区域全面经济伙伴关系协定》（RCEP），安茶近年重返马来西亚等东南亚市场，靠的不是关税红利，而是离散族群的情感刚需与乡愁记忆。一盏老茶的复兴，走的是一条轻量化、市场驱动的软实力路径。",
+    "image": "images/articles/qimen-ancha-tea-nanyang-revival-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-22",
+    "imageAlt": "南洋华人街区的夜色与霓虹，隐喻侨销茶重走南洋路的离散乡愁",
+    "en": {
+      "title": "Century-old qiaoxiao tea re-walks the Nanyang route",
+      "subtitle": "How an old Qimen tea ties together the nostalgia and business of Southeast Asia's overseas Chinese",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "Qimen Ancha, a historic 'qiaoxiao' (overseas-sold) tea, was once shipped to Nanyang and revered as the 'holy tea' of overseas Chinese homes. Riding the RCEP, Ancha is returning to Southeast Asian markets such as Malaysia — not on tariff dividends, but on the emotional hard demand and nostalgia memory of diaspora communities. The revival of an old tea traces a lightweight, market-driven path of soft power.",
+      "imageAlt": "Nightfall and neon over a Nanyang Chinatown, evoking the diaspora nostalgia of qiaoxiao tea's return to Nanyang",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Century-old qiaoxiao tea re-walks the Nanyang route",
+          "url": "https://www.chinaqw.com/hwjy/2026/10-20/412929.shtml",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "百年侨销安茶重走南洋路",
+        "url": "https://www.chinaqw.com/hwjy/2026/10-20/412929.shtml",
+        "date": "2026-10-20"
+      }
+    ]
+  },
+  {
     "slug": "mitsubishi-vietnam-tungsten-china-bypass-2026",
     "title": "从越南采购再生钨：三菱材料绕开中国管制的代价",
     "subtitle": "《日经亚洲》报道，三菱材料为规避中国钨出口管制，开始从越南大量进口再生钨。这桩“中国+1”供应链重组，暴露的不仅是成本，更是关键矿产时代产业话语权的悄然迁移。",
