@@ -79,6 +79,11 @@ def annotate_zh(zh, glossary):
         if idx == -1:
             continue
         after = zh[idx + len(cn):]
+        # Already carries an English gloss, possibly separated from the term by a
+        # closing quote/bracket such as 》 or " (e.g. 《日经亚洲》(Nikkei Asia)).
+        # Skip so we stay idempotent and never produce double parentheses.
+        if re.match(r"[^A-Za-z（）()]{0,12}[（(][^（）()]*[A-Za-z][^（）()]*[）)]", after):
+            continue
         nxt = after[0] if after else ""
         # Already annotated with a parenthesis right after?
         if nxt in ("（", "("):
