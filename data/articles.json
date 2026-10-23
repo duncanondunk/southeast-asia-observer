@@ -1,5 +1,66 @@
 [
   {
+    "slug": "indonesia-energy-export-cutoff-2026",
+    "title": "印尼拟停止向“不尊重”印尼的国家供能",
+    "subtitle": "普拉博沃政府将天然气与电力出口当作外交筹码，区域能源安全再添变数",
+    "category": "地缘政治",
+    "tags": [
+      "印度尼西亚",
+      "能源",
+      "资源民族主义",
+      "地缘政治",
+      "新加坡",
+      "液化天然气",
+      "普拉博沃",
+      "东南亚"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-10-23",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "印尼部长巴赫里尔威胁停止向“不尊重”其的国家出口能源，折射普拉博沃政府将天然气与电力当作外交筹码的资源民族主义转向。新加坡高度依赖印尼管道天然气而最易受损，2028年合约到期与低碳电力定价僵局更添变数。把资源武器化恐倒逼买家多元化，反损印尼自身。",
+    "en": {
+      "title": "Indonesia's Energy Leverage: A Warning to the 'Disrespectful'",
+      "subtitle": "Jakarta turns gas and power exports into a diplomatic lever as Prabowo puts 'national survival' first.",
+      "category": "Geopolitics",
+      "country": "Indonesia",
+      "summary": "Indonesia's minister Bahlil Lahadalia has threatened to halt energy exports to countries that \"disrespect\" it, signalling President Prabowo's pivot toward resource nationalism that treats gas and power as diplomatic leverage. Singapore is most exposed: it relies heavily on Indonesian piped gas, and contracts expire in 2028 while low-carbon electricity pricing talks stall. Weaponising resources may push buyers toward diversification and ultimately erode Indonesia's own revenue and reliability.",
+      "imageAlt": "Jakarta skyline, symbolising Indonesia's role as a regional energy supplier",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Indonesia mulls halting energy exports to countries that 'disrespect' it",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261022-9880067",
+          "date": "2026-10-22"
+        },
+        {
+          "source": "The Straits Times",
+          "title": "Indonesia warns it could review energy exports to countries that 'disrespect' it",
+          "url": "https://www.straitstimes.com/asia/se-asia/indonesia-warns-it-could-review-energy-exports-to-countries-that-disrespect-it",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "image": "images/articles/indonesia-energy-export-cutoff-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-10-23",
+    "imageAlt": "雅加达城市天际线，象征印尼作为区域能源供应国的地位",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "印尼拟停止向“不尊重”印尼的国家供能",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261022-9880067",
+        "date": "2026-10-22"
+      },
+      {
+        "source": "海峡时报 The Straits Times",
+        "title": "Indonesia warns it could review energy exports to countries that 'disrespect' it",
+        "url": "https://www.straitstimes.com/asia/se-asia/indonesia-warns-it-could-review-energy-exports-to-countries-that-disrespect-it",
+        "date": "2026-10-22"
+      }
+    ]
+  },
+  {
     "slug": "indonesia-fuel-shortage-bali-2026",
     "title": "印尼“油荒”蔓延巴厘岛：补贴漏斗与群岛物流的脆弱切面",
     "subtitle": "从一座旅游岛的限购，看印尼能源结构的老毛病与改革窗口",
