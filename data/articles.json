@@ -1,5 +1,79 @@
 [
   {
+    "slug": "indonesia-fuel-shortage-bali-2026",
+    "title": "印尼“油荒”蔓延巴厘岛：补贴漏斗与群岛物流的脆弱切面",
+    "subtitle": "从一座旅游岛的限购，看印尼能源结构的老毛病与改革窗口",
+    "category": "经济产业",
+    "tags": [
+      "印度尼西亚",
+      "能源",
+      "石油",
+      "通货膨胀",
+      "旅游业",
+      "经济",
+      "东南亚",
+      "能源安全",
+      "补贴"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-10-23",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "2026年10月，印尼巴厘岛及至少11省遭遇燃油短缺，官方归因于油轮锚具故障与海况，实则暴露油价冲击下补贴油被套利掏空、群岛物流脆弱等结构性短板。巴厘岛作为旅游外汇顶梁柱受创，补贴支出逼近3%赤字红线，进口来源因中东冲突减少四分之一。应急可顶一时，炼厂升级与补贴改革不能绕行。",
+    "image": "images/articles/indonesia-fuel-shortage-bali-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-10-23",
+    "imageAlt": "印尼城市加油站排起长队，反映燃油供应紧张",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesia fuel shortages spread to Bali, other regions as prices climb",
+        "url": "https://asia.nikkei.com/",
+        "date": "2026-10-22"
+      },
+      {
+        "source": "中国新闻网",
+        "title": "印尼多地出现燃油供应紧张",
+        "url": "https://m.chinanews.com/wap/detail/cht/zw/10715919.shtml",
+        "date": "2026-10-16"
+      },
+      {
+        "source": "The Star / Jakarta Post (ANN)",
+        "title": "Indonesia vows to restore subsidised fuel supply within a week",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/18/indonesia-vows-to-restore-subsidised-fuel-supply-within-a-week",
+        "date": "2026-10-18"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's Fuel Crunch Spreads to Bali: The Subsidy Funnel and an Archipelago's Fragile Logistics",
+      "subtitle": "From a tourist island's rationing to the structural ailments of Indonesia's energy system",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "In October 2026, Bali and at least eleven Indonesian provinces faced fuel shortages. Officials blamed a tanker's anchor failure, but the deeper cause is a structural flaw: subsidised fuel drained by arbitrage under an oil-price shock, and an archipelagic logistics chain too thin to absorb shocks. Bali's tourism forex took the hit, subsidy spending nears the 3% deficit ceiling, and a quarter of import sources were lost to the Middle East conflict. Emergency measures buy time; refinery upgrades and subsidy reform cannot wait.",
+      "imageAlt": "Long queues at a petrol station in an Indonesian city amid fuel shortages",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia fuel shortages spread to Bali, other regions as prices climb",
+          "url": "https://asia.nikkei.com/",
+          "date": "2026-10-22"
+        },
+        {
+          "source": "China News Service",
+          "title": "Fuel supply strains reported across multiple Indonesian regions",
+          "url": "https://m.chinanews.com/wap/detail/cht/zw/10715919.shtml",
+          "date": "2026-10-16"
+        },
+        {
+          "source": "The Star / Jakarta Post (ANN)",
+          "title": "Indonesia vows to restore subsidised fuel supply within a week",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/18/indonesia-vows-to-restore-subsidised-fuel-supply-within-a-week",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-china-student-chinese-debate-2026",
     "title": "第四届马中大学生汉语辩论赛落幕：语言如何成为青年外交的桥梁",
     "subtitle": "一场校园辩论，如何承接中马青年之间的理解与友谊",
