@@ -1,5 +1,66 @@
 [
   {
+    "slug": "indonesia-trans-kalimantan-railway-china-2026",
+    "title": "2772公里铁路「画饼」：印尼再邀中国修路，雅万高铁的债还没还清",
+    "subtitle": "加里曼丹跨岛铁路网的成本与风险，写在雅万高铁债务重组之后",
+    "category": "经济产业",
+    "tags": [
+      "印度尼西亚",
+      "经济产业",
+      "基础设施",
+      "投资",
+      "中国",
+      "东南亚",
+      "互联互通",
+      "中印尼关系"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-10-24",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "印尼在雅万高铁债务重组后，又向中国抛出跨加里曼丹2772公里铁路网大单。雅加达这回不掏钱、把风险推给私人投资者，但400亿美元造价、外岛货量未定，账算不平。中方借镍矿风波余温收紧出海放贷、要求重做可行性研究；俄罗斯仅作杠杆。铁路关乎新首都努山塔拉孤岛困局与资源下游化，也暴露资源民族主义自相矛盾。",
+    "image": "images/articles/indonesia-trans-kalimantan-railway-china-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-24",
+    "imageAlt": "一叠美元钞票特写，隐喻印尼跨岛铁路的融资与债务博弈",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Indonesia eyes China for massive 2,772km railway project – with caution",
+        "url": "https://scmp.com/economy/global-economy/article/3368818/indonesia-eyes-china-massive-2772km-railway-project-caution",
+        "date": "2026-10"
+      },
+      {
+        "source": "网易财经",
+        "title": "雅万高铁的债要还80年，印尼又找中国修铁路：这次想赊2772公里",
+        "url": "https://3g.163.com/news/article/L806JKGF0556CK7D.html",
+        "date": "2026-10"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's 2,772km Railway Gamble: Courting China Again Before the Whoosh Debt Is Settled",
+      "subtitle": "The cost and risk of a trans-Kalimantan network, written after the Whoosh debt restructuring",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "After restructuring the Whoosh high-speed debt, Indonesia has again courted China for a 2,772km trans-Kalimantan railway. Jakarta now refuses to use public money and pushes the risk onto private investors, yet a ~US$40 billion bill and unproven outer-island freight make the maths fragile. Beijing, wary after the nickel dispute, has tightened outbound lending and demands a fresh feasibility study; Russia is merely leverage. The line matters for Nusantara's 'island' problem and resource downstreaming — but it also exposes the paradox of resource nationalism.",
+      "imageAlt": "A close-up of US dollar banknotes, a metaphor for the financing and debt contest behind Indonesia's trans-island railway",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Indonesia eyes China for massive 2,772km railway project – with caution",
+          "url": "https://scmp.com/economy/global-economy/article/3368818/indonesia-eyes-china-massive-2772km-railway-project-caution",
+          "date": "2026-10"
+        },
+        {
+          "source": "NetEase Finance",
+          "title": "Whoosh's debt stretched to 80 years as Indonesia courts China again for a 2,772km railway",
+          "url": "https://3g.163.com/news/article/L806JKGF0556CK7D.html",
+          "date": "2026-10"
+        }
+      ]
+    }
+  },
+  {
     "slug": "china-livestream-commerce-southeast-asia-2026",
     "title": "从香港珠宝展看中国直播带货出海东南亚：半壁江山与华人商户的双刃剑",
     "subtitle": "日经亚洲观察——中国打磨成熟的直播电商模式正加速输出东南亚，中资平台已逼近 Shopee 霸主地位，华侨华人商户则站在受益与承压的十字路口。",
