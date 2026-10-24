@@ -1,5 +1,63 @@
 [
   {
+    "slug": "malaysia-returning-expert-programme-2026",
+    "title": "马来西亚专才回流计划推行15年 仅吸引5234人回国",
+    "subtitle": "REP十五年仅5234人真正回流，薪资、政治与官僚繁琐折射马来西亚人才外流的结构性困境",
+    "category": "华侨华人",
+    "tags": [
+      "马来西亚",
+      "华侨华人",
+      "人才外流",
+      "人才回流",
+      "东南亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-24",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "马来西亚专才回流计划（REP）推行15年，1.29万份申请仅5234人真正回国。薪资差距、政治氛围、官僚繁琐令人才却步，折射马来西亚人才外流的结构性困境与侨民归属之问。",
+    "image": "images/articles/malaysia-returning-expert-programme-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-24",
+    "imageAlt": "吉隆坡双子塔黄昏天际线，象征马来西亚的人才与城市竞争力",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国专才回流计划推行15年 仅吸引5234人回国",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261023-9884414",
+        "date": "2026-10-23"
+      },
+      {
+        "source": "Bernama",
+        "title": "More Than 5,200 M'sians Working Abroad Have Returned To Work In Malaysia Through REP - KESUMA",
+        "url": "https://bernama.com/misc/rss/news.php?id=2624357",
+        "date": "2026-10-22"
+      }
+    ],
+    "en": {
+      "title": "Malaysia's 15-Year Talent Repatriation Plan Has Lured Back Just 5,234 Experts",
+      "subtitle": "After 15 years the REP has brought home only 5,234 of 12,850 applicants — pay gaps, politics, and red tape expose a structural brain-drain problem.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "Malaysia's 15-year Returning Expert Programme has seen only 5,234 of 12,850 applicants actually return. Pay gaps, politics, and red tape keep talent away, exposing a structural brain-drain problem.",
+      "imageAlt": "Kuala Lumpur's Petronas Twin Towers at dusk, symbolising Malaysia's talent and urban competitiveness",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Malaysia's 15-year talent repatriation plan has lured back only 5,234 experts",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261023-9884414",
+          "date": "2026-10-23"
+        },
+        {
+          "source": "Bernama",
+          "title": "More Than 5,200 M'sians Working Abroad Have Returned To Work In Malaysia Through REP - KESUMA",
+          "url": "https://bernama.com/misc/rss/news.php?id=2624357",
+          "date": "2026-10-22"
+        }
+      ]
+    }
+  },
+  {
     "slug": "overseas-chinese-firms-mohan-boten-zone-2026",
     "title": "侨企探路磨憨—磨丁：侨资如何成为中老互联互通的“双向桥”",
     "subtitle": "近30名侨企与侨商代表走进中老边境磨憨—磨丁经合区，侨资正从单向引进转向连接中国产能与东盟需求的双向桥。",
