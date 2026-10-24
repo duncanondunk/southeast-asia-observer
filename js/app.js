@@ -485,11 +485,6 @@
           '<span>' + readingLabel(a.readingTime || 5) + '</span><span class="sep">|</span>' +
           '<span>' + escapeHtml(af(a, 'country') || '') + '</span>';
 
-        var heroImg = $('#articleHeroImage');
-        if (heroImg && a.image) {
-          heroImg.innerHTML = '<img src="' + escapeHtml(a.image) + '" alt="' + escapeHtml(af(a, 'imageAlt') || '') + '">';
-        }
-
         var tagsHtml = (a.tags || []).map(function (t) {
           return '<a class="tag" href="tags.html?tag=' + encodeURIComponent(t) + '">' + escapeHtml(tagI18n(t)) + '</a>';
         }).join('');
@@ -1100,7 +1095,7 @@
       }, 240);
     }
 
-    // 放大图片：头图(.article-hero__image) / 题图(.article-figure) / 正文图(.markdown)
+    // 放大图片：题图(.article-figure) / 正文图(.markdown)（文章头图已移除，正文仅保留题图一张）
     function openImage(src, alt) {
       lbContent.setAttribute('data-kind', 'img');
       lbContent.innerHTML = '<img class="lightbox__img" alt="">';
@@ -1135,7 +1130,7 @@
       // 图片
       var img = e.target.closest && e.target.closest('img');
       if (!img) return;
-      var allowed = img.closest('.markdown, .article-figure, .article-hero__image');
+      var allowed = img.closest('.markdown, .article-figure');
       if (!allowed) return;
       e.preventDefault();
       var full = img.getAttribute('data-full') || img.currentSrc || img.src;

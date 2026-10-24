@@ -561,11 +561,6 @@ html[lang="en"] .brand__sub { display: none; }
 .article-hero__meta { display: flex; gap: 18px; font-size: .85rem; color: var(--text-mute); flex-wrap: wrap; }
 .article-hero__meta .sep { color: var(--border); }
 
-.article-hero__image { max-width: var(--maxw); margin: 32px auto 0; padding: 0 24px; }
-.article-hero__image img {
-  width: 100%; height: 420px; object-fit: cover; border-radius: var(--radius); display: block;
-}
-
 .article-layout { display: grid; grid-template-columns: 200px 1fr; gap: 48px; padding: 40px 0; }
 /* 文章目录 */
 .toc { position: sticky; top: 88px; align-self: start; }
@@ -1009,7 +1004,6 @@ html[lang="zh-CN"] .why-sea__src {
   .article-card { grid-template-columns: 1fr; }
   .article-card__cover { width: 100%; height: 160px; }
   .article-hero__title { font-size: 1.6rem; }
-  .article-hero__image img { height: 240px; }
   .search-modal { padding-top: 8vh; }
   .search-panel { width: 96%; }
   .post-nav { grid-template-columns: 1fr; }
@@ -1106,7 +1100,6 @@ html[lang="zh-CN"] .why-sea__src {
 /* 可点击放大的图片/表格增加提示手势 */
 .markdown img,
 .article-figure img,
-.article-hero__image img,
 .markdown table { cursor: zoom-in; }
 @media (prefers-reduced-motion: reduce) {
   .lightbox { transition: none; }
