@@ -1,5 +1,55 @@
 [
   {
+    "slug": "china-livestream-commerce-southeast-asia-2026",
+    "title": "从香港珠宝展看中国直播带货出海东南亚：半壁江山与华人商户的双刃剑",
+    "subtitle": "日经亚洲观察——中国打磨成熟的直播电商模式正加速输出东南亚，中资平台已逼近 Shopee 霸主地位，华侨华人商户则站在受益与承压的十字路口。",
+    "category": "经济产业",
+    "tags": [
+      "直播电商",
+      "电商",
+      "东南亚",
+      "华侨华人",
+      "华商",
+      "中国—东盟",
+      "社交媒体",
+      "香港",
+      "企业出海"
+    ],
+    "country": "东南亚",
+    "date": "2026-10-24",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "9月中旬香港珠宝展上，东南亚主播数量反超中国本土，折射中国直播带货模式加速出海。中资平台借直播电商已逼近 Shopee 半壁江山，多频道网络机构南下把带货变手艺；华侨华人商户既承接对接红利，也承受低价冲击，站在受益与承压的十字路口。",
+    "image": "images/articles/china-livestream-commerce-southeast-asia-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-24",
+    "imageAlt": "曼谷耀华力路唐人街夜市，华人商户与街头商业的缩影",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "从香港珠宝展看中国直播带货之变",
+        "url": "https://cn.nikkei.com/politicsaeconomy/politicsasociety/64293-2026-10-12-10-31-36.html",
+        "date": "2026-10-12"
+      }
+    ],
+    "en": {
+      "title": "From Hong Kong's Jewelry Show, a Glimpse of China's Livestream Commerce Conquering Southeast Asia",
+      "subtitle": "Nikkei Asia watch — China's polished livestream-selling playbook is racing into Southeast Asia; Chinese platforms now rival Shopee, while overseas-Chinese merchants sit at a crossroads of gain and pressure.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "At Hong Kong's September jewelry fair, Southeast Asian livestream hosts now outnumber their mainland counterparts — a sign China's polished livestream-commerce model is racing into the region. Chinese-backed platforms have seized nearly half the market and threaten Shopee, while MCN agencies export the playbook and overseas-Chinese merchants sit at a crossroads of gain and pressure.",
+      "imageAlt": "Bangkok's Yaowarat Chinatown night market, a microcosm of ethnic-Chinese commerce",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "From Hong Kong's jewelry show, a glimpse of the transformation in China's livestream commerce",
+          "url": "https://cn.nikkei.com/politicsaeconomy/politicsasociety/64293-2026-10-12-10-31-36.html",
+          "date": "2026-10-12"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-returning-expert-programme-2026",
     "title": "马来西亚专才回流计划推行15年 仅吸引5234人回国",
     "subtitle": "REP十五年仅5234人真正回流，薪资、政治与官僚繁琐折射马来西亚人才外流的结构性困境",
