@@ -1,5 +1,66 @@
 [
   {
+    "slug": "philippines-foreign-agents-law-2028-election-2026",
+    "title": "一部“外国代理人法”，为何急着为2028年大选上锁",
+    "subtitle": "从索科罗村突袭到三亿比索疑云，一部反干涉法案如何把对华联系变成“国安负债”",
+    "category": "地缘政治",
+    "tags": [
+      "菲律宾",
+      "地缘政治",
+      "中菲关系",
+      "外国代理人",
+      "选举",
+      "美国",
+      "舆论战",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-25",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "菲律宾国会正仓促推动《外国影响与干涉法》，以应对2028年大选前所谓“外国代理人”扶持“亲中候选人”的担忧。本文剖析其安全叙事背后的选举算计与民主代价。",
+    "image": "images/articles/philippines-foreign-agents-law-2028-election-2026.jpg",
+    "imageCredit": "Pexels — photo 36352096",
+    "imageAccessed": "2026-10-25",
+    "imageAlt": "马尼拉街头示威人群，象征围绕外国代理人法与言论自由的公共辩论",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "一部针对外国代理人的法案引发对言论自由受限的担忧",
+        "url": "https://www.scmp.com/week-asia/politics/article/3370898/philippine-law-targeting-foreign-agents-spurs-fears-free-speech-curbs",
+        "date": "2026-10-14"
+      },
+      {
+        "source": "菲律宾每日问询者报 Inquirer.net",
+        "title": "防长称2028年不应选出“亲中”候选人",
+        "url": "https://www.inquirer.net?p=482776/",
+        "date": "2026-07-29"
+      }
+    ],
+    "en": {
+      "title": "Manila's foreign agents law: securitising the 2028 vote",
+      "subtitle": "From the Socorro raid to a 319-million-peso cloud, how an anti-interference bill turns China ties into a national-security liability",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "Philippine legislators are rushing a Foreign Influence and Interference Act ahead of the 2028 election, citing fears that foreign agents could back \"pro-China\" candidates. This commentary examines the security narrative behind the bill — the 319-million-peso transfer scandal, the pivot to \"information warfare\", and Beijing's denial — and warns that an over-broad law risks criminalising dissent under the banner of national security.",
+      "imageAlt": "A protest crowd on a Manila street, symbolising the public debate over the foreign agents law and free speech",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Philippine law targeting foreign agents spurs fears of free speech curbs",
+          "url": "https://www.scmp.com/week-asia/politics/article/3370898/philippine-law-targeting-foreign-agents-spurs-fears-free-speech-curbs",
+          "date": "2026-10-14"
+        },
+        {
+          "source": "Inquirer.net",
+          "title": "Teodoro says 'not viable' to be pro-China candidate in 2028 polls",
+          "url": "https://www.inquirer.net?p=482776/",
+          "date": "2026-07-29"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-air-force-trainer-collision-2026",
     "title": "菲律宾空军两架教练机空中相撞 四名飞行员殉职",
     "subtitle": "一场训练飞行四人殒命，暴露的却是菲律宾空军的结构性短板",
