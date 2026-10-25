@@ -2004,6 +2004,13 @@
       "slugs": [
         "taiwan-ai-hardware-supply-chain-sea-2026"
       ]
+    },
+    "event:菲律宾空军两架SF-260教练机空中相撞(2026-10)": {
+      "slugs": [
+        "philippines-air-force-trainer-collision-2026"
+      ],
+      "exception": null,
+      "note": "全新素材：菲空军SF-260教练机训练相撞、四飞行员殉职，聚焦机队老化与训练安全结构性短板"
     }
   },
   "event:印尼考虑中国投资建设跨加里曼丹2772公里铁路网(2026-10)": {

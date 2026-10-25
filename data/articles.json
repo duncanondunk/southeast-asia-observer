@@ -1,5 +1,64 @@
 [
   {
+    "slug": "philippines-air-force-trainer-collision-2026",
+    "title": "菲律宾空军两架教练机空中相撞 四名飞行员殉职",
+    "subtitle": "一场训练飞行四人殒命，暴露的却是菲律宾空军的结构性短板",
+    "category": "地缘政治",
+    "tags": [
+      "菲律宾",
+      "军事",
+      "空军",
+      "国防现代化",
+      "飞行安全",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-25",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "10月23日，菲律宾空军两架SF-260教练机在费尔南多空军基地上空相撞，四名飞行员遇难，全机队停飞。这起和平时期的训练事故，连同近年频发的中菲南海升温背景，折射出菲空军机队老化、维护薄弱、训练安全文化缺失的结构性短板——硬件雄心跑不过体系能力的真实落差。",
+    "image": "images/articles/philippines-air-force-trainer-collision-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-25",
+    "imageAlt": "一架小型螺旋桨飞机的机翼与舷窗，象征菲律宾空军训练飞行",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "菲两军机训练时空中相撞 四名飞行员殉职",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261024-9888288",
+        "date": "2026-10-24"
+      },
+      {
+        "source": "中国新闻网 China News Service",
+        "title": "菲律宾空军两架教练机训练飞行时发生事故",
+        "url": "https://www.chinanews.com/gj/2026/10-24/10720268.shtml",
+        "date": "2026-10-24"
+      }
+    ],
+    "en": {
+      "title": "Four dead as two Philippine Air Force trainers collide mid-air",
+      "subtitle": "A training sortie that killed four exposes the structural shortfalls of the Philippine Air Force",
+      "category": "Geopolitics",
+      "country": "Philippines",
+      "summary": "On 23 October two Philippine Air Force SF-260 trainers collided over Fernando Air Base, killing all four pilots and grounding the fleet. Set against rising South China Sea tensions, the peacetime accident lays bare structural gaps — an aging fleet, weak sustainment and an immature safety culture — that leave Manila's hardware ambitions far ahead of its real capabilities.",
+      "imageAlt": "Wing and window of a small propeller aircraft, symbolising Philippine Air Force training flights",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Two Philippine military aircraft collide in mid-air, four pilots killed",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261024-9888288",
+          "date": "2026-10-24"
+        },
+        {
+          "source": "China News Service",
+          "title": "Two Philippine Air Force trainers crash during training flight",
+          "url": "https://www.chinanews.com/gj/2026/10-24/10720268.shtml",
+          "date": "2026-10-24"
+        }
+      ]
+    }
+  },
+  {
     "slug": "taiwan-ai-hardware-supply-chain-sea-2026",
     "title": "台系AI硬件供应链「东南飞」：数据中心热潮下，被忽视的电路板暗线",
     "subtitle": "从泰国电路板到马来西亚光通讯、越南散热与新加坡封测，台系AI硬件供应链正以「台湾+1」方式向东南亚扇形铺开",
