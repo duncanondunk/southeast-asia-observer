@@ -22,7 +22,7 @@ BBB- 看似只比此前的 BB+ 高了一级，却是投机级与投资级之间�
 
 这也点出一个常被忽略的事实：评级是「信心指标」，不是「提款权」。越南要的是长期资金成本下行、资本市场深化、本币债与国际接轨，这些都不会因为一纸日系评级自动兑现。河内若把此番升级当作庆功宴，那就看错了它的分量。
 
-## 河内的算盘：2030 路线图与富时罗素
+## 河内的算盘：2030路线图与富时罗素
 
 河内显然早有筹谋。越南的路线图写得很清楚：到2030年，争取穆迪给出 Baa3、或标普与惠誉给出 BBB- 及以上。今年9月，越南被富时罗素（FTSE Russell）纳入「次级新兴市场」类别，正是同一盘棋的先行子——股市从前沿市场向新兴市场的身份切换，与主权评级升档互为表里。
 
@@ -46,13 +46,13 @@ BBB- 看似只比此前的 BB+ 高了一级，却是投机级与投资级之间�
 
 ## 延伸阅读
 
-**投资级（investment grade）**：评级机构将 BBB- 及以上（标普/惠誉）或 Baa3 及以上（穆迪）列为投资级，低于此即「投机级/垃圾级」，机构买债受投资授权约束。
+**投资级（investment grade）**：评级机构将 BBB- 及以上（标普/惠誉）或 Baa3及以上（穆迪）列为投资级，低于此即「投机级/垃圾级」，机构买债受投资授权约束。
 
 **巴塞尔协议第三版（Basel III）**：全球银行监管框架，标准法下主权债风险权重影响资本占用，投资级下调风险权重可释放银行放贷能力。
 
 **富时罗素（FTSE Russell）**：指数公司，其市场分类（前沿/新兴/发达）影响被动资金流向，越南2026年9月获纳「次级新兴」类别。
 
-*Topic reference: "Nikkei Asia" (asia.nikkei.com) Southeast Asia — "Vietnam earns first investment-grade rating from Japan's R&I".*
+*Topic reference: “Nikkei Asia” (asia.nikkei.com) Southeast Asia — “Vietnam earns first investment-grade rating from Japan's R&I”.*
 
 ===EN===
 

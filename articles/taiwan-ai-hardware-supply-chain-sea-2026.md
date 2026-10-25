@@ -29,7 +29,7 @@
 **外包半导体封装测试（OSAT）**：将晶圆切割、封装并测试成品芯片的代工环节，是半导体制造的后道工序，日月光、安靠（Amkor）为头部企业。
 **中国+1（China+1）**：跨国企业为分散单一市场与地缘政治风险，在保留中国产能的同时于中国以外另设备份产线的策略，东南亚是主要承接地。
 
-*Topic reference: "Nikkei Asia" (asia.nikkei.com) Southeast Asia — "Thailand carves out a less-glamorous AI niche: Printed circuit boards".*
+*Topic reference: “Nikkei Asia” (asia.nikkei.com) Southeast Asia — “Thailand carves out a less-glamorous AI niche: Printed circuit boards”.*
 
 ===EN===
 
