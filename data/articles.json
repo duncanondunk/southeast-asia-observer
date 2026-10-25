@@ -1,5 +1,72 @@
 [
   {
+    "slug": "taiwan-ai-hardware-supply-chain-sea-2026",
+    "title": "台系AI硬件供应链「东南飞」：数据中心热潮下，被忽视的电路板暗线",
+    "subtitle": "从泰国电路板到马来西亚光通讯、越南散热与新加坡封测，台系AI硬件供应链正以「台湾+1」方式向东南亚扇形铺开",
+    "category": "经济产业",
+    "tags": [
+      "东南亚",
+      "供应链",
+      "制造业",
+      "半导体",
+      "人工智能",
+      "经济",
+      "外商直接投资",
+      "台湾",
+      "泰国",
+      "越南",
+      "马来西亚",
+      "印刷电路板",
+      "友岸外包",
+      "数据中心"
+    ],
+    "country": "东南亚",
+    "date": "2026-10-25",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "全球目光聚焦东南亚AI数据中心，但真正成规模南迁的是印刷电路板、散热模组、光通讯与封测等「无名」硬件。泰国力争全球第二大电路板基地，柔佛与越南北部承接光通讯与散热产能，新加坡聚拢封测。台厂以「核心留台、外围南移」的「台湾+1」策略分散地缘风险，本质是避险而非脱钩。",
+    "image": "images/articles/taiwan-ai-hardware-supply-chain-sea-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-25",
+    "imageAlt": "电子制造车间里操作产线的工程师，呼应AI硬件供应链向东南亚转移",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Thailand carves out a less-glamorous AI niche: Printed circuit boards",
+        "url": "https://kr-asia.com/pulses/157412",
+        "date": "2026-10"
+      },
+      {
+        "source": "日经中文网",
+        "title": "台湾企业加速投资AI服务器供应链（东南亚扩大电路板与零部件产能）",
+        "url": "https://cn.nikkei.com",
+        "date": "2026-10"
+      }
+    ],
+    "en": {
+      "title": "Taiwan's AI hardware supply chain moves south: the unglamorous PCB undercurrent behind the data-center boom",
+      "subtitle": "From Thai circuit boards to Malaysian optical parts, Vietnamese thermal modules and Singaporean packaging, Taiwan's AI hardware chain is fanning out across Southeast Asia as Taiwan plus one.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "The world fixates on Southeast Asia's AI data centers, but what is actually migrating at scale are the invisible components: PCBs, thermal modules, optical parts and OSAT. Thailand eyes the world's No. 2 PCB base, Johor and northern Vietnam absorb optical and thermal capacity, and Singapore clusters packaging. Taiwan's core-stays-home, periphery-moves-south play is a hedge against geopolitical risk, not a decoupling.",
+      "imageAlt": "An engineer working the line in an electronics plant, echoing the southward shift of AI hardware supply chains.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Thailand carves out a less-glamorous AI niche: Printed circuit boards",
+          "url": "https://kr-asia.com/pulses/157412",
+          "date": "2026-10"
+        },
+        {
+          "source": "Nikkei Asia (Chinese edition)",
+          "title": "Taiwanese firms accelerate AI server supply-chain investment, expanding board and component capacity in Southeast Asia",
+          "url": "https://cn.nikkei.com",
+          "date": "2026-10"
+        }
+      ]
+    }
+  },
+  {
     "slug": "asean-youth-chinese-teachers-phnom-penh-2026",
     "title": "近300名东盟青年中文教师金边集训：当中文教育遇上人工智能",
     "subtitle": "一场聚焦HSK3.0与人工智能的本土师资培训，折射中文教育在东南亚的本土化与数智化双重转向",

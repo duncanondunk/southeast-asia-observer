@@ -60,7 +60,7 @@
     '保山': 'Baoshan', '黄循财': 'Lawrence Wong', '数码经济': 'Digital Economy', '纺织业': 'Textile Industry', '军售': 'Arms Sales', '战斗机': 'Fighter Jets', '国防': 'Defence',
     '股市': 'Stock Market', '外资': 'Foreign Capital', '治理': 'Governance',
     '反对党': 'Opposition', '安华': 'Anwar Ibrahim'
-  , '文化寻根': 'Cultural Root-Seeking', '工资': 'Wages', '努山塔拉': 'Nusantara', '重阳节': 'Chongyang Festival', '生育率': 'Fertility Rate', '电动车': 'Electric Vehicle (EV)', '美菲': 'US–Philippines', '自贸协定': 'FTA', '人口': 'Population', '自贸区': 'Free Trade Zone', '昌明经济': 'Ekonomi Madani', '中国汽车': 'Chinese Carmakers', '电池': 'Battery', '宗亲会': 'Clan Association', '组屋': 'HDB Flats', '侨资': 'Qiao Capital', '迁都': 'Capital Relocation', '基建': 'Infrastructure'};
+  , '文化寻根': 'Cultural Root-Seeking', '工资': 'Wages', '努山塔拉': 'Nusantara', '重阳节': 'Chongyang Festival', '生育率': 'Fertility Rate', '电动车': 'Electric Vehicle (EV)', '美菲': 'US–Philippines', '自贸协定': 'FTA', '人口': 'Population', '自贸区': 'Free Trade Zone', '昌明经济': 'Ekonomi Madani', '中国汽车': 'Chinese Carmakers', '电池': 'Battery', '宗亲会': 'Clan Association', '组屋': 'HDB Flats', '侨资': 'Qiao Capital', '迁都': 'Capital Relocation', '基建': 'Infrastructure', '台湾': 'Taiwan', '印刷电路板': 'Printed Circuit Board'};
   function tagI18n(t) { return LANG === 'en' ? (TAG_I18N[t] || t) : t; }
 
   // 按语言取文章字段（英文模式优先 a.en[field]）
