@@ -32,6 +32,15 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LATIN = re.compile(r"[A-Za-z]")
 PAREN = re.compile(r"[（(][^（）()]*[）)]")
 
+# Longer Chinese proper nouns that contain a glossary term as a prefix. We must
+# NOT fragment these by inserting a gloss inside them (e.g. 北京 -> 北京（Beijing）
+# 语言大学出版社 would break the publisher name). Matches that fall inside any of
+# these compounds are skipped.
+COMPOUND_PROTECT = [
+    "北京语言大学出版社",
+    "北京语言大学",
+]
+
 
 def split_segments(text):
     """Return (zh_segment, en_segment) split on a standalone `===EN===` line."""
@@ -78,6 +87,10 @@ def annotate_zh(zh, glossary):
             idx = zh.find(cn, idx + 1)
         if idx == -1:
             continue
+        # Skip a match that is the prefix of a longer compound proper noun
+        # (e.g. 北京 inside 北京语言大学出版社) to avoid fragmenting it.
+        if any(zh[idx:idx + len(comp)] == comp for comp in COMPOUND_PROTECT):
+            continue
         after = zh[idx + len(cn):]
         # Already carries an English gloss, possibly separated from the term by a
         # closing quote/bracket such as 》 or " (e.g. 《日经亚洲》(Nikkei Asia)).
@@ -104,7 +117,14 @@ def annotate_zh(zh, glossary):
     out = zh
     applied = []
     for pos, cn, en in insertions:
-        out = out[:pos + len(cn)] + f"（{en}）" + out[pos + len(cn):]
+        ins = pos + len(cn)
+        # If the term is immediately followed by a CJK closing bracket
+        # (》 or 」), place the gloss AFTER it so it is not trapped inside
+        # a book-title span, e.g. 《日经亚洲》（Nikkei Asia） rather than
+        # 《日经亚洲（Nikkei Asia）》.
+        if ins < len(out) and out[ins] in ("》", "」"):
+            ins += 1
+        out = out[:ins] + f"（{en}）" + out[ins:]
         applied.append((cn, en, pos))
     return out, applied
 
