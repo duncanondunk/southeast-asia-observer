@@ -1240,8 +1240,11 @@
       ]
     },
     "event:泰柬海上争端国际调解(2026-09)": {
+      "note": "首发素材（联合早报，2026-09-15）：泰柬启动海上争端国际调解、以重叠EEZ划界谈判为陆地紧张降温、检验东盟方式与区域海洋秩序；slugs[0]=thai-cambodia-maritime-mediation-2026（zaobao源）。2026-10-26 南华早报稿 thai-cambodia-gulf-seabed-conciliation-2026 为其第2篇：聚焦10月海牙第二轮调解达成的具体建立信任措施（海军热线）与约3000亿美元海底资源估值，角度为'程序启动→机制落地'，与首发'调解启动'明显不同；符合 slugs==1 允许第2篇但须清晰不同角度之规则（exception b 出现新材料/事件进展），话题参考后已追加角度说明。",
+      "exception": "b",
       "slugs": [
-        "thai-cambodia-maritime-mediation-2026"
+        "thai-cambodia-maritime-mediation-2026",
+        "thai-cambodia-gulf-seabed-conciliation-2026"
       ]
     },
     "event:泰国中资EV投资首超日本(2026-09)": {

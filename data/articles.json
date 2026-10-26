@@ -1,5 +1,66 @@
 [
   {
+    "slug": "thai-cambodia-gulf-seabed-conciliation-2026",
+    "title": "海面下的三千亿美元：泰柬如何把海上争端从「对峙」拉回「谈判」",
+    "subtitle": "泰国与柬埔寨在海牙结束第二轮海洋法公约调解，同意设海军热线、克制表态，为估值约3000亿美元（约2.16万亿元人民币）的泰国湾争议海床降温——一场被复制的对抗，能否先在海面按下暂停键？",
+    "category": "地缘政治",
+    "tags": [
+      "泰国",
+      "柬埔寨",
+      "海洋",
+      "东盟",
+      "地缘政治",
+      "资源民族主义",
+      "能源安全",
+      "海上安全"
+    ],
+    "country": "泰国",
+    "date": "2026-10-26",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "泰国与柬埔寨在海牙结束第二轮海洋法公约调解，同意设海军热线、克制表态，为估值约3000亿美元（约2.16万亿元人民币）的泰国湾海床降温。本文认为，在陆地硝烟未散时把争端从「对峙」拉回「谈判」，以非约束性调解替代强制仲裁，既保全颜面又守住争端所有权，为东南亚提供了不同于南海的「软性降温」模板。",
+    "image": "images/articles/thai-cambodia-gulf-seabed-conciliation-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-26",
+    "imageAlt": "泰国湾碧蓝海面与远处海岸线，象征泰柬围绕泰国湾重叠声索海域的海上划界与资源争端",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Thailand, Cambodia seek to calm escalating dispute over US$300 billion seabed",
+        "url": "https://www.scmp.com/week-asia/politics/article/3371443/thailand-cambodia-seek-calm-escalating-dispute-over-us300-billion-seabed",
+        "date": "2026-10-21"
+      },
+      {
+        "source": "泰国外交部 Ministry of Foreign Affairs of Thailand",
+        "title": "Second Meeting with the Conciliation Commission in Conciliation Proceedings between Thailand and Cambodia under UNCLOS",
+        "url": "https://mfa.go.th/en/content/cc2-eng",
+        "date": "2026-10-18"
+      }
+    ],
+    "en": {
+      "title": "The US$300 Billion Beneath the Waves: How Thailand and Cambodia Pulled Their Seabed Dispute Back From Confrontation",
+      "subtitle": "Thailand and Cambodia closed a second UNCLOS conciliation round in The Hague, agreeing on a naval hotline and restrained statements to cool a US$300 billion Gulf of Thailand seabed dispute — can a replicated standoff be paused first at sea?",
+      "category": "Geopolitics",
+      "country": "Thailand",
+      "summary": "Thailand and Cambodia closed a second UNCLOS conciliation round in The Hague, agreeing on a naval hotline and restrained public statements to cool their dispute over a US$300 billion Gulf of Thailand seabed. This commentary argues that, with land-border tensions still raw, pulling the maritime contest from confrontation to negotiation — and choosing non-binding conciliation over binding arbitration — preserves face while keeping ownership of the dispute, offering Southeast Asia a 'soft de-escalation' template distinct from the South China Sea.",
+      "imageAlt": "The turquoise waters of the Gulf of Thailand with a distant coastline, symbolising the maritime delimitation and resource dispute between Thailand and Cambodia.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Thailand, Cambodia seek to calm escalating dispute over US$300 billion seabed",
+          "url": "https://www.scmp.com/week-asia/politics/article/3371443/thailand-cambodia-seek-calm-escalating-dispute-over-us300-billion-seabed",
+          "date": "2026-10-21"
+        },
+        {
+          "source": "Ministry of Foreign Affairs of Thailand",
+          "title": "Second Meeting with the Conciliation Commission in Conciliation Proceedings between Thailand and Cambodia under UNCLOS",
+          "url": "https://mfa.go.th/en/content/cc2-eng",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-mca-malacca-seats-walkout-2026",
     "title": "议席从七席砍到两席：马华公会在甲州选举中的「离席抗议」说明了什么",
     "subtitle": "马华公会不满国阵将甲州议席从七席砍至两席并让予国盟，总会长魏家祥率众离席，折射华人政党在马来政治重组中的结构性困境。",
