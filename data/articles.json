@@ -1,5 +1,52 @@
 [
   {
+    "slug": "overseas-chinese-preschool-education-boom-2026",
+    "title": "海外学前华文教育升温：侨二代、侨三代的「母语保卫战」",
+    "subtitle": "从意大利威尼斯的三个新班到日本华校的探索，海外低龄华文需求上升背后，是一场全球华侨华人的代际母语传承之战",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "华文教育",
+      "文化传承",
+      "意大利",
+      "日本",
+      "东南亚"
+    ],
+    "country": "海外",
+    "date": "2026-10-26",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "随着侨二代、侨三代在海外出生长大，海外学前华文教育需求明显升温。意大利、日本华校率先承压，业界以拼音游戏化、师资云端培训、家校协同探索解法；东南亚作为最大华校网络同样面临学前缺口。这是一场静默的代际母语传承之战。",
+    "image": "images/articles/overseas-chinese-preschool-education-boom-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-26",
+    "imageAlt": "暖色书架走廊，象征阅读与低龄华文教育的文化传承",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "海外学前华教需求旺 业界探路新「解法」",
+        "url": "https://www.chinaqw.com/hwjy/2026/10-22/413051.shtml",
+        "date": "2026-10-22"
+      }
+    ],
+    "en": {
+      "title": "Overseas Chinese pre-school education heats up: a \"mother-tongue defence\" for the second and third generations",
+      "subtitle": "From three new classes in Venice to experiments in Japan, rising demand for early Chinese-language education among the diaspora's younger generations signals a quiet, global battle over mother-tongue transmission",
+      "category": "Overseas Chinese",
+      "country": "Overseas",
+      "summary": "As the second and third generations of overseas Chinese are born and raised abroad, demand for pre-school Chinese-language education is rising sharply. Schools in Italy and Japan are feeling the pressure first, while educators experiment with pinyin-led play-based teaching, cloud training for teachers, and home-school cooperation. Southeast Asia, home to the world's largest Chinese-school network, faces the same pre-school gap.",
+      "imageAlt": "A warm-toned bookshelf corridor, symbolising reading and the cultural transmission of early Chinese-language education",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Overseas pre-school Chinese education demand surges, industry explores new 'solutions'",
+          "url": "https://www.chinaqw.com/hwjy/2026/10-22/413051.shtml",
+          "date": "2026-10-22"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-foreign-agents-law-2028-election-2026",
     "title": "一部“外国代理人法”，为何急着为2028年大选上锁",
     "subtitle": "从索科罗村突袭到三亿比索疑云，一部反干涉法案如何把对华联系变成“国安负债”",
