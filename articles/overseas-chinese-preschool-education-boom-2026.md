@@ -22,15 +22,15 @@
 
 课堂之外，家庭才是语言真正存活的土壤。王智超认为，在华校学前教育体系尚待完善之际，营造家庭中文语言环境，能培养孩子生活中使用中文的习惯。小林美华则发现，不少家长重视华文教育，却苦于不知如何日常引导、陪伴孩子学中文。未来需要给家长一套简单易行的陪伴方法与资源，让中文从教室延伸到生活。说白了，学校再好，回家不说中文，一切归零。
 
-## 东南亚的镜鉴：最大华校网络也有「学前缺口」
+## 东南亚（Southeast Asia）的镜鉴：最大华校网络也有「学前缺口」
 
-如果说意大利、日本是这股需求的「先遣信号」，那么东南亚才是这场母语保卫战的「主战场」。这里聚居着全球规模最大、制度最成熟的华侨华人族群，也拥有马来西亚华文小学、印尼解禁后复办的华校、泰国华人补习体系等百年网络。但一个被反复验证的短板是：这些体系多数覆盖中小学，学前华文教育同样薄弱。更关键的是，东南亚华人基数庞大、母语保持意愿强烈，一旦侨三代在学前阶段就丢掉中文，后面再补，成本高出数倍。马来西亚的华文小学体系、印尼一九九〇年代解除华文禁令后的「补课式」复兴、泰国华人家庭的母语焦虑，都指向同一结论——低龄化、家庭化、本地合规化，是东南亚华文教育下一步无法回避的方向。
+如果说意大利、日本是这股需求的「先遣信号」，那么东南亚（Southeast Asia）才是这场母语保卫战的「主战场」。这里聚居着全球规模最大、制度最成熟的华侨华人族群，也拥有马来西亚（Malaysia）华文小学、印尼（Indonesia）解禁后复办的华校、泰国（Thailand）华人补习体系等百年网络。但一个被反复验证的短板是：这些体系多数覆盖中小学，学前华文教育同样薄弱。更关键的是，东南亚华人基数庞大、母语保持意愿强烈，一旦侨三代在学前阶段就丢掉中文，后面再补，成本高出数倍。马来西亚的华文小学体系、印尼一九九〇年代解除华文禁令后的「补课式」复兴、泰国华人家庭的母语焦虑，都指向同一结论——低龄化、家庭化、本地合规化，是东南亚华文教育下一步无法回避的方向。
 
 ## 延伸阅读
 
-- **侨二代（Second-generation diaspora）**：指出生在移居国、父母为移民的华裔子女；其子女即「侨三代」，母语传承压力随代际递增。
-- **语言敏感期（Language sensitivity period）**：心理学概念，多指三至六岁为自然语言习得窗口，错过则需更高学习成本。
-- **华文教育（Chinese-medium education）**：以华语为教学语言的学校教育体系，在东南亚多表现为华文小学与补习学校，区别于孔子学院的语言推广。
+**侨二代（Second-generation diaspora）**：指出生在移居国、父母为移民的华裔子女；其子女即「侨三代」，母语传承压力随代际递增。
+**语言敏感期（Language sensitivity period）**：心理学概念，多指三至六岁为自然语言习得窗口，错过则需更高学习成本。
+**华文教育（Chinese-medium education）**：以华语为教学语言的学校教育体系，在东南亚多表现为华文小学与补习学校，区别于孔子学院的语言推广。
 
 *话题参考：中国侨网（China Qiao Wang）（chinaqw.com）一周热点——「海外学前华教需求旺 业界探路新『解法』」。*
 
@@ -66,8 +66,8 @@ If Italy and Japan are the early-warning signals, Southeast Asia is the main bat
 
 ## Further reading
 
-- **Second-generation diaspora**: Ethnic-Chinese children born in the host country to migrant parents; their own children form the "third generation," with mother-tongue transmission pressure rising with each generation.
-- **Language sensitivity period**: A psychological concept, often referring to the natural language-acquisition window of roughly ages three to six; missing it raises the cost of later learning.
-- **Chinese-medium education**: Schooling conducted in Mandarin as the language of instruction. In Southeast Asia it appears mainly as Chinese primary schools and supplementary schools, distinct from the Confucius Institute's language-promotion model.
+**Second-generation diaspora**: Ethnic-Chinese children born in the host country to migrant parents; their own children form the "third generation," with mother-tongue transmission pressure rising with each generation.
+**Language sensitivity period**: A psychological concept, often referring to the natural language-acquisition window of roughly ages three to six; missing it raises the cost of later learning.
+**Chinese-medium education**: Schooling conducted in Mandarin as the language of instruction. In Southeast Asia it appears mainly as Chinese primary schools and supplementary schools, distinct from the Confucius Institute's language-promotion model.
 
 *Topic reference: "China Qiao Wang" (chinaqw.com) weekly hotspot — "Overseas pre-school Chinese education demand surges, industry explores new 'solutions'".*
