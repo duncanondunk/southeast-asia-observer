@@ -1,5 +1,64 @@
 [
   {
+    "slug": "malaysia-mca-malacca-seats-walkout-2026",
+    "title": "议席从七席砍到两席：马华公会在甲州选举中的「离席抗议」说明了什么",
+    "subtitle": "马华公会不满国阵将甲州议席从七席砍至两席并让予国盟，总会长魏家祥率众离席，折射华人政党在马来政治重组中的结构性困境。",
+    "category": "华侨华人",
+    "tags": [
+      "马华公会",
+      "马来西亚",
+      "国阵",
+      "甲州选举",
+      "华侨华人",
+      "政治"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-26",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "马华公会在马六甲州选举的参选议席从上届七席骤降至两席，五个席位让予国盟。总会长魏家祥因国阵「先斩后奏」公布名单而率众离席，并放话「不要玩我」。这场风波既暴露巫统独断、国阵裂痕，也折射华人政党在马来政治重组中被边缘化的结构性困局。",
+    "image": "images/articles/malaysia-mca-malacca-seats-walkout-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-26",
+    "imageAlt": "马来西亚吉隆坡双子塔黄昏景象，象征华人政党在马来政治格局中的处境",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "不满议席遭大砍及国阵临时宣布候选人 马华魏家祥怒斥：不要玩我",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261025-9893282",
+        "date": "2026-10-25"
+      },
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "国阵造势大会公布候选人 马华不满议席锐减集体离席",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261024-9889970",
+        "date": "2026-10-24"
+      }
+    ],
+    "en": {
+      "title": "From Seven Seats to Two: What MCA's Malacca Walkout Reveals About Chinese Politics in Malaysia",
+      "subtitle": "MCA stormed out after BN slashed its Malacca seats from seven to two and handed them to PN — a row that exposes both UMNO's high-handedness and the structural marginalization of ethnic-Chinese parties.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "MCA's contested seats in the Malacca state election were cut from seven to two, with five handed to Perikatan Nasional. President Wee Ka Siong led a walkout over BN's fait accompli and warned 'don't play me.' The row exposes UMNO's high-handedness, BN's fracture, and the structural marginalization of ethnic-Chinese parties in Malaysia's Malay-political realignment.",
+      "imageAlt": "Kuala Lumpur's Petronas Twin Towers at dusk, symbolizing the predicament of ethnic-Chinese parties in Malaysia's politics.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "MCA president Wee Ka Siong rebukes BN over seat cuts: 'Don't play me'",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261025-9893282",
+          "date": "2026-10-25"
+        },
+        {
+          "source": "Lianhe Zaobao",
+          "title": "MCA walks out as BN unveils candidates, protests steep seat reduction",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261024-9889970",
+          "date": "2026-10-24"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-sponge-city-flood-plan-2026",
     "title": "菲律宾「海绵城市」治水：一场迟到了数十年的防洪自救",
     "subtitle": "从 39 个蓄滞点位到亚投行 2 亿美元初期资金，菲律宾大马尼拉以「海绵城市」应对极端洪涝；概念源于中国、资金来自中国主导的亚投行，却与南海对峙并行。",
