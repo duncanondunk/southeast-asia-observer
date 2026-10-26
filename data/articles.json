@@ -1,5 +1,55 @@
 [
   {
+    "slug": "philippines-sponge-city-flood-plan-2026",
+    "title": "菲律宾「海绵城市」治水：一场迟到了数十年的防洪自救",
+    "subtitle": "从 39 个蓄滞点位到亚投行 2 亿美元初期资金，菲律宾大马尼拉以「海绵城市」应对极端洪涝；概念源于中国、资金来自中国主导的亚投行，却与南海对峙并行。",
+    "category": "气候变化",
+    "tags": [
+      "菲律宾",
+      "气候变化",
+      "灾害",
+      "城市",
+      "基础设施",
+      "东南亚",
+      "中菲关系",
+      "环境治理",
+      "水资源"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-26",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "2026 年季风之夏的惨烈洪涝，逼出菲律宾大马尼拉「海绵城市」治水方案：39 个蓄滞点位、亚投行 2 亿美元初期资金。概念源于中国、资金来自中国主导的亚投行，却与南海对峙并行；贪腐阴影与数十年规划欠账，让蓝图能否落地仍存悬念。",
+    "image": "images/articles/philippines-sponge-city-flood-plan-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-26",
+    "imageAlt": "东南亚大都市黄昏天际线，隐喻城市在极端降雨下的脆弱与适应",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Philippines set to build 'sponge cities' after devastating floods",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-10-20"
+      }
+    ],
+    "en": {
+      "title": "The Philippines turns to 'sponge cities' to tame its floods",
+      "subtitle": "From 39 catchment sites to an initial $200 million AIIB commitment, Metro Manila bets on a 'sponge city' against extreme floods — a Chinese-originated concept and China-led bank money running alongside the South China Sea standoff.",
+      "category": "Climate Change",
+      "country": "Philippines",
+      "summary": "The 2026 monsoon summer's brutal floods forced Metro Manila to adopt a 'sponge city' approach — 39 catchments and an initial $200 million AIIB commitment. The concept originated in China and the money comes from the China-led AIIB, even as Manila and Beijing confront each other in the South China Sea. A graft scandal and decades of unexecuted master plans leave the blueprint's delivery uncertain.",
+      "imageAlt": "A Southeast Asian metropolis at dusk, symbolising urban vulnerability and adaptation to extreme rainfall",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Philippines set to build 'sponge cities' after devastating floods",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-10-20"
+        }
+      ]
+    }
+  },
+  {
     "slug": "overseas-chinese-preschool-education-boom-2026",
     "title": "海外学前华文教育升温：侨二代、侨三代的「母语保卫战」",
     "subtitle": "从意大利威尼斯的三个新班到日本华校的探索，海外低龄华文需求上升背后，是一场全球华侨华人的代际母语传承之战",
