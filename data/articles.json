@@ -1,5 +1,64 @@
 [
   {
+    "slug": "liu-zhenyun-huazong-award-malaysia",
+    "title": "吉隆坡颁出的奖：刘震云、花踪文学奖与中文书写的静默「去中心」",
+    "subtitle": "刘震云在雪兰莪领取第13届古润金花踪世界华文文学奖。本文认为，由《星洲日报》1991年创办、两年一人的花踪奖，意味着华文文学最稀缺的全球荣誉之一安放在吉隆坡——东南亚正从接收端变为华文书写的策源地。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "马来西亚",
+      "华文文学",
+      "马华文学",
+      "软实力",
+      "东南亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-27",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "2026年10月24日，刘震云在雪兰莪领取第13届古润金花踪世界华文文学奖。本文认为，由《星洲日报》1991年创办、两年一人的花踪奖，把华文文学最稀缺的全球荣誉之一安放在吉隆坡。马来西亚华侨华人凭华校、报章与社团建起文化基础设施，使东南亚成为华文书写策源地；花踪奖丈量的，是离散社群的文化资本。",
+    "image": "images/articles/liu-zhenyun-huazong-award-malaysia.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-27",
+    "imageAlt": "东南亚华人街夜景，霓虹灯下的街市与骑楼，象征离散华人社群的文化延续",
+    "references": [
+      {
+        "source": "中国侨网 China Qiaowang",
+        "title": "刘震云荣获马来西亚花踪世界华文文学奖",
+        "url": "https://www.chinaqw.com/hwjy/2026/10-26/413187.shtml",
+        "date": "2026-10-26"
+      },
+      {
+        "source": "中国新闻网 China News Service",
+        "title": "刘震云获花踪世界华文文学奖：中国文学如何跨越文化边界",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10720934.shtml",
+        "date": "2026-10-26"
+      }
+    ],
+    "en": {
+      "title": "A Prize in Kuala Lumpur: Liu Zhenyun, the Huazong Award, and the Quiet Re-Centring of Chinese Letters",
+      "subtitle": "Liu Zhenyun received the 13th Gurunjin Huazong World Chinese Literature Award in Selangor. This commentary argues that a prize founded by Sin Chew Daily in 1991 — biennial, one laureate worldwide — places one of Chinese literature's scarcest honours in Kuala Lumpur, as Southeast Asia shifts from receiver to source of Chinese writing.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "On 24 October 2026, Liu Zhenyun received the 13th Gurunjin Huazong World Chinese Literature Award in Selangor, Malaysia. This commentary argues that an award founded by Sin Chew Daily in 1991 — biennial, one laureate worldwide — places one of Chinese literature's scarcest global honours in Kuala Lumpur rather than Beijing or Taipei. Malaysia's ethnic Chinese, through schools, newspapers and associations, have built the cultural infrastructure that lets Southeast Asia be a source rather than a mere receiver of Chinese writing. The prize measures a diaspora community's cultural capital, not any state's soft-power projection.",
+      "imageAlt": "A Southeast Asian Chinatown at night, with neon-lit market stalls and shophouses, symbolising the cultural continuity of diaspora Chinese communities.",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Liu Zhenyun wins Malaysia's Huazong World Chinese Literature Award",
+          "url": "https://www.chinaqw.com/hwjy/2026/10-26/413187.shtml",
+          "date": "2026-10-26"
+        },
+        {
+          "source": "China News Service",
+          "title": "Liu Zhenyun wins Huazong Award: how Chinese literature crosses cultural borders",
+          "url": "https://www.chinanews.com.cn/cul/2026/10-26/10720934.shtml",
+          "date": "2026-10-26"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thai-cambodia-gulf-seabed-conciliation-2026",
     "title": "海面下的三千亿美元：泰柬如何把海上争端从「对峙」拉回「谈判」",
     "subtitle": "泰国与柬埔寨在海牙结束第二轮海洋法公约调解，同意设海军热线、克制表态，为估值约3000亿美元（约2.16万亿元人民币）的泰国湾争议海床降温——一场被复制的对抗，能否先在海面按下暂停键？",
