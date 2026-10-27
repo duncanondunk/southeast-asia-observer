@@ -1,5 +1,56 @@
 [
   {
+    "slug": "philippines-prime-infra-hydro-gas-2026",
+    "title": "拉松的九十亿美元赌注：菲律宾水电与天然气能否撑起「低碳」转型",
+    "subtitle": "据《日经亚洲》报道，拉松旗下的第一基建公司计划五年内向水电与天然气投入近九十亿美元，押注菲律宾「强劲的低碳前景」。本文认为，这笔私人赌注既照见菲律宾「增长、绿色、电网」难以兼得的困局，也折射出东南亚脱碳对资本、工程与制度的多重依赖。",
+    "category": "经济产业",
+    "tags": [
+      "菲律宾",
+      "能源",
+      "水电",
+      "天然气",
+      "投资",
+      "经济",
+      "东南亚",
+      "基础设施",
+      "可再生能源",
+      "能源转型"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-27",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "据《日经亚洲》报道，拉松旗下第一基建计划五年内向水电与天然气投入九十亿美元（约648亿元人民币），押注菲律宾低碳前景。本文认为，这笔私人赌注照见菲律宾「增长、绿色、电网」难以兼得的困局：水电打底、天然气补位的「过渡组合」可能把排放锁进系统，而中国工程能力与进口燃料又把能源安全系于中美与中东两端。",
+    "image": "images/articles/philippines-prime-infra-hydro-gas-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-27",
+    "imageAlt": "飞流跌宕的瀑布与碧绿深潭，隐喻水电作为菲律宾低碳转型的基荷能源",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Philippines' Prime Infra looks to invest $9bn in hydropower and gas",
+        "url": "https://cms-v3.asia.nikkei.com/business/energy/philippines-prime-infra-looks-to-invest-9bn-in-hydropower-and-gas",
+        "date": "2026-01"
+      }
+    ],
+    "en": {
+      "title": "Razon's $9 Billion Gamble: Can Philippine Hydropower and Gas Underpin a \"Low-Carbon\" Shift",
+      "subtitle": "Nikkei Asia reports that Razon's Prime Infra plans to pour nearly $9 billion over five years into hydropower and gas, betting on the Philippines' \"robust low-carbon prospects.\" This commentary argues the private wager exposes the country's hard-to-reconcile pursuit of growth, greenness and grid, and reflects Southeast Asia's multivalent dependence of decarbonisation on capital, engineering and institutions.",
+      "category": "Economy & Industry",
+      "country": "Philippines",
+      "summary": "Nikkei Asia reports that Razon's Prime Infra plans to invest nearly $9 billion over five years in hydropower and gas, betting on the Philippines' low-carbon prospects. This commentary argues the private wager exposes Manila's dilemma of pursuing growth, greenness and grid at once: a hydro-plus-gas \"transition combo\" may lock emissions into the system for decades, while Chinese engineering and imported fuel tie energy security to the US–China and Middle East axes respectively.",
+      "imageAlt": "A cascading waterfall plunging into a green pool, a metaphor for hydropower as the baseload of the Philippines' low-carbon transition.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Philippines' Prime Infra looks to invest $9bn in hydropower and gas",
+          "url": "https://cms-v3.asia.nikkei.com/business/energy/philippines-prime-infra-looks-to-invest-9bn-in-hydropower-and-gas",
+          "date": "2026-01"
+        }
+      ]
+    }
+  },
+  {
     "slug": "liu-zhenyun-huazong-award-malaysia",
     "title": "吉隆坡颁出的奖：刘震云、花踪文学奖与中文书写的静默「去中心」",
     "subtitle": "刘震云在雪兰莪领取第13届古润金花踪世界华文文学奖。本文认为，由《星洲日报》1991年创办、两年一人的花踪奖，意味着华文文学最稀缺的全球荣誉之一安放在吉隆坡——东南亚正从接收端变为华文书写的策源地。",
