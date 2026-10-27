@@ -1,4 +1,4 @@
-# 一只纸箱，半生乡愁：菲律宾离散群体的"爱心包裹"为何脆弱
+# 一只纸箱，半生乡愁：菲律宾（Philippines）离散群体的"爱心包裹"为何脆弱
 
 一只用胶带封得严严实实的纸箱，里面塞着方便面、奶粉、旧衣服和一个孩子的玩具——这是菲律宾离散群体最安静也最有力量的制度之一。对于约一千万散布在全球的菲律宾人而言，这种被称为"回乡箱"（balikbayan box）的包裹从来不只是货物，它是被物化的拥抱，是漂泊者与留在国内的亲人之间"在场"的方式。所以当这些寄往菲律宾的箱子失踪——延误数月、在仓库中被哄抢、或者干脆不知所踪——海外菲律宾人的心痛是真实的，而它暴露的远不止丢件：一个以输出劳动力为支柱的国家，与散落各地的子女之间的那根线，有多么纤细。
 
@@ -16,11 +16,11 @@
 
 ## 物流之脆：当"爱心包裹"迷路
 
-这就引向当下的忧虑。南华早报近期的一篇报道发现，海外菲律宾人正要求物流公司、货运代理与监管部门就大批箱子失踪或长期滞留海关仓库给出答案。这种脆弱是结构性的。与近乎即时、日益数字化的银行汇款不同，纸箱依赖一条破损的链条：货运代理、集运集装箱与末端快递。任一环节弯折，礼物便无法抵达，而沉默会被读解为遗弃。对于一个本就背负"物理缺席"愧疚的离散群体而言，一只丢失的箱子不是物流失误，而是归属感的微小裂口。一位维权者讲述过这样一桩事：一名海外劳工寄出一箱给垂危亲人的药品，箱子却丢失了，药从未抵达。这位社会学者说，箱子的"未抵达，感觉像一句被打破的承诺"。
+这就引向当下的忧虑。南华早报（South China Morning Post）近期的一篇报道发现，海外菲律宾人正要求物流公司、货运代理与监管部门就大批箱子失踪或长期滞留海关仓库给出答案。这种脆弱是结构性的。与近乎即时、日益数字化的银行汇款不同，纸箱依赖一条破损的链条：货运代理、集运集装箱与末端快递。任一环节弯折，礼物便无法抵达，而沉默会被读解为遗弃。对于一个本就背负"物理缺席"愧疚的离散群体而言，一只丢失的箱子不是物流失误，而是归属感的微小裂口。一位维权者讲述过这样一桩事：一名海外劳工寄出一箱给垂危亲人的药品，箱子却丢失了，药从未抵达。这位社会学者说，箱子的"未抵达，感觉像一句被打破的承诺"。
 
 ## 侨批之镜：中式离散的对照
 
-菲律宾的纸箱并不孤单，对照之下颇受启发。从十九世纪到二十世纪中叶，东南亚的数百万华侨华人通过"侨批"——将汇款与家书捆进同一封函件、由专业批局递送——维系着福建与广东的家人。2013年，侨批档案入选联合国教科文组织《世界记忆名录》，被承认为移民的文献遗产。两套体系都把"缺席"转化为一种可被触摸的照护行动：中国的信函与菲律宾的纸箱，是同一句话的两种语法——离散，就是为了持续喂养故乡。区别在于，北京最终把侨批制度化为国家管理的离散装置，而马尼拉的纸箱至今仍是一种草根仪式，国家只是加以保护。
+菲律宾的纸箱并不孤单，对照之下颇受启发。从十九世纪到二十世纪中叶，东南亚（Southeast Asia）的数百万华侨华人通过"侨批"——将汇款与家书捆进同一封函件、由专业批局递送——维系着福建与广东的家人。2013年，侨批档案入选联合国教科文组织《世界记忆名录》，被承认为移民的文献遗产。两套体系都把"缺席"转化为一种可被触摸的照护行动：中国的信函与菲律宾的纸箱，是同一句话的两种语法——离散，就是为了持续喂养故乡。区别在于，北京（Beijing）最终把侨批制度化为国家管理的离散装置，而马尼拉（Manila）的纸箱至今仍是一种草根仪式，国家只是加以保护。
 
 ## 情感经济：离散不只是汇款
 
@@ -66,8 +66,8 @@ Economists measure the Filipino diaspora in dollars; families measure it in boxe
 
 ## Further reading
 
-- **Overseas Filipino Workers (OFWs)**: The legal and statistical category covering Filipinos deployed abroad for work; the backbone of the remittance economy and the balikbayan box ritual.
-- **Qiaopi (侨批)**: The overseas Chinese remittance-letter system (nineteenth to mid-twentieth century), inscribed by UNESCO on its Memory of the World register in 2013.
-- **Diaspora policy**: How states institutionalise ties with citizens abroad — from Manila's duty-free box to Beijing's qiaopi networks and overseas-Chinese affairs bureaus.
+- **Balikbayan box (回乡箱)**: The duty-free parcel of personal effects that Filipino overseas workers and migrants ship home — the material carrier of the diaspora's "emotional remittance."
+- **Qiaopi (侨批)**: The overseas Chinese "money-and-letter combined" remittance system of the nineteenth to mid-twentieth century, inscribed by UNESCO on its Memory of the World register in 2013.
+- **Diaspora policy**: How a state institutionalises its ties with citizens abroad — from Manila's duty-free box to Beijing's qiaopi networks and overseas-Chinese affairs bureaus.
 
 *Topic reference: "South China Morning Post" (scmp.com) Southeast Asia — "Overseas Filipinos feel heartache over missing parcels for loved ones".*
