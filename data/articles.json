@@ -1,5 +1,65 @@
 [
   {
+    "slug": "us-japan-south-korea-smr-southeast-asia-2026",
+    "title": "美日韩联手押注东南亚核电：一台反应堆背后的印太博弈",
+    "subtitle": "以小型模块化反应堆（SMR）切入印尼、剑指马来与菲律宾，日美韩把核能出口写进「自由开放印太」战略",
+    "category": "地缘政治",
+    "tags": [
+      "地缘政治",
+      "核能",
+      "东南亚",
+      "中美竞争",
+      "印尼",
+      "能源安全",
+      "小型模块化反应堆"
+    ],
+    "country": "印尼",
+    "date": "2026-10-27",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "日美韩联手以小型模块化反应堆（SMR）切入印尼并瞄准马来、菲律宾，把核能出口包装进「自由开放印太」战略；这既是对华俄核电出海的正面交锋，也令东南亚在技术路线与能源安全间面临长期绑定。",
+    "image": "images/articles/us-japan-south-korea-smr-southeast-asia-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-27",
+    "imageAlt": "吉隆坡双子塔黄昏天际线，象征东南亚的能源需求与区域竞合",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "美日韩合作出口小型核反应堆 瞄准印尼等东南亚国家",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261026-9897146",
+        "date": "2026-10-26"
+      },
+      {
+        "source": "共同社 Kyodo News",
+        "title": "日米韓、インドネシアへ次世代原発SMR普及で協力へ",
+        "url": "https://china.kyodonews.net/articles/-/17392",
+        "date": "2026-10-26"
+      }
+    ],
+    "en": {
+      "title": "Washington, Tokyo and Seoul Bet on Southeast Asia's Nuclear Future",
+      "subtitle": "Using small modular reactors to enter Indonesia and target Malaysia and the Philippines, the trilateral folds nuclear exports into the Free and Open Indo-Pacific strategy",
+      "category": "Geopolitics",
+      "country": "Indonesia",
+      "summary": "Japan, the United States and South Korea are jointly promoting small modular reactors (SMRs) in Indonesia, with Malaysia and the Philippines next. Framed as part of the Free and Open Indo-Pacific strategy, the push is a direct counter to Chinese and Russian nuclear exports — and a long-term lock-in of Southeast Asia's technology and energy security.",
+      "imageAlt": "Kuala Lumpur's Petronas Twin Towers at dusk, symbolising Southeast Asia's energy demand and regional competition",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "US, Japan and South Korea team up to export small modular reactors, targeting Indonesia and Southeast Asia",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261026-9897146",
+          "date": "2026-10-26"
+        },
+        {
+          "source": "Kyodo News",
+          "title": "Japan, US, S. Korea to cooperate on SMR exports to Indonesia",
+          "url": "https://china.kyodonews.net/articles/-/17392",
+          "date": "2026-10-26"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-prime-infra-hydro-gas-2026",
     "title": "拉松的九十亿美元赌注：菲律宾水电与天然气能否撑起「低碳」转型",
     "subtitle": "据《日经亚洲》报道，拉松旗下的第一基建公司计划五年内向水电与天然气投入近九十亿美元，押注菲律宾「强劲的低碳前景」。本文认为，这笔私人赌注既照见菲律宾「增长、绿色、电网」难以兼得的困局，也折射出东南亚脱碳对资本、工程与制度的多重依赖。",
