@@ -1,5 +1,66 @@
 [
   {
+    "slug": "philippines-balikbayan-box-diaspora-2026",
+    "title": "一只纸箱，半生乡愁：菲律宾离散群体的「爱心包裹」为何脆弱",
+    "subtitle": "从南华早报一则「丢箱」报道说起：当千万海外菲律宾人的「情感汇款」卡在物流链上，离散与国家的契约正在经受考验",
+    "category": "社会文化",
+    "tags": [
+      "菲律宾",
+      "离散",
+      "离散族群",
+      "移民",
+      "劳工",
+      "侨批",
+      "社会文化",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-27",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "菲律宾约一千万海外侨民以「回乡箱」寄送物资慰藉亲人，却因物流链脆弱而频频失踪。本文借南华早报相关报道，剖析这一「情感汇款」背后的国家—离散契约，并与中国侨批对照，指出离散政策远不止于外汇。",
+    "image": "images/articles/philippines-balikbayan-box-diaspora-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-27",
+    "imageAlt": "一叠美元钞票的特写，象征菲律宾离散群体寄回家乡的汇款与「情感经济」",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Overseas Filipinos feel heartache over missing parcels for loved ones, demand answers",
+        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371982/overseas-filipinos-feel-heartache-over-missing-parcels-loved-ones-demand-answers",
+        "date": "2026-10-24"
+      },
+      {
+        "source": "联合国教科文组织 UNESCO",
+        "title": "Memory of the World Register: Qiaopi documents and related correspondence (2013 inscription)",
+        "url": "https://www.unesco.org/en/memory-world/register",
+        "date": "2013"
+      }
+    ],
+    "en": {
+      "title": "When the balikbayan box goes missing: the fragile lifeline of the Filipino diaspora",
+      "subtitle": "Starting from an SCMP report on lost balikbayan boxes: as millions of overseas Filipinos' 'emotional remittances' stall in broken logistics, the state–diaspora compact is put to the test",
+      "category": "Society & Culture",
+      "country": "Philippines",
+      "summary": "The balikbayan box is the Filipino diaspora's materialised hug — and its fragility is now exposed as boxes vanish in broken logistics chains. Drawing on a South China Morning Post report, this piece reads the box as an emotional remittance and a state–diaspora compact, then holds it against China's qiaopi to argue that diaspora policy is about far more than foreign exchange.",
+      "imageAlt": "A close-up of US dollar banknotes, symbolising the remittances and 'emotional economy' Filipino diaspora members send home",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Overseas Filipinos feel heartache over missing parcels for loved ones, demand answers",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371982/overseas-filipinos-feel-heartache-over-missing-parcels-loved-ones-demand-answers",
+          "date": "2026-10-24"
+        },
+        {
+          "source": "UNESCO",
+          "title": "Memory of the World Register: Qiaopi documents and related correspondence (inscribed 2013)",
+          "url": "https://www.unesco.org/en/memory-world/register",
+          "date": "2013"
+        }
+      ]
+    }
+  },
+  {
     "slug": "us-japan-south-korea-smr-southeast-asia-2026",
     "title": "美日韩联手押注东南亚核电：一台反应堆背后的印太博弈",
     "subtitle": "以小型模块化反应堆（SMR）切入印尼、剑指马来与菲律宾，日美韩把核能出口写进「自由开放印太」战略",
