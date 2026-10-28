@@ -1,5 +1,65 @@
 [
   {
+    "slug": "chiang-mai-confucius-institute-20th-2026",
+    "title": "湄公河畔二十载：清迈大学孔子学院与中文在泰北的扎根",
+    "subtitle": "从一间教室到连接中泰的桥，清迈孔院二十年如何把中文种进泰北",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "泰国",
+      "中文教育",
+      "孔子学院",
+      "软实力",
+      "文化交流",
+      "语言"
+    ],
+    "country": "泰国",
+    "date": "2026-10-28",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/chiang-mai-confucius-institute-20th-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-28",
+    "imageAlt": "泰国清迈兰纳风格寺庙金顶，呼应泰北中文教育的在地生根",
+    "summary": "清迈大学孔子学院2006年揭牌，二十年间从一间教室长成连接中泰的「桥」：本土师资、「中文＋专业」与数智化考点，让中文在泰北扎根。孔院耐久的密码，是扎进本地需求，而非单向投射。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "清迈大学孔子学院：湄公河畔二十载 中文花开泰北香",
+        "url": "https://www.chinaqw.com/hwjy/2026/10-26/413181.shtml",
+        "date": "2026-10-26"
+      },
+      {
+        "source": "中国新闻网",
+        "title": "清迈大学孔子学院：湄公河畔二十载 中文花开泰北香",
+        "url": "https://www.chinaqw.com/hwjy/2026/10-26/413181.shtml",
+        "date": "2026-10-26"
+      }
+    ],
+    "en": {
+      "title": "Twenty Years by the Mekong: Chiang Mai University's Confucius Institute and the Quiet Rooting of Chinese in Northern Thailand",
+      "subtitle": "From one classroom to a bridge between China and Thailand, how two decades rooted Chinese in the North",
+      "category": "Overseas Chinese",
+      "country": "Thailand",
+      "summary": "Opened in 2006, Chiang Mai University's Confucius Institute has grown from one classroom into a bridge between China and Thailand — local teacher training, 'Chinese plus profession' courses, and a digital exam network rooting the language in Northern Thailand. Its staying power lies in meeting local needs, not in one-way projection.",
+      "imageAlt": "A golden Lanna-style temple in Chiang Mai, Thailand, evoking the local rooting of Chinese education in the North",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Chiang Mai University Confucius Institute: Two Decades by the Mekong, Chinese Blooms in Northern Thailand",
+          "url": "https://www.chinaqw.com/hwjy/2026/10-26/413181.shtml",
+          "date": "2026-10-26"
+        },
+        {
+          "source": "China News Service",
+          "title": "Chiang Mai University Confucius Institute: Two Decades by the Mekong, Chinese Blooms in Northern Thailand",
+          "url": "https://www.chinaqw.com/hwjy/2026/10-26/413181.shtml",
+          "date": "2026-10-26"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-balikbayan-box-diaspora-2026",
     "title": "一只纸箱，半生乡愁：菲律宾离散群体的「爱心包裹」为何脆弱",
     "subtitle": "从南华早报一则「丢箱」报道说起：当千万海外菲律宾人的「情感汇款」卡在物流链上，离散与国家的契约正在经受考验",
