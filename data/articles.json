@@ -1,5 +1,67 @@
 [
   {
+    "slug": "toshiba-philippines-hdd-ai-storage-2026",
+    "title": "沉默的底座：东芝600亿日元扩建菲律宾硬盘厂，人工智能算力的另一场军备竞赛",
+    "subtitle": "当聚光灯打在图形处理器与液冷塔上时，东芝却把约600亿日元押在菲律宾的硬盘生产线上——人工智能算力的尽头，是被忽视的存储。",
+    "category": "经济产业",
+    "tags": [
+      "菲律宾",
+      "日本",
+      "半导体",
+      "制造业",
+      "人工智能",
+      "供应链",
+      "数据中心",
+      "经济产业",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-28",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "东芝宣布投资约600亿日元（约30亿元人民币）扩建菲律宾拉古纳科技园的硬盘产线，要在2027财年把面向人工智能数据中心的硬盘产能翻倍，并将容量份额从10%冲向30%。在生成式人工智能把聚光灯留给显卡的同时，被忽视的近线存储正成为算力竞赛的沉默底座。菲律宾借「中国+1」承接高端制造的机遇与隐忧并存。",
+    "image": "images/articles/toshiba-philippines-hdd-ai-storage-2026.jpg",
+    "imageCredit": "Unsplash — photo 1558494949-ef010cbdcc31",
+    "imageAccessed": "2026-10-28",
+    "imageAlt": "数据中心服务器机柜（象征人工智能算力的存储底座）",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Toshiba to double AI data-center HDD capacity by fiscal 2027",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-10-02"
+      },
+      {
+        "source": "国际数据公司 IDC",
+        "title": "全球数据量2030年将达718泽字节，约六成存于机械硬盘",
+        "url": "https://www.idc.com/",
+        "date": "2026"
+      }
+    ],
+    "en": {
+      "title": "The Silent Base: Toshiba's ¥60bn Philippine Plant and the Other AI Arms Race",
+      "subtitle": "While the spotlight stays on GPUs and liquid cooling, Toshiba is betting ¥60 billion (about US$380 million) on a hard-disk line in the Philippines — the unglamorous storage layer the AI buildout cannot do without.",
+      "category": "Economy & Industry",
+      "country": "Philippines",
+      "summary": "Toshiba will invest about ¥60 billion (US$380 million) to double its AI data-center hard-disk capacity at its Philippine plant by fiscal 2027, targeting a capacity share of around 30% from just over 10%. As generative AI keeps the spotlight on GPUs, the overlooked nearline storage tier is becoming the silent base of the compute race — and the Philippines is both the beneficiary and the hostage of 'China plus one' manufacturing.",
+      "imageAlt": "Server cabinets in a data center (symbolising the storage base of AI compute)",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Toshiba to double AI data-center HDD capacity by fiscal 2027",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-10-02"
+        },
+        {
+          "source": "International Data Corporation (IDC)",
+          "title": "Global data volume to reach 718 zettabytes by 2030, about 60% on HDDs",
+          "url": "https://www.idc.com/",
+          "date": "2026"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-child-labour-roadmap-2028-2026",
     "title": "一张通往2028的路线图：菲律宾能否兑现\"消灭童工\"的承诺？",
     "subtitle": "马尼拉正在起草一份国家路线图，要在2028年前消除童工；但分析人士直言，真正的对手是贫困，而不是文件。",
