@@ -1,5 +1,78 @@
 [
   {
+    "slug": "philippines-child-labour-roadmap-2028-2026",
+    "title": "一张通往2028的路线图：菲律宾能否兑现\"消灭童工\"的承诺？",
+    "subtitle": "马尼拉正在起草一份国家路线图，要在2028年前消除童工；但分析人士直言，真正的对手是贫困，而不是文件。",
+    "category": "社会文化",
+    "tags": [
+      "菲律宾",
+      "童工",
+      "社会文化",
+      "劳工",
+      "贫困",
+      "人权",
+      "人口贩运",
+      "东南亚"
+    ],
+    "country": "菲律宾",
+    "date": "2026-10-28",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "马尼拉正起草国家路线图，要在2028年前消除童工。劳工部称三年救出23万余儿童，在册童工降至50.9万；但学者指出根源在贫困与非正式就业。菲律宾能否领衔东南亚，取决于它打击贫困的决心是否不输于起草计划。",
+    "image": "images/articles/philippines-child-labour-roadmap-2028-2026.jpg",
+    "imageCredit": "Pexels — photo 37898351",
+    "imageAccessed": "2026-10-28",
+    "imageAlt": "菲律宾教室里的学生（象征童工问题背后的教育缺失）",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Can the Philippines lead Southeast Asia's fight against child labour?",
+        "url": "https://www.scmp.com/week-asia/people/article/3370369/can-philippines-lead-southeast-asias-fight-against-child-labour",
+        "date": "2026-10-09"
+      },
+      {
+        "source": "国际劳工组织 International Labour Organization",
+        "title": "Philippines sets roadmap against forced labour, child labour and exploitation",
+        "url": "https://www.ilo.org/resource/news/philippines-sets-roadmap-against-forced-labour-child-labour-and",
+        "date": "2026-09"
+      },
+      {
+        "source": "菲律宾劳工部 Department of Labour and Employment",
+        "title": "DOLE vows eradication of forced, child labor",
+        "url": "https://dole.gov.ph/news/dole-vows-eradication-of-forced-child-labor",
+        "date": "2026-09-24"
+      }
+    ],
+    "en": {
+      "title": "The Philippines' Quiet Gamble: Can a Roadmap End Child Labour by 2028?",
+      "subtitle": "Manila is drafting a national roadmap to wipe out child labour by 2028 — but analysts say the real opponent is poverty, not paperwork.",
+      "category": "Society & Culture",
+      "country": "Philippines",
+      "summary": "Manila is drafting a national roadmap to end child labour by 2028. The labour department says it rescued over 233,000 children in three years, with the count of child labourers falling to 509,000. But analysts warn the real driver is poverty and weak informal-economy enforcement. Whether the Philippines can lead the region hinges on fighting poverty as hard as it drafts plans.",
+      "imageAlt": "Students in a Philippine classroom (symbolising the education gap behind child labour)",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Can the Philippines lead Southeast Asia's fight against child labour?",
+          "url": "https://www.scmp.com/week-asia/people/article/3370369/can-philippines-lead-southeast-asias-fight-against-child-labour",
+          "date": "2026-10-09"
+        },
+        {
+          "source": "International Labour Organization (ILO)",
+          "title": "Philippines sets roadmap against forced labour, child labour and exploitation",
+          "url": "https://www.ilo.org/resource/news/philippines-sets-roadmap-against-forced-labour-child-labour-and",
+          "date": "2026-09"
+        },
+        {
+          "source": "Department of Labour and Employment (DOLE), Philippines",
+          "title": "DOLE vows eradication of forced, child labor",
+          "url": "https://dole.gov.ph/news/dole-vows-eradication-of-forced-child-labor",
+          "date": "2026-09-24"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-ukm-chinese-students-credential-crisis-2026",
     "title": "马来西亚国立大学百余名中国留学生陷「学历危机」",
     "subtitle": "入学英语证书造假风波背后的留学热软肋",
