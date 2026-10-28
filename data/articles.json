@@ -1,5 +1,52 @@
 [
   {
+    "slug": "malaysia-ukm-chinese-students-credential-crisis-2026",
+    "title": "马来西亚国立大学百余名中国留学生陷「学历危机」",
+    "subtitle": "入学英语证书造假风波背后的留学热软肋",
+    "category": "华侨华人",
+    "tags": [
+      "马来西亚",
+      "华侨华人",
+      "留学",
+      "高等教育",
+      "中国学生",
+      "文凭造假"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-28",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "逾百名在马来西亚国立大学修读工商管理硕士的中国留学生，在完成一年制课程后被指入学英语证书造假、成绩遭扣无法毕业。事件折射出中国学生赴马留学五年激增274%背景下的录取宽松与「秋后算账」悖论，以及跨境教育链中的中介造假与诚信短板，为马来西亚「教育枢纽」品牌敲响警钟。",
+    "image": "images/articles/malaysia-ukm-chinese-students-credential-crisis-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-28",
+    "imageAlt": "马来西亚吉隆坡双子塔黄昏天际线",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国大学逾百中国学生 被指文件造假无法毕业",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261027-9904161",
+        "date": "2026-10-27"
+      }
+    ],
+    "en": {
+      "title": "Over a Hundred Chinese Students at Malaysia's National University Caught in a \"Credential Crisis\"",
+      "subtitle": "The soft underbelly of a study-abroad boom laid bare by an English-certificate scandal",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "More than a hundred Chinese MBA students at Universiti Kebangsaan Malaysia (UKM) were told after finishing a one-year programme that their admission English certificates were allegedly fake, leaving their grades withheld and graduation blocked. The case exposes a paradox of lax admission and retrospective reckoning amid a 274% surge in Chinese enrolment, and warns of integrity gaps in Malaysia's 'education hub' brand.",
+      "imageAlt": "Kuala Lumpur Twin Towers at dusk",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Over 100 Chinese students at Malaysian university accused of document fraud, unable to graduate",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261027-9904161",
+          "date": "2026-10-27"
+        }
+      ]
+    }
+  },
+  {
     "slug": "chiang-mai-confucius-institute-20th-2026",
     "title": "湄公河畔二十载：清迈大学孔子学院与中文在泰北的扎根",
     "subtitle": "从一间教室到连接中泰的桥，清迈孔院二十年如何把中文种进泰北",
