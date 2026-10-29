@@ -1,5 +1,68 @@
 [
   {
+    "slug": "southeast-asia-housing-paradox-2026",
+    "title": "东南亚的住房悖论：房子越盖越多，年轻人却买不起",
+    "subtitle": "南华早报一篇报道揭开区域性错配——空置的公寓与买不起房的年轻一代并存",
+    "category": "经济产业",
+    "tags": [
+      "东南亚",
+      "经济产业",
+      "房地产",
+      "住房",
+      "青年",
+      "城市化",
+      "越南",
+      "菲律宾",
+      "马来西亚",
+      "泰国"
+    ],
+    "country": "东南亚",
+    "date": "2026-10-29",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "南华早报报道揭示东南亚“住房悖论”：越南、菲律宾、马来西亚、泰国未售住宅堆积，年轻买家却被高房价与信贷门槛挡在门外。土地财政与离岸投机撑起的繁荣，正随中国买家退潮而显形。",
+    "en": {
+      "title": "Southeast Asia's housing paradox: too many towers, too few owners",
+      "subtitle": "An SCMP report lays bare a regional mismatch — glutted condos next to a generation priced out of the market.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "A South China Morning Post report exposes Southeast Asia's \"housing paradox\": Vietnam, the Philippines, Malaysia and Thailand sit on piles of unsold homes while young buyers are locked out by high prices and tight credit. A boom built on land finance and offshore speculation is now exposed as Chinese buyers retreat.",
+      "imageAlt": "Dense Southeast Asian urban residential blocks at dusk, symbolising the towers left empty by the regional housing glut.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Southeast Asia's housing paradox: too many homes, too few buyers",
+          "url": "https://www.scmp.com/week-asia/economics/article/3372208/southeast-asias-housing-paradox-too-many-homes-too-few-buyers",
+          "date": "2026-10-27"
+        },
+        {
+          "source": "Nation Thailand",
+          "title": "Bangkok condos squeezed by floods, weak demand and 65,300-unit glut",
+          "url": "https://nationthailand.com/news/general/40072232",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "image": "images/articles/southeast-asia-housing-paradox-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-29",
+    "imageAlt": "东南亚城市密集的住宅楼群在暮色中，象征地区住房过剩下空置的塔楼。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asia's housing paradox: too many homes, too few buyers",
+        "url": "https://www.scmp.com/week-asia/economics/article/3372208/southeast-asias-housing-paradox-too-many-homes-too-few-buyers",
+        "date": "2026-10-27"
+      },
+      {
+        "source": "泰国民族报 Nation Thailand",
+        "title": "Bangkok condos squeezed by floods, weak demand and 65,300-unit glut",
+        "url": "https://nationthailand.com/news/general/40072232",
+        "date": "2026-10"
+      }
+    ]
+  },
+  {
     "slug": "samsung-vietnam-semiconductor-substrate-2026",
     "title": "三星电机50亿美元押注越南基板：从组装车间到芯片价值链",
     "subtitle": "三星电机（Samsung Electro-Mechanics）近50亿美元扩产半导体基板，其中约18.7亿美元投向越南太原省新厂，标志「越南制造」向价值链上游爬升",
