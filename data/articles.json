@@ -1,5 +1,64 @@
 [
   {
+    "slug": "qiaoxiang-ai-short-drama-overseas-2026",
+    "title": "从卖货到卖故事：侨乡如何用AI短剧，把文化“新三样”交给侨胞带出海",
+    "subtitle": "汕头、泉州、瑞安正把算力、内容与华侨网络拧成一条管道，让文化“新三样”借离散社群走向世界。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨乡",
+      "人工智能",
+      "数字经济",
+      "东南亚",
+      "软实力"
+    ],
+    "country": "中国",
+    "date": "2026-10-29",
+    "readingTime": 6,
+    "featured": false,
+    "summary": "广东汕头、福建泉州、浙江瑞安三地为代表，侨乡正以算力设施、侨乡故事与华侨商网为支点，借AI短剧把网络文学、影视剧、游戏这文化“新三样”推向海外。侨胞网络成为文化出海的“最后一公里”。",
+    "image": "images/articles/qiaoxiang-ai-short-drama-overseas-2026.jpg",
+    "imageCredit": "Unsplash — photo 1508009603885-50cf7c579365",
+    "imageAccessed": "2026-10-29",
+    "imageAlt": "夜色中的唐人街霓虹，象征借数字渠道走向世界的华侨文化",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "多地侨乡创新实践，助力文化“新三样”出海",
+        "url": "https://www.chinaqw.com/qx/2026/10-28/413270.shtml",
+        "date": "2026-10-28"
+      },
+      {
+        "source": "人民日报海外版",
+        "title": "多地侨乡创新实践，助力文化“新三样”出海",
+        "url": "https://www.chinaqw.com/qx/2026/10-28/413270.shtml",
+        "date": "2026-10-28"
+      }
+    ],
+    "en": {
+      "title": "From Goods to Stories: How China's Qiaoxiang Are Turning AI Short Dramas into a Diaspora-Led Cultural Export",
+      "subtitle": "Shantou, Quanzhou and Rui'an are weaving computing power, local stories and overseas Chinese networks into a single pipeline for the 'new three items' of culture.",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "Led by Shantou, Quanzhou and Rui'an, China's qiaoxiang are using computing infrastructure, diaspora narratives and overseas Chinese business networks to push the cultural 'new three items' — web novels, online dramas and games — abroad through AI short dramas. The diaspora network, not the state, emerges as the 'last mile' of cultural proximity.",
+      "imageAlt": "Neon-lit Chinatown at night, evoking diaspora culture reaching the world through digital channels",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Local qiaoxiang innovate to send culture's 'new three items' abroad",
+          "url": "https://www.chinaqw.com/qx/2026/10-28/413270.shtml",
+          "date": "2026-10-28"
+        },
+        {
+          "source": "People's Daily Overseas Edition",
+          "title": "Local qiaoxiang innovate to send culture's 'new three items' abroad",
+          "url": "https://www.chinaqw.com/qx/2026/10-28/413270.shtml",
+          "date": "2026-10-28"
+        }
+      ]
+    }
+  },
+  {
     "slug": "toshiba-philippines-hdd-ai-storage-2026",
     "title": "沉默的底座：东芝600亿日元扩建菲律宾硬盘厂，人工智能算力的另一场军备竞赛",
     "subtitle": "当聚光灯打在图形处理器与液冷塔上时，东芝却把约600亿日元押在菲律宾的硬盘生产线上——人工智能算力的尽头，是被忽视的存储。",
