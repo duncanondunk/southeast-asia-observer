@@ -1,5 +1,65 @@
 [
   {
+    "slug": "malaysia-ai-chip-smuggling-seizure-2026",
+    "title": "吉隆坡机场查获逾1500万新元人工智能晶片 走私网络现形",
+    "subtitle": "30台服务器谎报为「电子零件」、估值约4950万林吉特，同一走私网络年内至少涉5案，借道转口规避美国对华晶片出口管制。",
+    "category": "经济产业",
+    "tags": [
+      "马来西亚",
+      "半导体",
+      "出口管制",
+      "人工智能",
+      "中美竞争",
+      "跨境治理",
+      "东南亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-29",
+    "readingTime": 5,
+    "featured": false,
+    "summary": "马来西亚海关10月15日在吉隆坡机场自贸区起获30台藏有先进人工智能晶片的服务器，估值约4950万林吉特（约1555万新元），报关却写为「电子零件」。当局指同一走私网络年内至少涉5案、累计超1亿林吉特，借道转口规避美国对华晶片出口管制。此案凸显东南亚物流枢纽在中美科技博弈下的「漏水」困境。",
+    "en": {
+      "title": "Over S$15.5 Million in AI Chips Seized at Kuala Lumpur Airport as a Smuggling Network Surfaces",
+      "subtitle": "Thirty servers declared as 'electronic components' and worth about 49.5 million ringgit point to a syndicate behind at least five cases this year, using Malaysia as a transit hub to dodge US export controls on chips bound for China.",
+      "category": "Economy",
+      "country": "Malaysia",
+      "summary": "Malaysian customs seized 30 server units packed with advanced AI chips at Kuala Lumpur airport on Oct. 15, worth about 49.5 million ringgit (S$15.55m), declared merely as 'electronic components.' Officials say the same syndicate is linked to at least five cases this year exceeding 100 million ringgit, using Malaysia as a transit hub to dodge US export controls on chips bound for China. The bust exposes how Southeast Asia's logistics nodes keep leaking under the US-China tech contest.",
+      "imageAlt": "A dim server room with racks of network switches glowing green and yellow, evoking AI compute infrastructure.",
+      "references": [
+        {
+          "date": "2026-10-28",
+          "source": "Lianhe Zaobao",
+          "title": "Suspected transnational syndicate: Malaysia seizes S$15.55m in AI chips",
+          "url": "https://www.zaobao.com/news/sea/story20261028-9907518"
+        },
+        {
+          "date": "2026-10-28",
+          "source": "Channel NewsAsia",
+          "title": "AI chips worth US$12.1 million seized at Malaysia airport, customs authority says",
+          "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976"
+        }
+      ]
+    },
+    "image": "images/articles/malaysia-ai-chip-smuggling-seizure-2026.jpg",
+    "imageCredit": "Unsplash — photo 1558494949-ef010cbdcc31",
+    "imageAccessed": "2026-10-29",
+    "imageAlt": "昏暗的服务器机房，一排排网络交换机亮着绿色与黄色指示灯，象征人工智能算力基础设施。",
+    "references": [
+      {
+        "date": "2026-10-28",
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "疑涉跨国走私团伙 马国起获1555万新元人工智能晶片",
+        "url": "https://www.zaobao.com/news/sea/story20261028-9907518"
+      },
+      {
+        "date": "2026-10-28",
+        "source": "Channel NewsAsia",
+        "title": "马来西亚机场海关查获价值1210万美元先进人工智能晶片",
+        "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976"
+      }
+    ]
+  },
+  {
     "slug": "qiaoxiang-ai-short-drama-overseas-2026",
     "title": "从卖货到卖故事：侨乡如何用AI短剧，把文化“新三样”交给侨胞带出海",
     "subtitle": "汕头、泉州、瑞安正把算力、内容与华侨网络拧成一条管道，让文化“新三样”借离散社群走向世界。",
