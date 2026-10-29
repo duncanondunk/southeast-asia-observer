@@ -39,6 +39,13 @@ PAREN = re.compile(r"[（(][^（）()]*[）)]")
 COMPOUND_PROTECT = [
     "北京语言大学出版社",
     "北京语言大学",
+    # Suffix containment: the glossary term is a *tail* of a longer proper noun
+    # and must NOT be fragmented. e.g. 马尼拉 inside 大马尼拉 (Metro Manila).
+    "大马尼拉",
+    # Prefix containment: city name followed by a facility modifier; the city is
+    # only glossed when it stands alone, not inside "吉隆坡机场" etc.
+    "吉隆坡机场",
+    "吉隆坡国际机场",
 ]
 
 
@@ -82,14 +89,25 @@ def annotate_zh(zh, glossary):
             # Skip occurrences inside the topic-reference citation line.
             if not overlap and line_contains(idx, zh, "话题参考"):
                 overlap = True
-            if not overlap:
-                break
-            idx = zh.find(cn, idx + 1)
+            # Skip a match that is part of a longer compound proper noun, whether
+            # the glossary term is a *prefix* (e.g. 北京 inside 北京语言大学出版社)
+            # or a *suffix* (e.g. 马尼拉 inside 大马尼拉). Fragmenting these would
+            # corrupt the compound's reading. When matched, advance to the next
+            # occurrence instead of abandoning the term entirely.
+            _skip = False
+            for comp in COMPOUND_PROTECT:
+                if cn not in comp:
+                    continue
+                cpos = comp.index(cn)
+                start = idx - cpos
+                if start >= 0 and zh[start:start + len(comp)] == comp:
+                    _skip = True
+                    break
+            if overlap or _skip:
+                idx = zh.find(cn, idx + 1)
+                continue
+            break
         if idx == -1:
-            continue
-        # Skip a match that is the prefix of a longer compound proper noun
-        # (e.g. 北京 inside 北京语言大学出版社) to avoid fragmenting it.
-        if any(zh[idx:idx + len(comp)] == comp for comp in COMPOUND_PROTECT):
             continue
         after = zh[idx + len(cn):]
         # Already carries an English gloss, possibly separated from the term by a
