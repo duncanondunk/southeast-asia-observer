@@ -1,5 +1,56 @@
 [
   {
+    "slug": "samsung-vietnam-semiconductor-substrate-2026",
+    "title": "三星电机50亿美元押注越南基板：从组装车间到芯片价值链",
+    "subtitle": "三星电机（Samsung Electro-Mechanics）近50亿美元扩产半导体基板，其中约18.7亿美元投向越南太原省新厂，标志「越南制造」向价值链上游爬升",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "半导体",
+      "三星",
+      "供应链",
+      "人工智能",
+      "产业升级",
+      "外商直接投资",
+      "中越关系",
+      "制造业",
+      "地缘政治"
+    ],
+    "country": "越南",
+    "date": "2026-10-29",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "三星电机宣布到2028年投入近50亿美元扩产半导体基板，其中约18.7亿美元投向越南太原省新厂。这标志着越南从手机组装向AI芯片关键基板制造爬升，是「中国+1」地缘避险与越南价值链升级的交汇，但电力、超纯水与人才短板仍是隐忧。",
+    "en": {
+      "title": "Samsung's $5bn Vietnam substrate bet: from assembly line to chip value chain",
+      "subtitle": "Samsung Electro-Mechanics' near-$5bn substrate expansion, with ~$1.87bn for a new Thai Nguyen plant, signals Vietnam's climb from phone assembly to AI chip substrates.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Samsung Electro-Mechanics will invest nearly US$5bn through 2028 to expand semiconductor substrate production, with about US$1.87bn for a new plant in Vietnam's Thai Nguyen province. The move marks Vietnam's climb from phone assembly to AI chip substrates—an intersection of China+1 hedging and Hanoi's value-chain upgrade—though power, ultra-pure water and talent gaps remain risks.",
+      "imageAlt": "An electronics manufacturing engineer working at a test bench, symbolising the engineering-capability build-up Vietnam needs to climb the semiconductor value chain.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Samsung takes Vietnam up semiconductor value chain with $5bn expansion",
+          "url": "https://asia.nikkei.com",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "image": "images/articles/samsung-vietnam-semiconductor-substrate-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-29",
+    "imageAlt": "电子制造工程师在测试台前作业，象征越南向半导体价值链上游爬升所需的工程能力积累。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Samsung takes Vietnam up semiconductor value chain with $5bn expansion",
+        "url": "https://asia.nikkei.com",
+        "date": "2026-10-07"
+      }
+    ]
+  },
+  {
     "slug": "malaysia-ai-chip-smuggling-seizure-2026",
     "title": "吉隆坡机场查获逾1500万新元人工智能晶片 走私网络现形",
     "subtitle": "30台服务器谎报为「电子零件」、估值约4950万林吉特，同一走私网络年内至少涉5案，借道转口规避美国对华晶片出口管制。",
