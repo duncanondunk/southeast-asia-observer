@@ -1,5 +1,64 @@
 [
   {
+    "slug": "malaysia-guang-ming-daily-evening-edition-ceases-2026",
+    "title": "一份晚报的落幕：马来西亚《光明日报》晚报停刊与华文媒体的转身",
+    "subtitle": "马来西亚最后一份晚报即将退场。表面是发行调整，深层是华文纸媒在数字洪流中的集体转身，以及华社“文化骨骼”的一次细微松动。",
+    "category": "华侨华人",
+    "tags": [
+      "马来西亚",
+      "华侨华人",
+      "华文媒体",
+      "文化传承",
+      "数字化转型",
+      "东南亚"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-30",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/malaysia-guang-ming-daily-evening-edition-ceases-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-30",
+    "imageAlt": "一名读者在户外手持展开的报纸阅读",
+    "summary": "马来西亚《光明日报》晚报将于10月31日出版最后一期，11月1日起停止北马发行，成为马国最后一份退场的晚报。这既是读者阅读习惯数字化的缩影，也折射华文纸媒广告溃散与华社“文化骨骼”的细微松动；日报与电子报仍在，马来西亚仍是东南亚华文报业最坚韧的堡垒。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国《光明日报》晚报周末出版后停刊",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261029-9917810",
+        "date": "2026-10-29"
+      },
+      {
+        "source": "世界华文媒体有限公司 Media Chinese International",
+        "title": "2025/2026 年度业绩",
+        "url": "https://www.mediachinesegroup.com",
+        "date": "2026"
+      }
+    ],
+    "en": {
+      "title": "The last evening paper: Guang Ming Daily's closure and the turn of Malaysia's Chinese-language press",
+      "subtitle": "Malaysia's last evening newspaper is about to disappear. On the surface a distribution tweak, underneath it signals the collective turn of Chinese-language print in the digital tide and a small loosening of the Chinese community's cultural backbone.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "Malaysia's Guang Ming Daily will publish its final evening edition on October 31 and stop North Malaysian distribution from November 1, ending the country's last evening newspaper. The closure captures both the digital migration of reading habits and the advertising collapse squeezing Chinese-language print — yet dailies and e-papers survive, leaving Malaysia the last fortress of overseas Chinese press in Southeast Asia.",
+      "imageAlt": "A reader holding an open newspaper outdoors",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Malaysia's Guang Ming Daily to cease evening edition",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261029-9917810",
+          "date": "2026-10-29"
+        },
+        {
+          "source": "Media Chinese International",
+          "title": "Annual results FY2025/26",
+          "url": "https://www.mediachinesegroup.com",
+          "date": "2026"
+        }
+      ]
+    }
+  },
+  {
     "slug": "wushu-overseas-chinese-2026",
     "title": "武术落地海外：华侨华人如何把拳脚变成文化桥梁",
     "subtitle": "当武术在达喀尔青奥会首次成为奥运系列赛事的正式比赛项目，真正把这门技艺播向世界的，是一代代华侨华人开设的武馆、校园课程与赛事平台——而非任何宏大的官方叙事。",
