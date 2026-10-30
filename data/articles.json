@@ -1,5 +1,66 @@
 [
   {
+    "slug": "asean-ev-sales-chinese-brands-2026",
+    "title": "车轮上的角力：东盟电车销量飙升，中国品牌拿下近半壁江山",
+    "subtitle": "据《日经亚洲》统计，2026年第二季度东盟主要市场汽车销量同比回升约11%，印尼以34%领涨；普华永道数据显示上半年六国电气化车辆销量55.7万辆、涨62%，中国品牌占前15名中8席、近半壁江山。电动化正重写区域汽车工业半个世纪的权力格局。",
+    "category": "经济产业",
+    "tags": [
+      "东南亚",
+      "电动汽车",
+      "经济",
+      "中国—东盟",
+      "印度尼西亚",
+      "制造业",
+      "东盟",
+      "新能源"
+    ],
+    "country": "东南亚",
+    "date": "2026-10-30",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/asean-ev-sales-chinese-brands-2026.jpg",
+    "imageCredit": "Pexels — photo 32327756",
+    "imageAccessed": "2026-10-30",
+    "imageAlt": "雅加达城市天际线，印尼——东盟电气化汽车浪潮中增速最快的核心市场",
+    "summary": "据《日经亚洲》报道，2026年第二季度东盟主要市场汽车销量同比回升约11%，印尼以34%领涨。普华永道数据显示上半年六国电气化车辆销量55.7万辆、涨62%，中国品牌占前15名中8席、近半壁江山。比亚迪、VinFast领跑，日系靠混动守成。电动化正重写区域汽车工业半个世纪的权力格局。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "EV boom drives ASEAN car sales in Q2, with Indonesia surging 34%",
+        "url": "https://asia.nikkei.com/business/automobiles/ev-boom-drives-asean-car-sales-in-q2-with-indonesia-surging-34",
+        "date": "2026-08-04"
+      },
+      {
+        "source": "印尼汽车工业协会 Gaikindo / 印尼商报 Shangbao Indonesia",
+        "title": "今年首9个月汽车市场增长 批发销量增长21%",
+        "url": "https://shangbaoindonesia.com/index.php/read/2026/10/09/economy-1791533727",
+        "date": "2026-10-09"
+      }
+    ],
+    "en": {
+      "title": "Wheels of contest: ASEAN's EV sales surge as Chinese brands take nearly half the market",
+      "subtitle": "Nikkei Asia reports ASEAN major-market vehicle sales rose about 11% year on year in Q2 2026, led by Indonesia's 34% surge. PwC data show first-half electrified-vehicle sales across six markets hit 557,000, up 62%, with Chinese brands taking 8 of the top 15 spots and nearly half the market. Electrification is reshaping the region's automotive order.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "In Q2 2026, ASEAN vehicle sales rose about 11% year on year, led by Indonesia's 34% surge, Nikkei Asia reported. PwC data show first-half electrified-vehicle sales across six markets hit 557,000, up 62%, with Chinese brands taking 8 of the top 15 spots and nearly half the market. BYD and Vietnam's VinFast lead, while Japanese automakers defend with hybrids. Electrification is reshaping the region's automotive order.",
+      "imageAlt": "Jakarta skyline, Indonesia — the fastest-growing core market in ASEAN's electrified-vehicle wave",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "EV boom drives ASEAN car sales in Q2, with Indonesia surging 34%",
+          "url": "https://asia.nikkei.com/business/automobiles/ev-boom-drives-asean-car-sales-in-q2-with-indonesia-surging-34",
+          "date": "2026-08-04"
+        },
+        {
+          "source": "Gaikindo (Indonesian Automotive Industry Association) / Shangbao Indonesia",
+          "title": "Indonesia auto market grows in first 9 months; wholesale up 21%",
+          "url": "https://shangbaoindonesia.com/index.php/read/2026/10/09/economy-1791533727",
+          "date": "2026-10-09"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-badr-defence-pact-2026",
     "title": "从「满月」到自主：印尼牵头的四国「巴德尔」防务协议，能甩掉西方军售的「政治弦」吗？",
     "subtitle": "土耳其、卡塔尔、巴基斯坦与印尼在多哈签下「巴德尔」防务产业备忘录，抱团摆脱西方军售的政治条件与出口管制。对印尼，这是战略自主的一步，但技术天花板、平台整合与印度的战略猜疑，让它的现实回报仍存变数。",
