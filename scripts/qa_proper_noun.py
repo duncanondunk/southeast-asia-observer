@@ -80,6 +80,11 @@ def annotate_zh(zh, glossary):
     for cn, en in entries:
         idx = zh.find(cn)
         while idx != -1:
+            # Guard: "中印尼" (China–Indonesia) must not be matched as the tail
+            # of "其中印尼" ("among which Indonesia"). Skip such false positives.
+            if cn == "中印尼" and idx > 0 and zh[idx - 1] == "其":
+                idx = zh.find(cn, idx + 1)
+                continue
             overlap = any(
                 p0 <= idx < p1
                 or p0 < idx + len(cn) <= p1
