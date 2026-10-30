@@ -1,5 +1,51 @@
 [
   {
+    "slug": "wushu-overseas-chinese-2026",
+    "title": "武术落地海外：华侨华人如何把拳脚变成文化桥梁",
+    "subtitle": "当武术在达喀尔青奥会首次成为奥运系列赛事的正式比赛项目，真正把这门技艺播向世界的，是一代代华侨华人开设的武馆、校园课程与赛事平台——而非任何宏大的官方叙事。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "武术",
+      "文化走出去",
+      "离散",
+      "文化认同"
+    ],
+    "country": "全球",
+    "date": "2026-10-30",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "武术将在达喀尔青奥会首次成为奥运系列赛事正式项目。文章借中国侨网对海外传武人的访谈指出：真正把武术播向世界的是华侨华人社区——武馆、校园课程与赛事，而非官方叙事；其可持续性与本真性仍待解答。",
+    "image": "images/articles/wushu-overseas-chinese-2026.jpg",
+    "imageCredit": "Picsum",
+    "imageAccessed": "2026-10-30",
+    "imageAlt": "静谧的自然峡谷与瀑布，象征文化跨越边界的生生不息",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "华侨华人推动武术海外落地开花",
+        "url": "https://www.chinaqw.com/hqhr/2026/10-29/413335.shtml",
+        "date": "2026-10-29"
+      }
+    ],
+    "en": {
+      "title": "Wushu Goes Global: How Overseas Chinese Turn Martial Arts into a Cultural Bridge",
+      "subtitle": "As wushu debuts at the Dakar Youth Olympics, a quiet diaspora effort — studios, school programmes and tournaments — is doing what state-led cultural diplomacy often cannot.",
+      "category": "Overseas Chinese",
+      "country": "Worldwide",
+      "summary": "Wushu will make its Olympic-series debut at the Dakar Youth Olympics. Drawing on China Qiaowang's interviews with overseas martial-arts carriers, this piece argues that it is the overseas Chinese community — studios, school curricula and tournaments — rather than official programmes, that has truly planted wushu abroad, while its sustainability and authenticity remain open questions.",
+      "imageAlt": "A tranquil natural gorge and waterfall, symbolising culture taking root across borders",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Overseas Chinese promote wushu taking root abroad",
+          "url": "https://www.chinaqw.com/hqhr/2026/10-29/413335.shtml",
+          "date": "2026-10-29"
+        }
+      ]
+    }
+  },
+  {
     "slug": "southeast-asia-housing-paradox-2026",
     "title": "东南亚的住房悖论：房子越盖越多，年轻人却买不起",
     "subtitle": "南华早报一篇报道揭开区域性错配——空置的公寓与买不起房的年轻一代并存",
