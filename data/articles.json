@@ -1,5 +1,54 @@
 [
   {
+    "slug": "malaysia-us-rare-earth-refineries-dtec-2026",
+    "title": "美国资本挺进马来西亚稀土：多元化，还是换一种依赖？",
+    "subtitle": "美国资本控股的稀土初创企业（DTEC Mineral）计划投资6亿美元，三年内在马来西亚建两座稀土提炼厂、目标年产能1万公吨，并成首家获准向美出口700公吨原矿的企业。文章认为，这既是中国以外供应链布局的一步棋，也暴露吉隆坡以出租地质换投资的权衡。",
+    "category": "地缘政治",
+    "tags": [
+      "稀土",
+      "关键矿产",
+      "中美竞争",
+      "供应链",
+      "马来西亚",
+      "地缘政治",
+      "美国",
+      "经济产业"
+    ],
+    "country": "马来西亚",
+    "date": "2026-10-31",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/malaysia-us-rare-earth-refineries-dtec-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-31",
+    "imageAlt": "美钞特写，象征围绕稀土供应链与关键矿产的资本角力",
+    "summary": "一家美国资本控股的初创企业计划投资6亿美元，三年内在马来西亚建两座稀土提炼厂，目标年产能1万公吨，并成首家获准向美出口700公吨原矿的企业。文章认为，这既是中国以外供应链布局的一步棋，也暴露吉隆坡以出租地质换投资的权衡——股权多元化不等于杠杆多元化，且多数矿藏尚未证实可商业开采。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "美企拟在马国兴建两座提炼厂 降低对中国稀土供应的依赖",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261030-9923287",
+        "date": "2026-10-30"
+      }
+    ],
+    "en": {
+      "title": "US-Backed Rare Earth Refineries in Malaysia: Diversification or a Rename of Dependence?",
+      "subtitle": "DTEC Mineral, a US-capital start-up, plans to invest US$600 million to build two rare earth refineries in Malaysia over three years, targeting 10,000 tonnes a year, and has become the first firm cleared to export 700 tonnes of raw ore to the US since Malaysia eased its 2024 ban. The piece argues this is both a move to build supply chains beyond China and a Malaysian wager that trades geology for investment.",
+      "category": "Geopolitics",
+      "country": "Malaysia",
+      "summary": "DTEC Mineral, a US-capital start-up, plans to invest US$600 million in two Malaysian rare earth refineries targeting 10,000 tonnes a year, and has become the first firm cleared to export 700 tonnes of raw ore to the US since Malaysia eased its 2024 ban. The piece argues this is both a US move to bypass China's processing dominance and a Malaysian wager that trades geology for investment — ownership diversification without leverage diversification, amid resources largely unproven.",
+      "imageAlt": "Close-up of US banknotes, symbolising the capital contest over rare earth supply chains and critical minerals.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "US firms plan two refining plants in Malaysia to reduce dependence on China's rare earth supply",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261030-9923287",
+          "date": "2026-10-30"
+        }
+      ]
+    }
+  },
+  {
     "slug": "shantou-univ-myanmar-guangdong-oral-history-2026",
     "title": "记录南洋：一所广东高校如何为缅甸华侨华人建档",
     "subtitle": "汕头大学区域国别与华侨华人研究院赴仰光，联合缅甸广东工商总会与潮州会馆，对近20位粤籍华侨华人做口述史访谈，并完成其第六个国别研究。文章认为，在缅甸长期动荡中，这项「抢救性」记录既补官方档案之缺，也折射侨乡对离散记忆的主动建档。",
