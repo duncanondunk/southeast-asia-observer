@@ -1,5 +1,51 @@
 [
   {
+    "slug": "vietnam-foreign-landed-home-ban-2026",
+    "title": "越南拟禁外国人买有地住宅 公寓之外再筑一道墙",
+    "subtitle": "住房法修订草案拟全面禁售别墅排屋，仅留高层公寓通道",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "房地产",
+      "外资",
+      "法律",
+      "住房"
+    ],
+    "country": "越南",
+    "date": "2026-10-31",
+    "readingTime": 8,
+    "featured": false,
+    "image": "images/articles/vietnam-foreign-landed-home-ban-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-10-31",
+    "imageAlt": "胡志明市黄昏天际线，高层公寓楼群沿江矗立，象征越南城市化与外籍买家聚焦的公寓市场。",
+    "summary": "越南政府拟修订《住房法》，全面禁止外国人购买别墅、排屋等所有有地住宅，仅保留高层公寓通道；单栋公寓外资占比上限维持30%，产权最长50年、可续一次。这一转向逆转2014年以来的开放，背景是房价已飙至居民收入19倍以上、越共中央重申「土地全民所有」。修正案拟于国会审议，若通过将于2027年3月生效。",
+    "references": [
+      {
+        "date": "2026-10-16",
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Vietnam weighs barring foreign purchases of houses",
+        "url": "https://s.nikkei.com/4jkS2kt"
+      }
+    ],
+    "en": {
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "title": "Vietnam moves to bar foreigners from buying landed homes — a wall beyond apartments",
+      "subtitle": "Draft housing-law revision would ban villas and townhouses, leaving only high-rise flats",
+      "summary": "Vietnam plans to amend its Housing Law to bar foreigners from buying all landed homes—villas, townhouses, row houses—permitting only high-rise apartments, with the 30% foreign cap per building and 50-year renewable title unchanged. The shift reverses the 2014 opening and comes as prices reach 19 times median income and the Party reaffirms that land belongs to all the people. The draft goes before the National Assembly this session and, if passed, takes effect in March 2027.",
+      "imageAlt": "Ho Chi Minh City skyline at dusk, high-rise apartment towers lining the Saigon River, symbolising Vietnam's urbanisation and the apartment market foreign buyers focus on.",
+      "references": [
+        {
+          "date": "2026-10-16",
+          "source": "Nikkei Asia",
+          "title": "Vietnam weighs barring foreign purchases of houses",
+          "url": "https://s.nikkei.com/4jkS2kt"
+        }
+      ]
+    }
+  },
+  {
     "slug": "us-asean-defence-framework-hegseth-2026",
     "title": "赫格塞思的“美—东盟防务框架”：在一个偏爱灵活性的地区，这是一场难卖的推销",
     "subtitle": "美国国防部长赫格塞思在宿务提议建立美—东盟防务合作框架，宣称要为未来“至关重要的几年”提供指引；但框架语焉不详、缺少实质，东盟成员国更可能沿用双边安排以保留在中美之间周旋的余地。",
