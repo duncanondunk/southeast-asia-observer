@@ -1,5 +1,55 @@
 [
   {
+    "slug": "indonesia-singapore-haze-gas-dispute-2026",
+    "title": "烟霾未散又断气：印尼与新加坡的这场外交摩擦，揭开了东盟能源互赖的软肋",
+    "subtitle": "印尼因十一年来最猛林火引发跨境烟霾，与新加坡交恶；10月24日起将对新管道天然气减供约8%。这场从环境纠纷外溢至能源博弈的摩擦，既暴露新加坡对邻国能源的高度互赖，也测试着资源民族主义升温下东盟跨境合约与区域电网的可信度。",
+    "category": "地缘政治",
+    "tags": [
+      "印尼",
+      "新加坡",
+      "地缘政治",
+      "能源安全",
+      "跨境烟霾",
+      "天然气",
+      "东盟",
+      "气候变化",
+      "资源民族主义"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-11-01",
+    "readingTime": 8,
+    "featured": false,
+    "image": "images/articles/indonesia-singapore-haze-gas-dispute-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-01",
+    "imageAlt": "黄昏中纵横交错的输电铁塔与电缆，隐喻能源基础设施与区域电力互赖。",
+    "summary": "印尼因十一年来最猛林火引发的跨境烟霾与新加坡交恶，10月24日起将对新管道天然气减供约8%。这场从环境纠纷外溢至能源博弈的摩擦，既暴露新加坡对邻国能源的高度互赖，也测试着资源民族主义升温下东盟跨境合约与区域电网的可信度。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesia reduces piped gas to Singapore by about 8% as haze strains ties",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-10-27"
+      }
+    ],
+    "en": {
+      "title": "Haze Unsettled, Gas Cut: How the Indonesia–Singapore Spat Exposes ASEAN's Fragile Energy Interdependence",
+      "subtitle": "Indonesia's worst fires in 11 years sparked a transboundary-haze row with Singapore; from 24 October it cut pipelined gas to the city-state by about 8%. The spat, spilling from environment to energy, exposes Singapore's heavy dependence on a neighbour's gas and tests the credibility of ASEAN cross-border contracts and the regional power grid as resource nationalism rises.",
+      "category": "Geopolitics",
+      "country": "Indonesia",
+      "summary": "Indonesia cut pipelined gas to Singapore by about 8% from 24 October amid a haze dispute — its worst fires in 11 years. The spat, spilling from environment to energy, exposes Singapore's heavy dependence on a neighbour's gas and tests the credibility of ASEAN cross-border contracts and the regional power grid as resource nationalism rises.",
+      "imageAlt": "Transmission towers and cables against a dusk sky — a metaphor for energy infrastructure and regional interdependence.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia reduces piped gas to Singapore by about 8% as haze strains ties",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-10-27"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-retail-electricity-price-cut-2026",
     "title": "越南下调零售电价2%：制造神话背后的能源账单",
     "subtitle": "越南政府自11月1日起将平均零售电价下调2%，在出口放缓与通胀压力下为企业与家庭减负，却将成本转嫁给长期亏损的国有电力垄断企业EVN。",
