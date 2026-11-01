@@ -1,5 +1,52 @@
 [
   {
+    "slug": "vietnam-retail-electricity-price-cut-2026",
+    "title": "越南下调零售电价2%：制造神话背后的能源账单",
+    "subtitle": "越南政府自11月1日起将平均零售电价下调2%，在出口放缓与通胀压力下为企业与家庭减负，却将成本转嫁给长期亏损的国有电力垄断企业EVN。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "能源",
+      "电力",
+      "经济",
+      "民生",
+      "通货膨胀"
+    ],
+    "country": "越南",
+    "date": "2026-11-01",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/vietnam-retail-electricity-price-cut-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-01",
+    "imageAlt": "东南亚城市的璀璨夜景，霓虹与街灯闪烁，隐喻支撑制造业运转的电力网络。",
+    "summary": "越南11月1日起将平均零售电价下调2%至每千瓦时2159.9越南盾。在通胀与出口放缓下，河内以降价为企业与家庭减负，却将成本压力转嫁给长期亏损的国有垄断企业EVN。这一政治让利未触及电价垄断与定价行政化的根本病灶，折射出越南制造神话背后高度外部化、脆弱的能源账单。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "越南11月1日起下调零售电价2% 减轻民生与企业负担",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261031-9927348",
+        "date": "2026-10-31"
+      }
+    ],
+    "en": {
+      "title": "Vietnam Cuts Retail Electricity Tariff by 2%: The Hidden Energy Bill Behind the Manufacturing Miracle",
+      "subtitle": "From 1 November Vietnam lowers its average retail tariff by 2%; amid slowing exports and inflation it eases the burden on firms and households while shifting the cost onto the loss-making state monopoly EVN.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "From 1 November Vietnam cuts its average retail electricity tariff by 2% to 2,159.9 dong per kWh. Amid inflation and slowing exports, Hanoi eases the burden on firms and households, but shifts the cost onto the loss-making state monopoly EVN. The political relief leaves untouched the root problems of EVN's monopoly and administratively set prices, exposing the fragile, externalised energy web behind Vietnam's manufacturing story.",
+      "imageAlt": "A Southeast Asian city at night, its neon and streetlights glowing — a metaphor for the power grid behind the region's factories.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Vietnam to cut retail electricity prices by 2% from Nov 1 to ease household and business burden",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261031-9927348",
+          "date": "2026-10-31"
+        }
+      ]
+    }
+  },
+  {
     "slug": "wenchang-nanyang-overseas-chinese-museum-2026",
     "title": "文昌南洋华侨馆开馆：小镇里的南洋百年记忆",
     "subtitle": "海南文昌以一座198平方米的展馆与一间咖啡非遗工坊，把零散的侨乡记忆收拢成可触摸的实体。",
