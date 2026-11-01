@@ -1,5 +1,54 @@
 [
   {
+    "slug": "sea-children-online-safety-bigtech-2026",
+    "title": "以“成年”为门槛：东南亚集体收紧社交平台的儿童保护监管",
+    "subtitle": "印尼、马来西亚、越南、菲律宾、新加坡接连出手，用立法与罚单逼社交巨头为未成年人负责——但监管的权力边界同样值得警惕。",
+    "category": "社会文化",
+    "tags": [
+      "社会文化",
+      "东南亚",
+      "印度尼西亚",
+      "马来西亚",
+      "社交媒体",
+      "治理",
+      "数字主权",
+      "社会政策"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-11-01",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/sea-children-online-safety-bigtech-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-01",
+    "imageAlt": "东南亚城市夜景街市，霓虹与街头摊位交织，隐喻数字时代下被聚光灯照亮的生活。",
+    "summary": "东南亚多国今年密集出台儿童网络保护法规：印尼禁16岁以下使用高风险平台，马来西亚重罚违规，越南拟限“只读”，新加坡立法先行。监管能否真正约束社交巨头，还是异化为扩张数字管控的借口，仍是未竟之问。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asia battles Big Tech to protect children online",
+        "url": "https://www.scmp.com/week-asia/politics/article/3370362/childs-play-southeast-asia-takes-big-tech-protect-kids-online",
+        "date": "2026-10-11"
+      }
+    ],
+    "en": {
+      "title": "Can Southeast Asia make Big Tech answer for its youngest users?",
+      "subtitle": "Indonesia, Malaysia, Vietnam, the Philippines and Singapore are pushing platforms to take responsibility for minors — but the boundaries of that regulatory power deserve equal scrutiny.",
+      "category": "Society & Culture",
+      "country": "Indonesia",
+      "summary": "Southeast Asian governments are racing to regulate Big Tech over child safety: Indonesia bars under-16s from high-risk platforms, Malaysia fines non-compliant firms, Vietnam weighs a view-only mode and Singapore led with legislation. Whether such rules truly bind the platforms or merely expand state control over digital space remains the open question.",
+      "imageAlt": "A Southeast Asian city street at night, neon signs and market stalls — a metaphor for everyday life under the spotlight of the digital age.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Southeast Asia battles Big Tech to protect children online",
+          "url": "https://www.scmp.com/week-asia/politics/article/3370362/childs-play-southeast-asia-takes-big-tech-protect-kids-online",
+          "date": "2026-10-11"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-singapore-haze-gas-dispute-2026",
     "title": "烟霾未散又断气：印尼与新加坡的这场外交摩擦，揭开了东盟能源互赖的软肋",
     "subtitle": "印尼因十一年来最猛林火引发跨境烟霾，与新加坡交恶；10月24日起将对新管道天然气减供约8%。这场从环境纠纷外溢至能源博弈的摩擦，既暴露新加坡对邻国能源的高度互赖，也测试着资源民族主义升温下东盟跨境合约与区域电网的可信度。",
