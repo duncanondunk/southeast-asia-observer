@@ -1,5 +1,52 @@
 [
   {
+    "slug": "wenchang-nanyang-overseas-chinese-museum-2026",
+    "title": "文昌南洋华侨馆开馆：小镇里的南洋百年记忆",
+    "subtitle": "海南文昌以一座198平方米的展馆与一间咖啡非遗工坊，把零散的侨乡记忆收拢成可触摸的实体。",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨乡",
+      "南洋",
+      "海南",
+      "文化传承",
+      "咖啡"
+    ],
+    "country": "中国",
+    "date": "2026-11-01",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/wenchang-nanyang-overseas-chinese-museum-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-01",
+    "imageAlt": "夜色中的东南亚唐人街，霓虹灯下的骑楼与街市，呼应下南洋的侨乡记忆。",
+    "summary": "海南文昌南洋华侨馆暨迈号咖啡非遗工坊近日开馆。这座198平方米的展馆以四个板块梳理文昌下南洋的百年离散史，并嵌入咖啡工坊把侨史变成可品尝的感官记忆。它折射出中国侨乡正将离散记忆「实体化」为联结侨胞、引流侨资的文化资产。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "海南文昌南洋华侨馆开馆",
+        "url": "https://www.chinaqw.com/qx/2026/10-30/413464.shtml",
+        "date": "2026-10-30"
+      }
+    ],
+    "en": {
+      "title": "Wenchang's Nanyang Overseas Chinese Museum Opens: A Century of Diaspora Memory in a Small Town",
+      "subtitle": "With a 198-square-metre hall and a coffee heritage workshop, Wenchang, Hainan, gathers its scattered qiaoxiang memory into a tangible form.",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "Hainan's Wenchang has opened a 198-square-metre Nanyang Overseas Chinese Museum with a coffee heritage workshop. Through four zones it traces a century of local emigration to Southeast Asia, while the embedded kopi-o workshop turns abstract diaspora history into a tasteable, sensory memory. The opening reflects a broader trend in China's qiaoxiang: turning scattered diaspora memory into physical spaces that reconnect overseas compatriots and attract qiao capital.",
+      "imageAlt": "A Southeast Asian Chinatown at night, with lit-up shophouses and street life, echoing the Nanyang migration memory.",
+      "references": [
+        {
+          "source": "China Qiaowang",
+          "title": "Hainan Wenchang Nanyang Overseas Chinese Museum Opens",
+          "url": "https://www.chinaqw.com/qx/2026/10-30/413464.shtml",
+          "date": "2026-10-30"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-foreign-landed-home-ban-2026",
     "title": "越南拟禁外国人买有地住宅 公寓之外再筑一道墙",
     "subtitle": "住房法修订草案拟全面禁售别墅排屋，仅留高层公寓通道",

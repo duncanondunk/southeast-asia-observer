@@ -2175,6 +2175,13 @@
       "slugs": [
         "vietnam-foreign-landed-home-ban-2026"
       ]
+    },
+    "event:海南文昌南洋华侨馆开馆(2026-10)": {
+      "slugs": [
+        "wenchang-nanyang-overseas-chinese-museum-2026"
+      ],
+      "exception": null,
+      "note": "全新素材：海南文昌南洋华侨馆暨迈号咖啡非遗工坊开馆（2026-10-29，龙楼镇），198平方米展馆分四板块梳理文昌下南洋离散史，并嵌入歌碧欧咖啡非遗工坊。"
     }
   },
   "event:印尼考虑中国投资建设跨加里曼丹2772公里铁路网(2026-10)": {
