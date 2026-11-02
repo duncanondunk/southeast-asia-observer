@@ -1,5 +1,51 @@
 [
   {
+    "slug": "malaysia-media-innovation-fund-2026",
+    "title": "马来西亚3000万令吉媒体续命金：是救济，还是缓刑？",
+    "subtitle": "政府推出媒体创新基金2.0，以不裁员为前提救助新闻业转型",
+    "category": "华侨华人",
+    "tags": [
+      "马来西亚",
+      "华文媒体",
+      "数字化转型",
+      "文化传承",
+      "社会政策"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-02",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/malaysia-media-innovation-fund-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-02",
+    "imageAlt": "马来西亚吉隆坡双子塔黄昏，隐喻华文媒体在数字时代的转型。",
+    "summary": "马来西亚政府推出媒体创新基金2.0，拨款3000万令吉救助新闻业数字化转型，前提是不任意裁员。星洲日报等华文媒体称基金有助在转型中保留语言文化特色。分析认为，这笔钱能买时间，却难补结构缺口、难救被平台夺走的广告收入。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "马国拨3000万令吉助转型 媒体业者严格限制裁员",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261101-9930067",
+        "date": "2026-11-01"
+      }
+    ],
+    "en": {
+      "title": "Malaysia's RM30 Million Media Lifeline: Relief, or a Reprieve?",
+      "subtitle": "The government's Media Innovation Fund 2.0 aids newsroom transformation on condition of no layoffs",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "Malaysia launched the Media Innovation Fund 2.0, committing RM30 million to newsroom digital transformation on condition of no arbitrary layoffs. Chinese-language dailies such as Sin Chew say the fund helps preserve language and cultural character. The grant buys time but cannot restore ad revenue lost to platforms.",
+      "imageAlt": "Kuala Lumpur's Petronas Twin Towers at dusk, a metaphor for Chinese-language media's digital transformation.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Malaysia allocates RM30 million to media transformation fund, strictly limits layoffs",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261101-9930067",
+          "date": "2026-11-01"
+        }
+      ]
+    }
+  },
+  {
     "slug": "hp-asus-acer-pc-production-back-to-china-2026",
     "title": "「中国+1」掉头：惠普华硕宏碁把PC产能搬回中国，东南亚「组装车间」现原形",
     "subtitle": "据《日经亚洲》10月28日报道，惠普、华硕、宏碁正把部分个人电脑产能从泰国、越南迁回中国大陆，戴尔也在评估；AI数据中心挤占存储芯片产能、零件价格数倍上涨，东南亚配套率不足三成、综合成本反高，关税理由又已松动。",
