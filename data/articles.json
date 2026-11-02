@@ -1,5 +1,68 @@
 [
   {
+    "slug": "hp-asus-acer-pc-production-back-to-china-2026",
+    "title": "「中国+1」掉头：惠普华硕宏碁把PC产能搬回中国，东南亚「组装车间」现原形",
+    "subtitle": "据《日经亚洲》10月28日报道，惠普、华硕、宏碁正把部分个人电脑产能从泰国、越南迁回中国大陆，戴尔也在评估；AI数据中心挤占存储芯片产能、零件价格数倍上涨，东南亚配套率不足三成、综合成本反高，关税理由又已松动。",
+    "category": "经济产业",
+    "tags": [
+      "供应链",
+      "制造业",
+      "中国—东盟",
+      "越南",
+      "泰国",
+      "人工智能",
+      "电子产业",
+      "产业升级",
+      "中美竞争",
+      "中国"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-02",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/hp-asus-acer-pc-production-back-to-china-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-02",
+    "imageAlt": "电路板特写，隐喻个人电脑产业链与「中国+1」供应链的重构。",
+    "summary": "《日经亚洲》10月28日披露，惠普、华硕、宏碁正把部分个人电脑产能从泰国、越南迁回中国大陆，戴尔也在评估。导火索是人工智能数据中心挤占存储芯片产能、零件价格数倍上涨，东南亚配套率不足三成、综合成本反高，关税理由又已松动。这不是「脱钩失败」，而是成本算盘重估「中国+1」。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
+        "url": "https://s.nikkei.com/4BwRFKb",
+        "date": "2026-10-28"
+      },
+      {
+        "source": "经济日报（台湾）",
+        "title": "PC制造商回流大陆生产 着眼成本、效率",
+        "url": "https://money.udn.com/money/story/11162/9843333",
+        "date": "2026-10-29"
+      }
+    ],
+    "en": {
+      "title": "When 'China+1' reverses: HP, Asus and Acer move PC production back to China — and Southeast Asia's assembly illusion is exposed",
+      "subtitle": "Nikkei Asia reported on 28 October that HP, Asus and Acer are shifting some PC production from Thailand and Vietnam back to China, with Dell weighing a similar move; AI data-centre demand is crowding out memory-chip capacity and multiplying component prices, while Southeast Asia's sub-30% local content leaves total cost higher and the tariff rationale has faded.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "Nikkei Asia reported on 28 October that HP, Asus and Acer are shifting some PC production from Thailand and Vietnam back to China, with Dell weighing a similar move. The trigger is AI data-centre demand crowding out memory-chip capacity and multiplying component prices, while Southeast Asia's sub-30% local content leaves its total cost higher and the tariff rationale has faded. This is not 'decoupling failed' but a cost-led revaluation of 'China+1'.",
+      "imageAlt": "A close-up of a printed circuit board, a metaphor for the PC supply chain and the reworking of 'China+1'.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
+          "url": "https://s.nikkei.com/4BwRFKb",
+          "date": "2026-10-28"
+        },
+        {
+          "source": "Economic Daily (Taiwan)",
+          "title": "PC makers return production to mainland China, eyeing cost and efficiency",
+          "url": "https://money.udn.com/money/story/11162/9843333",
+          "date": "2026-10-29"
+        }
+      ]
+    }
+  },
+  {
     "slug": "hainan-asean-returnees-bridge-2026",
     "title": "海南借力东盟海归：自贸港把离散人才变成通往东南亚的桥",
     "subtitle": "300余名来自东盟的商协会代表、智库专家与海归人才聚首澄迈，签约人才联盟、落地科创与产业项目——海归正被塑造成链接中国与东盟市场、技术、资源的「天然纽带」。",
