@@ -1,5 +1,53 @@
 [
   {
+    "slug": "southeast-asia-chinese-traders-china-squeeze-2026",
+    "title": "被母国“抢生意”：东南亚华人小商贩遭遇中国工厂直销挤压",
+    "subtitle": "从印尼到菲律宾，侨商世代经营的“中间商”链条正被母国数字化直销冲垮",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "东南亚",
+      "印度尼西亚",
+      "菲律宾",
+      "电商",
+      "华商",
+      "贸易"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-02",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/southeast-asia-chinese-traders-china-squeeze-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-02",
+    "imageAlt": "曼谷唐人街夜景，霓虹灯下的商铺隐喻东南亚华人商贸网络的转型。",
+    "summary": "南华早报报道，印尼与菲律宾的华人小商贩发现，曾为自己供货的中国工厂正通过短视频与跨境电商平台直接卖给消费者，把侨商世代经营的中间商链条砍断。这揭示了一个深层悖论：母国越强、出海越猛，部分东南亚华人小商贩反而越难，侨商传统的连接角色正被数字化直销重塑。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asia's ethnic Chinese traders feel the China squeeze",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-10-18"
+      }
+    ],
+    "en": {
+      "title": "Caught in the squeeze: Southeast Asia's ethnic Chinese traders and the China shock from home",
+      "subtitle": "From Indonesia to the Philippines, the middleman chain overseas Chinese ran for generations is being dismantled by the homeland's digital direct sales",
+      "category": "Overseas Chinese",
+      "country": "Southeast Asia",
+      "summary": "SCMP reports that ethnic Chinese retailers in Indonesia and the Philippines find their former Chinese suppliers now selling direct to consumers via short-video and cross-border platforms, cutting out the middleman chain overseas Chinese families ran for generations. The story exposes a paradox: the stronger and more export-driven China becomes, the harder life grows for some Southeast Asian ethnic Chinese peddlers, as the diaspora bridge role is reshaped by the homeland digital direct-sales wave.",
+      "imageAlt": "Night view of Bangkok's Chinatown, shopfronts under neon lights symbolising the transformation of Southeast Asia's ethnic Chinese trade networks.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Southeast Asia's ethnic Chinese traders feel the China squeeze",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-media-innovation-fund-2026",
     "title": "马来西亚3000万令吉媒体续命金：是救济，还是缓刑？",
     "subtitle": "政府推出媒体创新基金2.0，以不裁员为前提救助新闻业转型",
