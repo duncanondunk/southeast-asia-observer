@@ -1,5 +1,45 @@
 [
   {
+    "slug": "sea-ai-graduate-jobs-terrified-2026",
+    "title": "「我很害怕」：人工智能如何冲击东南亚应届生就业",
+    "subtitle": "从曼谷到新加坡，应届生眼看着入门岗位被机器啃食——这不只是科技故事，更是一次地区经济能否接住年轻人的压力测试",
+    "category": "经济产业",
+    "tags": ["人工智能", "东南亚", "就业", "青年", "新加坡", "泰国", "自动化", "科技"],
+    "country": "新加坡",
+    "date": "2026-11-03",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/sea-ai-graduate-jobs-terrified-2026.jpg",
+    "imageCredit": "Pexels",
+    "imageAccessed": "2026-11-03",
+    "imageAlt": "曼谷湄南河畔的现代城市天际线，隐喻人工智能浪潮下东南亚城市经济与青年就业的张力",
+    "summary": "《南华早报》报道生成式人工智能正收割东南亚入门岗位，新加坡、泰国、马来西亚应届生失业率抬头。本文指出，自动化先吞掉职场「最底层一级」，而最需要就业、保障最弱的东南亚恰恰最经不起这一冲击；文凭保值逻辑被重估，保护入场坡道就是保护增长本身。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "‘I'm terrified’: AI comes for Southeast Asia's graduate jobs",
+        "url": "https://www.scmp.com/week-asia/economics/article/3372752/im-terrified-ai-comes-southeast-asias-graduate-jobs",
+        "date": "2026-10-31"
+      }
+    ],
+    "en": {
+      "title": "\"I'm terrified\": How Artificial Intelligence Is Reshaping Southeast Asia's Graduate Job Market",
+      "subtitle": "From Bangkok to Singapore, fresh graduates watch entry-level roles get eaten by machines — not just a tech story, but a stress test of whether the region's economies can absorb its youth.",
+      "category": "Economy & Industry",
+      "country": "Singapore",
+      "summary": "SCMP reports generative AI is already eroding entry-level roles across Southeast Asia, with graduate unemployment rising in Singapore, Thailand, and Malaysia. This piece argues automation is eating the bottom rung of the career ladder first, and that Southeast Asia — which needs mass entry-level employment most yet has the thinnest safety nets — is least able to absorb the shock. The store-of-value logic of a degree is being repriced; protecting the on-ramp is protecting the growth story itself.",
+      "imageAlt": "Bangkok's modern riverside skyline along the Chao Phraya — a metaphor for the urban economies where Southeast Asia's youth employment now meets the AI wave.",
+      "references": [
+        {
+          "source": "South China Morning Post (scmp.com)",
+          "title": "'I'm terrified': AI comes for Southeast Asia's graduate jobs",
+          "url": "https://www.scmp.com/week-asia/economics/article/3372752/im-terrified-ai-comes-southeast-asias-graduate-jobs",
+          "date": "2026-10-31"
+        }
+      ]
+    }
+  },
+  {
     "slug": "mahua-literature-vitality-2026",
     "title": "走过百年，马华文学为何仍有生命力？",
     "subtitle": "从黎紫书的《流俗地》到南方大学学院马华文学馆，一套自足的文学生态如何托起马来西亚华文书写",
