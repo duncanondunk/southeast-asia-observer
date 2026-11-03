@@ -1,10 +1,77 @@
 [
   {
+    "slug": "malaysia-wage-gap-singapore-commuters-2026",
+    "title": "工资追不上长堤：为何每天10万马来西亚人越堤赴新加坡打工",
+    "subtitle": "最低工资上调至2000令吉，仍难敌新加坡薪资引力",
+    "category": "华侨华人",
+    "tags": [
+      "马来西亚",
+      "新加坡",
+      "工资",
+      "劳动力",
+      "民生"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-03",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/malaysia-wage-gap-singapore-commuters-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-03",
+    "imageAlt": "吉隆坡茨厂街（唐人街）的街景，小贩与行人穿梭于店屋与摩天楼之间，映照马来西亚基层民生与经济活力",
+    "summary": "马来西亚将最低工资由1700令吉上调至2000令吉，但部长佐哈里直言，约10万马国人每日越堤赴新加坡打工，只因对岸薪资更具吸引力。低薪模式与对外劳的依赖，才是人才外流的根因。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "佐哈里：暴利企业拒付合理起薪 待遇悬殊促使马国人赴新打工",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261102-9933330",
+        "date": "2026-11-02"
+      },
+      {
+        "source": "马来西亚财政部 Ministry of Finance Malaysia",
+        "title": "Speech of the Fifth Madani Budget 2027",
+        "url": "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/bs27.pdf",
+        "date": "2026-10-10"
+      }
+    ],
+    "en": {
+      "title": "Malaysia's Wage Floor Can't Compete with the Causeway: Why 100,000 Malaysians Cross to Singapore Daily",
+      "subtitle": "A higher minimum wage to 2,000 ringgit still cannot match Singapore's pull",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "Malaysia will raise its minimum wage from 1,700 to 2,000 ringgit in mid-2027, yet Minister Zahari warns that roughly 100,000 Malaysians still cross daily to Singapore for higher pay. The real drain is a low-wage model and reliance on cheap foreign labour, not the wage floor alone.",
+      "imageAlt": "A street scene in Kuala Lumpur's Chinatown, with vendors and passers-by among shophouses and skyscrapers, reflecting Malaysia's grassroots economy",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Zahari: profiteering firms refuse fair starting pay, pay gap drives Malaysians to work in Singapore",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261102-9933330",
+          "date": "2026-11-02"
+        },
+        {
+          "source": "Ministry of Finance Malaysia",
+          "title": "Speech of the Fifth Madani Budget 2027",
+          "url": "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/bs27.pdf",
+          "date": "2026-10-10"
+        }
+      ]
+    }
+  },
+  {
     "slug": "sea-ai-graduate-jobs-terrified-2026",
     "title": "「我很害怕」：人工智能如何冲击东南亚应届生就业",
     "subtitle": "从曼谷到新加坡，应届生眼看着入门岗位被机器啃食——这不只是科技故事，更是一次地区经济能否接住年轻人的压力测试",
     "category": "经济产业",
-    "tags": ["人工智能", "东南亚", "就业", "青年", "新加坡", "泰国", "自动化", "科技"],
+    "tags": [
+      "人工智能",
+      "东南亚",
+      "就业",
+      "青年",
+      "新加坡",
+      "泰国",
+      "自动化",
+      "科技"
+    ],
     "country": "新加坡",
     "date": "2026-11-03",
     "readingTime": 6,
