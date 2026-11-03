@@ -1,5 +1,76 @@
 [
   {
+    "slug": "vietnam-offshore-oil-gas-south-china-sea-2026",
+    "title": "越南拉美日俄下海采气：一场被霍尔木兹海峡催化的南海能源博弈",
+    "subtitle": "从出光兴产、墨菲石油到埃克森美孚，越南用多元外力补能源短板，却把南海主权与地缘的难题一并摆上桌面",
+    "category": "地缘政治",
+    "tags": [
+      "越南",
+      "能源安全",
+      "南海",
+      "地缘政治",
+      "日本",
+      "美国",
+      "俄罗斯",
+      "天然气",
+      "石油",
+      "中国—东盟",
+      "投资",
+      "东南亚"
+    ],
+    "country": "越南",
+    "date": "2026-11-03",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/vietnam-offshore-oil-gas-south-china-sea-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-03",
+    "imageAlt": "越南胡志明市黄昏天际线，隐喻能源与地缘博弈之下越南的经济图景",
+    "summary": "《日经亚洲》报道越南正把美日俄能源企业拉进南海海上油气项目。霍尔木兹危机与2030年37吉瓦燃气发电雄心，逼出一场能源自主与外力依赖并存的突围；商业合同叠在争议海域之上，主权账远比能源账难算。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Vietnam offshore oil and gas draw Japan, US, Russia to South China Sea",
+        "url": "https://s.nikkei.com/4hNs1rz",
+        "date": "2026-10-09"
+      },
+      {
+        "source": "腾讯新闻 转引",
+        "title": "越南请美日俄开发海上油气，为什么争议区块的项目说停就停？",
+        "url": "https://new.qq.com/rain/a/20261013A06V8V00",
+        "date": "2026-10-13"
+      },
+      {
+        "source": "今日头条 转引",
+        "title": "南海油气开发博弈升级：越邀美日俄入局，中方划线为界",
+        "url": "https://www.toutiao.com/article/7695464519619052071",
+        "date": "2026-10-12"
+      }
+    ],
+    "en": {
+      "title": "Vietnam's Offshore Oil and Gas Draw Japan, U.S. and Russia into the South China Sea",
+      "subtitle": "From Idemitsu and Murphy Oil to ExxonMobil, Hanoi uses diversified external force to plug its energy gaps — and lays the South China Sea's sovereignty and geopolitical problems on the same table.",
+      "category": "Geopolitics",
+      "country": "Vietnam",
+      "summary": "Nikkei Asia reports Vietnam is bringing U.S., Japanese and Russian energy firms into its South China Sea offshore projects. The Hormuz crisis and a 2030 target of 37 GW of gas-fired power have forced a breakout that mixes energy autonomy with dependence on external force; commercial contracts laid over disputed waters make the sovereignty ledger far harder to settle than the energy one.",
+      "imageAlt": "Ho Chi Minh City's skyline at dusk — a metaphor for Vietnam's economic landscape beneath the energy and geopolitical contest.",
+      "references": [
+        {
+          "source": "Nikkei Asia (asia.nikkei.com)",
+          "title": "Vietnam offshore oil and gas draw Japan, US, Russia to South China Sea",
+          "url": "https://s.nikkei.com/4hNs1rz",
+          "date": "2026-10-09"
+        },
+        {
+          "source": "China-based media (qq.com / toutiao) recapping Nikkei",
+          "title": "Vietnam invites the U.S., Japan and Russia into South China Sea oil and gas; Beijing draws the line",
+          "url": "https://www.toutiao.com/article/7695464519619052071",
+          "date": "2026-10-12"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-wage-gap-singapore-commuters-2026",
     "title": "工资追不上长堤：为何每天10万马来西亚人越堤赴新加坡打工",
     "subtitle": "最低工资上调至2000令吉，仍难敌新加坡薪资引力",
