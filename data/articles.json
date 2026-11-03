@@ -1,5 +1,54 @@
 [
   {
+    "slug": "mahua-literature-vitality-2026",
+    "title": "走过百年，马华文学为何仍有生命力？",
+    "subtitle": "从黎紫书的《流俗地》到南方大学学院马华文学馆，一套自足的文学生态如何托起马来西亚华文书写",
+    "category": "华侨华人",
+    "tags": [
+      "马华文学",
+      "马来西亚",
+      "华文文学",
+      "东南亚",
+      "文化认同",
+      "离散",
+      "中文教育",
+      "文化"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-03",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/mahua-literature-vitality-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-03",
+    "imageAlt": "东南亚唐人街的霓虹夜景，隐喻华人离散社群与华文书写扎根市井的生命力。",
+    "summary": "中国侨网「东西问」专访马华文学馆主任许通元：马华文学百年不衰，靠的不是个别天才，而是一套自足的文学生态——华文教育、报刊、社团、奖项与文学馆共同托举。它从早年「中国书写」转向以马来西亚为主体的现实经验，在多语土壤里长出自身体主体性，这种「在地性」正是它跨越地域、抵抗文化扁平化的通行证。",
+    "references": [
+      {
+        "source": "中国侨网 China Qiao Wang",
+        "title": "东西问丨许通元：走过百年，马华文学为何仍有生命力？",
+        "url": "https://www.chinaqw.com/hwjy/2026/11-02/413489.shtml",
+        "date": "2026-11-02"
+      }
+    ],
+    "en": {
+      "title": "A Century On, Mahua Literature Still Breathes",
+      "subtitle": "From Li Zishu's 'Li Su Di' to the Mahua Literature Museum at Southern University College, how a self-sustaining ecology upholds Malaysian Chinese-language writing",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "China Qiao Wang's 'East Meets West' interview with Xu Tongyuan, director of the Mahua Literature Museum at Southern University College, argues that Mahua literature has survived a century not through individual genius but through a self-sustaining ecology of Chinese education, newspapers, societies, awards, and museums. Having shifted from early 'China writing' to a Malaysian-centred subjectivity rooted in a multilingual soil, its local particularity is precisely the passport that lets it cross borders and resist cultural flattening.",
+      "imageAlt": "Night view of a Southeast Asian Chinatown under neon lights, a metaphor for the vitality of the ethnic Chinese diaspora and Chinese-language writing rooted in the street.",
+      "references": [
+        {
+          "source": "China Qiao Wang (chinaqw.com)",
+          "title": "Why Mahua literature still has vitality after a century — interview with Xu Tongyuan",
+          "url": "https://www.chinaqw.com/hwjy/2026/11-02/413489.shtml",
+          "date": "2026-11-02"
+        }
+      ]
+    }
+  },
+  {
     "slug": "southeast-asia-chinese-traders-china-squeeze-2026",
     "title": "被母国“抢生意”：东南亚华人小商贩遭遇中国工厂直销挤压",
     "subtitle": "从印尼到菲律宾，侨商世代经营的“中间商”链条正被母国数字化直销冲垮",
