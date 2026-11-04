@@ -1,5 +1,55 @@
 [
   {
+    "slug": "us-myanmar-rare-earth-pivot-2026",
+    "title": "美国对缅政策悄然转向：以和平进程换稀土资源",
+    "subtitle": "一份10月公开的「国家整合战略」暴露了美国的真实算盘——借斡旋停火与和谈，为美企打开缅甸稀土矿藏，试图打破中国在关键矿产上的垄断。理想丰满，现实却受制于内战与制裁。",
+    "category": "地缘政治",
+    "tags": [
+      "美国",
+      "缅甸",
+      "地缘政治",
+      "稀土",
+      "关键矿产",
+      "制裁",
+      "和平进程",
+      "东南亚",
+      "中美竞争"
+    ],
+    "country": "缅甸",
+    "date": "2026-11-04",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "美国正调整对缅孤立政策，借推动和平进程换取美企涉足缅甸稀土矿藏，意图打破中国关键矿产垄断。一份10月公开的「国家整合战略」暴露其资源算计，但矿藏位于冲突前线、制裁犹存，「2030年前和平」更像愿望。此外还兼及出口与反诈两笔账。",
+    "image": "images/articles/us-myanmar-rare-earth-pivot-2026.jpg",
+    "imageCredit": "Picsum Photos",
+    "imageAccessed": "2026-11-04",
+    "imageAlt": "缅甸内战与关键矿产（稀土）竞争的交汇，象征大国围绕资源与和平进程的地缘博弈",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "调整对缅孤立政策 美国斡旋各方和谈着眼稀土矿藏",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261103-9940044",
+        "date": "2026-11-03"
+      }
+    ],
+    "en": {
+      "title": "Washington Quietly Rewrites Its Myanmar Playbook: Peace Process for Rare Earths",
+      "subtitle": "A strategy file published in October lays bare Washington's real calculus — using ceasefire mediation and peace talks to open Myanmar's rare earths to American firms and break China's grip on critical minerals. The ambition is grand; the reality, constrained by civil war and sanctions, is far thinner.",
+      "category": "Geopolitics",
+      "country": "Myanmar",
+      "summary": "The United States is recalibrating its isolation policy on Myanmar, using the peace process to win American firms access to the country's rare earths and break China's monopoly on critical minerals. An 'Integrated Country Strategy' published in October exposes the resource calculus — but the deposits sit on conflict fronts and sanctions remain, making 'peace by 2030' more a wish than a plan. Washington also tallies export and anti-scam accounts.",
+      "imageAlt": "The intersection of Myanmar's civil conflict and critical-mineral competition, symbolising great-power contestation over resources and peace processes.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "调整对缅孤立政策 美国斡旋各方和谈着眼稀土矿藏",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261103-9940044",
+          "date": "2026-11-03"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-sabah-balabac-spillover-fear-2026",
     "title": "沙巴为何让马来西亚对南海紧张“多看一眼”",
     "subtitle": "巴拉巴克岛美军基地扩建，让距其仅约50公里的马来西亚沙巴州担忧被卷入大国博弈",
