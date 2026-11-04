@@ -1,5 +1,53 @@
 [
   {
+    "slug": "malaysia-acccim-ciie-nine-years-2026",
+    "title": "九届不缺席：一个华商会折射出的中马关系",
+    "subtitle": "马来西亚中华总商会连续九届参展进博会，从卖货走向品牌与渠道——表面是商贸，实质是族群资本在中美之间为马来西亚铺就的第三条路",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "马来西亚",
+      "经贸合作",
+      "华商",
+      "商会",
+      "进博会",
+      "人工智能"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-04",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/malaysia-acccim-ciie-nine-years-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-04",
+    "imageAlt": "东南亚唐人街夜景，霓虹与街市隐喻华人商业网络与文化纽带",
+    "summary": "马来西亚中华总商会连续九届组织企业参展进博会，是马方唯一从未缺席的组展机构。今年率166人代表团、27家展商赴沪，展品从燕窝榴莲走向品牌与渠道。表面是商贸，实质是族群资本在中美之间为马来西亚铺就的第三条路：从买卖升级为共投共营，借中国技术与网络开拓东盟及第三方市场。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "马来西亚中总连续九届参与进博会 推动马中经贸合作模式升级",
+        "url": "https://www.chinaqw.com/jjkj/2026/11-03/413542.shtml",
+        "date": "2026-11-03"
+      }
+    ],
+    "en": {
+      "title": "Nine Fairs In, Never Out: What One Ethnic-Chinese Chamber Tells Us About Malaysia–China Ties",
+      "subtitle": "ACCCIM has joined every CIIE since its launch, shifting from commodity exports to brands and channels — beneath the trade fair lies ethnic capital's 'third road' for Malaysia between the United States and China.",
+      "category": "Overseas Chinese",
+      "country": "Malaysia",
+      "summary": "Malaysia's Chinese Chamber of Commerce (ACCCIM) has organised exhibitors at every China International Import Expo since its launch — the only Malaysian organiser never to miss one. This year it brings a 166-strong delegation and 27 firms, shifting from commodity exports toward branding, channels, and co-investment. Beneath the trade fair lies a subtler story: how ethnic-Chinese capital quietly builds a 'third road' for Malaysia between the United States and China.",
+      "imageAlt": "A Southeast Asian Chinatown at night — neon and street markets as a metaphor for ethnic-Chinese commercial networks and cultural ties.",
+      "references": [
+        {
+          "source": "China Qiao Wang (chinaqw.com)",
+          "title": "Malaysia's ACCCIM joins CIIE for the 9th consecutive year, upgrading the China–Malaysia trade model",
+          "url": "https://www.chinaqw.com/jjkj/2026/11-03/413542.shtml",
+          "date": "2026-11-03"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-offshore-oil-gas-south-china-sea-2026",
     "title": "越南拉美日俄下海采气：一场被霍尔木兹海峡催化的南海能源博弈",
     "subtitle": "从出光兴产、墨菲石油到埃克森美孚，越南用多元外力补能源短板，却把南海主权与地缘的难题一并摆上桌面",
