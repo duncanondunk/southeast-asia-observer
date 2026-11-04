@@ -2280,6 +2280,13 @@
       "slugs": [
         "us-myanmar-rare-earth-pivot-2026"
       ]
+    },
+    "event:越南人均GDP达5259美元(日经亚洲,2026)": {
+      "slugs": [
+        "vietnam-gdp-per-capita-5259-2026"
+      ],
+      "exception": null,
+      "note": "全新素材：日经亚洲测算越南2026年人均GDP达5259美元、近十年接近翻倍并反超印尼"
     }
   },
   "event:印尼考虑中国投资建设跨加里曼丹2772公里铁路网(2026-10)": {

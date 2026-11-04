@@ -1,5 +1,56 @@
 [
   {
+    "slug": "vietnam-gdp-per-capita-5259-2026",
+    "title": "人均GDP达5259美元：越南十年接近翻倍，悄然改写东盟座次",
+    "subtitle": "据《日经亚洲》测算，越南2026年名义人均国内生产总值（GDP）预计达5259美元，同比增8.9%，较十年前接近翻倍，并首次在人均维度反超印尼、升至东盟第五；但增长仍依赖外向制造，分配账远未结清。",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "经济",
+      "GDP",
+      "经济增长",
+      "外商直接投资",
+      "出口",
+      "制造业",
+      "东南亚",
+      "基础设施",
+      "产业升级"
+    ],
+    "country": "越南",
+    "date": "2026-11-04",
+    "readingTime": 7,
+    "featured": false,
+    "summary": "据《日经亚洲》测算，越南2026年名义人均国内生产总值（GDP）预计达5259美元，同比增8.9%，较十年前接近翻倍，并首次在人均维度反超印尼、升至东盟第五。公共投资、外资与出口三引擎驱动，但增长仍依赖外向制造、分配账未解，2030年对标泰国8500美元方是硬仗。",
+    "image": "images/articles/vietnam-gdp-per-capita-5259-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-04",
+    "imageAlt": "越南胡志明市黄昏天际线，隐喻经济快速增长下越南的发展图景",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Vietnam's GDP per capita reaches $5,259, nearly doubling in a decade",
+        "url": "https://www.vietnam.vn/en/nikkei-asia-gdp-binh-quan-dau-nguoi-viet-nam-dat-5-259-usd-tang-gan-gap-doi-sau-mot-thap-ky",
+        "date": "2026-11-04"
+      }
+    ],
+    "en": {
+      "title": "Vietnam's Per-Capita GDP Hits $5,259: A Decade of Near-Doubling That Reshuffles ASEAN's Ladder",
+      "subtitle": "Nikkei Asia projects Vietnam's nominal per-capita GDP at $5,259 in 2026, up 8.9% year on year — nearly double a decade ago and now above Indonesia's on a per-head basis, lifting it to fifth in ASEAN; yet growth still leans on outward manufacturing and the distribution ledger is far from settled.",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Nikkei Asia projects Vietnam's nominal per-capita GDP at $5,259 in 2026, up 8.9% year on year — nearly double a decade ago and now above Indonesia's, lifting it to fifth in ASEAN. Public investment, FDI and exports drive the climb, yet growth still leans on outward manufacturing and uneven distribution; reaching the 2030 target of $8,500, today's Thailand, is the real test.",
+      "imageAlt": "Ho Chi Minh City skyline at dusk, a metaphor for Vietnam's rapid economic rise.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Vietnam's GDP per capita reaches $5,259, nearly doubling in a decade",
+          "url": "https://www.vietnam.vn/en/nikkei-asia-gdp-binh-quan-dau-nguoi-viet-nam-dat-5-259-usd-tang-gan-gap-doi-sau-mot-thap-ky",
+          "date": "2026-11-04"
+        }
+      ]
+    }
+  },
+  {
     "slug": "us-myanmar-rare-earth-pivot-2026",
     "title": "美国对缅政策悄然转向：以和平进程换稀土资源",
     "subtitle": "一份10月公开的「国家整合战略」暴露了美国的真实算盘——借斡旋停火与和谈，为美企打开缅甸稀土矿藏，试图打破中国在关键矿产上的垄断。理想丰满，现实却受制于内战与制裁。",
