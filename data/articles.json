@@ -1,5 +1,54 @@
 [
   {
+    "slug": "thailand-ev-excise-tax-hike-2026",
+    "title": "泰国将进口纯电汽车消费税提至35%：逼出本地化，还是日企的助攻？",
+    "subtitle": "自2027年1月起，泰国将整车进口纯电动车消费税从10%上调至35%，意图扶植本土制造；中国品牌九成份额会否松动、日本车企能否借势回潮，成为市场焦点",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "电动汽车",
+      "中国汽车",
+      "消费税",
+      "贸易",
+      "经济",
+      "日本",
+      "产业升级"
+    ],
+    "country": "泰国",
+    "date": "2026-11-05",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "泰国11月3日批准将整车进口纯电动车消费税从10%上调至35%，意在推动本地制造与保就业。数据显示中国品牌占泰国电动车九成份额，前9月进口96%来自中国。本文认为加税更像「催产针」而非拦路石：中国车企本就在本地化路上，日本车企份额下滑难靠税制逆转，真正的考题是本土供应链能否长出附加值。",
+    "image": "images/articles/thailand-ev-excise-tax-hike-2026.jpg",
+    "imageCredit": "Pexels — photo 32658709",
+    "imageAccessed": "2026-11-05",
+    "imageAlt": "曼谷商务区天际线，隐喻泰国以税制重塑汽车产业版图的经济雄心",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-11-03"
+      }
+    ],
+    "en": {
+      "title": "Thailand's 35% EV Import Tax: Pushing Localisation, or a Lifeline for Japan's Carmakers?",
+      "subtitle": "From January 2027, Thailand will lift the excise tax on fully imported BEVs from 10% to 35% to nurture local manufacturing; whether China's 90% brand share loosens or Japan's makers rebound is now the market's central question.",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "On 3 November Thailand approved raising the excise tax on fully imported BEVs from 10% to 35% from January 2027, aiming to boost local manufacturing and protect jobs. Data show Chinese brands hold a 90% share of Thailand's EV market and 96% of imports came from China in the first nine months. This commentary argues the tax is more a midwife than a roadblock: Chinese makers are already localising, Japan's sliding share cannot be reversed by tax alone, and the real test is whether local supply chains grow real value-added.",
+      "imageAlt": "Bangkok's business-district skyline, symbolising Thailand's economic ambition to reshape its automotive industry through tax policy",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-11-03"
+        }
+      ]
+    }
+  },
+  {
     "slug": "google-15b-malaysia-datacenter-2026",
     "title": "谷歌150亿美元加码马来西亚：算力热潮下的豪赌与算计",
     "subtitle": "谷歌宣布2027至2028年向马来西亚追加150亿美元发展数码基础设施，规模七倍于2024年承诺",
