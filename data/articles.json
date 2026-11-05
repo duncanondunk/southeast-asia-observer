@@ -1,5 +1,54 @@
 [
   {
+    "slug": "webank-southeast-asia-digital-banking-2026",
+    "title": "微众出海：当中国金融科技开始给东南亚\"卖水\"",
+    "subtitle": "腾讯参股的微众银行靠向当地银行输出数字银行基础设施在东南亚快速增长，折射中国金融科技出海从\"放贷\"到\"卖基建\"的转向。",
+    "category": "经济产业",
+    "tags": [
+      "金融科技",
+      "东南亚",
+      "数字银行",
+      "腾讯",
+      "印度尼西亚",
+      "马来西亚",
+      "泰国",
+      "普惠金融"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-05",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/webank-southeast-asia-digital-banking-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-05",
+    "imageAlt": "特写的纸币与指尖，隐喻数字时代正在被重新连接的东南亚金融版图。",
+    "summary": "《南华早报》报道，腾讯参股的微众银行科技服务公司去年在东南亚录得数千万美元营收，靠向当地银行输出数字银行基础设施快速增长。这折射中国金融科技出海从直接放贷转向\"卖基建\"的更稳路径，也带来数据主权与技术依赖的隐忧。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "China's WeBank finds growth in Southeast Asia, mining high digital banking demand",
+        "url": "https://www.scmp.com/business/banking-finance/article/3372916/chinas-webank-finds-growth-southeast-asia-mining-high-digital-banking-demand",
+        "date": "2026-11-02"
+      }
+    ],
+    "en": {
+      "title": "WeBank goes south: when Chinese fintech starts selling water in Southeast Asia",
+      "subtitle": "Tencent-backed WeBank is growing fast in Southeast Asia by exporting digital-banking infrastructure to local banks — a shift from direct lending to selling the \"pipes.\"",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "SCMP reports that Tencent-backed WeBank Technology Services recorded tens of millions of dollars in revenue last year from Southeast Asia, growing by exporting digital-banking infrastructure to local banks. The shift — from direct overseas lending to selling the \"pipes\" — is a steadier path for Chinese fintech going out, yet it raises open questions about data sovereignty and technological dependency for host countries.",
+      "imageAlt": "A close-up of banknotes and fingertips — a metaphor for Southeast Asia's financial landscape being rewired by digital technology.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "China's WeBank finds growth in Southeast Asia, mining high digital banking demand",
+          "url": "https://www.scmp.com/business/banking-finance/article/3372916/chinas-webank-finds-growth-southeast-asia-mining-high-digital-banking-demand",
+          "date": "2026-11-02"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-ev-excise-tax-hike-2026",
     "title": "泰国将进口纯电汽车消费税提至35%：逼出本地化，还是日企的助攻？",
     "subtitle": "自2027年1月起，泰国将整车进口纯电动车消费税从10%上调至35%，意图扶植本土制造；中国品牌九成份额会否松动、日本车企能否借势回潮，成为市场焦点",
