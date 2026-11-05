@@ -1,5 +1,54 @@
 [
   {
+    "slug": "google-15b-malaysia-datacenter-2026",
+    "title": "谷歌150亿美元加码马来西亚：算力热潮下的豪赌与算计",
+    "subtitle": "谷歌宣布2027至2028年向马来西亚追加150亿美元发展数码基础设施，规模七倍于2024年承诺",
+    "category": "经济产业",
+    "tags": [
+      "马来西亚",
+      "数字经济",
+      "数据中心",
+      "谷歌",
+      "人工智能",
+      "外商投资",
+      "东南亚",
+      "清洁能源"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-05",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "谷歌宣布2027至2028年向马来西亚追加150亿美元（约1080亿元人民币）发展数码基础设施，规模为2024年承诺的七倍半。本文分析马来西亚如何成为中美科技巨头争抢的算力枢纽，拆解其“绿色”承诺背后的社会许可算计、就业与价值捕获落差，以及地缘“中立避风港”的红利与隐忧。",
+    "image": "images/articles/google-15b-malaysia-datacenter-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-05",
+    "imageAlt": "数据中心服务器机房内景，隐喻谷歌等科技巨头在马来西亚的算力基建投资",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "发展数码基础设施 谷歌加码投资马国150亿美元",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261104-9948111",
+        "date": "2026-11-04"
+      }
+    ],
+    "en": {
+      "title": "Google's US$15 Billion Malaysia Bet: Hype, Hedging, and Hard Questions",
+      "subtitle": "Google will invest a further US$15 billion in Malaysia's digital infrastructure over 2027–2028 — seven and a half times its 2024 commitment",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Google will invest a further US$15 billion in Malaysia's digital infrastructure over 2027–2028 — seven and a half times its 2024 pledge. This commentary examines why Malaysia has become the compute hub both US and Chinese tech giants are racing to build in, unpacks the calculus behind Google's bundled 'green' commitments, weighs who really captures the value, and weighs the dividends and risks of Malaysia's geopolitical 'neutral haven' stance.",
+      "imageAlt": "Interior of a data-centre server room, symbolising the compute-infrastructure investments by tech giants such as Google in Malaysia",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Google adds US$15 billion Malaysia investment for digital infrastructure",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261104-9948111",
+          "date": "2026-11-04"
+        }
+      ]
+    }
+  },
+  {
     "slug": "china-november-rules-overseas-chinese-2026",
     "title": "11月新规之下：侨胞的日常，正被这些“毛细血管”规则重塑",
     "subtitle": "从黑山撤免签到欧盟包裹费，七项新规如何重塑离散家庭的日常",
