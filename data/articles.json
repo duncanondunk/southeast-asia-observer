@@ -1,5 +1,51 @@
 [
   {
+    "slug": "indonesia-tourism-chinese-visitors-2026",
+    "title": "印尼旅游业持续向好，每十位入境客就有一位中国人",
+    "subtitle": "印尼中央统计局数据显示，今年9月外国游客同比增长2.31%，前9月累计增长5%；中国游客占比10.76%稳居第三。这背后是旅游复苏、华人血脉与民间往来的三重叠加。",
+    "category": "华侨华人",
+    "tags": [
+      "印尼",
+      "旅游业",
+      "华侨华人",
+      "东南亚",
+      "中国游客"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-11-10",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/indonesia-tourism-chinese-visitors-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-10",
+    "imageAlt": "夜色中的东南亚唐人街霓虹街景，隐喻华侨华人与民间往来交织的旅游图景。",
+    "summary": "印尼中央统计局数据显示，今年9月外国游客143万人次、同比增2.31%，前9月累计1201万人次、增5%；中国游客占比10.76%稳居第三。这一数字叠加入境旅游复苏与印尼华人群体带来的民间往来，成为中印尼关系温和而坚韧的纽带。",
+    "references": [
+      {
+        "source": "中国侨网 China Qiao Wang",
+        "title": "印尼旅游业持续向好，入境游客一成是中国人",
+        "url": "https://www.chinaqw.com/hqly/2026/11-09/413820.shtml",
+        "date": "2026-11-09"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's tourism keeps recovering — one in ten inbound visitors is Chinese",
+      "subtitle": "BPS data show September foreign arrivals up 2.31% year-on-year and 5% for the first nine months, with Chinese tourists holding a steady 10.76% third-place share — a blend of recovery, diaspora ties, and people-to-people bonds.",
+      "category": "Overseas Chinese",
+      "country": "Indonesia",
+      "summary": "Indonesia's statistics agency reports 1.43 million foreign arrivals in September, up 2.31% year-on-year, and 12.01 million in the first nine months, up 5%. Chinese tourists hold a steady 10.76% third-place share. Combined with recovery and the overseas-Chinese community, this makes tourism a gentle yet resilient bond in China–Indonesia ties.",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "Indonesia's tourism keeps recovering; one in ten inbound visitors is Chinese",
+          "url": "https://www.chinaqw.com/hqly/2026/11-09/413820.shtml",
+          "date": "2026-11-09"
+        }
+      ],
+      "imageAlt": "A neon-lit Southeast Asian Chinatown street at night, evoking the tourism tapestry woven from overseas-Chinese and people-to-people ties."
+    }
+  },
+  {
     "slug": "webank-southeast-asia-digital-banking-2026",
     "title": "微众出海：当中国金融科技开始给东南亚\"卖水\"",
     "subtitle": "腾讯参股的微众银行靠向当地银行输出数字银行基础设施在东南亚快速增长，折射中国金融科技出海从\"放贷\"到\"卖基建\"的转向。",

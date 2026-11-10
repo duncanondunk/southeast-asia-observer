@@ -2315,6 +2315,13 @@
       "slugs": [
         "webank-southeast-asia-digital-banking-2026"
       ]
+    },
+    "event:印尼旅游业持续向好(2026-11)": {
+      "slugs": [
+        "indonesia-tourism-chinese-visitors-2026"
+      ],
+      "exception": null,
+      "note": "侨网一周热点选题：印尼入境游复苏、中国游客占比10.76%居第三；从旅游经济切入叠加华人血脉与民间往来双重纽带，区别于既有中印尼语言热/雅万高铁/镍矿等条目。"
     }
   },
   "event:印尼考虑中国投资建设跨加里曼丹2772公里铁路网(2026-10)": {
