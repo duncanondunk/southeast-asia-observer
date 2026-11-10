@@ -1,5 +1,59 @@
 [
   {
+    "slug": "indonesia-q3-gdp-547-2026",
+    "title": "印尼三季度GDP增长5.47%：看似稳健的答卷，究竟是真韧性还是「喂」出来的？",
+    "subtitle": "印尼中央统计局数据显示，2026年三季度GDP同比增长5.47%，高于前季与去年同期；但政府消费大涨8.95%由免费餐与加薪托起，家庭消费在烟霾油荒中仅防御性持平，全年目标已被下调至5.4%—5.5%，增长「含财政量」越推越高。",
+    "category": "经济产业",
+    "tags": [
+      "印尼",
+      "经济",
+      "GDP",
+      "经济增长",
+      "消费",
+      "投资",
+      "制造业",
+      "贸易",
+      "东南亚",
+      "通货膨胀",
+      "烟霾",
+      "货币政策",
+      "汇率"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-11-10",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "印尼三季度GDP同比增长5.47%，高于前季与去年同期，看似稳健。但增长高度依赖财政：政府消费涨8.95%由免费餐与加薪托起，家庭消费在烟霾油荒中仅防御性持平，投资靠国企下游化续命。KSSK已下调全年目标至5.4%—5.5%，烟霾、油荒与MSCI降级阴影未散，5.47%是顶风跑出的数字。",
+    "image": "images/articles/indonesia-q3-gdp-547-2026.jpg",
+    "imageCredit": "Pexels — photo 32327756",
+    "imageAccessed": "2026-11-10",
+    "imageAlt": "雅加达城市天际线，隐喻印尼经济在阴霾与油荒中展现的增长韧性",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesia reports GDP for July–September quarter (Your Week in Asia)",
+        "url": "https://s.nikkei.com/4klHxha",
+        "date": "2026-11-05"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's Q3 GDP Grows 5.47%: Real Resilience or Growth Fed by Fiscal Handouts?",
+      "subtitle": "Statistics Indonesia reported 5.47% year-on-year growth in Q3 2026, above Q2 and a year earlier, but government consumption jumped 8.95% on free-meal and pay-raise spending, household demand held only defensively amid haze and fuel shortages, and the full-year target has been trimmed to 5.4–5.5%.",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "Indonesia's economy grew 5.47% in Q3 2026, beating Q2 and a year earlier, yet the print is heavily fiscal: government consumption jumped 8.95% on free-meal and pay-raise spending, household demand held only defensively amid haze and fuel shortages, and investment leans on state-led downstreaming. With KSSK trimming the full-year target to 5.4–5.5% and haze, fuel and MSCI-downgrade risks unresolved, the 5.47% was earned into the wind rather than with it.",
+      "imageAlt": "Jakarta skyline — a metaphor for Indonesia's growth resilience amid haze and fuel shortages",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia reports GDP for July–September quarter (Your Week in Asia)",
+          "url": "https://s.nikkei.com/4klHxha",
+          "date": "2026-11-05"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-japan-nuclear-smr-cooperation-2026",
     "title": "日越推进核能合作：越南押注日本小型模块化反应堆",
     "subtitle": "苏林时隔11年访日，双方签署核能备忘录，越南拟2040年后采用日本SMR技术成为东南亚首例",
