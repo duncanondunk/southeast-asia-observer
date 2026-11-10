@@ -1,5 +1,52 @@
 [
   {
+    "slug": "vietnam-japan-nuclear-smr-cooperation-2026",
+    "title": "日越推进核能合作：越南押注日本小型模块化反应堆",
+    "subtitle": "苏林时隔11年访日，双方签署核能备忘录，越南拟2040年后采用日本SMR技术成为东南亚首例",
+    "category": "地缘政治",
+    "tags": [
+      "越南",
+      "日本",
+      "核能",
+      "能源",
+      "地缘政治",
+      "东南亚"
+    ],
+    "country": "越南",
+    "date": "2026-11-10",
+    "readingTime": 9,
+    "featured": false,
+    "summary": "越南国家主席苏林访日签署核能合作备忘录，计划2040年后采用日本SMR技术，成东南亚首例。此举既为越南解电力焦虑，也把河内与东京在自由开放印太框架下的战略绑定写进能源版图，折射其在中美间经济靠华、安全靠日的走钢丝常态。",
+    "image": "images/articles/vietnam-japan-nuclear-smr-cooperation-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-10",
+    "imageAlt": "越南下龙湾风光，象征这个押注日本核能技术的东南亚国家",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "日越推进核能合作 越南将成东南亚首个采用日本核能技术国家",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261109-9971581",
+        "date": "2026-11-09"
+      }
+    ],
+    "en": {
+      "title": "Japan–Vietnam Advance Nuclear Ties: Vietnam Bets on Japanese SMRs",
+      "subtitle": "President To Lam's first Tokyo visit in 11 years yields a nuclear MoU; Hanoi plans to adopt Japanese small modular reactors after 2040, a regional first.",
+      "category": "Geopolitics",
+      "country": "Vietnam",
+      "summary": "Vietnam and Japan signed a nuclear cooperation MoU on November 9, with Hanoi planning to deploy Japanese small modular reactors after 2040 — making it the first Southeast Asian country to adopt Japanese nuclear technology. Beyond energy, the deal bundles security assistance and critical-minerals cooperation under the Free and Open Indo-Pacific framework, underscoring Hanoi's balancing act between its largest trading partner China and Tokyo.",
+      "imageAlt": "Ha Long Bay, Vietnam — the country now betting on Japanese nuclear technology",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Japan, Vietnam advance nuclear cooperation; Vietnam to be first in Southeast Asia to adopt Japanese nuclear technology",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261109-9971581",
+          "date": "2026-11-09"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-tourism-chinese-visitors-2026",
     "title": "印尼旅游业持续向好，每十位入境客就有一位中国人",
     "subtitle": "印尼中央统计局数据显示，今年9月外国游客同比增长2.31%，前9月累计增长5%；中国游客占比10.76%稳居第三。这背后是旅游复苏、华人血脉与民间往来的三重叠加。",
