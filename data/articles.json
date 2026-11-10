@@ -1,5 +1,63 @@
 [
   {
+    "slug": "eu-southeast-asia-funding-crunch-2026",
+    "title": "欧盟的东南亚攻势撞上资金墙：当布鲁塞尔收紧钱袋，中国正拉开身位",
+    "subtitle": "南华早报指出，欧盟「净出资国」正强压布鲁塞尔大幅削减海外援助预算，可能让东盟清洁能源与互联互通项目陷入资金缺口；与此同时，中国在东南亚的清洁能源、供应链与直接投资正持续扩大领先。布鲁塞尔的「全球门户」战略，正卡在自己最不缺愿景、最缺现金的环节。",
+    "category": "地缘政治",
+    "tags": [
+      "东南亚",
+      "地缘政治",
+      "欧盟",
+      "中国—东盟",
+      "清洁能源",
+      "一带一路",
+      "经济产业",
+      "中美竞争"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-10",
+    "readingTime": 8,
+    "featured": false,
+    "summary": "欧盟多年期财政框架谈不拢，净出资国强压削减「全球欧洲」对外经费，东盟清洁能源与互联互通项目面临资金缺口；与此同时中国在东南亚的清洁能源与基建影响力持续扩大。布鲁塞尔的「全球门户」卡在缺钱环节，战略雄心难敌预算现实。",
+    "image": "images/articles/eu-southeast-asia-funding-crunch-2026.jpg",
+    "imageCredit": "Unsplash — photo 1508009603885-50cf7c579365",
+    "imageAccessed": "2026-11-10",
+    "imageAlt": "曼谷唐人街夜景，霓虹灯下的东南亚城市肌理，隐喻大国博弈下区域资本与基建的角力",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "EU's Southeast Asia push hits funding crunch as China widens lead",
+        "url": "https://www.scmp.com/week-asia/politics/article/3373510/eus-southeast-asia-push-hits-funding-crunch-china-widens-lead",
+        "date": "2026-11-10"
+      },
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "EU is diversifying its supply chains, but it's still reliant on China",
+        "url": "https://scmp.com/opinion/asia-opinion/article/3327269/eu-diversifying-its-supply-chains-its-still-reliant-china",
+        "date": "2026"
+      }
+    ],
+    "en": {
+      "title": "The EU's Southeast Asia Push Hits a Funding Crunch as China Widens Its Lead",
+      "subtitle": "SCMP reports that the EU's net payers are forcing deep cuts to the European Commission's overseas-aid proposal, potentially leaving ASEAN clean-energy and connectivity projects short — just as China widens its lead in the region's clean energy, supply chains and direct investment. Brussels' Global Gateway is stalling at the one point where it has vision but not cash.",
+      "category": "Geopolitics",
+      "country": "Southeast Asia",
+      "summary": "The EU's budget deadlock over the 2028–2034 framework has net payers forcing cuts to 'Global Europe', threatening funding for ASEAN's clean-energy and connectivity projects, while China keeps widening its lead in Southeast Asia's clean energy and infrastructure. Brussels' Global Gateway is stuck where it has vision but no cash.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "EU's Southeast Asia push hits funding crunch as China widens lead",
+          "url": "https://www.scmp.com/week-asia/politics/article/3373510/eus-southeast-asia-push-hits-funding-crunch-china-widens-lead"
+        },
+        {
+          "source": "South China Morning Post",
+          "title": "EU is diversifying its supply chains, but it's still reliant on China",
+          "url": "https://scmp.com/opinion/asia-opinion/article/3327269/eu-diversifying-its-supply-chains-its-still-reliant-china"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-q3-gdp-547-2026",
     "title": "印尼三季度GDP增长5.47%：看似稳健的答卷，究竟是真韧性还是「喂」出来的？",
     "subtitle": "印尼中央统计局数据显示，2026年三季度GDP同比增长5.47%，高于前季与去年同期；但政府消费大涨8.95%由免费餐与加薪托起，家庭消费在烟霾油荒中仅防御性持平，全年目标已被下调至5.4%—5.5%，增长「含财政量」越推越高。",
