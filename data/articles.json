@@ -1,5 +1,66 @@
 [
   {
+    "slug": "asean-eu-fta-singapore-bridge-2026",
+    "title": "新加坡搭台，东盟欧盟重启自贸谈判：缅甸这道坎，谁来迈？",
+    "subtitle": "黄循财借与德国总理会晤抛出“桥梁”说，但十九年的拉锯与缅甸制裁，让这份跨区域协定依旧悬而未决。",
+    "category": "经济产业",
+    "tags": [
+      "东盟",
+      "欧盟",
+      "新加坡",
+      "自贸协定",
+      "地缘政治",
+      "缅甸",
+      "数字经济",
+      "贸易"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-11",
+    "readingTime": 8,
+    "featured": false,
+    "image": "images/articles/asean-eu-fta-singapore-bridge-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-11",
+    "imageAlt": "新加坡鱼尾狮与滨海湾金沙夜景",
+    "summary": "新加坡借2027年东盟轮值主席身份，主动充当欧盟与东盟自贸协定的“桥梁”。但谈了十九年的协定仍卡在缅甸制裁与规则鸿沟上，短期内难落地；真正看点是东盟能否借机夺回规则制定主动权。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Asean seeks to sign FTA with EU. Can Singapore help resolve the Myanmar hurdle?",
+        "url": "https://www.scmp.com/week-asia/economics/article/3373027/asean-seeks-sign-fta-eu-can-singapore-help-resolve-myanmar-hurdle",
+        "date": "2026-11-02"
+      },
+      {
+        "source": "海峡时报 The Straits Times",
+        "title": "Singapore, Germany to collaborate on AI use in industries, step up research on new tech",
+        "url": "https://straitstimes.com/singapore/politics/singapore-germany-to-collaborate-on-ai-use-in-industries-step-up-research-on-new-tech",
+        "date": "2026-10-27"
+      }
+    ],
+    "en": {
+      "title": "Singapore's bridge gambit: can it unblock an EU–ASEAN trade pact stuck for 19 years?",
+      "subtitle": "Prime Minister Lawrence Wong offered to broker a bloc-to-bloc free trade deal as ASEAN chair in 2027 — but Myanmar's isolation and Europe's own patchwork of bilateral pacts keep the prize distant.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "Singapore has volunteered to broker a long-stalled EU–ASEAN free trade deal during its 2027 ASEAN chairmanship. But the pact—talked about since 2007—remains blocked by Myanmar's sanctions isolation and the rule gap between Europe and ASEAN. The real question is whether ASEAN can use the chair year to reclaim the power to set its own rules.",
+      "imageAlt": "Singapore's Merlion and Marina Bay Sands skyline at night",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Asean seeks to sign FTA with EU. Can Singapore help resolve the Myanmar hurdle?",
+          "url": "https://www.scmp.com/week-asia/economics/article/3373027/asean-seeks-sign-fta-eu-can-singapore-help-resolve-myanmar-hurdle",
+          "date": "2026-11-02"
+        },
+        {
+          "source": "The Straits Times",
+          "title": "Singapore, Germany to collaborate on AI use in industries, step up research on new tech",
+          "url": "https://straitstimes.com/singapore/politics/singapore-germany-to-collaborate-on-ai-use-in-industries-step-up-research-on-new-tech",
+          "date": "2026-10-27"
+        }
+      ]
+    }
+  },
+  {
     "slug": "philippines-q3-gdp-21-inflation-2026",
     "title": "增速跌至2.1%：菲律宾经济为何在东南亚掉队？",
     "subtitle": "菲律宾三季度 GDP 同比仅增 2.1%，创逾五年新低，且为连续第五个季度减速；农业萎缩、工业停滞，增长主要靠政府开支独撑，通胀掐住消费命脉，半导体成唯一亮点。",
