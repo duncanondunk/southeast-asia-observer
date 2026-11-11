@@ -1,5 +1,70 @@
 [
   {
+    "slug": "philippines-q3-gdp-21-inflation-2026",
+    "title": "增速跌至2.1%：菲律宾经济为何在东南亚掉队？",
+    "subtitle": "菲律宾三季度 GDP 同比仅增 2.1%，创逾五年新低，且为连续第五个季度减速；农业萎缩、工业停滞，增长主要靠政府开支独撑，通胀掐住消费命脉，半导体成唯一亮点。",
+    "category": "经济产业",
+    "tags": [
+      "菲律宾",
+      "经济",
+      "GDP",
+      "经济增长",
+      "通货膨胀",
+      "半导体",
+      "出口",
+      "农业",
+      "消费",
+      "石油",
+      "能源安全",
+      "侨汇"
+    ],
+    "country": "菲律宾",
+    "date": "2026-11-11",
+    "readingTime": 6,
+    "featured": false,
+    "image": "images/articles/philippines-q3-gdp-21-inflation-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-11",
+    "imageAlt": "一叠美元钞票的特写，象征油价以美元计价对菲律宾经济的冲击，以及海外务工者汇回的侨汇。",
+    "summary": "菲律宾三季度 GDP 同比仅增2.1%，创逾五年新低，且为连续第五个季度减速。农业萎缩、工业停滞、居民消费保守，增长主要靠政府开支独撑；通胀受油价与进口依赖推升，人工智能半导体出口成唯一亮点。区域对照下菲律宾在东盟明显掉队，全年增长目标恐难兑现。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Philippine GDP grows 2.1% in third quarter as inflation weighs",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-11-09"
+      },
+      {
+        "source": "中国新闻网",
+        "title": "菲律宾第三季度经济增速放缓至2.1%",
+        "url": "https://www.chinanews.com/gj/2026/11-09/10728762.shtml",
+        "date": "2026-11-09"
+      }
+    ],
+    "en": {
+      "title": "Philippines Grows Just 2.1% in Q3 2026 — Why Manila Is Losing the Regional Race",
+      "subtitle": "The Philippines' Q3 2026 GDP rose just 2.1% year on year — the weakest in over five years and a fifth straight slowdown. Agriculture contracted and households retrenched while government spending propped up growth; oil-import inflation choked consumption and AI semiconductors were the lone bright spot.",
+      "category": "Economy & Industry",
+      "country": "Philippines",
+      "summary": "The Philippines' Q3 2026 GDP grew just 2.1% year on year — the weakest in over five years and a fifth straight quarterly slowdown. Agriculture contracted and households retrenched while government spending propped up growth. Oil-import dependence and inflation choked consumption, leaving AI-driven semiconductor exports as the lone bright spot. Against regional peers the Philippines is the clear laggard.",
+      "imageAlt": "A close-up of US dollar banknotes, symbolising how dollar-priced oil squeezes the Philippine economy and the remittances sent home by overseas Filipino workers.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Philippine GDP grows 2.1% in third quarter as inflation weighs",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-11-09"
+        },
+        {
+          "source": "China News Service",
+          "title": "Philippine Q3 GDP growth slows to 2.1%",
+          "url": "https://www.chinanews.com/gj/2026/11-09/10728762.shtml",
+          "date": "2026-11-09"
+        }
+      ]
+    }
+  },
+  {
     "slug": "cambodia-angkor-west-mebon-restoration-2026",
     "title": "法国修好一座吴哥古寺交还柬埔寨，也顺手提醒北京：软实力是谁的",
     "subtitle": "西梅奔寺修复完成、法柬元首揭幕，一场关于石头与影响力的暗战",
