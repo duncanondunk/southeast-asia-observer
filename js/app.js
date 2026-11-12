@@ -16,6 +16,18 @@
     });
   }
 
+  /* ---------- 图片资源版本号（cache bust） ----------
+   * 图片以「路径不变、覆盖文件」的方式更新。若 URL 不带版本参数，浏览器/CDN
+   * 会继续返回缓存的旧图，读者仍会看到替换前的重复配图。
+   * 每次批量替换配图后，把 ASSET_V 与 5 个 HTML 里的 app.js?v= 一起升版。
+   */
+  var ASSET_V = '20261113a';
+  function assetUrl(p) {
+    var s = String(p || '');
+    if (!s) return '';
+    return s + (s.indexOf('?') === -1 ? '?v=' : '&v=') + ASSET_V;
+  }
+
   /* ---------- 语言状态 ---------- */
   var LANG = (function () {
     try { return localStorage.getItem('sea-lang') || 'en'; }
@@ -318,7 +330,7 @@
     }
     var slideClasses = ['slide--a', 'slide--b', 'slide--c'];
     track.innerHTML = featured.map(function (a, i) {
-      var bg = a.image ? ('style="background-image:url(' + escapeHtml(a.image) + ');"') : '';
+      var bg = a.image ? ('style="background-image:url(' + escapeHtml(assetUrl(a.image)) + ');"') : '';
       return '' +
         '<div class="slide ' + slideClasses[i % 3] + '" ' + bg + '>' +
           '<div class="slide__overlay"></div>' +
@@ -390,7 +402,7 @@
 
   function articleCardHtml(a, coverSeed) {
     var coverClass = a.image ? 'has-image' : ('article-card__cover--' + (((coverSeed || 1) - 1) % 5 + 1));
-    var coverImg = a.image ? ('<img class="cover__img" src="' + escapeHtml(a.image) + '" alt="" decoding="async" onerror="this.style.display=\'none\'">') : '';
+    var coverImg = a.image ? ('<img class="cover__img" src="' + escapeHtml(assetUrl(a.image)) + '" alt="" decoding="async" onerror="this.style.display=\'none\'">') : '';
     var share = shareLinks(a);
     return '' +
       '<article class="article-card">' +
@@ -473,7 +485,7 @@
         if (ogDesc) ogDesc.setAttribute('content', summaryText);
         if (a.image) {
           var ogImg = document.querySelector('meta[property="og:image"]');
-          if (ogImg) ogImg.setAttribute('content', location.origin + '/' + String(a.image).replace(/^\/+/, ''));
+          if (ogImg) ogImg.setAttribute('content', location.origin + '/' + assetUrl(String(a.image).replace(/^\/+/, '')));
         }
 
         $('#articleCat').textContent = categoryLabel(a);
@@ -760,7 +772,7 @@
       ? ('Image source: ' + credit + '. Accessed ' + accessed + '.')
       : ('图片来源：' + credit + '，访问时间：' + accessed + '。');
     fig.innerHTML =
-      '<img src="' + escapeHtml(a.image) + '" alt="' + escapeHtml(af(a, 'imageAlt') || '') + '">' +
+      '<img src="' + escapeHtml(assetUrl(a.image)) + '" alt="' + escapeHtml(af(a, 'imageAlt') || '') + '">' +
       '<figcaption>' + cap + '</figcaption>';
     firstP.parentNode.insertBefore(fig, firstP.nextSibling);
   }
