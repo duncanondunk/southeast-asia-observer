@@ -1,5 +1,68 @@
 [
   {
+    "slug": "sea-auto-market-china-ev-2026-q3",
+    "title": "中国电动车改写东南亚车市版图：三季度销量重回80万辆",
+    "subtitle": "《日经亚洲》数据显示，三季度东南亚五大市场汽车销量重回80万辆，电动化驱动下中国品牌与日本车企在纯电与混动两条赛道分庭抗礼",
+    "category": "经济产业",
+    "tags": [
+      "东南亚",
+      "经济",
+      "电动汽车",
+      "中国汽车",
+      "汽车",
+      "印尼",
+      "泰国",
+      "马来西亚",
+      "供应链",
+      "贸易"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-12",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/sea-auto-market-china-ev-2026-q3.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-12",
+    "imageAlt": "道路上行驶的银色奔驰跑车，背景为城市建筑，象征东南亚汽车市场",
+    "summary": "《日经亚洲》数据显示，2026年三季度东南亚五大市场汽车销量同比增13%至82.8万辆，自2025年末以来首次重回80万辆关口。这轮回暖由电动车与混动驱动：中国品牌在纯电赛道抢位，日本车企退守混动基本盘，印尼成中日正面对决主场。复苏倚重车展订单与政策红利，能否延续仍待区域消费底盘检验。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "ASEAN auto sales rose 13% in Q3 on EV and hybrid demand",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-11-04"
+      },
+      {
+        "source": "新能源汽车产业网 EVCHANYE",
+        "title": "东南亚车市重回80万辆：日系车的'后花园'，正在被中国电动车改写",
+        "url": "https://www.evchanye.com/2026/1105/56268.shtml",
+        "date": "2026-11-05"
+      }
+    ],
+    "en": {
+      "title": "China's EVs redraw Southeast Asia's auto map as regional Q3 sales cross 800,000",
+      "subtitle": "Nikkei Asia reports Southeast Asia's five core markets sold 828,172 vehicles in Q3 2026, up 13% and back above 800,000 as electrified models redraw the competitive map between Chinese and Japanese makers.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "Nikkei Asia reports Southeast Asia's five core markets sold 828,172 vehicles in Q3 2026, up 13% and back above 800,000 for the first time since late 2025. The rebound is electrified: Chinese brands seize the battery-electric lane while Japanese makers hold the hybrid base. Indonesia is the decisive arena. The recovery leans on show-floor orders and policy perks rather than broad income growth, so its durability is untested.",
+      "imageAlt": "A silver Mercedes sports car on a road with city buildings in the background, symbolising Southeast Asia's auto market",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "ASEAN auto sales rose 13% in Q3 on EV and hybrid demand",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-11-04"
+        },
+        {
+          "source": "EVCHANYE (New Energy Vehicle Industry Network)",
+          "title": "Southeast Asia's car market returns above 800,000 units: the 'Japanese backyard' being rewritten by Chinese EVs",
+          "url": "https://www.evchanye.com/2026/1105/56268.shtml",
+          "date": "2026-11-05"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-vp-gibran-resignation-2026",
     "title": "印尼副总统吉布兰辞职：王朝裂痕与普拉博沃的政治豪赌",
     "subtitle": "一场「学历门」如何成为总统清洗麻烦继承人的契机，并反噬印尼的民主体制",
