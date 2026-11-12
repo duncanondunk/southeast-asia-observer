@@ -1,5 +1,65 @@
 [
   {
+    "slug": "sarawak-election-resource-autonomy-2026",
+    "title": "砂拉越锁定12月12日州选：一场关于石油主权与自治权的公投",
+    "subtitle": "GPS强势竞逐全部82席，州属Petros与联邦Petronas的油气监管之争，让这场看似无悬念的选举成为东马资源民族主义与联邦制张力的公投",
+    "category": "地缘政治",
+    "tags": [
+      "马来西亚",
+      "砂拉越",
+      "自治",
+      "资源民族主义",
+      "石油",
+      "选举",
+      "地缘政治"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-12",
+    "readingTime": 9,
+    "featured": false,
+    "image": "images/articles/sarawak-election-resource-autonomy-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-12",
+    "imageAlt": "吉隆坡国油双峰塔（Petronas双峰塔）黄昏天际线，马来西亚国家石油公司总部，砂拉越油气监管之争中联邦一方的象征",
+    "summary": "砂拉越第13届州选举定于2026年12月12日举行。执政的砂拉越政党联盟（GPS）优势稳固，真正焦点却是油气监管权与自治：州属Petros正挑战联邦Petronas，争夺占全马六成以上的油气话语权。这场被视作公投的选举，折射东马资源民族主义与联邦制的张力，也牵动当地华人族群与中资项目。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Malaysia's Sarawak locks election date amid autonomy, resource control push",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-11-06"
+      },
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Sarawak demands guaranteed gas supply as Petros and Petronas race to settle before 2026 end",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-11"
+      }
+    ],
+    "en": {
+      "title": "Sarawak sets December 12 for state polls: a referendum on oil sovereignty and autonomy",
+      "subtitle": "GPS contests all 82 seats as the Petros–Petronas oil fight turns the poll into a contest over who controls East Malaysia's hydrocarbons",
+      "category": "Geopolitics",
+      "country": "Malaysia",
+      "summary": "Sarawak's 13th state election is set for 12 December 2026. The ruling Gabungan Parti Sarawak (GPS) looks unassailable, yet the real stakes are oil and gas regulatory power and autonomy: state-owned Petros is challenging federal Petronas for control over resources making up more than 60 per cent of Malaysia's hydrocarbon wealth. Framed by analysts as a referendum on GPS's mandate and its bargaining with Putrajaya, the contest lays bare East Malaysia's resource nationalism and the strains of federalism — with implications for the state's ethnic Chinese community and Chinese-funded projects.",
+      "imageAlt": "Kuala Lumpur's Petronas Twin Towers at dusk — headquarters of Malaysia's federal oil giant, the federal side in Sarawak's oil-regulation dispute",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Malaysia's Sarawak locks election date amid autonomy, resource control push",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-11-06"
+        },
+        {
+          "source": "South China Morning Post",
+          "title": "Sarawak demands guaranteed gas supply as Petros and Petronas race to settle before 2026 end",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-11"
+        }
+      ]
+    }
+  },
+  {
     "slug": "sea-auto-market-china-ev-2026-q3",
     "title": "中国电动车改写东南亚车市版图：三季度销量重回80万辆",
     "subtitle": "《日经亚洲》数据显示，三季度东南亚五大市场汽车销量重回80万辆，电动化驱动下中国品牌与日本车企在纯电与混动两条赛道分庭抗礼",
