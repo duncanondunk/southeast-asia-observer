@@ -1,5 +1,76 @@
 [
   {
+    "slug": "indonesia-vp-gibran-resignation-2026",
+    "title": "印尼副总统吉布兰辞职：王朝裂痕与普拉博沃的政治豪赌",
+    "subtitle": "一场「学历门」如何成为总统清洗麻烦继承人的契机，并反噬印尼的民主体制",
+    "category": "地缘政治",
+    "tags": [
+      "印尼",
+      "普拉博沃",
+      "弹劾",
+      "宪政危机",
+      "文凭造假",
+      "东南亚"
+    ],
+    "country": "印度尼西亚",
+    "date": "2026-11-12",
+    "readingTime": 7,
+    "featured": false,
+    "image": "images/articles/indonesia-vp-gibran-resignation-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-12",
+    "imageAlt": "雅加达城市天际线与政府建筑，象征印尼政治中心",
+    "summary": "印尼副总统吉布兰（前总统佐科长子）因学历证书被宪法法院与最高法院裁定无效，在弹劾压力下于11月11日向总统普拉博沃递交辞呈并获接受。这场「辞职」实为普拉博沃借司法与国会之手清洗麻烦继承人的精心操盘。空缺将按宪法由人民协商会议60天内选出继任者，反而强化总统集权。事件暴露印尼民主体制被王朝政治与个人化权力扭曲的深层危机。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "印尼总统普拉博沃已接受副总统吉布兰辞呈",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261111-9983297",
+        "date": "2026-11-11"
+      },
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "学历风波引发弹劾压力 印尼副总统吉布兰表达辞职意愿",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261007-9801102",
+        "date": "2026-10-07"
+      },
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "100多名印尼议员签署请愿书 为弹劾副总统吉布兰铺路",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261111-9980722",
+        "date": "2026-11-11"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's Vice-President Gibran Resigns: A Dynasty's Crack and Prabowo's Gamble",
+      "subtitle": "How a credential scandal became President Prabowo's opening to purge a troubled heir — and what it reveals about Indonesia's democracy",
+      "category": "Geopolitics",
+      "country": "Indonesia",
+      "summary": "Indonesian Vice-President Gibran Rakabuming Raka — eldest son of former president Jokowi — resigned on 11 November after the Constitutional and Supreme Courts voided the high-school equivalency certificate he used to qualify for the 2024 election. The move, under impeachment pressure, looks less like a voluntary exit than a managed purge engineered by President Prabowo, who stays silent to avoid alienating Jokowi's base. Under the 1945 Constitution the MPR must elect a successor within 60 days, handing Prabowo a free hand to consolidate power. The episode underscores how dynastic ambition and personalistic politics are eroding Indonesia's democratic institutions.",
+      "imageAlt": "Jakarta skyline and government buildings, symbolising Indonesia's political centre",
+      "references": [
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Indonesia's President Prabowo accepts Vice-President Gibran's resignation",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261111-9983297",
+          "date": "2026-11-11"
+        },
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Degree scandal fuels impeachment pressure as Vice-President Gibran signals intent to resign",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261007-9801102",
+          "date": "2026-10-07"
+        },
+        {
+          "source": "Lianhe Zaobao (zaobao.com)",
+          "title": "Over 100 Indonesian lawmakers sign petition paving way to impeach Vice-President Gibran",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261111-9980722",
+          "date": "2026-11-11"
+        }
+      ]
+    }
+  },
+  {
     "slug": "overseas-chinese-ecommerce-opportunity-2026",
     "title": "当“双11”走向世界：侨胞正在重筑贸易通道",
     "subtitle": "从囤货到搭台——跨境电商让侨胞从供应链末端的买手，变为中国出口网络的“搭台者”；但红利之下，暗礁犹存。",
