@@ -1,5 +1,54 @@
 [
   {
+    "slug": "sea-ev-parts-suppliers-sidelined-2026",
+    "title": "电动车热潮的另一面：中国车企“自带供应链”，东南亚零部件厂被挤到路边",
+    "subtitle": "中国车企自带供应链南下，东南亚零部件厂的“路边困局”",
+    "category": "经济产业",
+    "tags": [
+      "电动汽车",
+      "供应链",
+      "制造业",
+      "产业链",
+      "马来西亚",
+      "泰国",
+      "印度尼西亚",
+      "经济产业"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-13",
+    "readingTime": 9,
+    "featured": false,
+    "image": "images/articles/sea-ev-parts-suppliers-sidelined-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-11-13",
+    "imageAlt": "曼谷唐人街夜景，象征东南亚城市化与产业转型的复杂图景。",
+    "summary": "东南亚电动车销量狂飙，但印尼、泰国、马来西亚的中小零部件厂却被挤到路边：燃油车零件需求下滑，中国车企自带供应链，本地厂难入电动车体系。本地含量从燃油车最高七成跌至电动车两三成，比亚迪在马来西亚建厂折返改代工便是缩影。混动与售后市场是仅存窗口，而本地含量规则与政府扶持，才把销量变成本地产业实力的闸门。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asia's EV boom sidelines local car parts suppliers",
+        "url": "https://www.scmp.com/week-asia/economics/article/3372760/southeast-asias-ev-boom-sidelines-local-car-parts-suppliers",
+        "date": "2026-11-02"
+      }
+    ],
+    "en": {
+      "title": "The other side of the EV boom: Chinese carmakers bring their own supply chains, sidelining Southeast Asia's parts makers",
+      "subtitle": "Chinese carmakers arrive with closed-loop supply chains, leaving Southeast Asia's component makers at the kerb",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Southeast Asia's EV sales are surging, yet small parts makers in Indonesia, Thailand and Malaysia are being sidelined: ICE demand falls while Chinese carmakers bring closed supply chains. Local content drops from 70% for foreign ICE cars to 20–30% for EVs — BYD's Malaysian plant U-turn is the symbol. Hybrids and aftersales are the last windows, but local-content rules and state support are what turn sales into real industrial capacity.",
+      "imageAlt": "Night scene in Bangkok's Chinatown, a symbol of Southeast Asia's urban and industrial transition.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Southeast Asia's EV boom sidelines local car parts suppliers",
+          "url": "https://www.scmp.com/week-asia/economics/article/3372760/southeast-asias-ev-boom-sidelines-local-car-parts-suppliers",
+          "date": "2026-11-02"
+        }
+      ]
+    }
+  },
+  {
     "slug": "japan-cold-chain-southeast-asia-2026",
     "title": "日本的冷链棋局：日系初创企业如何悄悄重排东南亚食材供应链",
     "subtitle": "当日本制造从东南亚车间节节退守，日系初创企业却把旗子插进了区域的冰箱——这折射出日本竞争方式的一次微妙转向。",
