@@ -1,5 +1,67 @@
 [
   {
+    "slug": "japan-cold-chain-southeast-asia-2026",
+    "title": "日本的冷链棋局：日系初创企业如何悄悄重排东南亚食材供应链",
+    "subtitle": "当日本制造从东南亚车间节节退守，日系初创企业却把旗子插进了区域的冰箱——这折射出日本竞争方式的一次微妙转向。",
+    "category": "经济产业",
+    "tags": [
+      "东南亚",
+      "经济",
+      "日本",
+      "供应链",
+      "冷链",
+      "食品",
+      "马来西亚",
+      "越南",
+      "初创企业"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-13",
+    "readingTime": 8,
+    "featured": false,
+    "image": "images/articles/japan-cold-chain-southeast-asia-2026.jpg",
+    "imageCredit": "Unsplash (unsplash.com)",
+    "imageAccessed": "2026-11-13",
+    "imageAlt": "越南中部高原的生鲜农产品（榴梿等），经冷链与电商网络进入区域餐桌，正是日系初创切入的赛道。",
+    "summary": "《日经亚洲》11月4日报道，日系初创标杆 Secai Marche 正于马来西亚、越南扩张生鲜冷链分销，以「产地直送+四温区冷库」直接对接农户与餐饮零售。雅玛多、日本通运、日本邮船与 welzo 等密集下注，意在把「日本品质」包装成区域软性基础设施。这恰是日本制造退守车间后，于标准、信任与冷链层面的一次体面重排。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Japan logistics startups expand cold food networks in Malaysia, Vietnam",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-11-04"
+      },
+      {
+        "source": "Secai Marche 企业资料（Caplight / PR Times）",
+        "title": "SECAI MARCHE が追加資金調達（MOL PLUS 出資、コールドチェーン構想をインフラ化）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000014.000063442.html",
+        "date": "2026-01"
+      }
+    ],
+    "en": {
+      "title": "Japan's Cold-Chain Replay: How Tokyo-Linked Startups Are Rewiring Southeast Asia's Food Supply",
+      "subtitle": "As Japanese manufacturers retreat from Southeast Asia's shop floors, Tokyo-linked startups are planting flags in the region's fridges — a telling shift in how Japan competes.",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Nikkei Asia reported on 4 November that Japan-linked startups, led by Secai Marche, are expanding fresh-food cold-chain distribution across Malaysia and Vietnam, linking farms directly with restaurants and retailers through a four-zone warehouse. Japanese logistics and agri anchors — Yamato, Nippon Express, Mitsui O.S.K. Lines and welzo — are betting heavily to package 'Japanese quality' as regional soft infrastructure. It is a graceful repositioning as Japanese manufacturing cedes the shop floor.",
+      "imageAlt": "Fresh produce (durian and more) from Vietnam's central highlands, moving into regional kitchens via cold chains and e-commerce — the very lane Japan-linked startups are entering.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Japan logistics startups expand cold food networks in Malaysia, Vietnam",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-11-04"
+        },
+        {
+          "source": "Secai Marche corporate filings (Caplight / PR Times)",
+          "title": "SECAI MARCHE raises additional funding (MOL PLUS investment, cold-chain infrastructure plan)",
+          "url": "https://prtimes.jp/main/html/rd/p/000000014.000063442.html",
+          "date": "2026-01"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-magpie-scam-raid-2026",
     "title": "马来西亚“喜鹊行动”扫荡112个诈骗窝点 932人落网含538名中国公民",
     "subtitle": "一场13天的全国同步突击，揭开了东南亚诈骗产业对中国籍劳动力的深度依赖",
