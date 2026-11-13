@@ -2511,6 +2511,13 @@
         "south-china-sea-coc-negotiations-2026"
       ],
       "added": "2026-11-12"
+    },
+    "event:侨见万载优品出海走进菲律宾(2026-11)": {
+      "slugs": [
+        "wanzai-quality-products-philippines-2026"
+      ],
+      "exception": null,
+      "note": "全新素材：万载县统战/侨办牵头、菲律宾江西总商会落地的县域优品出海经贸推介，视角为侨务与经贸在县域层面合流、乡亲网络作信任中介。"
     }
   },
   "event:印尼考虑中国投资建设跨加里曼丹2772公里铁路网(2026-10)": {
