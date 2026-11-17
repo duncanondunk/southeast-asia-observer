@@ -1,5 +1,67 @@
 [
   {
+    "slug": "china-asean-ai-cooperation-year-2026",
+    "title": "马尼拉定调\"人工智能合作年\"：当1万亿美元贸易额遇上规则之争",
+    "subtitle": "南华早报：中国—东盟自贸区3.0版12月1日生效、2027年定为人工智能合作年；数字规则与标准对接，才是万亿美元贸易额背后真正的考题",
+    "category": "地缘政治",
+    "tags": [
+      "中国—东盟",
+      "人工智能",
+      "东盟",
+      "东南亚",
+      "地缘政治",
+      "数字经济",
+      "中美竞争",
+      "南海",
+      "互联互通"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-17",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/china-asean-ai-cooperation-year-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-17",
+    "imageAlt": "从下往上仰望的现代摩天大楼玻璃幕墙，隐喻中国—东盟围绕数字规则与产业标准展开的制度竞争。",
+    "summary": "南华早报报道，李强在马尼拉第29次中国—东盟领导人会议宣布自贸区3.0版12月1日生效、2027年为人工智能合作年。贸易额突破万亿美元的真正看点，是谁来定义数字经济的区域规则；东盟的中心性，取决于能否把标准竞争变成可验证的公共产品。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Li Qiang pledges deeper AI and trade cooperation with Asean at Manila summit",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3374628/li-qiang-pledges-deeper-ai-and-trade-cooperation-asean-manila-summit",
+        "date": "2026-11-16"
+      },
+      {
+        "source": "环球时报 Global Times",
+        "title": "China-ASEAN Summit yields progress on FTA, AI co-op",
+        "url": "https://www.globaltimes.cn/page/202611/1374415.shtml",
+        "date": "2026-11-16"
+      }
+    ],
+    "en": {
+      "title": "Manila sets the tone for an \"AI Cooperation Year\": what US$1 trillion in trade really buys",
+      "subtitle": "SCMP: China-ASEAN FTA 3.0 takes effect on December 1 and 2027 becomes the AI Cooperation Year — the real test is who defines the region's digital rules",
+      "category": "Geopolitics",
+      "country": "Southeast Asia",
+      "summary": "SCMP reports Li Qiang announced at the 29th China-ASEAN summit that FTA 3.0 enters force on December 1 and 2027 becomes the AI Cooperation Year. Beyond a trillion dollars in trade, the real contest is over who defines regional digital rules, and whether ASEAN centrality yields verifiable public goods.",
+      "imageAlt": "Modern glass skyscrapers seen from below, symbolising the institutional contest between China and ASEAN over digital rules and industrial standards.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Li Qiang pledges deeper AI and trade cooperation with Asean at Manila summit",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374628/li-qiang-pledges-deeper-ai-and-trade-cooperation-asean-manila-summit",
+          "date": "2026-11-16"
+        },
+        {
+          "source": "Global Times",
+          "title": "China-ASEAN Summit yields progress on FTA, AI co-op",
+          "url": "https://www.globaltimes.cn/page/202611/1374415.shtml",
+          "date": "2026-11-16"
+        }
+      ]
+    }
+  },
+  {
     "slug": "asean-shared-oil-reserve-ticket-system-2026",
     "title": "票券替代油罐？东盟共享石油储备的日本剧本",
     "subtitle": "日经亚洲：印尼、泰国、菲律宾拟于2027年启动票券制共享储备，应急权利可以预先购买，但谁为保险买单仍悬而未决",
