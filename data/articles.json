@@ -1,5 +1,58 @@
 [
   {
+    "slug": "asean-shared-oil-reserve-ticket-system-2026",
+    "title": "票券替代油罐？东盟共享石油储备的日本剧本",
+    "subtitle": "日经亚洲：印尼、泰国、菲律宾拟于2027年启动票券制共享储备，应急权利可以预先购买，但谁为保险买单仍悬而未决",
+    "category": "经济产业",
+    "tags": [
+      "东盟",
+      "东南亚",
+      "能源安全",
+      "石油储备",
+      "票券制度",
+      "菲律宾",
+      "印度尼西亚",
+      "泰国",
+      "日本",
+      "中东",
+      "地缘政治",
+      "供应链"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-17",
+    "readingTime": 11,
+    "featured": false,
+    "image": "images/articles/asean-shared-oil-reserve-ticket-system-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-17",
+    "imageAlt": "马尼拉湾黄昏时分的城市天际线，隐喻菲律宾对进口能源与海运通道的依赖。",
+    "summary": "日经亚洲报道，东盟拟最早2027年在印尼、泰国设储油基地，菲律宾以票券制获得应急优先购买权，由日本主导的东亚—东盟经济研究中心（ERIA）推动。机制把供油保险变成可预付的权利，但价格、启动条件与本国储备偏薄仍未解。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesia, Thailand, Philippines to set up shared oil reserves",
+        "url": "https://s.nikkei.com/4Anfi6p",
+        "date": "2026-11-12"
+      }
+    ],
+    "en": {
+      "title": "Tickets instead of tanks? Japan's script for ASEAN's shared oil reserve",
+      "subtitle": "Nikkei Asia: Indonesia, Thailand and the Philippines aim to launch a ticket-based shared reserve in 2027 — emergency access can be bought in advance, but who pays for the insurance remains open",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "Nikkei Asia reports that ASEAN aims to launch a ticket-based shared fuel reserve by 2027, with storage in Indonesia and Thailand and the Philippines as first buyer, backed by Japan's ERIA. Pre-paid priority access is clever insurance, but pricing, trigger rules and thin domestic stocks remain unresolved.",
+      "imageAlt": "Manila Bay's skyline at dusk, symbolising the Philippines' reliance on imported energy and sea lanes.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia, Thailand, Philippines to set up shared oil reserves",
+          "url": "https://s.nikkei.com/4Anfi6p",
+          "date": "2026-11-12"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-canada-cepa-2026",
     "title": "印尼与加拿大自贸协定12月生效：数千税目归零，雅加达在下一盘什么棋",
     "subtitle": "首次拥抱北美，关税归零背后是产业链与逆差的双重考题",
