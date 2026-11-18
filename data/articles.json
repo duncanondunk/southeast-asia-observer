@@ -1,5 +1,66 @@
 [
   {
+    "slug": "sea-offgrid-solar-maintenance-bill-2026",
+    "title": "太阳能点亮村庄之后：谁为东南亚绿色转型的「第二张账单」买单",
+    "subtitle": "马来西亚原住民村庄每户按月掏7美元维护太阳能系统。当各国在气候峰会上认捐数十亿美元，最穷的社区却在为绿色转型分期付款",
+    "category": "气候变化",
+    "tags": [
+      "气候变化",
+      "清洁能源",
+      "太阳能",
+      "马来西亚",
+      "东南亚",
+      "能源转型",
+      "气候融资",
+      "原住民"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-18",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/sea-offgrid-solar-maintenance-bill-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-18",
+    "imageAlt": "一排排在草地上延伸的太阳能光伏板，蓝天白云下的户外场景，象征离网可再生能源推广。",
+    "summary": "据南华早报报道，马来西亚彭亨州原住民村庄今年4月用上离网太阳能，每户安装成本约4930美元（约3.55万元人民币），此后每月须自掏7美元维护，电池更换每套逾980美元。东南亚清洁能源投资仅为年度需求的一半。绿色转型的通病是重安装、轻运维：若融资不覆盖全生命周期，光伏板会在保修期后变成电子垃圾。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Southeast Asia’s green push brings solar power, but who pays to keep it on?",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3373551/southeast-asias-green-push-brings-solar-power-who-pays-keep-it",
+        "date": "2026-11-08"
+      },
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "COP31: Indonesia’s Just Energy Transition Fund proposal (Climate Policy Initiative, COP31 Antalya)",
+        "url": "https://www.climatepolicyinitiative.org/?p=127389&post_type=cpi_pr",
+        "date": "2026-11-11"
+      }
+    ],
+    "en": {
+      "title": "After the lights come on: who pays Southeast Asia's second green bill",
+      "subtitle": "An indigenous Malaysian village pays US$7 a month per household to keep its solar system running. As climate summits pledge billions, the poorest communities are left financing the transition in instalments",
+      "category": "Climate Change",
+      "country": "Malaysia",
+      "summary": "An Orang Asli village in Pahang gained off-grid solar in April, but households now pay US$7 a month for upkeep and face battery replacements above US$980. Regional clean-energy investment covers less than half of what is needed. Southeast Asia funds ribbon-cutting, not maintenance; without lifecycle financing, solar arrays risk becoming e-waste once donors leave.",
+      "imageAlt": "Rows of solar photovoltaic panels stretching across a grassy field under a blue sky, symbolising the spread of off-grid renewable energy.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Southeast Asia’s green push brings solar power, but who pays to keep it on?",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3373551/southeast-asias-green-push-brings-solar-power-who-pays-keep-it",
+          "date": "2026-11-08"
+        },
+        {
+          "source": "Climate Policy Initiative (COP31 Antalya)",
+          "title": "COP31: CPI proposes Indonesia’s Just Energy Transition Fund for affordable clean electricity",
+          "url": "https://www.climatepolicyinitiative.org/?p=127389&post_type=cpi_pr",
+          "date": "2026-11-11"
+        }
+      ]
+    }
+  },
+  {
     "slug": "east-asia-summit-online-scams-statement-2026",
     "title": "从端窝点到立规矩：马尼拉反诈声明能走多远",
     "subtitle": "19国在东亚峰会上签下反诈联合声明，从追赃到受害者保护写得很细，却没有预算、没有时钟、没有监督——最低公分母的多边主义能走多远",
