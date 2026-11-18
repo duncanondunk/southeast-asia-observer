@@ -1,5 +1,66 @@
 [
   {
+    "slug": "east-asia-summit-online-scams-statement-2026",
+    "title": "从端窝点到立规矩：马尼拉反诈声明能走多远",
+    "subtitle": "19国在东亚峰会上签下反诈联合声明，从追赃到受害者保护写得很细，却没有预算、没有时钟、没有监督——最低公分母的多边主义能走多远",
+    "category": "地缘政治",
+    "tags": [
+      "东亚峰会",
+      "网络诈骗",
+      "跨国犯罪",
+      "人口贩运",
+      "跨境治理",
+      "反洗钱",
+      "菲律宾",
+      "东南亚"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-18",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/east-asia-summit-online-scams-statement-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-18",
+    "imageAlt": "一人同时使用笔记本电脑与手机，隐喻网络诈骗依托数字平台跨境运作。",
+    "summary": "第21届东亚峰会在马尼拉通过反诈联合声明，19国承诺共享情报、联合调查、追赃并保护受害者。声明直指贫困与腐败等根源，却无预算、无时限、无监督。从端窝点到立规矩是进步，但真正的考试是第一次联合调查与第一笔返还资金。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "East Asia Summit seeks joint action on transnational crime, online scams",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-11-17"
+      },
+      {
+        "source": "PIQ Markets（转引日经亚洲与美联社）",
+        "title": "East Asia Summit leaders draft joint pledge against online scam centers",
+        "url": "https://piqmarkets.com/story/east-asia-summit-leaders-draft-joint-pledge-against-online-scam-centers",
+        "date": "2026-11-17"
+      }
+    ],
+    "en": {
+      "title": "From raids to rules: how far can Manila's anti-scam statement go",
+      "subtitle": "Nineteen governments signed an anti-scam statement at the East Asia Summit, with detailed pledges on asset recovery and victims — but no budget, clock or watchdog",
+      "category": "Geopolitics",
+      "country": "Southeast Asia",
+      "summary": "Nineteen governments adopted an anti-scam statement at the East Asia Summit in Manila, pledging intelligence-sharing, joint investigations, asset recovery and victim protection. The document names poverty and corruption as root causes but offers no budget, deadline or monitoring body. Moving from compound raids to rule-making is progress; the real test is the first joint case and the first recovered funds.",
+      "imageAlt": "A person using a laptop and smartphone simultaneously, symbolising how online scam networks operate across digital platforms.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "East Asia Summit seeks joint action on transnational crime, online scams",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-11-17"
+        },
+        {
+          "source": "PIQ Markets (citing Nikkei Asia and AP)",
+          "title": "East Asia Summit leaders draft joint pledge against online scam centers",
+          "url": "https://piqmarkets.com/story/east-asia-summit-leaders-draft-joint-pledge-against-online-scam-centers",
+          "date": "2026-11-17"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-central-bank-public-feud-2026",
     "title": "泰国央行高层罕见“公开开撕”：独立性这道防火墙，究竟挡的是谁",
     "subtitle": "董事会主席与行长罕见公开内讧，争的不是利率而是对“独立性”的解释权——修法、问责与政党博弈交织，真正的考题是这道防火墙挡的是政治操纵还是问责本身",
