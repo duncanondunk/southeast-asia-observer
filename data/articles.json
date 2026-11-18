@@ -1,5 +1,53 @@
 [
   {
+    "slug": "thailand-central-bank-public-feud-2026",
+    "title": "泰国央行高层罕见“公开开撕”：独立性这道防火墙，究竟挡的是谁",
+    "subtitle": "董事会主席与行长罕见公开内讧，争的不是利率而是对“独立性”的解释权——修法、问责与政党博弈交织，真正的考题是这道防火墙挡的是政治操纵还是问责本身",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "央行",
+      "货币政策",
+      "中小企业",
+      "东南亚",
+      "金融",
+      "治理"
+    ],
+    "country": "泰国",
+    "date": "2026-11-18",
+    "readingTime": 8,
+    "featured": false,
+    "image": "images/articles/thailand-central-bank-public-feud-2026.jpg",
+    "imageCredit": "Pexels (pexels.com/photos/32327770)",
+    "imageAccessed": "2026-11-18",
+    "imageAlt": "曼谷暮色中的城市街景，映照泰国经济在结构性难题与央行治理分歧之间的拉扯。",
+    "summary": "据联合早报报道，泰国央行董事会主席颂猜公开抨击管理不善、改革停滞，行长维泰随即反击，罕见公开内讧。争议落点是修订银行法、把行长绩效与解职挂钩：颂猜追问问责，维泰警告为政治干预开门。两人各拿成绩单，背后是为泰党与自豪党的派系博弈。真正的考题是：独立性这道防火墙，挡的究竟是政治操纵，还是问责本身。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "泰国央行高层罕见公开交锋 央行自主权再受严峻拷问",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261117-10014386",
+        "date": "2026-11-17"
+      }
+    ],
+    "en": {
+      "title": "Thailand's central bank airs its dirty laundry: independence is a firewall — but against whom?",
+      "subtitle": "A rare public feud pits the board chairman against the governor — not over rates, but over who defines independence, with reform, accountability and party politics intertwined",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "Thailand's central bank saw a rare public feud between its board chairman and governor. The fight is over amending the bank act to tie the governor's performance to dismissal: one side demands accountability, the other warns of political interference. Both cite competing scorecards on SME credit while party politics simmers beneath. The real question is whether independence is a firewall against manipulation or a shield against accountability.",
+      "imageAlt": "A Bangkok streetscape at dusk, evoking Thailand's economy caught between structural woes and a governance dispute at its central bank.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Thailand's central bank sees rare public clash; autonomy questioned again",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261117-10014386",
+          "date": "2026-11-17"
+        }
+      ]
+    }
+  },
+  {
     "slug": "xinglong-nanyang-returnee-cuisine-2026",
     "title": "味道的返程：兴隆四代归侨与一门被“非遗化”的南洋手艺",
     "subtitle": "一碗椰浆咖喱里的移民史：非遗认定与自贸港文旅让南洋味道成为侨乡名片，真正的考题是第四代能否守住记忆",
