@@ -1,5 +1,54 @@
 [
   {
+    "slug": "xinglong-nanyang-returnee-cuisine-2026",
+    "title": "味道的返程：兴隆四代归侨与一门被“非遗化”的南洋手艺",
+    "subtitle": "一碗椰浆咖喱里的移民史：非遗认定与自贸港文旅让南洋味道成为侨乡名片，真正的考题是第四代能否守住记忆",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "归侨",
+      "印度尼西亚",
+      "南洋",
+      "海南",
+      "侨乡",
+      "文化遗产",
+      "东南亚"
+    ],
+    "country": "中国",
+    "date": "2026-11-18",
+    "readingTime": 9,
+    "featured": false,
+    "image": "images/articles/xinglong-nanyang-returnee-cuisine-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-18",
+    "imageAlt": "东南亚唐人街夜景，霓虹灯火与街边摊档呼应南洋风味的市井记忆。",
+    "summary": "据中新网报道，海南兴隆一家由四代印尼归侨经营的餐厅，用叁巴酱与椰浆咖喱留住20世纪50年代的垦荒岁月。非遗认定与自贸港文旅让乡愁变成客流，真正的考题是这门活手艺能否在标准化与年轻传承中不失原味。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "从印尼到兴隆：一碗南洋味，四代归侨情",
+        "url": "https://www.chinaqw.com/qx/2026/11-16/414163.shtml",
+        "date": "2026-11-16"
+      }
+    ],
+    "en": {
+      "title": "A Taste that Came Home: Four Generations of Indonesian Returnees in Xinglong",
+      "subtitle": "Sambal, coconut curry and a heritage label: Xinglong's Nanyang food becomes a tourism asset, but can the fourth generation keep the memory intact?",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "China News Service reports that a Xinglong restaurant run by fourth-generation Indonesian returnees keeps the 1950s settlement years alive through sambal and coconut curry. Heritage designation and Hainan's free trade port turn nostalgia into tourism, but the real test is whether a living craft can be passed on without becoming a stage set.",
+      "imageAlt": "A Southeast Asian Chinatown at night, its neon lights and street stalls evoking the vernacular memory of Nanyang flavours.",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "From Indonesia to Xinglong: a Nanyang flavour, four generations of returned overseas Chinese",
+          "url": "https://www.chinaqw.com/qx/2026/11-16/414163.shtml",
+          "date": "2026-11-16"
+        }
+      ]
+    }
+  },
+  {
     "slug": "china-asean-ai-cooperation-year-2026",
     "title": "马尼拉定调\"人工智能合作年\"：当1万亿美元贸易额遇上规则之争",
     "subtitle": "南华早报：中国—东盟自贸区3.0版12月1日生效、2027年定为人工智能合作年；数字规则与标准对接，才是万亿美元贸易额背后真正的考题",
