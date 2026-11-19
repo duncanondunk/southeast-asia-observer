@@ -1,5 +1,85 @@
 [
   {
+    "slug": "asean-korea-tech-australia-energy-2026",
+    "title": "东盟向首尔要技术、向堪培拉要能源：插口多了，电流就稳了吗？",
+    "subtitle": "自贸区升级、数字经济协定落地、能源安全配套相继推出——多伙伴不等于选边站，但签了字不等于通了电",
+    "category": "经济产业",
+    "tags": [
+      "东盟",
+      "韩国",
+      "澳大利亚",
+      "科技合作",
+      "能源安全",
+      "数字经济",
+      "人工智能",
+      "区域一体化",
+      "电网",
+      "东南亚",
+      "华商",
+      "中国—东盟",
+      "半导体",
+      "自贸协定",
+      "数码经济"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-19",
+    "readingTime": 10,
+    "featured": false,
+    "image": "images/articles/asean-korea-tech-australia-energy-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-19",
+    "imageAlt": "曼谷唐人街夜间街景，霓虹招牌映照湿润街道，嘟嘟车与行人穿行其间，隐喻东盟城市网络中的技术与能源合作。",
+    "summary": "据《日经亚洲》报道，东盟在马尼拉峰会周同时向韩国要技术、向澳大利亚要能源：自贸区升级、数字经济协定落地、清洁能源与跨境电网配套相继推出。多伙伴不等于选边站，但签了字不等于通了电——标准互认、过境规则与付款机制才是硬骨头。华商可当桥梁，不能被当成代理人。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "ASEAN seeks stronger tech ties with Korea, energy links with Australia",
+        "url": "https://asia.nikkei.com/location/southeast-asia",
+        "date": "2026-11-16"
+      },
+      {
+        "source": "联合早报 Zaobao",
+        "title": "黄循财总理吁亚细安韩国深化经贸联系 争取明年完成自贸区升级",
+        "url": "https://www.zaobao.com.sg/news/singapore/story20261116-10005172",
+        "date": "2026-11-16"
+      },
+      {
+        "source": "ISEAS 尤索夫伊萨东南亚研究院",
+        "title": "Daily News on Southeast Asia – 17 November 2026",
+        "url": "https://iseas.edu.sg/library/blog/daily-news-alerts/261117",
+        "date": "2026-11-17"
+      }
+    ],
+    "en": {
+      "title": "ASEAN seeks tech from Seoul, energy from Canberra: more sockets, but is the current steady?",
+      "subtitle": "FTA upgrades, DEFA implementation and energy packages arrive together — more partners do not mean taking sides, but signed statements are not flowing current",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "At the Manila summit week, ASEAN asked Seoul for technology and Canberra for energy: an FTA upgrade, DEFA implementation, clean-energy and digital packages, and cross-border grid plans. More partners do not mean taking sides, but signed statements are not flowing current. Mutual recognition, transit rules and payment mechanisms remain the hard part. Overseas Chinese can build bridges; they should not be treated as proxies.",
+      "imageAlt": "A night scene in Bangkok Chinatown, with neon signs reflected on wet streets and tuk-tuks and pedestrians passing through, evoking technology and energy cooperation across ASEAN urban networks.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "ASEAN seeks stronger tech ties with Korea, energy links with Australia",
+          "url": "https://asia.nikkei.com/location/southeast-asia",
+          "date": "2026-11-16"
+        },
+        {
+          "source": "Zaobao",
+          "title": "PM Wong urges deeper ASEAN–South Korea economic ties, targets FTA upgrade next year",
+          "url": "https://www.zaobao.com.sg/news/singapore/story20261116-10005172",
+          "date": "2026-11-16"
+        },
+        {
+          "source": "ISEAS – Yusof Ishak Institute",
+          "title": "Daily News on Southeast Asia – 17 November 2026",
+          "url": "https://iseas.edu.sg/library/blog/daily-news-alerts/261117",
+          "date": "2026-11-17"
+        }
+      ]
+    }
+  },
+  {
     "slug": "singapore-asean-haze-centre-indonesia-2026",
     "title": "新加坡要在印尼建「烟霾中心」：一纸承诺能解开东盟24年的死结吗？",
     "subtitle": "中心须六国批准方能生效，断气与朝圣警告却已先行——当烟霾成为外交筹码，区域治理要先解政治题",
