@@ -1,5 +1,66 @@
 [
   {
+    "slug": "singapore-asean-haze-centre-indonesia-2026",
+    "title": "新加坡要在印尼建「烟霾中心」：一纸承诺能解开东盟24年的死结吗？",
+    "subtitle": "中心须六国批准方能生效，断气与朝圣警告却已先行——当烟霾成为外交筹码，区域治理要先解政治题",
+    "category": "气候变化",
+    "tags": [
+      "气候变化",
+      "烟霾",
+      "新加坡",
+      "印度尼西亚",
+      "东盟",
+      "东南亚",
+      "地缘政治",
+      "能源"
+    ],
+    "country": "新加坡",
+    "date": "2026-11-19",
+    "readingTime": 9,
+    "featured": false,
+    "image": "images/articles/singapore-asean-haze-centre-indonesia-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-19",
+    "imageAlt": "印尼雅加达市中心环形喷泉与四周高楼，天空灰蒙一片，隐约可见烟霾，车辆行人穿行其间。",
+    "summary": "新加坡明年接任东盟主席国，宣布推动在印尼设立跨境烟霾控制协调中心，但须六国批准方能生效。此前印尼以断气、朝圣警告回应烟霾争端，把环境议题外交化。中心能改善监测协调，却动不了泥炭地排水与刀耕火种的土地激励；危机散去后能否跨过批准门槛，才是真正考题。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Singapore eyes regional haze control centre in Indonesia as Asean chair",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373091/singapore-eyes-regional-haze-control-centre-indonesia-asean-chair",
+        "date": "2026-11-03"
+      },
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Smokescreen politics: Malaysians mock Indonesian officials' 'we send oxygen' haze defence",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3370587/smokescreen-politics-malaysians-mock-indonesian-officials-we-send-oxygen-haze-defence",
+        "date": "2026-10-30"
+      }
+    ],
+    "en": {
+      "title": "Singapore's haze centre in Indonesia: can one pledge unlock ASEAN's 24-year deadlock?",
+      "subtitle": "The centre needs six ratifications to exist — but the gas cut-offs and pilgrim warnings came first. When haze becomes a diplomatic chip, governance must settle the politics first",
+      "category": "Climate Change",
+      "country": "Singapore",
+      "summary": "As it prepares to chair ASEAN, Singapore has pledged a transboundary haze control centre in Indonesia — but six members must ratify it before it exists. Jakarta had already cut gas supplies and warned pilgrims over the haze, turning an environmental issue into a diplomatic chip. The centre can improve monitoring, not the land-use incentives behind peat draining and slash-and-burn. Ratification after the smoke clears is the real test.",
+      "imageAlt": "A circular fountain and surrounding high-rises in central Jakarta under a grey, hazy sky, with traffic and pedestrians moving through the scene.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Singapore eyes regional haze control centre in Indonesia as Asean chair",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373091/singapore-eyes-regional-haze-control-centre-indonesia-asean-chair",
+          "date": "2026-11-03"
+        },
+        {
+          "source": "South China Morning Post",
+          "title": "Smokescreen politics: Malaysians mock Indonesian officials' 'we send oxygen' haze defence",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3370587/smokescreen-politics-malaysians-mock-indonesian-officials-we-send-oxygen-haze-defence",
+          "date": "2026-10-30"
+        }
+      ]
+    }
+  },
+  {
     "slug": "nanyang-mechanics-descendants-kunming-2026",
     "title": "外公走过的路：一个南侨机工家庭的昆明寻访与百万点赞背后的集体记忆",
     "subtitle": "75岁马来西亚华人触摸墙上父亲的照片，外孙女拍下的一段视频收获百万点赞。当3200名南侨机工的牺牲几近被遗忘，一个家庭的私人寻访如何变成跨越国界的公共记忆",
