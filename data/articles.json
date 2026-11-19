@@ -1,5 +1,66 @@
 [
   {
+    "slug": "myanmar-mining-arsenic-thailand-sai-river-2026",
+    "title": "砷从矿场流进水龙头：泰国北部两万户家庭的跨境水账",
+    "subtitle": "赛河原水砷超标25至30倍，14个村庄断水、逾2万户家庭受影响；卫星建模溯源至缅甸金矿，中资矿场问责、军政府工作组悖论与湄公河下游风险交织",
+    "category": "气候变化",
+    "tags": [
+      "缅甸",
+      "泰国",
+      "湄公河",
+      "跨境治理",
+      "环境治理",
+      "华侨华人",
+      "东南亚",
+      "矿业"
+    ],
+    "country": "缅甸",
+    "date": "2026-11-19",
+    "readingTime": 10,
+    "featured": false,
+    "image": "images/articles/myanmar-mining-arsenic-thailand-sai-river-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-19",
+    "imageAlt": "河流与沿岸水上生活场景，隐喻依赖跨境河流水源的社区正面临砷污染威胁。",
+    "summary": "据联合早报报道，缅甸金矿与稀土开采的砷污染顺赛河流入泰国清莱，自来水厂超标30倍，14个村庄断水、逾2万户家庭受影响。泰方成立水质工作组并与北京沟通，但上游矿场多由中资经营、与军方和地方武装关联，技术安排难解政治病因；污染若入湄公河干流，沿岸数百万人买单。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "缅甸采矿污染波及泰国北部 逾2万户家庭用水受影响",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261118-10018248",
+        "date": "2026-11-18"
+      },
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "泰国北部河流污染严重 要求缅甸采取紧急行动",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261111-9980819",
+        "date": "2026-11-11"
+      }
+    ],
+    "en": {
+      "title": "From mine to tap: the cross-border water bill facing 20,000 Thai households",
+      "subtitle": "Arsenic in the Sai River hit 25–30 times the limit, cutting water to 14 villages and over 20,000 households; satellite models point to Myanmar's gold mines, with Chinese investment, a junta working group and Mekong downstream risks intertwined",
+      "category": "Climate Change",
+      "country": "Myanmar",
+      "summary": "AFP reports that arsenic from Myanmar's gold and rare-earth mines flowed down the Sai River into Chiang Rai, hitting 30 times the limit and cutting water to 14 villages and over 20,000 households. Thailand has formed a water-quality working group and raised the matter with Beijing, but most upstream mines are Chinese-funded and tied to military interests, so technical fixes cannot cure a political cause. If contamination reaches the Mekong mainstream, millions downstream will pay.",
+      "imageAlt": "A river and waterside livelihood scene, evoking communities dependent on a cross-border waterway now facing an arsenic threat.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Myanmar mining pollution reaches northern Thailand; over 20,000 households' water affected",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261118-10018248",
+          "date": "2026-11-18"
+        },
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Northern Thai rivers badly polluted; urgent action sought from Myanmar",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261111-9980819",
+          "date": "2026-11-11"
+        }
+      ]
+    }
+  },
+  {
     "slug": "asean-korea-tech-australia-energy-2026",
     "title": "东盟向首尔要技术、向堪培拉要能源：插口多了，电流就稳了吗？",
     "subtitle": "自贸区升级、数字经济协定落地、能源安全配套相继推出——多伙伴不等于选边站，但签了字不等于通了电",
