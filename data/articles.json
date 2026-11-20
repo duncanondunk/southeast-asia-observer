@@ -1,5 +1,66 @@
 [
   {
+    "slug": "thailand-chinese-tourist-drop-safety-warning-2026",
+    "title": "一条提醒让中国游客少了13.6%：泰国旅游的安全账，谁来买单？",
+    "subtitle": "10月赴泰中国游客同比下滑13.6%，一根使馆安全提醒撬动了十几万人的行程；但真正的账单，是灰色产业、身份混淆与区域客源争夺的共同结果",
+    "category": "地缘政治",
+    "tags": [
+      "泰国",
+      "中国游客",
+      "旅游安全",
+      "电信诈骗",
+      "领事保护",
+      "中泰关系",
+      "东南亚",
+      "跨境治理"
+    ],
+    "country": "泰国",
+    "date": "2026-11-20",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/thailand-chinese-tourist-drop-safety-warning-2026.jpg",
+    "imageCredit": "Unsplash — photo 1528181304800",
+    "imageAccessed": "2026-11-20",
+    "imageAlt": "泰国清迈一座金碧辉煌的佛寺建筑群，蓝天白云下佛塔与泰式殿宇并列，寺内匾额可见汉字，象征中国游客熟悉的泰国旅游目的地。",
+    "summary": "10月赴泰中国游客308942人次、同比降13.6%，为2月以来首次下滑。文章指出，使馆提醒只是导火索，真正的账单来自灰色产业、游客与违法者身份混淆、边境治理跨国难题及区域客源争夺；泰国若只靠安全喊话，难重建信心。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Chinese tourist arrivals in Thailand fall 13.6% in October after embassy safety warning",
+        "url": "https://www.scmp.com/economy/china-economy/article/3373566/chinese-tourist-arrivals-thailand-fall-136-october-after-embassy-safety-warning",
+        "date": "2026-11-13"
+      },
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Family Business Summit day 2 tackles US-China ties, Asean and geopolitical shifts",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3373593/family-business-summit-day-2-tackles-us-china-ties-asean-and-geopolitical-shifts",
+        "date": "2026-11-13"
+      }
+    ],
+    "en": {
+      "title": "One advisory, 13.6% fewer visitors: who pays Thailand's safety bill?",
+      "subtitle": "Chinese arrivals fell 13.6% in October; an embassy notice lit the fuse, but the real bill comes from grey industries, identity confusion and regional competition for tourists",
+      "category": "Geopolitics",
+      "country": "Thailand",
+      "summary": "Chinese arrivals to Thailand fell 13.6% in October, the first decline since February. The embassy advisory was only the trigger; the real bill comes from grey industries, the conflation of tourists with offenders, cross-border governance gaps and regional competition. Safety rhetoric alone will not rebuild confidence.",
+      "imageAlt": "A gilded Buddhist temple complex in Chiang Mai, Thailand, with a pagoda and Thai-style halls under a bright sky; Chinese characters on a plaque evoke a destination familiar to Chinese tourists.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Chinese tourist arrivals in Thailand fall 13.6% in October after embassy safety warning",
+          "url": "https://www.scmp.com/economy/china-economy/article/3373566/chinese-tourist-arrivals-thailand-fall-136-october-after-embassy-safety-warning",
+          "date": "2026-11-13"
+        },
+        {
+          "source": "South China Morning Post",
+          "title": "Family Business Summit day 2 tackles US-China ties, Asean and geopolitical shifts",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3373593/family-business-summit-day-2-tackles-us-china-ties-asean-and-geopolitical-shifts",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-long-thanh-airline-relocation-delay-2026",
     "title": "隆城机场开门，航司却要缓一缓：越南超级枢纽的最后一公里",
     "subtitle": "航司要求推迟转场，暴露的不是跑道问题，而是航季、货运、交通与监管协同的短板；基建完工不等于枢纽成形",
