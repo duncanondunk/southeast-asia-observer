@@ -1,5 +1,75 @@
 [
   {
+    "slug": "vietnam-long-thanh-airline-relocation-delay-2026",
+    "title": "隆城机场开门，航司却要缓一缓：越南超级枢纽的最后一公里",
+    "subtitle": "航司要求推迟转场，暴露的不是跑道问题，而是航季、货运、交通与监管协同的短板；基建完工不等于枢纽成形",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "航空",
+      "基础设施",
+      "互联互通",
+      "东南亚"
+    ],
+    "country": "越南",
+    "date": "2026-11-20",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/vietnam-long-thanh-airline-relocation-delay-2026.jpg",
+    "imageCredit": "Pexels — photo 9129698",
+    "imageAccessed": "2026-11-20",
+    "imageAlt": "一架客机降落，跑道两侧排列着红色进近灯，象征越南隆城机场启用前的运营考验。",
+    "summary": "越南隆城机场原定12月投运，30多家国际航司却要求推迟转场。问题不在跑道，而在运营准备：航季排班需6至12个月，货运、海关、交通与医疗配套尚未同步，转移演练被压缩。文章指出，采购丑闻更抬升制度成本；越南应以运营就绪而非工程进度作为开航标准。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "越南隆城机场启用前又遇挫 数十家国际航司称来不及迁移业务",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261119-10026234",
+        "date": "2026-11-19"
+      },
+      {
+        "source": "澎湃新闻 The Paper",
+        "title": "新机场将投运 34家航司要求推迟转场！",
+        "url": "https://m.thepaper.cn/newsDetail_forward_34512305",
+        "date": "2026-11-20"
+      },
+      {
+        "source": "腾讯新闻 VietLook 越南观察",
+        "title": "越南隆城机场：政府要求年底投运，国际航空公司却希望推迟至2027年底甚至2028年",
+        "url": "https://news.qq.com/rain/a/20261120A04K4D00",
+        "date": "2026-11-20"
+      }
+    ],
+    "en": {
+      "title": "Long Thanh opens, but airlines hit pause: the last mile of Vietnam's mega-hub",
+      "subtitle": "Airlines asking to delay their move expose a gap between construction and operations: seasonal scheduling, cargo, ground access and regulatory coordination matter more than runways",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam's Long Thanh airport is due to open in December, yet more than 30 international airlines want to delay their move. The obstacle is not concrete but operational readiness: seasonal scheduling, cargo and customs systems, ground access and a compressed transfer programme. The article argues that a completed terminal does not make a hub, and that procurement troubles add an institutional tax. Vietnam should gate opening on operations, not construction.",
+      "imageAlt": "An airliner on final approach above a runway lined with red approach lights, evoking the operational test facing Vietnam's Long Thanh airport.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Vietnam's Long Thanh airport hit by fresh delay as dozens of international airlines say they need more time to relocate",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261119-10026234",
+          "date": "2026-11-19"
+        },
+        {
+          "source": "The Paper",
+          "title": "New airport about to open; 34 airlines ask to postpone their transfer",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34512305",
+          "date": "2026-11-20"
+        },
+        {
+          "source": "VietLook (via QQ News)",
+          "title": "Long Thanh: government pushes year-end opening, international airlines want 2027 or 2028",
+          "url": "https://news.qq.com/rain/a/20261120A04K4D00",
+          "date": "2026-11-20"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-rupiah-record-low-rate-hike-2026",
     "title": "印尼盾创历史新低、央行加息至6%：汇率保卫战，究竟在保什么？",
     "subtitle": "25个基点挡不住美元与政治的双重挤压；基本面不差，问题在信心、结构与谁来买单。",
