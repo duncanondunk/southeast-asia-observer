@@ -1,5 +1,53 @@
 [
   {
+    "slug": "apec-shenzhen-overseas-chinese-business-2026",
+    "title": "深圳亚太经合组织会议上的华商：从牵线搭桥到搭建市场基础设施",
+    "subtitle": "榴莲对接美国烘焙商的例子，折射海外华商从餐饮零售转向数字贸易；合规与在地化成为新门槛，东南亚网络降低搜寻成本却不能替代规则",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "华商",
+      "APEC",
+      "东南亚",
+      "跨境电商",
+      "供应链",
+      "中小企业"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-20",
+    "readingTime": 9,
+    "featured": false,
+    "image": "images/articles/apec-shenzhen-overseas-chinese-business-2026.jpg",
+    "imageCredit": "Unsplash",
+    "imageAccessed": "2026-11-20",
+    "imageAlt": "现代办公室里几位商务人士围桌讨论，电脑屏幕显示数据，隐喻跨境电商中的供需对接。",
+    "summary": "据中国侨网转引中新社报道，深圳亚太经合组织工商领导人峰会上的华商表示，业务正从传统贸易转向跨境电商与专业服务。文章指出，华商的真正价值是把分散信息变成可执行交易，但合规与在地化才是新门槛；在东南亚，这种网络能降低对接成本，却不能替代公共规则。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "（深圳APEC）海外华商逐浪亚太经贸合作",
+        "url": "https://www.chinaqw.com/jjkj/2026/11-19/414321.shtml",
+        "date": "2026-11-19"
+      }
+    ],
+    "en": {
+      "title": "Overseas Chinese Business at Shenzhen APEC: From Bridge Builders to Market Infrastructure",
+      "subtitle": "A durian matched to an American bakery captures the shift from traditional trade to digital platforms; compliance and localisation are the new threshold, and diaspora networks lower search costs without replacing public rules",
+      "category": "Overseas Chinese",
+      "country": "Southeast Asia",
+      "summary": "At the Shenzhen APEC CEO Summit, overseas Chinese business leaders described a shift from traditional trade to cross-border e-commerce and professional services. Their real contribution is turning scattered information into workable transactions — a durian supplier matched to an American buyer is market infrastructure in miniature. But compliance, localisation and standards alignment are the new threshold. In Southeast Asia, diaspora networks lower the cost of doing business but cannot substitute for public rules; the bridge metaphor needs that limit.",
+      "imageAlt": "Business professionals discussing around a table in a modern office, with data on screens, evoking cross-border e-commerce matchmaking.",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "Overseas Chinese business ride the wave of Asia-Pacific economic cooperation in Shenzhen",
+          "url": "https://www.chinaqw.com/jjkj/2026/11-19/414321.shtml",
+          "date": "2026-11-19"
+        }
+      ]
+    }
+  },
+  {
     "slug": "myanmar-mining-arsenic-thailand-sai-river-2026",
     "title": "砷从矿场流进水龙头：泰国北部两万户家庭的跨境水账",
     "subtitle": "赛河原水砷超标25至30倍，14个村庄断水、逾2万户家庭受影响；卫星建模溯源至缅甸金矿，中资矿场问责、军政府工作组悖论与湄公河下游风险交织",
