@@ -1,5 +1,82 @@
 [
   {
+    "slug": "indonesia-rupiah-record-low-rate-hike-2026",
+    "title": "印尼盾创历史新低、央行加息至6%：汇率保卫战，究竟在保什么？",
+    "subtitle": "25个基点挡不住美元与政治的双重挤压；基本面不差，问题在信心、结构与谁来买单。",
+    "category": "经济产业",
+    "tags": [
+      "印尼",
+      "印尼盾",
+      "货币政策",
+      "利率",
+      "汇率",
+      "通货膨胀",
+      "央行",
+      "东南亚",
+      "华商",
+      "侨资",
+      "美元",
+      "投资"
+    ],
+    "country": "印尼",
+    "date": "2026-11-20",
+    "readingTime": 10,
+    "featured": false,
+    "image": "images/articles/indonesia-rupiah-record-low-rate-hike-2026.jpg",
+    "imageCredit": "Pexels — photo 32327756",
+    "imageAccessed": "2026-11-20",
+    "imageAlt": "雅加达城市天际线，金融区的银行大楼在薄雾中矗立，隐喻印尼盾承压下的金融市场与资本信心。",
+    "summary": "据《日经亚洲》报道，印尼盾创历史新低，央行意外加息25个基点至6%。基本面不差，汇率却在为政治与制度不确定性打折；加息只买到0.06%的反弹。保汇率不是保数字，而是防止信心塌方；华商与侨资需要的是可预期的规则。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Indonesia raises key interest rate as rupiah hits record low",
+        "url": "https://asia.nikkei.com/business/markets/currencies/indonesia-raises-key-interest-rate-as-rupiah-hits-record-low",
+        "date": "2026-11-18"
+      },
+      {
+        "source": "路透社 Reuters (PiQ Markets)",
+        "title": "Indonesia central bank hikes rates to support rupiah",
+        "url": "https://piqmarkets.com/reuters/indonesia-central-bank-hikes-rates-to-support-rupiah-2026-11-18-07-45-30",
+        "date": "2026-11-18"
+      },
+      {
+        "source": "印尼国家广播电台 RRI",
+        "title": "BI Raises Key Rate to 6 Percent to Stabilize Rupiah",
+        "url": "https://rri.co.id/voice-of-indonesia/business/2908818/bi-raises-key-rate-to-6-percent-to-stabilize-rupiah",
+        "date": "2026-11-19"
+      }
+    ],
+    "en": {
+      "title": "Rupiah at a record low, Bank Indonesia hikes to 6%: what is this currency defence defending?",
+      "subtitle": "25 basis points cannot offset a dollar squeeze and political jitters; fundamentals hold, but confidence, structure and who pays the bill are the real questions.",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "Nikkei Asia reports the rupiah hit a record low and Bank Indonesia unexpectedly hiked 25 basis points to 6%. Fundamentals are decent, yet the currency is discounting political and institutional uncertainty; the hike bought just 0.06%. Defending the exchange rate means defending confidence, not a number. Overseas Chinese firms need predictable rules, not slogans.",
+      "imageAlt": "Jakarta's skyline, with bank towers rising above the city in light haze, evoking Indonesia's financial markets and capital confidence under pressure on the rupiah.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Indonesia raises key interest rate as rupiah hits record low",
+          "url": "https://asia.nikkei.com/business/markets/currencies/indonesia-raises-key-interest-rate-as-rupiah-hits-record-low",
+          "date": "2026-11-18"
+        },
+        {
+          "source": "Reuters (PiQ Markets)",
+          "title": "Indonesia central bank hikes rates to support rupiah",
+          "url": "https://piqmarkets.com/reuters/indonesia-central-bank-hikes-rates-to-support-rupiah-2026-11-18-07-45-30",
+          "date": "2026-11-18"
+        },
+        {
+          "source": "RRI",
+          "title": "BI Raises Key Rate to 6 Percent to Stabilize Rupiah",
+          "url": "https://rri.co.id/voice-of-indonesia/business/2908818/bi-raises-key-rate-to-6-percent-to-stabilize-rupiah",
+          "date": "2026-11-19"
+        }
+      ]
+    }
+  },
+  {
     "slug": "apec-shenzhen-overseas-chinese-business-2026",
     "title": "深圳亚太经合组织会议上的华商：从牵线搭桥到搭建市场基础设施",
     "subtitle": "榴莲对接美国烘焙商的例子，折射海外华商从餐饮零售转向数字贸易；合规与在地化成为新门槛，东南亚网络降低搜寻成本却不能替代规则",
