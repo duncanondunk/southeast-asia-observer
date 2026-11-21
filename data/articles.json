@@ -1,5 +1,68 @@
 [
   {
+    "slug": "johor-data-centre-water-1pct-rebuttal-2026",
+    "title": "1.05%能堵住质疑吗：柔佛19座数据中心与一场关于水的算术争论",
+    "subtitle": "州政府用数字反驳“抽干水坝”，但获批不等于实耗、全州分母掩盖局部压力——算力落户的真正考题，是水账能否公开到每一座机房。",
+    "category": "经济产业",
+    "tags": [
+      "马来西亚",
+      "柔佛",
+      "数据中心",
+      "水资源",
+      "气候变化",
+      "人工智能",
+      "经济特区",
+      "基础设施",
+      "东南亚",
+      "数字经济"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-21",
+    "readingTime": 11,
+    "featured": false,
+    "image": "images/articles/johor-data-centre-water-1pct-rebuttal-2026.jpg",
+    "imageCredit": "Pexels — photo 17489151",
+    "imageAccessed": "2026-11-21",
+    "imageAlt": "一排排服务器机柜的特写，深色机柜与散热网孔在蓝橙色灯光下延伸，象征支撑人工智能算力的物理基础设施及其资源消耗。",
+    "summary": "柔佛州政府公布19座数据中心获批用水每天2127.7万公升，占全州净水1.05%，反驳抽干水坝说法。但获批不等于实耗，全州分母稀释了局部流域压力；官方分类数字相加超过19座，透明度不足才是争议根源。算力落地需配套可核查的水账本。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "柔州政府驳斥19数据中心“抽干水坝”说法 称用水仅占全州1.05%",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261120-10033897",
+        "date": "2026-11-20"
+      },
+      {
+        "source": "星报 The Star",
+        "title": "Data centres in Johor use 1.05% of treated water supply, says exco",
+        "url": "https://www.thestar.com.my/news/nation/2026/11/20/data-centres-in-johor-use-105-of-treated-water-supply-says-exco",
+        "date": "2026-11-20"
+      }
+    ],
+    "en": {
+      "title": "Can 1.05% Settle It? Johor's 19 Data Centres and the Arithmetic of Water",
+      "subtitle": "The state answered 'draining the dams' with a percentage. But an approved allocation is not measured consumption, and a statewide denominator hides local stress — the real test is whether every server hall's water ledger can be made public.",
+      "category": "Economy & Industry",
+      "country": "Malaysia",
+      "summary": "Johor says its 19 operating data centres use just 1.05 per cent of treated water, and that falling dams are a drought story. But an approved allocation is not measured consumption, a statewide denominator hides local basin stress, and the official cooling categories add up to more than 19 facilities. The real test is facility-level disclosure: approved and actual abstraction, dry-season curves and alternative water. Public capital building new reservoirs for compute turns 1.05 per cent into a subsidy question.",
+      "imageAlt": "Close-up of rows of server racks, dark cabinets and perforated cooling panels receding under blue and orange light, evoking the physical infrastructure behind AI compute and its resource footprint.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Johor government refutes claim that 19 data centres drained dams, says they use just 1.05% of state water",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261120-10033897",
+          "date": "2026-11-20"
+        },
+        {
+          "source": "The Star",
+          "title": "Data centres in Johor use 1.05% of treated water supply, says exco",
+          "url": "https://www.thestar.com.my/news/nation/2026/11/20/data-centres-in-johor-use-105-of-treated-water-supply-says-exco",
+          "date": "2026-11-20"
+        }
+      ]
+    }
+  },
+  {
     "slug": "vietnam-mvista-subsea-cable-japan-2026",
     "title": "一条光缆，四方下注：越南MViSTA海底电缆与日本10亿美元的数字基建棋局",
     "subtitle": "2500公里的MViSTA把越、日、马、新、泰绑上一条数字航道，却刻意绕开中国。谅解备忘录的10亿美元水分几何，华商又该站在哪一边？",
