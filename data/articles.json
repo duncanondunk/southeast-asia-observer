@@ -1,5 +1,53 @@
 [
   {
+    "slug": "thai-pm-cantonese-ancestry-apec-2026",
+    "title": "一句“好开心”的粤语：泰国总理阿努廷与海外华人的身份政治",
+    "subtitle": "阿努廷在深圳用粤语开场，广东祖籍与家族语言随之成为焦点。但血缘能否转化为软实力？侨胞寻根叙事的另一面，是认同与政策之间那条不该被忽略的界线",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "泰国",
+      "粤语",
+      "中泰关系",
+      "寻根",
+      "软实力",
+      "东南亚"
+    ],
+    "country": "泰国",
+    "date": "2026-11-21",
+    "readingTime": 11,
+    "featured": false,
+    "image": "images/articles/thai-pm-cantonese-ancestry-apec-2026.jpg",
+    "imageCredit": "Unsplash — photo 1508009603885",
+    "imageAccessed": "2026-11-21",
+    "imageAlt": "泰国曼谷唐人街夜景，霓虹招牌与中文大字在雨夜街道上亮起，两辆嘟嘟车停在路口，象征泰国华人社区的语言与文化延续。",
+    "summary": "泰国总理阿努廷在深圳亚太经合组织峰会用粤语问好，其广东祖籍、家族粤语传承与父亲回乡祭祖修路的故事再度受关注。文章认为，这种祖籍外交是低成本软实力，但血缘不等于政策；海外华人身份的价值，恰恰在于不能被简化为亲华标签。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "（深圳APEC）说粤语的泰国总理",
+        "url": "https://www.chinaqw.com/ycjx/2026/11-19/414362.shtml",
+        "date": "2026-11-19"
+      }
+    ],
+    "en": {
+      "title": "\"So happy\" in Cantonese: Thai PM Anutin and the identity politics of overseas Chinese",
+      "subtitle": "Anutin opened in Cantonese in Shenzhen, putting his Guangdong ancestry and family language in the spotlight. But can bloodlines become soft power? Root-seeking narratives also obscure the line between identity and policy",
+      "category": "Overseas Chinese",
+      "country": "Thailand",
+      "summary": "Thai PM Anutin greeted a Shenzhen APEC audience in Cantonese, renewing attention to his Guangdong ancestry, family language and his father's ancestral-home road donation. This roots diplomacy is low-cost soft power, but blood is not policy: overseas-Chinese identity resists reduction to a pro-China label.",
+      "imageAlt": "Night view of Bangkok Chinatown, with neon signs and large Chinese characters lighting a rain-soaked street and two tuk-tuks at a crossroads, evoking linguistic and cultural continuity in Thailand's Chinese community.",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "(Shenzhen APEC) The Cantonese-speaking Thai prime minister",
+          "url": "https://www.chinaqw.com/ycjx/2026/11-19/414362.shtml",
+          "date": "2026-11-19"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thailand-chinese-tourist-drop-safety-warning-2026",
     "title": "一条提醒让中国游客少了13.6%：泰国旅游的安全账，谁来买单？",
     "subtitle": "10月赴泰中国游客同比下滑13.6%，一根使馆安全提醒撬动了十几万人的行程；但真正的账单，是灰色产业、身份混淆与区域客源争夺的共同结果",
