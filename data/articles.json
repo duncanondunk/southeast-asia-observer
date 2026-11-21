@@ -1,5 +1,67 @@
 [
   {
+    "slug": "thailand-nominee-property-crackdown-malaysia-2026",
+    "title": "泰国清算「代持买房」，马来西亚开门迎客：一场争夺富裕移民的区域竞赛",
+    "subtitle": "一场持续一年的执法风暴，让数十年的灰色购房路径一夜失效；马来西亚用永久产权与门槛价接盘，但「只欢迎富人」的质疑同样尖锐。",
+    "category": "经济产业",
+    "tags": [
+      "泰国",
+      "马来西亚",
+      "房地产",
+      "第二家园",
+      "代持购房",
+      "移民",
+      "东南亚",
+      "资本流动",
+      "住房"
+    ],
+    "country": "泰国",
+    "date": "2026-11-21",
+    "readingTime": 11,
+    "featured": false,
+    "image": "images/articles/thailand-nominee-property-crackdown-malaysia-2026.jpg",
+    "imageCredit": "Unsplash — photo 1560518883-ce09059eeffa",
+    "imageAccessed": "2026-11-21",
+    "imageAlt": "木桌上摆放的房屋模型与一串钥匙，象征购房与产权——当法律不承认所有权，钥匙便不再意味着家。",
+    "summary": "泰国清算外国人代持购房：查获逾11000家公司、没收别墅并追究刑责，连合规公寓也遭复查；印尼越南同步收紧。马来西亚以可个人持有的永久产权住宅承接外流资本，第二家园计划收到7650份申请。但购房门槛抬至60万林吉特起，被批只欢迎富人。区域竞赛的实质，是各国重新定价谁才算理想移民。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "As foreigners in Thailand lose homes, Malaysia courts wealthy buyers",
+        "url": "https://www.scmp.com/week-asia/people/article/3374379/foreigners-thailand-lose-homes-malaysia-courts-wealthy-buyers",
+        "date": "2026-11-19"
+      },
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Foreigners lose homes in Thailand; Malaysia’s Melaka elections: 7 Asia highlights",
+        "url": "https://www.scmp.com/news/asia/article/3374689/foreigners-lose-homes-thailand-malaysias-melaka-elections-7-asia-highlights",
+        "date": "2026-11-19"
+      }
+    ],
+    "en": {
+      "title": "Thailand Purges Nominee Homes, Malaysia Opens the Gate: A Regional Contest for Wealthy Migrants",
+      "subtitle": "A year-long enforcement storm has erased a decades-old grey path to property ownership. Malaysia offers freehold titles as an alternative — but its price thresholds invite the same charge: only the wealthy need apply.",
+      "category": "Economy & Industry",
+      "country": "Thailand",
+      "summary": "Thailand's year-long crackdown on nominee home ownership has seized villas, prosecuted buyers and put even quota-compliant condos under review, while Bali and Vietnam tighten in step. Malaysia offers freehold titles buyers can hold in their own names, and its second-home scheme drew 7,650 applications worth 8.85 billion ringgit (US$2.17 billion). But with thresholds starting at 600,000 ringgit (US$147,200), critics say only the wealthy need apply. The real contest is over who counts as a desirable migrant.",
+      "imageAlt": "A model house and a set of keys on a wooden table, symbolising home buying and property title — when the law withholds ownership, a key no longer means a home.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "As foreigners in Thailand lose homes, Malaysia courts wealthy buyers",
+          "url": "https://www.scmp.com/week-asia/people/article/3374379/foreigners-thailand-lose-homes-malaysia-courts-wealthy-buyers",
+          "date": "2026-11-19"
+        },
+        {
+          "source": "South China Morning Post",
+          "title": "Foreigners lose homes in Thailand; Malaysia’s Melaka elections: 7 Asia highlights",
+          "url": "https://www.scmp.com/news/asia/article/3374689/foreigners-lose-homes-thailand-malaysias-melaka-elections-7-asia-highlights",
+          "date": "2026-11-19"
+        }
+      ]
+    }
+  },
+  {
     "slug": "johor-data-centre-water-1pct-rebuttal-2026",
     "title": "1.05%能堵住质疑吗：柔佛19座数据中心与一场关于水的算术争论",
     "subtitle": "州政府用数字反驳“抽干水坝”，但获批不等于实耗、全州分母掩盖局部压力——算力落户的真正考题，是水账能否公开到每一座机房。",
