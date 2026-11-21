@@ -570,9 +570,9 @@
     "readingTime": 10,
     "featured": false,
     "image": "images/articles/asean-korea-tech-australia-energy-2026.jpg",
-    "imageCredit": "Unsplash",
-    "imageAccessed": "2026-11-19",
-    "imageAlt": "曼谷唐人街夜间街景，霓虹招牌映照湿润街道，嘟嘟车与行人穿行其间，隐喻东盟城市网络中的技术与能源合作。",
+    "imageCredit": "Unsplash — photo 1466611653911-95081537e5b7",
+    "imageAccessed": "2026-11-21",
+    "imageAlt": "夕阳下的风力发电机群，风机剪影沿地平线排开，呼应东盟在技术合作与清洁能源供应中追求更稳定电力的努力。",
     "summary": "据《日经亚洲》报道，东盟在马尼拉峰会周同时向韩国要技术、向澳大利亚要能源：自贸区升级、数字经济协定落地、清洁能源与跨境电网配套相继推出。多伙伴不等于选边站，但签了字不等于通了电——标准互认、过境规则与付款机制才是硬骨头。华商可当桥梁，不能被当成代理人。",
     "references": [
       {
@@ -600,7 +600,7 @@
       "category": "Economy & Industry",
       "country": "Southeast Asia",
       "summary": "At the Manila summit week, ASEAN asked Seoul for technology and Canberra for energy: an FTA upgrade, DEFA implementation, clean-energy and digital packages, and cross-border grid plans. More partners do not mean taking sides, but signed statements are not flowing current. Mutual recognition, transit rules and payment mechanisms remain the hard part. Overseas Chinese can build bridges; they should not be treated as proxies.",
-      "imageAlt": "A night scene in Bangkok Chinatown, with neon signs reflected on wet streets and tuk-tuks and pedestrians passing through, evoking technology and energy cooperation across ASEAN urban networks.",
+      "imageAlt": "Wind turbines lined along the horizon at sunset, echoing ASEAN’s search for steadier electricity through technology cooperation and clean-energy supply.",
       "references": [
         {
           "source": "Nikkei Asia",
@@ -12172,9 +12172,9 @@
     "featured": false,
     "summary": "《日经亚洲》称“红火热”数据中心建设潮引发亚洲公众反弹。柔佛5.8吉瓦容量撞上水与电硬约束，泰国49个停建、117个冻结，马来西亚改推“记分卡”招商。东南亚人工智能基建从抢跑被逼向算账，能否补齐社会许可证与电网决定其成色。",
     "image": "images/articles/sea-data-center-backlash-2026.jpg",
-    "imageCredit": "Pexels — photo 17489151",
-    "imageAccessed": "2026-09-17",
-    "imageAlt": "数据中心机房内密集的服务器机柜与连接线缆，象征东盟人工智能基建热潮与社区、资源之间的张力。",
+    "imageCredit": "Unsplash — photo 1540575467063-178a50c2df87",
+    "imageAccessed": "2026-11-21",
+    "imageAlt": "灯光昏暗的会场里，与会者三三两两交谈，人群剪影层层叠叠，象征数据中心扩张所牵动的社区意见与公共讨论。",
     "references": [
       {
         "source": "日经亚洲 Nikkei Asia",
@@ -12195,7 +12195,7 @@
       "category": "Economy & Industry",
       "country": "Malaysia",
       "summary": "Nikkei Asia reports the 'red-hot' data-center boom is fuelling public backlash across Asia. Johor's 5.8-GW capacity hits hard water and power limits, Thailand halted 49 and froze 117 projects, and Malaysia shifted to a 'scorecard' for approvals. Southeast Asia's AI buildout is dragged from a sprint into an audit; replenishing the social licence and the grid decides who truly holds the AI card.",
-      "imageAlt": "Dense server racks and cabling inside a data-center hall, symbolising the tension between ASEAN's AI infrastructure boom and communities and resources.",
+      "imageAlt": "Silhouettes of attendees conversing in a dimly lit gathering, evoking the community voices and public debate stirred by the data-centre buildout.",
       "tags": [
         "Data Centre",
         "Water Resources",
