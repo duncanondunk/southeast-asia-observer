@@ -1,5 +1,59 @@
 [
   {
+    "slug": "vietnam-mvista-subsea-cable-japan-2026",
+    "title": "一条光缆，四方下注：越南MViSTA海底电缆与日本10亿美元的数字基建棋局",
+    "subtitle": "2500公里的MViSTA把越、日、马、新、泰绑上一条数字航道，却刻意绕开中国。谅解备忘录的10亿美元水分几何，华商又该站在哪一边？",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "海底光缆",
+      "数字基础设施",
+      "人工智能",
+      "数据中心",
+      "日本",
+      "东南亚",
+      "数字经济",
+      "云计算",
+      "新加坡",
+      "马来西亚",
+      "华商",
+      "数字主权"
+    ],
+    "country": "越南",
+    "date": "2026-11-21",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/vietnam-mvista-subsea-cable-japan-2026.jpg",
+    "imageCredit": "Unsplash — photo 1544197150",
+    "imageAccessed": "2026-11-21",
+    "imageAlt": "网络配线架上插着蓝色网线的特写，一排排编号端口与线缆交织，隐喻海底光缆与数据基础设施构成的全球数字连接。",
+    "summary": "越南斯塔维安与日本米达斯资本签署10亿美元数字基建谅解备忘录，旗舰项目MViSTA海底光缆长2500公里、容量400太比特，连接越南、马来西亚、新加坡与泰国。光缆与数据园区捆绑，是日本以民间资本对冲数字丝绸之路的布局；但谅解备忘录不是合同，登陆许可、融资与开放接入仍未知，华商应争取参与规则制定。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Vietnam's new ASEAN internet cable part of $1bn Japan partnership",
+        "url": "https://asia.nikkei.com/Business/Technology",
+        "date": "2026-11-19"
+      }
+    ],
+    "en": {
+      "title": "One Cable, Four Bets: Vietnam's MViSTA Subsea Cable and Japan's US$1 Billion Digital Infrastructure Gamble",
+      "subtitle": "The 2,500-km MViSTA binds Vietnam, Japan, Malaysia, Singapore and Thailand to one digital corridor — while pointedly bypassing China. How much of the US$1 billion is real, and where do Chinese businesses stand?",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam's Stavian and Japan's Midas Capital signed a US$1 billion digital-infrastructure MoU in Tokyo. Its flagship MViSTA cable, 2,500 km and 400 terabits, links Vietnam to Malaysia, Singapore and Thailand. The cable-plus-data-park package is Tokyo's private-capital answer to the Digital Silk Road. But an MoU is not a contract: landing rights, financing and open access remain open. Chinese businesses should help write the rules, not merely accept them.",
+      "imageAlt": "Close-up of blue network cables plugged into a labelled patch panel, rows of numbered ports and wiring evoking the global connectivity built by subsea cables and data infrastructure.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Vietnam's new ASEAN internet cable part of $1bn Japan partnership",
+          "url": "https://asia.nikkei.com/Business/Technology",
+          "date": "2026-11-19"
+        }
+      ]
+    }
+  },
+  {
     "slug": "thai-pm-cantonese-ancestry-apec-2026",
     "title": "一句“好开心”的粤语：泰国总理阿努廷与海外华人的身份政治",
     "subtitle": "阿努廷在深圳用粤语开场，广东祖籍与家族语言随之成为焦点。但血缘能否转化为软实力？侨胞寻根叙事的另一面，是认同与政策之间那条不该被忽略的界线",
