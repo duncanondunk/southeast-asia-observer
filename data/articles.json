@@ -1,5 +1,65 @@
 [
   {
+    "slug": "singapore-data-breaches-ai-cyber-threats-2026",
+    "title": "新加坡数据泄露潮：当人工智能把攻击成本打到地板上",
+    "subtitle": "九成机构中招、漏洞利用提前七天，问题已不只是防火墙，而是整条供应链的信任成本",
+    "category": "地缘政治",
+    "tags": [
+      "新加坡",
+      "网络安全",
+      "数据泄露",
+      "人工智能",
+      "东南亚",
+      "数据治理",
+      "供应链"
+    ],
+    "country": "新加坡",
+    "date": "2026-11-22",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/singapore-data-breaches-ai-cyber-threats-2026.jpg",
+    "imageCredit": "Unsplash — photo 1573164713988-8665fc963095",
+    "imageAccessed": "2026-11-22",
+    "imageAlt": "两名技术人员在服务器机房内使用笔记本电脑，象征数据泄露背后的供应链与运维环节。",
+    "summary": "新加坡今秋接连爆发数据泄露，涉航空、医疗、电信与媒体。网络安全局称九成受访机构去年至少一次中招，9月起月均事件较前八月翻三倍。人工智能让漏洞在被发现前就被利用，第三方供应商成软肋。披露不等于保护：受害者面对的是长期身份盗用风险，监管须把责任延伸到下游。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Why Singapore's wave of data breaches signals 'new era' of cyber threats",
+        "url": "https://scmp.com/week-asia/economics/article/3374584/why-singapores-wave-data-breaches-signals-new-era-cyber-threats",
+        "date": "2026-11-16"
+      },
+      {
+        "source": "海峡时报／商业时报（Enigma Global 转载）",
+        "title": "Why data breaches are surging in Singapore, and why firms owe victims more than an apology",
+        "url": "https://www.enigma-global.com/preview/news/48836",
+        "date": "2026-11-16"
+      }
+    ],
+    "en": {
+      "title": "Singapore's Data Breach Wave: When AI Drives the Cost of Attack to the Floor",
+      "subtitle": "Nine in ten organisations hit, exploits arriving seven days early: the problem is no longer the firewall but the trust cost of the whole supply chain",
+      "category": "Geopolitics",
+      "country": "Singapore",
+      "summary": "Singapore's autumn wave of data breaches hit aviation, healthcare, telecoms and media. The Cyber Security Agency says nearly nine in ten surveyed organisations suffered an incident last year, with monthly reports tripling from September. AI has pushed exploitation to seven days before disclosure, turning vendor supply chains into the weak link. Breach notices are not remedies: the real cost falls on victims facing years of impersonation risk.",
+      "imageAlt": "Two technicians using laptops beside server racks, symbolising the supply-chain and operations behind data breaches.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Why Singapore's wave of data breaches signals 'new era' of cyber threats",
+          "url": "https://scmp.com/week-asia/economics/article/3374584/why-singapores-wave-data-breaches-signals-new-era-cyber-threats",
+          "date": "2026-11-16"
+        },
+        {
+          "source": "The Straits Times / The Business Times (via Enigma Global)",
+          "title": "Why data breaches are surging in Singapore, and why firms owe victims more than an apology",
+          "url": "https://www.enigma-global.com/preview/news/48836",
+          "date": "2026-11-16"
+        }
+      ]
+    }
+  },
+  {
     "slug": "indonesia-eu-cepa-signed-2026",
     "title": "十年磨一剑，布鲁塞尔签字：印尼—欧盟自贸协定真正的价码",
     "subtitle": "98.5%与90%不是同一笔账；欧盟拿规则换市场，雅加达拿市场换产业链位置",
