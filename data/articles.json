@@ -1,5 +1,71 @@
 [
   {
+    "slug": "nvidia-sea-server-shipment-pause-2026",
+    "title": "海关线画进机房：英伟达暂停东南亚出货的深层含义",
+    "subtitle": "美国把出口许可从芯片实物延伸至远程算力，东南亚数据中心从投资热土变成合规前线；英伟达服务器伙伴的暂停出货，只是这场规则重写的第一张账单。",
+    "category": "经济产业",
+    "tags": [
+      "英伟达",
+      "出口管制",
+      "人工智能",
+      "数据中心",
+      "半导体",
+      "东南亚",
+      "马来西亚",
+      "新加坡",
+      "泰国",
+      "印度尼西亚",
+      "算力",
+      "华商",
+      "美国"
+    ],
+    "country": "东南亚",
+    "date": "2026-11-22",
+    "readingTime": 16,
+    "featured": false,
+    "image": "images/articles/nvidia-sea-server-shipment-pause-2026.jpg",
+    "imageCredit": "Unsplash — photo 1562408590-e32931084e23",
+    "imageAccessed": "2026-11-22",
+    "imageAlt": "蓝色电路板与电子元件的特写，隐喻先进芯片从普通商品变为受许可管制的战略资源。",
+    "summary": "据《日经亚洲》报道，至少两家英伟达服务器伙伴暂停向东南亚出货。美国将新加坡、马来西亚、泰国、印尼纳入许可范围，管制从芯片延伸至远程算力：向中国企业提供超阈值算力的数据中心须在90天内取证。柔佛与曼谷在建管线承压，豁免条款造出两套规则。华商从房东变守门人；短期是交付延迟，长期是数字主权重新定价。",
+    "references": [
+      {
+        "source": "日经亚洲 Nikkei Asia",
+        "title": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs",
+        "date": "2026-11-20"
+      },
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "美国收紧AI晶片出口管制 防中国借海外数据中心获取算力",
+        "url": "https://www.zaobao.com.sg/news/china/story20261117-10009532",
+        "date": "2026-11-17"
+      }
+    ],
+    "en": {
+      "title": "The Customs Line Moves into the Server Hall: What Nvidia's Southeast Asia Pause Reveals",
+      "subtitle": "Washington extends export licensing from chips to remotely supplied compute, turning Southeast Asian data centres from investment darlings into a compliance front line. Nvidia’s shipment pause is only the first invoice.",
+      "category": "Economy & Industry",
+      "country": "Southeast Asia",
+      "summary": "At least two Nvidia server partners have suspended Southeast Asia shipments, Nikkei Asia reports. Washington's rules put Singapore, Malaysia, Thailand and Indonesia inside a licensing perimeter and extend controls from chips to remotely supplied compute, giving data centres 90 days to obtain licences. Johor and Bangkok bear the first cost. Exemptions create a two-tier system, and ethnic-Chinese operators become compliance gatekeepers. The longer-term price is a redefinition of regional digital sovereignty.",
+      "imageAlt": "Close-up of a blue circuit board and electronic components, symbolising advanced chips turning from traded goods into licensed strategic assets.",
+      "references": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs",
+          "date": "2026-11-20"
+        },
+        {
+          "source": "Lianhe Zaobao",
+          "title": "US tightens AI chip export controls to block Chinese access via overseas data centres",
+          "url": "https://www.zaobao.com.sg/news/china/story20261117-10009532",
+          "date": "2026-11-17"
+        }
+      ]
+    }
+  },
+  {
     "slug": "world-hakka-convention-hainan-ftz-2026",
     "title": "从「乡情」到「码头」：世界客属恳亲大会为何选中封关后的海南",
     "subtitle": "创会55年的客属乡亲聚会首次落地封关后的海南自贸港，创新峰会与经贸考察成为主轴，侨网络正从情感纽带转为双向套利渠道。",
