@@ -46,6 +46,9 @@ COMPOUND_PROTECT = [
     # only glossed when it stands alone, not inside "吉隆坡机场" etc.
     "吉隆坡机场",
     "吉隆坡国际机场",
+    # Cross-boundary false match: 南海 inside "海南海口" (the 南 of 海南 +
+    # the 海 of 海口). Without this guard the gloss lands mid place-name.
+    "海南海口",
 ]
 
 
