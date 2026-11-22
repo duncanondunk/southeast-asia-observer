@@ -1,5 +1,78 @@
 [
   {
+    "slug": "indonesia-eu-cepa-signed-2026",
+    "title": "十年磨一剑，布鲁塞尔签字：印尼—欧盟自贸协定真正的价码",
+    "subtitle": "98.5%与90%不是同一笔账；欧盟拿规则换市场，雅加达拿市场换产业链位置",
+    "category": "经济产业",
+    "tags": [
+      "印尼",
+      "欧盟",
+      "自贸协定",
+      "关税",
+      "棕榈油",
+      "关键矿产",
+      "供应链",
+      "东南亚"
+    ],
+    "country": "印尼",
+    "date": "2026-11-22",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/indonesia-eu-cepa-signed-2026.jpg",
+    "imageCredit": "Unsplash — photo 1529107386315-e1a2ed48a620",
+    "imageAccessed": "2026-11-22",
+    "imageAlt": "议会议事厅内景，象征印尼—欧盟自贸协定签署后仍待欧洲议会与印尼国会核准。",
+    "summary": "欧盟与印尼在布鲁塞尔签署全面经济伙伴关系协定，取消印尼对欧盟商品98.5%关税，欧盟出口15年或增近40%。协定近10年才谈成，卡点是棕榈油、地理标志与关键矿产标准。布鲁塞尔以规则替代资金，雅加达用市场换产业链位置。但双方议会核准未定，关税归零只是入场券。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "谈判近10年后 印尼与欧盟正式签署自贸协定",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261121-10036954",
+        "date": "2026-11-21"
+      },
+      {
+        "source": "欧盟委员会 European Commission",
+        "title": "欧盟—印尼全面经济伙伴关系协定主要惠益说明",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/indonesia/eu-indonesia-agreements/factsheets/factsheet-eu-indonesia-comprehensive-economic-partnership-agreement-main-benefits-0_en",
+        "date": "2026-11-21"
+      },
+      {
+        "source": "法新社／路透社（Business Recorder 转载）",
+        "title": "欧盟与印尼正式签署「雄心勃勃」贸易协定",
+        "url": "https://www.brecorder.com/news/amp/40450123",
+        "date": "2026-11-21"
+      }
+    ],
+    "en": {
+      "title": "A Decade in the Making, Signed in Brussels: The Real Price of the Indonesia–EU FTA",
+      "subtitle": "98.5% and 90% are not the same ledger: Brussels exports rules, Jakarta trades market access for industrial position",
+      "category": "Economy & Industry",
+      "country": "Indonesia",
+      "summary": "After nearly a decade, the EU and Indonesia signed a CEPA and an investment protection pact in Brussels. Brussels removes 98.5% of Indonesian tariffs; Jakarta opens around 90% of its EU-bound exports. The real bargain concerns standards — palm oil, geographical indications, nickel — with Brussels exporting rules where it lacks cash, and Jakarta trading market access for industrial position. Ratification, not the signature, is the test.",
+      "imageAlt": "Interior of a parliamentary chamber, symbolising the ratification still required from the European Parliament and Indonesia's legislature.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Indonesia and EU formally sign FTA after nearly a decade of negotiations",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261121-10036954",
+          "date": "2026-11-21"
+        },
+        {
+          "source": "European Commission",
+          "title": "Factsheet: EU–Indonesia CEPA — main benefits",
+          "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/indonesia/eu-indonesia-agreements/factsheets/factsheet-eu-indonesia-comprehensive-economic-partnership-agreement-main-benefits-0_en",
+          "date": "2026-11-21"
+        },
+        {
+          "source": "AFP / Reuters (via Business Recorder)",
+          "title": "EU, Indonesia officially sign 'ambitious' trade deal",
+          "url": "https://www.brecorder.com/news/amp/40450123",
+          "date": "2026-11-21"
+        }
+      ]
+    }
+  },
+  {
     "slug": "nvidia-sea-server-shipment-pause-2026",
     "title": "海关线画进机房：英伟达暂停东南亚出货的深层含义",
     "subtitle": "美国把出口许可从芯片实物延伸至远程算力，东南亚数据中心从投资热土变成合规前线；英伟达服务器伙伴的暂停出货，只是这场规则重写的第一张账单。",
