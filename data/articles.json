@@ -1,5 +1,66 @@
 [
   {
+    "slug": "chinese-school-successors-development-education-2026",
+    "title": "华校二代接力改写华文教育：从留住根到发展型教育",
+    "subtitle": "缅甸三语课堂与泰国实习管道，正在把中文学校从族群传承空间改造成当地社会的技能平台",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "华文教育",
+      "东南亚",
+      "缅甸",
+      "泰国",
+      "代际传承",
+      "中文教育",
+      "教育"
+    ],
+    "country": "缅甸",
+    "date": "2026-11-23",
+    "readingTime": 9,
+    "featured": false,
+    "image": "images/articles/chinese-school-successors-development-education-2026.jpg",
+    "imageCredit": "Unsplash — photo 1571260899304-425eee4c7efc",
+    "imageAccessed": "2026-11-23",
+    "imageAlt": "来自不同背景的学生围坐教室讨论，其中一名女生手持书本微笑，象征海外华校面向新生代与本土学生的转型。",
+    "summary": "第六届世界华文教育大会在博鳌召开，近600名代表与会。但真正变化在缅甸与泰国的华校二代接班人手中：非华裔生源倒逼三语教学与本土教材，泰国把中文接进职校与中资企业实习链。华文教育正从守住根脉转向提供发展机会，标准化须为本土化留出空间。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "从“留住根”到“知文化信文化” 华裔青年接力拓展华文教育边界",
+        "url": "https://www.chinaqw.com/hwjy/2026/11-19/414361.shtml",
+        "date": "2026-11-19"
+      },
+      {
+        "source": "中国侨网",
+        "title": "第六届世界华文教育大会在海南召开",
+        "url": "https://www.chinaqw.com/yw/2026/11-19/414358.shtml",
+        "date": "2026-11-19"
+      }
+    ],
+    "en": {
+      "title": "Second-Generation School Leaders Are Rewriting Chinese-Language Education in Southeast Asia",
+      "subtitle": "Trilingual classrooms in Myanmar and internship pipelines in Thailand are turning Chinese schools into local skills platforms",
+      "category": "Overseas Chinese",
+      "country": "Myanmar",
+      "summary": "At the sixth World Conference on Chinese Language Education in Bo'ao, nearly 600 delegates discussed the field's future. The real story lies with second-generation school leaders in Myanmar and Thailand. Facing non-Chinese majorities, a Myanmar school has adopted trilingual teaching and locally written textbooks; Thailand has wired Chinese into vocational schools and internships at Chinese firms. Chinese-language education is shifting from preserving roots to expanding opportunity — and standardisation must leave room for localisation.",
+      "imageAlt": "Students of different backgrounds seated around a classroom table in discussion, one holding a book and smiling, symbolising Chinese-language schools adapting to a new generation of local students.",
+      "references": [
+        {
+          "source": "China Qiao Wang",
+          "title": "From 'keeping roots' to 'knowing and believing in culture': young descendants expand the boundaries of Chinese-language education",
+          "url": "https://www.chinaqw.com/hwjy/2026/11-19/414361.shtml",
+          "date": "2026-11-19"
+        },
+        {
+          "source": "China Qiao Wang",
+          "title": "The sixth World Conference on Chinese Language Education opens in Hainan",
+          "url": "https://www.chinaqw.com/yw/2026/11-19/414358.shtml",
+          "date": "2026-11-19"
+        }
+      ]
+    }
+  },
+  {
     "slug": "singapore-data-breaches-ai-cyber-threats-2026",
     "title": "新加坡数据泄露潮：当人工智能把攻击成本打到地板上",
     "subtitle": "九成机构中招、漏洞利用提前七天，问题已不只是防火墙，而是整条供应链的信任成本",
