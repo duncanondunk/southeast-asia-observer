@@ -1,5 +1,79 @@
 [
   {
+    "slug": "vietnam-land-law-expropriation-reform-2026",
+    "title": "越南土地法修订：征地提速之后，谁为地价与生计买单",
+    "subtitle": "466票赞成通过，补偿方案未批先征地；增长目标压过程序时，75%同意线能守住什么",
+    "category": "经济产业",
+    "tags": [
+      "越南",
+      "土地法",
+      "土地征收",
+      "土地权",
+      "房地产",
+      "基础设施",
+      "经济增长",
+      "东南亚",
+      "治理"
+    ],
+    "country": "越南",
+    "date": "2026-11-23",
+    "readingTime": 10,
+    "featured": false,
+    "image": "images/articles/vietnam-land-law-expropriation-reform-2026.jpg",
+    "imageCredit": "Unsplash — photo 1477959858617-67f85cf4f1df",
+    "imageAccessed": "2026-11-23",
+    "imageAlt": "密集城市高层建筑与滨水天际线，象征土地开发与城市扩张对空间和定价机制的压力。",
+    "summary": "越南国会11月21日以466票赞成通过土地法修订案，允许国家重大、紧急公共项目及获75%支持的项目在补偿方案获批前征地，新定价机制2028年才实施。10%增长目标下，征地提速把谈判桌重新摆过；地价由地方决定、75%同意线把权利问题变成统计问题。纸面保障能否兑现，取决于2027年后每一户人家的签字。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "越南修订土地法 以加快清理土地推进开发建设",
+        "url": "https://www.zaobao.com/news/sea/story20261122-10038688",
+        "date": "2026-11-22"
+      },
+      {
+        "source": "路透社 Reuters",
+        "title": "Vietnam passes law to speed up land expropriation for priority projects",
+        "url": "https://srnnews.com/vietnam-passes-law-to-speed-up-land-expropriation-for-priority-projects",
+        "date": "2026-11-21"
+      },
+      {
+        "source": "澎湃新闻 The Paper",
+        "title": "越南批准土地制度改革：征地审批提速，农民利益面临考验",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34535861",
+        "date": "2026-11-22"
+      }
+    ],
+    "en": {
+      "title": "Vietnam's Land Law Rewrite: Speeding Up Expropriation, Passing the Bill to Whom?",
+      "subtitle": "Passed 466–5, allowing land takes before compensation plans are approved; when growth targets outrank procedure, what does the 75% consent threshold protect?",
+      "category": "Economy & Industry",
+      "country": "Vietnam",
+      "summary": "Vietnam’s National Assembly passed land-law amendments on 21 November, letting the state take land for priority projects before compensation plans are approved, provided no resettlement is needed and the plan is public. The new pricing system arrives only in 2028. Under a 10% growth target, the reordering shifts leverage away from farmers; devolved price-setting and a 75% consent threshold turn rights into statistics. Guarantees on paper must survive implementation in 2027.",
+      "imageAlt": "Dense cluster of high-rise buildings along a waterfront skyline, evoking the pressure of urban development and land valuation on limited space.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Vietnam revises land law to speed up land clearance and advance development",
+          "url": "https://www.zaobao.com/news/sea/story20261122-10038688",
+          "date": "2026-11-22"
+        },
+        {
+          "source": "Reuters",
+          "title": "Vietnam passes law to speed up land expropriation for priority projects",
+          "url": "https://srnnews.com/vietnam-passes-law-to-speed-up-land-expropriation-for-priority-projects",
+          "date": "2026-11-21"
+        },
+        {
+          "source": "The Paper",
+          "title": "Vietnam approves land reform: faster expropriation approval puts farmers' interests to the test",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34535861",
+          "date": "2026-11-22"
+        }
+      ]
+    }
+  },
+  {
     "slug": "chinese-school-successors-development-education-2026",
     "title": "华校二代接力改写华文教育：从留住根到发展型教育",
     "subtitle": "缅甸三语课堂与泰国实习管道，正在把中文学校从族群传承空间改造成当地社会的技能平台",
