@@ -1,5 +1,80 @@
 [
   {
+    "slug": "malaysia-anwar-china-us-tech-balance-2026",
+    "title": "安华说中国更好打交道：马来西亚的平衡术，为什么越来越难？",
+    "subtitle": "北京从不追问马来西亚为何亲近华盛顿，华盛顿却要先问芯片卖给谁——两种相处方式，正在重塑东盟的中立空间",
+    "category": "地缘政治",
+    "tags": [
+      "马来西亚",
+      "中马关系",
+      "中美竞争",
+      "人工智能",
+      "半导体",
+      "数据中心",
+      "东南亚",
+      "APEC",
+      "美国",
+      "柔佛"
+    ],
+    "country": "马来西亚",
+    "date": "2026-11-24",
+    "readingTime": 10,
+    "featured": false,
+    "image": "images/articles/malaysia-anwar-china-us-tech-balance-2026.jpg",
+    "imageCredit": "Unsplash — photo 1560439514-4e9645039924",
+    "imageAccessed": "2026-11-24",
+    "imageAlt": "一场拥挤的国际会议现场，与会者在会场内交谈，呼应亚太经合组织会议期间围绕马来西亚立场的讨论。",
+    "summary": "据《南华早报》报道，安华在深圳表示中国从未反对马来西亚亲近美国，也比美国更好打交道，但强调不选边。美国刚把马来西亚等东南亚国家纳入先进芯片许可管制，使中立从外交姿态变成合规难题。马来西亚的筹码在于同时接入两套体系，但中美各自把技术、市场与安全捆绑，东盟国家的回旋空间正在收窄。",
+    "references": [
+      {
+        "source": "南华早报 South China Morning Post",
+        "title": "Malaysia’s Anwar says easier to deal with China than US amid tech tensions",
+        "url": "https://www.scmp.com/news/asia/southeast-asia",
+        "date": "2026-11-24"
+      },
+      {
+        "source": "中央社 CNA",
+        "title": "美擴大先進半導體出口管制 馬來西亞尋求釐清資料中心服務規範",
+        "url": "https://www.cna.com.tw/news/aopl/202611190066.aspx",
+        "date": "2026-11-19"
+      },
+      {
+        "source": "新华社 Xinhua",
+        "title": "Xi says China ready for closer cooperation with Malaysia",
+        "url": "https://english.news.cn/20261120/b47b8cbcbcf5426892933c8c6e9c7d13/c.html",
+        "date": "2026-11-20"
+      }
+    ],
+    "en": {
+      "title": "Anwar says China is easier to deal with than the US: why Malaysia's balancing act is getting harder",
+      "subtitle": "Beijing never asks why Kuala Lumpur courts Washington; Washington asks who uses the chips first — two styles of engagement are reshaping ASEAN's neutral space",
+      "category": "Geopolitics",
+      "country": "Malaysia",
+      "summary": "In a Shenzhen interview with the South China Morning Post, Anwar Ibrahim said Beijing had never objected to Malaysia's closeness to Washington and was easier to deal with, while insisting Kuala Lumpur was not picking sides. Coming days after US licensing rules covered Malaysian data centres, the remark shows neutrality is no longer a posture but a compliance problem. Malaysia's leverage lies in access to both technology blocs; the risk is that both keep narrowing it.",
+      "imageAlt": "A crowded international conference floor with delegates talking between sessions, evoking the debate over Malaysia's position during the APEC meetings.",
+      "references": [
+        {
+          "source": "South China Morning Post",
+          "title": "Malaysia’s Anwar says easier to deal with China than US amid tech tensions",
+          "url": "https://www.scmp.com/news/asia/southeast-asia",
+          "date": "2026-11-24"
+        },
+        {
+          "source": "CNA",
+          "title": "US expands advanced semiconductor export controls; Malaysia seeks clarification on data-centre services",
+          "url": "https://www.cna.com.tw/news/aopl/202611190066.aspx",
+          "date": "2026-11-19"
+        },
+        {
+          "source": "Xinhua",
+          "title": "Xi says China ready for closer cooperation with Malaysia",
+          "url": "https://english.news.cn/20261120/b47b8cbcbcf5426892933c8c6e9c7d13/c.html",
+          "date": "2026-11-20"
+        }
+      ]
+    }
+  },
+  {
     "slug": "provincial-qiaowu-work-conferences-2026",
     "title": "省级侨务会议密集召开：当「侨」变成地方发展的施工图",
     "subtitle": "13个省级地区、各自的品牌与赛道——侨务正被写进地方发展的方程式",
