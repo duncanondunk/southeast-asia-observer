@@ -1,5 +1,75 @@
 [
   {
+    "slug": "indonesia-defence-spending-strategic-industry-2026",
+    "title": "印尼军费只占0.8%：真正落后的不是百分比，是产线",
+    "subtitle": "从可汗战机到中印尼弹药厂，雅加达想买的不仅是武器，还有制造武器的能力",
+    "category": "地缘政治",
+    "tags": [
+      "印尼",
+      "国防工业",
+      "军购",
+      "战略自主",
+      "东南亚"
+    ],
+    "country": "印尼",
+    "date": "2026-11-24",
+    "readingTime": 12,
+    "featured": false,
+    "image": "images/articles/indonesia-defence-spending-strategic-industry-2026.jpg",
+    "imageCredit": "Unsplash — photo 1504917595217-d4dc5ebe6122",
+    "imageAccessed": "2026-11-24",
+    "imageAlt": "焊工在工厂车间进行焊接作业，火花四溅，象征国防采购向本土制造能力的转化。",
+    "summary": "据联合早报报道，印尼国防开支占国内生产总值仅0.8%，学者呼吁提高至1.5%。但真正的问题不在百分比：普拉博沃政府大举采购阵风与可汗战机、航母与潜艇，本土工业条款却难兑现。印尼需要把订单变成产线——让零部件、电气系统与弹药工厂留在国内，否则战略自主只是一张采购清单。",
+    "references": [
+      {
+        "source": "联合早报 Lianhe Zaobao",
+        "title": "军费占GDP仅0.8%落后亚细安邻国 学者促印尼借军购带动本土战略工业",
+        "url": "https://www.zaobao.com.sg/news/sea/story20261123-10045581",
+        "date": "2026-11-23"
+      },
+      {
+        "source": "Defense and Tech",
+        "title": "2026年印度尼西亚军队实力有多强？",
+        "url": "https://defenseandtech.com/zh/how-strong-is-indonesia-military-2026-zh/",
+        "date": "2026-11-20"
+      },
+      {
+        "source": "路透社 Reuters（经太报转载）",
+        "title": "印尼誓言加强与中国联合军演 中国称赞抵御外部势力",
+        "url": "https://www.taisounds.com/news/content/84/284754",
+        "date": "2026-08-21"
+      }
+    ],
+    "en": {
+      "title": "Indonesia's 0.8% defence budget: the real gap is the production line, not the percentage",
+      "subtitle": "From KAAN jets to a joint ammunition plant, Jakarta is buying more than weapons — it wants the capacity to make them",
+      "category": "Geopolitics",
+      "country": "Indonesia",
+      "summary": "Lianhe Zaobao reports Indonesia's defence spending at just 0.8% of GDP, with a think-tank adviser urging 1.5%. But the deeper gap is industrial: the Prabowo government has bought Rafale and KAAN jets, submarines and a carrier, while localisation clauses remain hard to verify. A joint ammunition plant with China may do more for autonomy than another headline contract, if it actually produces. The test is what stays at home when the order ends.",
+      "imageAlt": "A welder working in a factory with sparks flying, evoking the push to turn defence procurement into domestic industrial capacity.",
+      "references": [
+        {
+          "source": "Lianhe Zaobao",
+          "title": "Defence spending at just 0.8% of GDP, lagging ASEAN neighbours; scholars urge Jakarta to link arms buys to local strategic industry",
+          "url": "https://www.zaobao.com.sg/news/sea/story20261123-10045581",
+          "date": "2026-11-23"
+        },
+        {
+          "source": "Defense and Tech",
+          "title": "How strong is Indonesia's military in 2026?",
+          "url": "https://defenseandtech.com/zh/how-strong-is-indonesia-military-2026-zh/",
+          "date": "2026-11-20"
+        },
+        {
+          "source": "Reuters (via Taisounds)",
+          "title": "Indonesia pledges more joint drills with China as Beijing praises resistance to 'external forces'",
+          "url": "https://www.taisounds.com/news/content/84/284754",
+          "date": "2026-08-21"
+        }
+      ]
+    }
+  },
+  {
     "slug": "malaysia-anwar-china-us-tech-balance-2026",
     "title": "安华说中国更好打交道：马来西亚的平衡术，为什么越来越难？",
     "subtitle": "北京从不追问马来西亚为何亲近华盛顿，华盛顿却要先问芯片卖给谁——两种相处方式，正在重塑东盟的中立空间",
