@@ -49,6 +49,10 @@ COMPOUND_PROTECT = [
     # Cross-boundary false match: 南海 inside "海南海口" (the 南 of 海南 +
     # the 海 of 海口). Without this guard the gloss lands mid place-name.
     "海南海口",
+    # Prefix containment: 雅加达 inside the newspaper title 雅加达环球报
+    # (The Jakarta Globe). Glossing the city inside the masthead produces
+    # "雅加达（Jakarta）环球报", which is not a valid publication name.
+    "雅加达环球报",
 ]
 
 
