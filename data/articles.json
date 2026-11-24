@@ -1,5 +1,67 @@
 [
   {
+    "slug": "provincial-qiaowu-work-conferences-2026",
+    "title": "省级侨务会议密集召开：当「侨」变成地方发展的施工图",
+    "subtitle": "13个省级地区、各自的品牌与赛道——侨务正被写进地方发展的方程式",
+    "category": "华侨华人",
+    "tags": [
+      "华侨华人",
+      "侨务工作",
+      "东南亚",
+      "广东",
+      "海南自贸港",
+      "华裔新生代",
+      "华商",
+      "中国侨网",
+      "治理"
+    ],
+    "country": "中国",
+    "date": "2026-11-24",
+    "readingTime": 10,
+    "featured": false,
+    "image": "images/articles/provincial-qiaowu-work-conferences-2026.jpg",
+    "imageCredit": "Unsplash — photo 1591115765373-5207764f72e7",
+    "imageAccessed": "2026-11-24",
+    "imageAlt": "一间明亮的会议室里，多人围坐聆听讲台上的演示，呼应各地密集召开侨务工作会议的场景。",
+    "summary": "据《中国新闻》报报道，8月至11月至少13个省级地区召开侨务工作会议，把侨务写进地方发展：广东主打以侨促贸，浙江嵌入共同富裕，海南对接自贸港，内陆省份打文化牌。同日最高法与侨联发布涉侨典型案例，为权益保护划线。真正考验不是会议数量，而是省际竞争会否把侨胞工具化；在东南亚，服务与透明比动员更重要。",
+    "references": [
+      {
+        "source": "中国侨网",
+        "title": "多地召开省级侨务工作会议 为侨服务向“新”行",
+        "url": "https://www.chinaqw.com/qwxs/2026/11-23/414476.shtml",
+        "date": "2026-11-23"
+      },
+      {
+        "source": "中国新闻网",
+        "title": "涉百年历史侨房归属、侨企合法权益保护等，最高法、中国侨联联合发布典型案例",
+        "url": "https://www.chinaqw.com/qwxs/2026/11-23/414464.shtml",
+        "date": "2026-11-23"
+      }
+    ],
+    "en": {
+      "title": "Provincial diaspora-work conferences multiply: when \"diaspora\" becomes a local development blueprint",
+      "subtitle": "Thirteen provincial-level regions, their own brands and lanes — diaspora work is being written into local development equations",
+      "category": "Overseas Chinese",
+      "country": "China",
+      "summary": "China News reports that at least 13 provincial-level regions held diaspora-work conferences between August and November, folding qiaowu into local development: Guangdong pitches trade, Zhejiang common prosperity, Hainan its free trade port, inland provinces cultural roots. The same day, China's top court and the overseas-Chinese federation issued typical cases setting a rights-protection floor. The test is not the number of meetings but whether inter-provincial competition instrumentalises diasporas; in Southeast Asia, service and transparency matter more than mobilisation.",
+      "imageAlt": "An audience seated around tables at a presentation in a bright meeting room, evoking the wave of provincial diaspora-work conferences.",
+      "references": [
+        {
+          "source": "China Qiao Wang (China News)",
+          "title": "Multiple provinces hold diaspora-work conferences, taking services for overseas Chinese in a new direction",
+          "url": "https://www.chinaqw.com/qwxs/2026/11-23/414476.shtml",
+          "date": "2026-11-23"
+        },
+        {
+          "source": "China News Service",
+          "title": "Supreme People's Court, overseas-Chinese federation release typical cases on judicial protection of diaspora rights",
+          "url": "https://www.chinaqw.com/qwxs/2026/11-23/414464.shtml",
+          "date": "2026-11-23"
+        }
+      ]
+    }
+  },
+  {
     "slug": "asean-maritime-centre-philippines-2026",
     "title": "东盟海事中心落地菲律宾：一个没预算、没编制的机构，能管住南海吗？",
     "subtitle": "职能撞车、信任赤字、主席国秀——一个「待设立的机构」背后的三重账",
