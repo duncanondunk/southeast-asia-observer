@@ -1,5 +1,80 @@
 [
  {
+  "slug": "us-sanctions-sea-scam-networks-chen-zhi-2026",
+  "title": "美国制裁东南亚诈骗网络：长臂伸进园区之后",
+  "subtitle": "把商人和地方武装放进同一份名单，华盛顿打击的是保护伞经济，但制裁能否落到资产与地方执行仍是问号",
+  "category": "地缘政治",
+  "tags": [
+   "电信诈骗",
+   "跨境治理",
+   "美国",
+   "柬埔寨",
+   "缅甸",
+   "制裁",
+   "跨国犯罪",
+   "人口贩运",
+   "华人",
+   "东南亚"
+  ],
+  "country": "东南亚",
+  "date": "2026-11-25",
+  "readingTime": 11,
+  "featured": false,
+  "image": "images/articles/us-sanctions-sea-scam-networks-chen-zhi-2026.jpg",
+  "imageCredit": "Unsplash — photo 1563013544-824ae1b704d3",
+  "imageAccessed": "2026-11-25",
+  "imageAlt": "一人手持银行卡在笔记本电脑前操作，象征针对欧美民众的虚拟货币投资骗局与跨境资金链。",
+  "summary": "据南华早报报道，美国制裁与东南亚诈骗园区有关的商人、两家公司和两名缅甸武装头目，打击对象从经营者延伸到保护伞。182亿美元损失为域外执法提供正当性，但制裁若不伴随受益人追踪、受害者救助与地方反腐，网络只会改名搬迁。美中虽罕见合流，叙事差异仍易把海外华人污名化。",
+  "references": [
+   {
+    "source": "南华早报 South China Morning Post",
+    "title": "US crackdown on scam networks connected to Chinese-born tycoon Chen Zhi ramps up",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3375133/us-crackdown-scam-networks-connected-chinese-born-tycoon-chen-zhi-ramps",
+    "date": "2026-11-20"
+   },
+   {
+    "source": "美国国务院 U.S. Department of State",
+    "title": "Targeting Cyber Scam Center Enablers in Southeast Asia",
+    "url": "https://cn.usembassy.gov/targeting-cyber-scam-center-enablers-in-southeast-asia",
+    "date": "2026-11-19"
+   },
+   {
+    "source": "美国财政部 OFAC",
+    "title": "Notice of OFAC Sanctions Action",
+    "url": "https://www.federalregister.gov/public-inspection/2026-23785/sanctions-action",
+    "date": "2026-11-19"
+   }
+  ],
+  "en": {
+   "title": "Washington Targets Southeast Asia’s Scam Networks — and the Protectors Behind Them",
+   "subtitle": "Designating operators and armed protectors treats the scam economy as infrastructure; the test is assets, local enforcement and diaspora trust",
+   "category": "Geopolitics",
+   "country": "Southeast Asia",
+   "summary": "The SCMP reports that US sanctions target a businessman linked to Chen Zhi, two companies and two Myanmar armed commanders, extending pressure from scam-compound operators to their protectors. US$18.2 billion in losses gives Washington a case for extraterritorial enforcement, but without beneficial-ownership tracing, victim rescue and local anti-corruption work, networks will simply rebrand. Rare convergence with China still leaves room for diaspora stigmatisation.",
+   "imageAlt": "A person holding a bank card at a laptop, evoking virtual-currency investment scams targeting Western victims and their cross-border payment chains.",
+   "references": [
+    {
+     "source": "South China Morning Post",
+     "title": "US crackdown on scam networks connected to Chinese-born tycoon Chen Zhi ramps up",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3375133/us-crackdown-scam-networks-connected-chinese-born-tycoon-chen-zhi-ramps",
+     "date": "2026-11-20"
+    },
+    {
+     "source": "U.S. Department of State",
+     "title": "Targeting Cyber Scam Center Enablers in Southeast Asia",
+     "url": "https://cn.usembassy.gov/targeting-cyber-scam-center-enablers-in-southeast-asia",
+     "date": "2026-11-19"
+    },
+    {
+     "source": "U.S. Treasury OFAC",
+     "title": "Notice of OFAC Sanctions Action",
+     "url": "https://www.federalregister.gov/public-inspection/2026-23785/sanctions-action",
+     "date": "2026-11-19"
+    }
+   ]
+  }
+ },
+ {
   "slug": "central-group-nonfamily-ceo-succession-2026",
   "title": "尚泰考虑首聘外姓掌门：华商家族的护城河，为什么改成了董事会",
   "subtitle": "四年一选、66%门槛的家族规则早已把继承变成选任，欧洲百货承压只是把问责问题提前摆上台面",
