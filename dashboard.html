@@ -472,16 +472,13 @@ kbd{background:#f1ece4;border:1px solid var(--line);border-radius:5px;padding:1p
   function daysBetween(a,b){var d1=new Date(a),d2=new Date(b);return Math.round((d2-d1)/86400000);}
   function b64encode(str){return btoa(unescape(encodeURIComponent(str)));}
   function b64decode(b64){try{return decodeURIComponent(escape(atob(b64)));}catch(e){return "";}}
-  /* 站点根地址默认值：部署版工作台通过该地址解析相对图路径。
-     用国内可访问的主站 CloudStudio 地址，确保封面图在大陆能加载（Vercel 海外域名在大陆被墙） */
-  var DEFAULT_SITE="https://9504b8d136b54114b6755f4c12541449.gz1.agentos-app.net";
-  /* 把相对图路径（images/articles/x.jpg）解析成站点绝对 URL；
-     data: 与 http(s): 已绝对的直接返回；siteBase 为空时回退到 DEFAULT_SITE */
+  /* 把相对图路径（images/articles/x.jpg）解析为可用 URL。
+     data: 与 http(s): 已绝对的直接返回；默认走同源相对路径（工作台与 images/ 通常同站部署），
+     仅当用户在设置中显式填写站点地址时才跨站解析（如海外工作台引用国内主站图片）。 */
   function absUrl(path){
     if(!path) return "";
     if(/^(https?:|\/\/|data:)/i.test(path)) return path;
-    var base=(state.settings&&state.settings.siteBase?state.settings.siteBase:DEFAULT_SITE)||"";
-    base=base.replace(/\/+$/,"");
+    var base=(state.settings&&state.settings.siteBase)?String(state.settings.siteBase).replace(/\/+$/,""):"";
     if(!base) return path;
     return base+"/"+String(path).replace(/^\/+/,"");
   }
@@ -533,7 +530,6 @@ kbd{background:#f1ece4;border:1px solid var(--line);border-radius:5px;padding:1p
         date:todayStr(), readingTime:8, featured:false, draft:true,
         summary:"（示例）菲律宾员工训练了取代自己的模型。",
         en:{title:"Sample: Training the Replacements",subtitle:"Lopsided leap",category:"Economy & Industry",country:"Southeast Asia",summary:"(sample)",imageAlt:"sample"},
-        image:"images/articles/demo-ai-energy.jpg", imageCredit:"Pexels", imageAccessed:todayStr(), imageAlt:"示例图",
         _zhBody:"近日，菲律宾员工参与训练 AI 系统后被裁，自叹“像自掘坟墓”。与此同时，中东战事推高能源风险，东南亚加速转向太阳能。两则新闻共同指向该地区在全球经济中“向上供给、向下承受”的不对称位置。",
         _enBody:"Recently, Filipino workers who helped train an AI system were laid off. Meanwhile, Gulf conflict raises energy risk and Southeast Asia races to solar.",
         references:[{source:"Zaobao",title:"sample",url:"https://www.zaobao.com.sg",date:todayStr()}] },
@@ -541,7 +537,6 @@ kbd{background:#f1ece4;border:1px solid var(--line);border-radius:5px;padding:1p
         date:todayStr(), readingTime:8, featured:false, draft:false,
         summary:"（示例）泗水的郑和清真寺。",
         en:{title:"Sample: Zheng He Mosque",subtitle:"Belonging",category:"Overseas Chinese",country:"Indonesia",summary:"(sample)",imageAlt:"sample"},
-        image:"images/articles/demo-zhenghe.jpg", imageCredit:"Pexels", imageAccessed:todayStr(), imageAlt:"示例图",
         _zhBody:"印尼泗水的郑和清真寺把中式飞檐、爪哇传统与伊斯兰元素熔于一炉，是华侨华人在穆斯林多数国家协商归属的物质论辩。",
         _enBody:"Surabaya's Zheng He Mosque fuses Chinese eaves, Javanese tradition, and Islamic worship into a single structure.",
         references:[] },
@@ -550,7 +545,6 @@ kbd{background:#f1ece4;border:1px solid var(--line);border-radius:5px;padding:1p
         readingTime:10, featured:false, draft:true,
         summary:"（示例）逾期草稿，应在今天处理。",
         en:{title:"Sample: Mekong (overdue)",subtitle:"",category:"Climate Change",country:"Mekong Basin",summary:"(sample)",imageAlt:"sample"},
-        image:"images/articles/demo-mekong.jpg", imageCredit:"Pexels", imageAccessed:todayStr(), imageAlt:"示例图",
         _zhBody:"上游筑坝、下游干涸——湄公河的旱涝交替，是气候变暖与水电开发叠加的结果，也是六国博弈的缩影。",
         _enBody:"Upstream dams, downstream dry spells — the Mekong's alternating droughts and floods mirror six-nation contention.",
         references:[] }
