@@ -1,5 +1,78 @@
 [
  {
+  "slug": "indonesia-asset-forfeiture-tax-gap-2026",
+  "title": "十八年等来的资产没收法，为什么把税务犯罪排除在外",
+  "subtitle": "13类罪名缩到腐败加6类，税务与不明财富双双出局；无罪没收看似锋利，监督机构由总统任命，追赃决心仍待检验",
+  "category": "地缘政治",
+  "tags": [
+   "印尼",
+   "资产没收",
+   "反腐败",
+   "税收犯罪",
+   "法治",
+   "华商",
+   "东南亚",
+   "金融中心"
+  ],
+  "country": "印尼",
+  "date": "2026-11-26",
+  "readingTime": 16,
+  "featured": false,
+  "summary": "印尼国会11月19日通过酝酿18年的资产没收法，却把税务犯罪排除在外。据《日经亚洲》报道，这一缩水与“爱国债券”和国际金融中心野心相关。无罪没收门槛为10亿印尼盾（约40万元人民币），但监督机构由总统任命、不明财富条款消失，追赃决心与信心工程的张力暴露无遗。",
+  "image": "images/articles/indonesia-asset-forfeiture-tax-gap-2026.jpg",
+  "imageCredit": "Unsplash — photo 1589578527966-fdac0f44566c",
+  "imageAccessed": "2026-11-26",
+  "imageAlt": "正义女神雕像手持天平与剑，象征印尼资产没收法在追赃效率与财产权保障之间的权衡。",
+  "references": [
+   {
+    "source": "日经亚洲 Nikkei Asia",
+    "title": "Indonesia watchdogs decry tax crime gap in forfeiture law",
+    "url": "https://s.nikkei.com/3WIXHYp",
+    "date": "2026-11-23"
+   },
+   {
+    "source": "DDTCNews",
+    "title": "Asset Seizure Law Passed; Tax Crimes Removed from Scope",
+    "url": "https://news.ddtc.co.id/en/news/1824274/asset-seizure-law-passed-tax-crimes-removed-from-scope",
+    "date": "2026-11-20"
+   },
+   {
+    "source": "Indonesia Business Post",
+    "title": "Indonesia's asset forfeiture law faces scrutiny over dropped illicit enrichment provisions",
+    "url": "https://indonesiabusinesspost.com/7905/policy/indonesia-s-asset-forfeiture-law-faces-scrutiny-over-dropped-illicit-enrichment-provisions",
+    "date": "2026-11-23"
+   }
+  ],
+  "en": {
+   "title": "Indonesia's long-awaited forfeiture law: the tax crime hole at the centre",
+   "subtitle": "From 13 categories to corruption plus six others, with tax crimes and unexplained wealth dropped; the recovery tool looks sharp, but the watchdog is presidentially appointed",
+   "category": "Geopolitics",
+   "country": "Indonesia",
+   "summary": "Indonesia's parliament passed an asset forfeiture law after 18 years, but dropped tax crimes from scope. Nikkei Asia links the dilution to patriotic bonds and financial-hub ambitions. Non-conviction forfeiture carries a 1 billion rupiah threshold, yet unexplained wealth was removed and the watchdog is presidentially appointed — a test of whether recovery or confidence comes first.",
+   "imageAlt": "A statue of Lady Justice holding scales and a sword, symbolising the balance between asset recovery and property rights in Indonesia's new forfeiture law.",
+   "references": [
+    {
+     "source": "Nikkei Asia",
+     "title": "Indonesia watchdogs decry tax crime gap in forfeiture law",
+     "url": "https://s.nikkei.com/3WIXHYp",
+     "date": "2026-11-23"
+    },
+    {
+     "source": "DDTCNews",
+     "title": "Asset Seizure Law Passed; Tax Crimes Removed from Scope",
+     "url": "https://news.ddtc.co.id/en/news/1824274/asset-seizure-law-passed-tax-crimes-removed-from-scope",
+     "date": "2026-11-20"
+    },
+    {
+     "source": "Indonesia Business Post",
+     "title": "Indonesia's asset forfeiture law faces scrutiny over dropped illicit enrichment provisions",
+     "url": "https://indonesiabusinesspost.com/7905/policy/indonesia-s-asset-forfeiture-law-faces-scrutiny-over-dropped-illicit-enrichment-provisions",
+     "date": "2026-11-23"
+    }
+   ]
+  }
+ },
+ {
   "slug": "malaysia-google-rm600m-content-lawsuit-2026",
   "title": "6亿令吉诉讼：马来西亚为什么要谷歌为「清理内容」买单",
   "subtitle": "99.8%的举报指向网赌，诉讼把监管工时明码标价；12小时下架令与150亿美元投资并行，考验平台是否把本地治理当牌照义务",
