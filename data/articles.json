@@ -1,5 +1,78 @@
 [
  {
+  "slug": "malaysia-google-rm600m-content-lawsuit-2026",
+  "title": "6亿令吉诉讼：马来西亚为什么要谷歌为「清理内容」买单",
+  "subtitle": "99.8%的举报指向网赌，诉讼把监管工时明码标价；12小时下架令与150亿美元投资并行，考验平台是否把本地治理当牌照义务",
+  "category": "地缘政治",
+  "tags": [
+   "马来西亚",
+   "谷歌",
+   "社交媒体",
+   "网络博彩",
+   "平台责任",
+   "内容监管",
+   "数字主权",
+   "东南亚"
+  ],
+  "country": "马来西亚",
+  "date": "2026-11-26",
+  "readingTime": 14,
+  "featured": false,
+  "summary": "马来西亚就优管未及时清理网赌、诈骗及被禁令覆盖的内容，对谷歌索赔6亿令吉。99.8%的举报指向网赌，诉讼把监管工时明码标价；但12小时下架令与投资承诺并行，考验的不是赔偿额，而是平台是否把本地治理当成牌照义务。",
+  "image": "images/articles/malaysia-google-rm600m-content-lawsuit-2026.jpg",
+  "imageCredit": "Unsplash — photo 1522202176988-66273c2fd55f",
+  "imageAccessed": "2026-11-26",
+  "imageAlt": "三人围坐在桌前使用笔记本电脑与手机，象征社交平台上的内容分发与日常审核场景。",
+  "references": [
+   {
+    "source": "联合早报 Lianhe Zaobao",
+    "title": "马国政府就违规及有害内容起诉谷歌索赔近2亿新元",
+    "url": "https://www.zaobao.com.sg/news/sea/story20261125-10055342",
+    "date": "2026-11-25"
+   },
+   {
+    "source": "Bernama",
+    "title": "MCMC Sues Google For RM600 Million Over Harmful Youtube Content",
+    "url": "https://www.bernama.com/en/news.php?id=2639231",
+    "date": "2026-11-25"
+   },
+   {
+    "source": "Malaysiakini",
+    "title": "不满疏于打击有害内容，通讯委起诉谷歌索偿6亿",
+    "url": "https://www.malaysiakini.com/news/889813",
+    "date": "2026-11-25"
+   }
+  ],
+  "en": {
+   "title": "Malaysia's RM600 million suit: putting a price on platform neglect",
+   "subtitle": "With 99.8 percent of reports to YouTube concerning online gambling, Malaysia's damages claim bills the regulator's cleanup work — while a 12-hour takedown rule and a new investment deal test how far a licence can bind a platform",
+   "category": "Geopolitics",
+   "country": "Malaysia",
+   "summary": "Malaysia is suing Google for RM600 million over YouTube's handling of gambling, scams and a blogger's republished videos. With 99.8 percent of reports concerning online gambling, the claim prices the regulator's cleanup work rather than punishing speech. A 12-hour takedown order, patchy response data and a simultaneous US$15 billion investment promise make the case a test of whether a mid-sized state can turn platform access into accountability.",
+   "imageAlt": "Three people sitting at a table with laptops and a phone, evoking content distribution and everyday moderation on social platforms.",
+   "references": [
+    {
+     "source": "Lianhe Zaobao",
+     "title": "Malaysia sues Google for nearly S$188 million over illegal and harmful content",
+     "url": "https://www.zaobao.com.sg/news/sea/story20261125-10055342",
+     "date": "2026-11-25"
+    },
+    {
+     "source": "Bernama",
+     "title": "MCMC Sues Google For RM600 Million Over Harmful Youtube Content",
+     "url": "https://www.bernama.com/en/news.php?id=2639231",
+     "date": "2026-11-25"
+    },
+    {
+     "source": "Malaysiakini",
+     "title": "MCMC sues Google for RM600 million over failure to curb harmful content",
+     "url": "https://www.malaysiakini.com/news/889813",
+     "date": "2026-11-25"
+    }
+   ]
+  }
+ },
+ {
   "slug": "teochew-diaspora-youth-apec-2026",
   "title": "从捐资到组局：潮侨新生代如何成为亚太合作的无形基础设施",
   "subtitle": "6000万海外侨胞中逾1500万祖籍潮汕、约七成在东南亚；当侨团学会翻译规则、培养技能与重演传统，区域合作才有了可落地的接口",
