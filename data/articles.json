@@ -1,5 +1,80 @@
 [
  {
+  "slug": "malaysia-rohingya-icj-verdict-deportation-bind-2026",
+  "title": "种族灭绝判决之后5天：马来西亚把罗兴亚人推向两个方向",
+  "subtitle": "法院要求安全、自愿、有尊严地返回，马来西亚却在判决后5天宣布新一轮遣返；土耳其安置方案被撤回，13.34万人的身份困境不会随军舰离港而消失",
+  "category": "地缘政治",
+  "tags": [
+   "马来西亚",
+   "罗兴亚",
+   "难民",
+   "国际法院",
+   "缅甸",
+   "东盟",
+   "移民",
+   "人权",
+   "遣返",
+   "庇护"
+  ],
+  "country": "马来西亚",
+  "date": "2026-11-27",
+  "readingTime": 9,
+  "featured": false,
+  "summary": "国际法院11月19日裁定缅甸对罗兴亚人犯下种族灭绝罪，5天后马来西亚宣布遣返6500余人，土耳其安置方案被当事国否认。判决要求安全、自愿、有尊严的返回，拘留营里的签字与军政府口头承诺难以达标。船机能清空拘留营一角，却清不掉13.34万人的身份困境；公开遴选标准、独立监测与身份路径，才是最低可信方案。",
+  "image": "images/articles/malaysia-rohingya-icj-verdict-deportation-bind-2026.jpg",
+  "imageCredit": "Unsplash — photo 1488521787991-ed7bbaae773c",
+  "imageAccessed": "2026-11-27",
+  "imageAlt": "东南亚多名儿童面向镜头伸手微笑，隐喻流离失所者的日常生活与尊严。",
+  "references": [
+   {
+    "source": "日经亚洲 Nikkei Asia",
+    "title": "Malaysia caught in bind over Rohingya amid backlash, deportation dispute",
+    "url": "https://asia.nikkei.com/spotlight/immigration/malaysia-caught-in-bind-over-rohingya-amid-backlash-deportation-dispute",
+    "date": "2026-11-25"
+   },
+   {
+    "source": "半岛电视台 Al Jazeera",
+    "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
+    "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2",
+    "date": "2026-11-24"
+   },
+   {
+    "source": "半岛电视台 Al Jazeera",
+    "title": "What the ICJ genocide ruling means for the Rohingya people",
+    "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya",
+    "date": "2026-11-19"
+   }
+  ],
+  "en": {
+   "title": "Five days after the genocide verdict: Malaysia pushes Rohingya in two directions",
+   "subtitle": "The court demands safe, voluntary and dignified return; Malaysia announced a new repatriation round five days later. A withdrawn Turkey plan does not erase the limbo of 133,400 people",
+   "category": "Geopolitics",
+   "country": "Malaysia",
+   "summary": "Five days after the ICJ ruled that Myanmar committed genocide against the Rohingya, Malaysia announced the return of more than 6,500 people while its Turkish resettlement proposal was publicly denied. The court's standard of safe, voluntary and dignified return is not met by signatures obtained in detention or unverified assurances from the junta. Ships can empty a cell block, not 133,400 people's legal limbo; published criteria, independent monitoring and a status pathway are the credible minimum.",
+   "imageAlt": "Southeast Asian children reaching towards the camera and smiling, symbolising the dignity and everyday lives of displaced people.",
+   "references": [
+    {
+     "source": "Nikkei Asia",
+     "title": "Malaysia caught in bind over Rohingya amid backlash, deportation dispute",
+     "url": "https://asia.nikkei.com/spotlight/immigration/malaysia-caught-in-bind-over-rohingya-amid-backlash-deportation-dispute",
+     "date": "2026-11-25"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
+     "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2",
+     "date": "2026-11-24"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "What the ICJ genocide ruling means for the Rohingya people",
+     "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya",
+     "date": "2026-11-19"
+    }
+   ]
+  }
+ },
+ {
   "slug": "myanmar-diaspora-youth-yunnan-filming-2026",
   "title": "镜头里的胞波：缅甸华裔青年博主为什么重走云南",
   "subtitle": "从短视频课堂到茶马古道，20余名缅甸华裔博主在云南寻找胞波叙事的新讲法；天然桥梁要靠可信的声音来维护",
