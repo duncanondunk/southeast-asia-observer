@@ -53,6 +53,12 @@ COMPOUND_PROTECT = [
     # (The Jakarta Globe). Glossing the city inside the masthead produces
     # "雅加达（Jakarta）环球报", which is not a valid publication name.
     "雅加达环球报",
+    # Prefix containment: 印尼 inside the currency name 印尼盾 (Indonesian
+    # rupiah). Glossing the country inside the currency produces
+    # "印尼（Indonesia）盾", which is wrong; a historical article already
+    # carries this bug. Skip all currency occurrences and gloss 印尼 where
+    # it stands for the country (e.g. 印尼人).
+    "印尼盾",
 ]
 
 
@@ -122,10 +128,13 @@ def annotate_zh(zh, glossary):
         if idx == -1:
             continue
         after = zh[idx + len(cn):]
-        # Already carries an English gloss, possibly separated from the term by a
-        # closing quote/bracket such as 》 or " (e.g. 《日经亚洲》(Nikkei Asia)).
-        # Skip so we stay idempotent and never produce double parentheses.
-        if re.match(r"[^A-Za-z（）()]{0,12}[（(][^（）()]*[A-Za-z][^（）()]*[）)]", after):
+        # Already carries an English gloss. Allow ONLY a short closing-quote
+        # gap (e.g. 》 or ") so a nearby gloss on a DIFFERENT term does not
+        # suppress this term — e.g. 《日经亚洲》报道，国际法院（International
+        # Court of Justice） must not be read as 日经亚洲 already glossed.
+        # The former {0,12} window caused that false negative; tightened to
+        # {0,3}, still idempotent for 《日经亚洲》(Nikkei Asia) style.
+        if re.match(r"[^A-Za-z（）()]{0,3}[（(][^（）()]*[A-Za-z][^（）()]*[）)]", after):
             continue
         nxt = after[0] if after else ""
         # Already annotated with a parenthesis right after?
