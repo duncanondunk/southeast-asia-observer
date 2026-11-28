@@ -53,6 +53,15 @@ COMPOUND_PROTECT = [
     # (The Jakarta Globe). Glossing the city inside the masthead produces
     # "雅加达（Jakarta）环球报", which is not a valid publication name.
     "雅加达环球报",
+    # Prefix containment: 泰国 inside the gulf name 泰国湾 (Gulf of Thailand).
+    # Without this guard the gloss lands inside the sea name:
+    # "泰国（Thailand）湾", which is not a valid toponym.
+    "泰国湾",
+    # Prefix containment: 东盟 inside the official centre name
+    # 中国—东盟国家人工智能应用合作中心. Fragmenting it produces
+    # "中国—东盟（ASEAN）国家人工智能应用合作中心"; the centre should be
+    # glossed as a whole in further-reading, not split mid-name.
+    "中国—东盟国家人工智能应用合作中心",
     # Prefix containment: 印尼 inside the currency name 印尼盾 (Indonesian
     # rupiah). Glossing the country inside the currency produces
     # "印尼（Indonesia）盾", which is wrong; a historical article already
