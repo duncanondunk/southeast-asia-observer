@@ -1,5 +1,79 @@
 [
  {
+  "slug": "malaysia-nuclear-2040-data-centre-power-2026",
+  "title": "2%的核电填不上21%的数据中心：马来西亚把核能写进2040年的账本",
+  "subtitle": "半岛用电到2050年翻倍、数据中心占比升至21%，核电却要2040年才起步；2%的预留位置填不上缺口，早期账单仍由天然气与批发市场承担",
+  "category": "经济产业",
+  "tags": [
+   "马来西亚",
+   "核能",
+   "数据中心",
+   "柔佛",
+   "能源转型",
+   "水资源",
+   "清洁能源",
+   "东南亚",
+   "能源安全"
+  ],
+  "country": "马来西亚",
+  "date": "2026-11-28",
+  "readingTime": 11,
+  "featured": false,
+  "summary": "据联合早报报道，马来西亚计划2040年起分阶段引入核能，2050年约2吉瓦、占发电结构2%；同期半岛电力需求从22.6吉瓦翻倍至49.8吉瓦，数据中心占比由11%升至21%。2%填不上21%，核电是预留位置而非解法；柔佛已给数据中心用水划线，2040年前的缺口仍靠天然气与批发市场兜底。",
+  "image": "images/articles/malaysia-nuclear-2040-data-centre-power-2026.jpg",
+  "imageCredit": "Unsplash — photo 1611273426858-450d8e3c9fce",
+  "imageAccessed": "2026-11-28",
+  "imageAlt": "傍晚工业区的烟囱与储罐冒出蒸汽，象征马来西亚在化石燃料基载与净零目标之间的能源转型抉择。",
+  "references": [
+   {
+    "source": "联合早报 Lianhe Zaobao",
+    "title": "马国拟2040年起分阶段引入核能 应对电力需求高涨与净零排放目标",
+    "url": "https://www.zaobao.com.sg/news/sea/story20261127-10068805",
+    "date": "2026-11-27"
+   },
+   {
+    "source": "马新社 Bernama",
+    "title": "PETRA expects energy demand in Peninsular Malaysia to double to 49.8 GW by 2050",
+    "url": "https://www.bernama.com/tv//news.php?id=2640095",
+    "date": "2026-11-26"
+   },
+   {
+    "source": "星洲日报 Sin Chew Daily",
+    "title": "法迪拉：强化能源安全 分阶段探索核能",
+    "url": "https://www.sinchew.com.my/news/20251111/nation/7020799?variant=zh-hant",
+    "date": "2025-11-11"
+   }
+  ],
+  "en": {
+   "title": "Two percent of nuclear cannot power 21 percent of demand: Malaysia's 2040 ledger",
+   "subtitle": "Peninsular demand is set to double by 2050 while data centres take 21 percent; the 2 GW nuclear slot starts in 2040, leaving the earlier gap to gas and a separate wholesale market",
+   "category": "Economy & Industry",
+   "country": "Malaysia",
+   "summary": "Zaobao reports that Malaysia plans phased nuclear power from 2040, reaching about 2 GW and 2 percent of generation by 2050, while peninsular demand doubles from 22.6 GW to 49.8 GW and data centres rise from 11 to 21 percent of use. Two percent cannot cover 21: nuclear is a reserved slot, not a solution. Johor has already capped data-centre water use, and the gap before 2040 still rests on gas and a separate wholesale market.",
+   "imageAlt": "Industrial chimneys and tanks releasing steam at dusk, symbolising Malaysia's energy transition between fossil-fuel baseload and net-zero commitments.",
+   "references": [
+    {
+     "source": "Lianhe Zaobao",
+     "title": "Malaysia plans phased nuclear power introduction from 2040 amid surging power demand and net-zero goal",
+     "url": "https://www.zaobao.com.sg/news/sea/story20261127-10068805",
+     "date": "2026-11-27"
+    },
+    {
+     "source": "Bernama",
+     "title": "PETRA expects energy demand in Peninsular Malaysia to double to 49.8 GW by 2050",
+     "url": "https://www.bernama.com/tv//news.php?id=2640095",
+     "date": "2026-11-26"
+    },
+    {
+     "source": "Sin Chew Daily",
+     "title": "Fadillah: Malaysia to explore nuclear energy in phases to strengthen energy security",
+     "url": "https://www.sinchew.com.my/news/20251111/nation/7020799?variant=zh-hant",
+     "date": "2025-11-11"
+    }
+   ]
+  }
+ },
+ {
   "slug": "us-section301-tariff-wall-sea-2026",
   "title": "关税墙重建：301条款把东南亚六国放上同一张税率表",
   "subtitle": "美国以301条款对14个经济体提出新关税，越南最高35%、新加坡20%、泰马印尼柬18%；换法条重建旧税率，浮动报价考验东盟的谈判与凝聚力",
