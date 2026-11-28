@@ -1,5 +1,80 @@
 [
  {
+  "slug": "china-cambodia-ream-tanks-drills-2026",
+  "title": "坦克坐船出国：云壤港跑通的“最后一公里”",
+  "subtitle": "解放军首次用071型两栖船坞登陆舰把主战坦克运到海外卸载；联合演习的课目写着反恐反海盗，装备清单却指向另一套预案",
+  "category": "地缘政治",
+  "tags": [
+   "柬埔寨",
+   "中柬关系",
+   "云壤港",
+   "军事基地",
+   "军事演习",
+   "海上安全",
+   "马六甲",
+   "安达曼海",
+   "东南亚",
+   "地缘政治"
+  ],
+  "country": "柬埔寨",
+  "date": "2026-11-28",
+  "readingTime": 13,
+  "featured": false,
+  "summary": "据《南华早报》报道，解放军首次用071型两栖船坞登陆舰把96A型主战坦克运抵柬埔寨云壤港卸载。“金龙-2026”课目写着反恐反海盗，装备清单却指向有组织对手；真正的增量是海运重装投送链首次在境外跑通，而非新基地诞生。",
+  "image": "images/articles/china-cambodia-ream-tanks-drills-2026.jpg",
+  "imageCredit": "Pexels — photo 29963567",
+  "imageAccessed": "2026-11-28",
+  "imageAlt": "一名行人坐在长椅上，身后是灰色大型军舰的舰体，象征云壤港的外国军舰靠泊与重装投送。",
+  "references": [
+   {
+    "source": "南华早报 South China Morning Post",
+    "title": "China-Cambodia drills: Type 071 warship offloads tanks overseas for the first time",
+    "url": "https://www.scmp.com/news/china/military/article/3376007/china-cambodia-drills-type-071-warship-offloads-tanks-overseas-first-time",
+    "date": "2026-11-27"
+   },
+   {
+    "source": "环球时报 Global Times（GlobalSecurity.org 转载）",
+    "title": "Chinese naval vessels, tanks arrive in Ream as China-Cambodia Golden Dragon-2026 exercise preparations advance",
+    "url": "http://www.globalsecurity.org/wmd/library/news/china/2026/11/china-261124-globaltimes02.htm",
+    "date": "2026-11-24"
+   },
+   {
+    "source": "The Defense Feed",
+    "title": "China-Cambodia drills: Type 071 warship offloads tanks overseas for first time",
+    "url": "https://thedefensefeed.com/article/china-cambodia-drills-type-071-warship-offloads-tanks-overseas-for-first-time-7775",
+    "date": "2026-11-27"
+   }
+  ],
+  "en": {
+   "title": "Tanks by sea: the last mile China tested at Ream port",
+   "subtitle": "A Type 071 dock landed main battle tanks on a foreign shore for the first time; the drill speaks of counter-terrorism, the equipment list points to another contingency",
+   "category": "Geopolitics",
+   "country": "Cambodia",
+   "summary": "The SCMP reports that China used a Type 071 dock to land main battle tanks at Ream, Cambodia, for the first time. The drill speaks of counter-terrorism, but heavy armour points to an organised contingency; the real gain is a validated sea-lift chain, not a new base.",
+   "imageAlt": "A passer-by sits on a bench in front of the hull of a large grey naval vessel, symbolising foreign warship calls and heavy sealift at Ream port.",
+   "references": [
+    {
+     "source": "South China Morning Post",
+     "title": "China-Cambodia drills: Type 071 warship offloads tanks overseas for the first time",
+     "url": "https://www.scmp.com/news/china/military/article/3376007/china-cambodia-drills-type-071-warship-offloads-tanks-overseas-first-time",
+     "date": "2026-11-27"
+    },
+    {
+     "source": "Global Times (via GlobalSecurity.org)",
+     "title": "Chinese naval vessels, tanks arrive in Ream as China-Cambodia Golden Dragon-2026 exercise preparations advance",
+     "url": "http://www.globalsecurity.org/wmd/library/news/china/2026/11/china-261124-globaltimes02.htm",
+     "date": "2026-11-24"
+    },
+    {
+     "source": "The Defense Feed",
+     "title": "China-Cambodia drills: Type 071 warship offloads tanks overseas for first time",
+     "url": "https://thedefensefeed.com/article/china-cambodia-drills-type-071-warship-offloads-tanks-overseas-for-first-time-7775",
+     "date": "2026-11-27"
+    }
+   ]
+  }
+ },
+ {
   "slug": "malaysia-nuclear-2040-data-centre-power-2026",
   "title": "2%的核电填不上21%的数据中心：马来西亚把核能写进2040年的账本",
   "subtitle": "半岛用电到2050年翻倍、数据中心占比升至21%，核电却要2040年才起步；2%的预留位置填不上缺口，早期账单仍由天然气与批发市场承担",
