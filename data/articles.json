@@ -1,5 +1,73 @@
 [
  {
+  "slug": "us-section301-tariff-wall-sea-2026",
+  "title": "关税墙重建：301条款把东南亚六国放上同一张税率表",
+  "subtitle": "美国以301条款对14个经济体提出新关税，越南最高35%、新加坡20%、泰马印尼柬18%；换法条重建旧税率，浮动报价考验东盟的谈判与凝聚力",
+  "category": "经济产业",
+  "tags": [
+   "美国",
+   "关税",
+   "贸易",
+   "东南亚",
+   "供应链",
+   "越南",
+   "泰国",
+   "马来西亚",
+   "印尼",
+   "新加坡",
+   "柬埔寨",
+   "华商",
+   "制造业",
+   "原产地规则",
+   "东盟"
+  ],
+  "country": "东南亚",
+  "date": "2026-11-28",
+  "readingTime": 11,
+  "featured": false,
+  "summary": "据日经亚洲报道，美国以301条款认定14个经济体产能过剩，越南最高35%、新加坡20%、泰马印尼柬18%。这是最高法院推翻对等关税后的换法重建。浮动税率实为谈判标价，转口与原产地审查把华商推上核验台；东盟须回答集体应对还是各自谈判。",
+  "image": "images/articles/us-section301-tariff-wall-sea-2026.jpg",
+  "imageCredit": "Unsplash — photo 1605745341112-85968b19335b",
+  "imageAccessed": "2026-11-28",
+  "imageAlt": "满载集装箱的巨型货轮航行于海面，象征美国新关税方案下的东南亚出口链条。",
+  "references": [
+   {
+    "source": "日经亚洲 Nikkei Asia",
+    "title": "特朗普政府提出追加关税方案",
+    "url": "https://cn.nikkei.com/politicsaeconomy/investtrade/64863-2026-11-26-08-32-44.html",
+    "date": "2026-11-26"
+   },
+   {
+    "source": "美国贸易代表办公室 USTR",
+    "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+    "date": "2026-11-25"
+   }
+  ],
+  "en": {
+   "title": "Rebuilding the tariff wall: what Section 301 means for Southeast Asia",
+   "subtitle": "A Section 301 finding puts six Southeast Asian economies on one US rate card; floating rates are negotiating prices, and ASEAN's cohesion is the real test",
+   "category": "Economy & Industry",
+   "country": "Southeast Asia",
+   "summary": "Nikkei Asia reports that a Section 301 finding puts six Southeast Asian economies on one US tariff card: Vietnam up to 35 percent, Singapore 20 percent, and Thailand, Malaysia, Indonesia and Cambodia at 18 percent. This restores rates struck down by the Supreme Court under a new statute. Floating rates are negotiating prices, and origin scrutiny now reaches Chinese-owned factories. ASEAN must decide whether to answer collectively or separately.",
+   "imageAlt": "A large container ship packed with cargo sailing at sea, symbolising Southeast Asian export chains under a new US tariff proposal.",
+   "references": [
+    {
+     "source": "Nikkei Asia",
+     "title": "Trump rebuilds tariff wall with new duties on China, Japan and others",
+     "url": "https://cn.nikkei.com/politicsaeconomy/investtrade/64863-2026-11-26-08-32-44.html",
+     "date": "2026-11-26"
+    },
+    {
+     "source": "Office of the United States Trade Representative",
+     "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+     "date": "2026-11-25"
+    }
+   ]
+  }
+ },
+ {
   "slug": "malaysia-young-entrepreneurs-nanning-ai-study-2026",
   "title": "南宁而非深圳：马来西亚华商青年赴广西学什么人工智能",
   "subtitle": "20名马来西亚青年企业家赴南宁学习人工智能应用：乡情降低了信任门槛，但广西经验能否变成马来西亚企业里跑得起来的方法，仍需试点与机制作答",
